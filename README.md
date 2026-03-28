@@ -1,1 +1,0 @@
-# DealsInUSA - Automated Amazon Deals
