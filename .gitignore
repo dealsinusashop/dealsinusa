@@ -1,0 +1,4 @@
+bot/venv/
+bot/__pycache__/
+*.pyc
+*.log
