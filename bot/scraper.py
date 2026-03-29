@@ -25,7 +25,6 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.5",
 }
 
-# Keywords that indicate Amazon deals in title
 AMAZON_KEYWORDS = [
     "at amazon", "on amazon", "amazon.com",
     "w/ s&s", "w/ ss", "subscribe & save",
@@ -52,7 +51,6 @@ def clean_title(title):
     return title.strip()
 
 def is_amazon_deal(title, url, description=""):
-    """Check if this deal is for an Amazon product."""
     text = f"{title} {url} {description}".lower()
     for keyword in AMAZON_KEYWORDS:
         if keyword.lower() in text:
@@ -61,37 +59,69 @@ def is_amazon_deal(title, url, description=""):
         return True
     return False
 
+def extract_asin_from_url(url):
+    """
+    Extract ASIN directly from a URL string.
+    Handles both /dp/ASIN and /gp/product/ASIN formats.
+    """
+    # Match /dp/ASIN
+    m = re.search(r'/dp/([A-Z0-9]{10})', url)
+    if m:
+        return m.group(1)
+    # Match /gp/product/ASIN
+    m = re.search(r'/gp/product/([A-Z0-9]{10})', url)
+    if m:
+        return m.group(1)
+    return None
+
 def find_asin(url):
-    """Aggressively find Amazon ASIN from any deal page URL."""
+    """
+    Aggressively find Amazon ASIN from any deal page URL.
+    Returns ASIN string or None.
+    """
+    # First try to extract ASIN directly from the source URL
+    asin = extract_asin_from_url(url)
+    if asin:
+        return asin
+
     try:
         session = requests.Session()
         session.headers.update(HEADERS)
         r = session.get(url, timeout=15, allow_redirects=True)
 
-        if "amazon.com" in r.url:
-            asin = re.search(r'/dp/([A-Z0-9]{10})', r.url)
-            if asin:
-                return asin.group(1)
+        # Check final URL after redirects (handles /dp/ and /gp/product/)
+        asin = extract_asin_from_url(r.url)
+        if asin:
+            return asin
 
+        # Search entire raw HTML for /dp/ ASINs
         asins = re.findall(r'/dp/([A-Z0-9]{10})', r.text)
         if asins:
             return asins[0]
 
-        asins = re.findall(r'data-asin=\"([A-Z0-9]{10})\"', r.text)
+        # Search for /gp/product/ ASINs in HTML
+        asins = re.findall(r'/gp/product/([A-Z0-9]{10})', r.text)
         if asins:
             return asins[0]
 
-        asins = re.findall(r'\"asin\":\s*\"([A-Z0-9]{10})\"', r.text)
+        # Search for ASIN in data attributes
+        asins = re.findall(r'data-asin=["\']([A-Z0-9]{10})["\']', r.text)
         if asins:
             return asins[0]
 
+        # Search for ASIN in JSON data
+        asins = re.findall(r'"asin":\s*"([A-Z0-9]{10})"', r.text)
+        if asins:
+            return asins[0]
+
+        # BeautifulSoup fallback — look for Amazon links
         soup = BeautifulSoup(r.text, "lxml")
         for a in soup.find_all("a", href=True):
             href = a["href"]
             if "amazon.com" in href:
-                asin = re.search(r'/dp/([A-Z0-9]{10})', href)
+                asin = extract_asin_from_url(href)
                 if asin:
-                    return asin.group(1)
+                    return asin
 
     except Exception as e:
         print(f"    ⚠️  Error: {e}")
@@ -113,18 +143,15 @@ def save_deals(deals):
 def push_to_github():
     """Push updated deals.json to GitHub so website updates automatically."""
     try:
-        # Stage deals.json
         subprocess.run(
             ["git", "-C", REPO_DIR, "add", "deals.json"],
             check=True, capture_output=True
         )
-        # Check if there are changes to commit
         result = subprocess.run(
             ["git", "-C", REPO_DIR, "diff", "--cached", "--quiet"],
             capture_output=True
         )
         if result.returncode != 0:
-            # There are changes — commit and push
             subprocess.run(
                 ["git", "-C", REPO_DIR, "commit", "-m",
                  f"Update deals {datetime.now().strftime('%Y-%m-%d %H:%M')}"],
@@ -146,7 +173,6 @@ def push_to_github():
 # SCRAPERS
 # ─────────────────────────────
 def parse_rss(url, source_name):
-    """Generic RSS parser for all deal sources."""
     deals = []
     try:
         r = requests.get(url, headers=HEADERS, timeout=15)
@@ -229,8 +255,8 @@ def run():
 
     direct  = 0
     skipped = 0
-
     new_deals = []
+
     for deal in all_deals:
         deal_id = make_id(deal["title"], deal["source_url"])
         if deal_id in existing_ids:
