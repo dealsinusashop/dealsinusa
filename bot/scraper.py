@@ -4,7 +4,6 @@ import json
 import os
 import re
 import hashlib
-import schedule
 import time
 import subprocess
 from datetime import datetime
@@ -60,61 +59,37 @@ def is_amazon_deal(title, url, description=""):
     return False
 
 def extract_asin_from_url(url):
-    """
-    Extract ASIN directly from a URL string.
-    Handles both /dp/ASIN and /gp/product/ASIN formats.
-    """
-    # Match /dp/ASIN
     m = re.search(r'/dp/([A-Z0-9]{10})', url)
     if m:
         return m.group(1)
-    # Match /gp/product/ASIN
     m = re.search(r'/gp/product/([A-Z0-9]{10})', url)
     if m:
         return m.group(1)
     return None
 
 def find_asin(url):
-    """
-    Aggressively find Amazon ASIN from any deal page URL.
-    Returns ASIN string or None.
-    """
-    # First try to extract ASIN directly from the source URL
     asin = extract_asin_from_url(url)
     if asin:
         return asin
-
     try:
         session = requests.Session()
         session.headers.update(HEADERS)
         r = session.get(url, timeout=15, allow_redirects=True)
-
-        # Check final URL after redirects (handles /dp/ and /gp/product/)
         asin = extract_asin_from_url(r.url)
         if asin:
             return asin
-
-        # Search entire raw HTML for /dp/ ASINs
         asins = re.findall(r'/dp/([A-Z0-9]{10})', r.text)
         if asins:
             return asins[0]
-
-        # Search for /gp/product/ ASINs in HTML
         asins = re.findall(r'/gp/product/([A-Z0-9]{10})', r.text)
         if asins:
             return asins[0]
-
-        # Search for ASIN in data attributes
         asins = re.findall(r'data-asin=["\']([A-Z0-9]{10})["\']', r.text)
         if asins:
             return asins[0]
-
-        # Search for ASIN in JSON data
         asins = re.findall(r'"asin":\s*"([A-Z0-9]{10})"', r.text)
         if asins:
             return asins[0]
-
-        # BeautifulSoup fallback — look for Amazon links
         soup = BeautifulSoup(r.text, "lxml")
         for a in soup.find_all("a", href=True):
             href = a["href"]
@@ -122,10 +97,51 @@ def find_asin(url):
                 asin = extract_asin_from_url(href)
                 if asin:
                     return asin
-
     except Exception as e:
         print(f"    ⚠️  Error: {e}")
     return None
+
+def extract_image(item):
+    """
+    Extract image URL from RSS item.
+    Checks content:encoded (Slickdeals) and description (TechBargains).
+    """
+    # 1. Try content:encoded — Slickdeals puts image here
+    content = item.find("content:encoded") or item.find("encoded")
+    if content:
+        text = content.get_text() if hasattr(content, 'get_text') else str(content)
+        m = re.search(r'src=["\']?(https://static\.slickdealscdn\.com[^"\'>\s]+)', text)
+        if m:
+            return m.group(1)
+        m = re.search(r'src=["\']?(https://[^"\'>\s]+\.(?:jpg|jpeg|png|webp)[^"\'>\s]*)', text, re.I)
+        if m:
+            return m.group(1)
+
+    # 2. Try description field — TechBargains puts image here as encoded HTML
+    desc = item.find("description")
+    if desc:
+        text = desc.get_text() if hasattr(desc, 'get_text') else str(desc)
+        # TechBargains image pattern
+        m = re.search(r"src='(https://www\.techbargains\.com/imagery/[^']+)'", text)
+        if m:
+            return m.group(1)
+        m = re.search(r'src=["\']?(https://www\.techbargains\.com/imagery/[^"\'>\s]+)', text)
+        if m:
+            return m.group(1)
+        # Generic image fallback in description
+        m = re.search(r'src=["\']?(https://[^"\'>\s]+\.(?:jpg|jpeg|png|webp)[^"\'>\s]*)', text, re.I)
+        if m:
+            url = m.group(1)
+            # Skip placeholder/icon images
+            if 'placeholder' not in url.lower() and 'icon' not in url.lower():
+                return url
+
+    # 3. Try enclosure tag
+    enclosure = item.find("enclosure")
+    if enclosure and enclosure.get("url"):
+        return enclosure["url"]
+
+    return ""
 
 def load_existing():
     if os.path.exists(OUTPUT_FILE):
@@ -141,31 +157,74 @@ def save_deals(deals):
     push_to_github()
 
 def push_to_github():
-    """Push updated deals.json to GitHub so website updates automatically."""
     try:
-        subprocess.run(
-            ["git", "-C", REPO_DIR, "add", "deals.json"],
-            check=True, capture_output=True
+        # Stash any unstaged changes so pull --rebase doesn't error out
+        stash_result = subprocess.run(
+            ["git", "-C", REPO_DIR, "stash"],
+            capture_output=True, text=True
         )
+        stashed = "No local changes" not in stash_result.stdout
+
+        # Stage deals.json
+        r = subprocess.run(
+            ["git", "-C", REPO_DIR, "add", "deals.json"],
+            capture_output=True, text=True
+        )
+        if r.returncode != 0:
+            print(f"[{datetime.now().strftime('%H:%M:%S')}] ⚠️  git add failed:\n{r.stderr.strip()}")
+            return
+
+        # Check if there's anything to commit
         result = subprocess.run(
             ["git", "-C", REPO_DIR, "diff", "--cached", "--quiet"],
             capture_output=True
         )
-        if result.returncode != 0:
-            subprocess.run(
-                ["git", "-C", REPO_DIR, "commit", "-m",
-                 f"Update deals {datetime.now().strftime('%Y-%m-%d %H:%M')}"],
-                check=True, capture_output=True
-            )
-            subprocess.run(
-                ["git", "-C", REPO_DIR, "push", "origin", "main"],
-                check=True, capture_output=True
-            )
-            print(f"[{datetime.now().strftime('%H:%M:%S')}] 🚀 Pushed to GitHub — website updated!")
-        else:
+        if result.returncode == 0:
+            if stashed:
+                subprocess.run(["git", "-C", REPO_DIR, "stash", "pop"], capture_output=True)
             print(f"[{datetime.now().strftime('%H:%M:%S')}] ℹ️  No new deals to push")
-    except subprocess.CalledProcessError as e:
-        print(f"[{datetime.now().strftime('%H:%M:%S')}] ⚠️  Git push failed: {e}")
+            return
+
+        # Commit
+        r = subprocess.run(
+            ["git", "-C", REPO_DIR, "commit", "-m",
+             f"Update deals {datetime.now().strftime('%Y-%m-%d %H:%M')}"],
+            capture_output=True, text=True
+        )
+        if r.returncode != 0:
+            print(f"[{datetime.now().strftime('%H:%M:%S')}] ⚠️  git commit failed:\n{r.stderr.strip()}")
+            if stashed:
+                subprocess.run(["git", "-C", REPO_DIR, "stash", "pop"], capture_output=True)
+            return
+
+        # Pull remote changes (rebase keeps history clean)
+        print(f"[{datetime.now().strftime('%H:%M:%S')}] 🔄 Syncing with remote...")
+        r = subprocess.run(
+            ["git", "-C", REPO_DIR, "pull", "--rebase", "origin", "main"],
+            capture_output=True, text=True
+        )
+        if r.returncode != 0:
+            print(f"[{datetime.now().strftime('%H:%M:%S')}] ⚠️  git pull --rebase failed:\n{r.stderr.strip()}")
+            subprocess.run(["git", "-C", REPO_DIR, "rebase", "--abort"], capture_output=True)
+            if stashed:
+                subprocess.run(["git", "-C", REPO_DIR, "stash", "pop"], capture_output=True)
+            return
+
+        # Restore any stashed changes
+        if stashed:
+            subprocess.run(["git", "-C", REPO_DIR, "stash", "pop"], capture_output=True)
+
+        # Push
+        r = subprocess.run(
+            ["git", "-C", REPO_DIR, "push", "origin", "main"],
+            capture_output=True, text=True
+        )
+        if r.returncode != 0:
+            print(f"[{datetime.now().strftime('%H:%M:%S')}] ⚠️  git push failed!")
+            print(f"  STDERR: {r.stderr.strip()}")
+        else:
+            print(f"[{datetime.now().strftime('%H:%M:%S')}] 🚀 Pushed to GitHub — website updated!")
+
     except Exception as e:
         print(f"[{datetime.now().strftime('%H:%M:%S')}] ⚠️  Unexpected error during push: {e}")
 
@@ -179,12 +238,13 @@ def parse_rss(url, source_name):
         soup = BeautifulSoup(r.text, "xml")
         for item in soup.find_all("item")[:50]:
             try:
-                title = clean_title(
-                    item.find("title").get_text(strip=True)
-                )
+                title = clean_title(item.find("title").get_text(strip=True))
                 link  = item.find("link").get_text(strip=True)
                 desc  = item.find("description")
                 desc_text = desc.get_text() if desc else ""
+
+                # Extract image from RSS item
+                image = extract_image(item)
 
                 price = ""
                 m = re.search(r'\$[\d,]+(?:\.\d{2})?', title)
@@ -204,7 +264,8 @@ def parse_rss(url, source_name):
                         "price": price or "See price",
                         "source_url": link,
                         "source": source_name,
-                        "description": desc_text[:200] if desc_text else ""
+                        "image": image,
+                        "description": desc_text[:300] if desc_text else ""
                     })
             except:
                 continue
@@ -220,16 +281,10 @@ def scrape_slickdeals():
     )
 
 def scrape_dealsofamerica():
-    return parse_rss(
-        "https://www.dealsofamerica.com/rss.xml",
-        "DealsOfAmerica"
-    )
+    return parse_rss("https://www.dealsofamerica.com/rss.xml", "DealsOfAmerica")
 
 def scrape_techbargains():
-    return parse_rss(
-        "https://www.techbargains.com/rss.xml",
-        "TechBargains"
-    )
+    return parse_rss("https://www.techbargains.com/rss.xml", "TechBargains")
 
 # ─────────────────────────────
 # MAIN PIPELINE
@@ -247,10 +302,7 @@ def run():
     all_deals += scrape_dealsofamerica()
     all_deals += scrape_techbargains()
 
-    new_count = sum(
-        1 for d in all_deals
-        if make_id(d['title'], d['source_url']) not in existing_ids
-    )
+    new_count = sum(1 for d in all_deals if make_id(d['title'], d['source_url']) not in existing_ids)
     print(f"\n  🔎 Amazon deals scraped: {len(all_deals)} | New: {new_count}")
 
     direct  = 0
@@ -263,25 +315,27 @@ def run():
             continue
 
         print(f"\n  🔍 {deal['title'][:55]}")
-
         asin = find_asin(deal["source_url"])
 
-        if asin:
-            amazon_url = make_affiliate_link(asin)
-            print(f"  ✅ amazon.com/dp/{asin}")
-            direct += 1
-        else:
+        if not asin:
             print(f"  ⏭️  Skipped — no ASIN found")
             skipped += 1
             continue
+
+        amazon_url = make_affiliate_link(asin)
+        print(f"  ✅ amazon.com/dp/{asin}")
+        if deal.get('image'):
+            print(f"  🖼️  Image: {deal['image'][:60]}")
+        else:
+            print(f"  🖼️  No image in RSS")
 
         deal["id"]         = deal_id
         deal["amazon_url"] = amazon_url
         deal["asin"]       = asin
         deal["posted_at"]  = datetime.now().isoformat()
-        deal["image"]      = ""
         deal.pop("description", None)
         new_deals.append(deal)
+        direct += 1
         time.sleep(1)
 
     if new_deals:
@@ -292,12 +346,15 @@ def run():
         print(f"🎉 Added {len(new_deals)} new Amazon deals!")
         print(f"✅ Direct product links: {direct}")
         print(f"⏭️  Skipped (no ASIN): {skipped}")
+        print(f"🖼️  With images: {sum(1 for d in new_deals if d.get('image'))}")
         print(f"📊 Success rate: {int(direct/(direct+skipped)*100) if (direct+skipped) > 0 else 0}%")
         print(f"{'='*50}")
     else:
         print("\n  ℹ️  No new Amazon deals found this run.")
 
-    print(f"\n⏰ Next check in 10 minutes...")
+    print(f"\n⏰ Next check in 15 minutes...")
+
+INTERVAL_MINUTES = 15
 
 if __name__ == "__main__":
     print("🛍️  DealsInUSA Scraper Started!")
@@ -305,13 +362,13 @@ if __name__ == "__main__":
     print(f"💾  Output file: {OUTPUT_FILE}")
     print(f"🎯  Mode: Amazon deals only")
     print(f"🚀  Auto-push to GitHub: enabled")
+    print(f"🖼️  Images: Slickdeals CDN + TechBargains")
+    print(f"⏱️  Interval: every {INTERVAL_MINUTES} minutes")
 
     if os.path.exists(OUTPUT_FILE):
         os.remove(OUTPUT_FILE)
         print("🗑️  Cleared old deals for fresh start\n")
 
-    run()
-    schedule.every(10).minutes.do(run)
     while True:
-        schedule.run_pending()
-        time.sleep(30)
+        run()
+        time.sleep(INTERVAL_MINUTES * 60)
