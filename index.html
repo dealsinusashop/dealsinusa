@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>DealsInUSA.shop - Best Amazon Deals & Coupons</title>
+<title>DealsInUSA.shop - Best Amazon Deals &amp; Coupons</title>
 <meta name="description" content="Find the best Amazon deals, coupons and discounts in the USA.">
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -12,6 +12,7 @@
   --gray-light: #f8f8f8; --gray: #e0e0e0;
   --gray-mid: #999; --gray-dark: #444; --black: #222;
   --shadow: 0 2px 8px rgba(0,0,0,0.08); --radius: 10px;
+  --sidebar-w: 230px;
 }
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--gray-light); color: var(--black); }
 
@@ -31,50 +32,91 @@ header { background: var(--red); position: sticky; top: 0; z-index: 100; box-sha
 .login-btn { padding: 8px 14px; background: white; color: var(--red); border: none; border-radius: 6px; font-size: 13px; font-weight: 700; cursor: pointer; white-space: nowrap; }
 .login-btn:hover { background: #f0f0f0; }
 
-/* LAYOUT */
-.page { max-width: 1200px; margin: 0 auto; padding: 20px 16px; display: grid; grid-template-columns: 220px 1fr; gap: 20px; }
-@media (max-width: 768px) { .page { grid-template-columns: 1fr; } .sidebar { display: none; } .sidebar.open { display: flex !important; } }
+/* ===== LAYOUT ===== */
+.page {
+  max-width: 1200px; margin: 0 auto; padding: 20px 16px;
+  display: grid;
+  grid-template-columns: var(--sidebar-w) 1fr;
+  gap: 20px;
+  transition: grid-template-columns 0.3s ease;
+}
+.page.sidebar-collapsed { grid-template-columns: 0px 1fr; }
 
-/* SIDEBAR */
-.sidebar { display: flex; flex-direction: column; gap: 14px; }
-.filter-card { background: white; border-radius: var(--radius); padding: 16px; box-shadow: var(--shadow); }
-.filter-card h3 { font-size: 12px; font-weight: 700; color: var(--red); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px; }
+/* Desktop: hide sidebar on collapse */
+@media (min-width: 769px) {
+  .sidebar { transition: opacity 0.3s ease; overflow: hidden; }
+  .page.sidebar-collapsed .sidebar { opacity: 0; pointer-events: none; width: 0; min-width: 0; }
+}
+
+/* Mobile layout */
+@media (max-width: 768px) {
+  .page { grid-template-columns: 1fr !important; padding: 10px 12px; gap: 12px; }
+  .sidebar { display: none !important; }
+}
+
+/* ===== SIDEBAR (Desktop) ===== */
+.sidebar { display: flex; flex-direction: column; }
+
+/* Single unified filter palette */
+.filter-palette {
+  background: white; border-radius: var(--radius); padding: 0; box-shadow: var(--shadow);
+  overflow: hidden; display: flex; flex-direction: column;
+}
+.filter-palette-header {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 14px 16px 10px; border-bottom: 1px solid var(--gray);
+}
+.filter-palette-header h3 { font-size: 13px; font-weight: 700; color: var(--black); text-transform: uppercase; letter-spacing: 0.5px; }
+.sidebar-hide-btn {
+  background: none; border: none; color: var(--gray-mid); cursor: pointer;
+  line-height: 1; padding: 3px 6px; border-radius: 4px;
+  display: flex; align-items: center; gap: 4px; font-size: 12px;
+}
+.sidebar-hide-btn:hover { background: var(--gray-light); color: var(--black); }
+
+.filter-section { padding: 14px 16px; border-bottom: 1px solid var(--gray); }
+.filter-section:last-child { border-bottom: none; }
+.filter-section h4 { font-size: 11px; font-weight: 700; color: var(--red); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 10px; }
 .cat-list { display: flex; flex-direction: column; gap: 2px; }
-.cat-item { padding: 8px 10px; border-radius: 6px; font-size: 14px; color: var(--gray-dark); cursor: pointer; transition: all 0.15s; display: flex; align-items: center; gap: 8px; }
+.cat-item { padding: 7px 10px; border-radius: 6px; font-size: 13px; color: var(--gray-dark); cursor: pointer; transition: all 0.15s; display: flex; align-items: center; gap: 8px; }
 .cat-item:hover { background: #fff0f0; color: var(--red); }
 .cat-item.active { background: var(--red); color: white; font-weight: 600; }
-.cat-icon { font-size: 16px; width: 20px; text-align: center; }
+.cat-icon { font-size: 15px; width: 19px; text-align: center; }
 .filter-option { display: flex; align-items: center; gap: 8px; margin-bottom: 8px; cursor: pointer; }
 .filter-option input[type="checkbox"] { accent-color: var(--red); width: 15px; height: 15px; cursor: pointer; }
 .filter-option label { font-size: 13px; color: var(--gray-dark); cursor: pointer; }
 .price-range input[type="range"] { accent-color: var(--red); width: 100%; margin: 8px 0; }
 .price-labels { display: flex; justify-content: space-between; font-size: 12px; color: var(--gray-mid); }
 .sort-select { width: 100%; padding: 7px; border: 1px solid var(--gray); border-radius: 6px; font-size: 13px; color: var(--gray-dark); background: white; cursor: pointer; }
-.clear-btn { width: 100%; padding: 8px; background: white; color: var(--red); border: 1px solid var(--red); border-radius: 6px; font-size: 13px; cursor: pointer; margin-top: 8px; }
+.clear-btn { width: 100%; padding: 8px; background: white; color: var(--red); border: 1px solid var(--red); border-radius: 6px; font-size: 13px; cursor: pointer; }
 .clear-btn:hover { background: #fff0f0; }
 
-/* EXPIRED TAB in sidebar */
-.expired-tab { width: 100%; padding: 10px 14px; background: #f1f5f9; color: var(--gray-dark); border: 1.5px solid var(--gray); border-radius: 8px; font-size: 13px; font-weight: 600; cursor: pointer; text-align: left; display: flex; align-items: center; justify-content: space-between; transition: all 0.15s; }
-.expired-tab:hover { background: #e2e8f0; border-color: #94a3b8; }
-.expired-tab.active { background: #374151; color: white; border-color: #374151; }
-.expired-count { background: #94a3b8; color: white; font-size: 11px; font-weight: 700; padding: 2px 7px; border-radius: 10px; }
-.expired-tab.active .expired-count { background: rgba(255,255,255,0.3); }
+/* Show-filters button (visible only when sidebar collapsed on desktop) */
+.show-filters-btn {
+  display: none; background: white; color: var(--black); border: 1px solid var(--gray);
+  padding: 8px 14px; border-radius: 6px; font-size: 13px; font-weight: 600; cursor: pointer;
+  align-items: center; gap: 6px; box-shadow: var(--shadow); white-space: nowrap; margin-bottom: 4px;
+}
+.show-filters-btn:hover { border-color: var(--red); color: var(--red); }
+@media (min-width: 769px) {
+  .page.sidebar-collapsed ~ * .show-filters-btn,
+  .show-filters-btn { display: none; }
+}
 
-.mobile-filter-btn { display: none; background: var(--red); color: white; border: none; padding: 10px 16px; border-radius: 6px; font-size: 14px; font-weight: 600; cursor: pointer; width: 100%; margin-bottom: 4px; }
-@media (max-width: 768px) { .mobile-filter-btn { display: block; } }
+/* Mobile filter button */
+.mobile-topbar { display: none; align-items: center; gap: 10px; margin-bottom: 4px; }
+@media (max-width: 768px) { .mobile-topbar { display: flex; } }
+.mobile-filter-btn { display: flex; align-items: center; gap: 6px; background: white; color: var(--black); border: 1px solid var(--gray); padding: 9px 14px; border-radius: 6px; font-size: 14px; font-weight: 600; cursor: pointer; box-shadow: var(--shadow); }
+.mobile-filter-btn:hover { border-color: var(--red); color: var(--red); }
 
-/* MAIN */
+/* ===== MAIN ===== */
 .main { display: flex; flex-direction: column; gap: 20px; min-width: 0; }
+#showFiltersBtn { display: none; margin-bottom: 4px; }
 
 /* HOT BANNER */
 .hot-banner { background: var(--red); border-radius: var(--radius); padding: 16px 20px; color: white; }
 .hot-banner h2 { font-size: 18px; font-weight: 800; }
 .hot-badge { background: #ffe066; color: var(--red-dark); padding: 2px 8px; border-radius: 20px; font-size: 11px; font-weight: 700; margin-left: 8px; }
-
-/* EXPIRED BANNER */
-.expired-banner { background: #374151; border-radius: var(--radius); padding: 16px 20px; color: white; }
-.expired-banner h2 { font-size: 18px; font-weight: 800; }
-.expired-banner p { font-size: 13px; opacity: 0.7; margin-top: 4px; }
 
 /* SECTION HEADER */
 .section-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
@@ -84,18 +126,25 @@ header { background: var(--red); position: sticky; top: 0; z-index: 100; box-sha
 
 /* DEAL GRID */
 .deal-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 14px; }
+@media (max-width: 480px) { .deal-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; } }
+
 .deal-card { background: white; border-radius: var(--radius); box-shadow: var(--shadow); overflow: hidden; transition: transform 0.2s, box-shadow 0.2s; display: flex; flex-direction: column; }
 .deal-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
-.deal-card.expired-card { opacity: 0.75; }
-.deal-card.expired-card .card-img::after { content: 'EXPIRED'; position: absolute; inset: 0; background: rgba(0,0,0,0.45); color: white; font-size: 13px; font-weight: 800; display: flex; align-items: center; justify-content: center; letter-spacing: 2px; }
 
 /* CARD IMAGE */
 .card-img { position: relative; height: 160px; background: #f5f5f5; overflow: hidden; cursor: pointer; }
 .card-img img { width: 100%; height: 100%; object-fit: contain; padding: 10px; transition: transform 0.3s; }
 .card-img:hover img { transform: scale(1.05); }
-.badge-deal { position: absolute; top: 8px; left: 8px; background: var(--red); color: white; padding: 3px 7px; border-radius: 5px; font-size: 11px; font-weight: 700; z-index: 1; }
-.badge-pct { position: absolute; top: 8px; right: 8px; background: #ff6b00; color: white; padding: 3px 7px; border-radius: 5px; font-size: 11px; font-weight: 700; z-index: 1; }
-.badge-hot { position: absolute; bottom: 8px; left: 8px; background: #ff6b00; color: white; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700; z-index: 1; }
+
+/* Badge row: DEAL on left, -XX% on right — SAME horizontal line */
+.card-badge-row {
+  position: absolute; top: 8px; left: 8px; right: 8px;
+  display: flex; align-items: center; justify-content: space-between;
+  z-index: 1; pointer-events: none;
+}
+.badge-deal { background: var(--red); color: white; padding: 3px 7px; border-radius: 5px; font-size: 11px; font-weight: 700; }
+.badge-pct  { background: #ff6b00; color: white; padding: 3px 7px; border-radius: 5px; font-size: 11px; font-weight: 700; }
+.badge-hot  { position: absolute; bottom: 8px; left: 8px; background: #ff6b00; color: white; padding: 2px 6px; border-radius: 4px; font-size: 10px; font-weight: 700; z-index: 1; }
 
 .card-body { padding: 10px 12px; flex: 1; display: flex; flex-direction: column; gap: 5px; }
 .card-title { font-size: 13px; font-weight: 600; color: var(--black); line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
@@ -108,8 +157,6 @@ header { background: var(--red); position: sticky; top: 0; z-index: 100; box-sha
 .card-footer { padding: 0 12px 12px; }
 .get-deal-btn { display: block; width: 100%; padding: 9px; background: var(--red); color: white; text-align: center; text-decoration: none; border-radius: 6px; font-size: 13px; font-weight: 700; transition: background 0.2s; border: none; cursor: pointer; }
 .get-deal-btn:hover { background: var(--red-dark); }
-.expired-card .get-deal-btn { background: #6b7280; }
-.expired-card .get-deal-btn:hover { background: #4b5563; }
 
 /* LOADING / EMPTY */
 .loading { text-align: center; padding: 60px 20px; color: var(--gray-mid); grid-column: 1/-1; }
@@ -154,6 +201,23 @@ header { background: var(--red); position: sticky; top: 0; z-index: 100; box-sha
 .detail-description { font-size: 14px; color: var(--gray-dark); line-height: 1.7; }
 .detail-footer-note { background: #f9fafb; border-top: 1px solid var(--gray); padding: 14px 24px; font-size: 12px; color: var(--gray-mid); }
 
+/* ===== MOBILE DRAWER ===== */
+.drawer-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.45); z-index: 300; }
+.drawer-overlay.open { display: block; }
+.drawer {
+  position: fixed; top: 0; left: 0; bottom: 0; width: 290px;
+  background: white; z-index: 301;
+  transform: translateX(-100%); transition: transform 0.3s ease;
+  overflow-y: auto; display: flex; flex-direction: column;
+}
+.drawer.open { transform: translateX(0); }
+.drawer-header { display: flex; align-items: center; justify-content: space-between; padding: 16px; border-bottom: 1px solid var(--gray); flex-shrink: 0; }
+.drawer-header h2 { font-size: 16px; font-weight: 800; }
+.drawer-close { background: none; border: none; font-size: 22px; cursor: pointer; color: var(--gray-mid); }
+.drawer-section { padding: 14px 16px; border-bottom: 1px solid var(--gray); }
+.drawer-section h4 { font-size: 11px; font-weight: 700; color: var(--red); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 10px; }
+.drawer-footer { padding: 14px 16px; margin-top: auto; }
+
 /* LOGIN MODAL */
 .modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.5); z-index: 999; align-items: center; justify-content: center; }
 .modal-overlay.open { display: flex; }
@@ -195,59 +259,69 @@ footer { background: #222; color: #ccc; padding: 40px 16px 20px; margin-top: 40p
   </div>
 </header>
 
-<div class="page">
+<div class="page" id="pageLayout">
+
+  <!-- ===== DESKTOP SIDEBAR — single collapsible palette ===== -->
   <aside class="sidebar" id="sidebar">
-    <div class="filter-card">
-      <h3>Categories</h3>
-      <div class="cat-list">
-        <div class="cat-item active" onclick="filterCategory('all',this)"><span class="cat-icon">🏷️</span> All Deals</div>
-        <div class="cat-item" onclick="filterCategory('Electronics',this)"><span class="cat-icon">💻</span> Electronics</div>
-        <div class="cat-item" onclick="filterCategory('Home',this)"><span class="cat-icon">🏠</span> Home</div>
-        <div class="cat-item" onclick="filterCategory('Fashion',this)"><span class="cat-icon">👗</span> Fashion</div>
-        <div class="cat-item" onclick="filterCategory('Toys',this)"><span class="cat-icon">🧸</span> Toys</div>
-        <div class="cat-item" onclick="filterCategory('Sports',this)"><span class="cat-icon">⚽</span> Sports</div>
-        <div class="cat-item" onclick="filterCategory('Beauty',this)"><span class="cat-icon">💄</span> Beauty</div>
-        <div class="cat-item" onclick="filterCategory('Tools',this)"><span class="cat-icon">🔧</span> Tools</div>
-        <div class="cat-item" onclick="filterCategory('Food',this)"><span class="cat-icon">🍔</span> Food</div>
+    <div class="filter-palette">
+      <div class="filter-palette-header">
+        <h3>&#9776; Filters</h3>
+        <button class="sidebar-hide-btn" onclick="collapseSidebar()">&#x2715; Hide</button>
+      </div>
+
+      <div class="filter-section">
+        <h4>Categories</h4>
+        <div class="cat-list" id="desktopCatList">
+          <div class="cat-item active" onclick="filterCategory('all',this)"><span class="cat-icon">🏷️</span> All Deals</div>
+          <div class="cat-item" onclick="filterCategory('Electronics',this)"><span class="cat-icon">💻</span> Electronics</div>
+          <div class="cat-item" onclick="filterCategory('Home',this)"><span class="cat-icon">🏠</span> Home</div>
+          <div class="cat-item" onclick="filterCategory('Fashion',this)"><span class="cat-icon">👗</span> Fashion</div>
+          <div class="cat-item" onclick="filterCategory('Toys',this)"><span class="cat-icon">🧸</span> Toys</div>
+          <div class="cat-item" onclick="filterCategory('Sports',this)"><span class="cat-icon">⚽</span> Sports</div>
+          <div class="cat-item" onclick="filterCategory('Beauty',this)"><span class="cat-icon">💄</span> Beauty</div>
+          <div class="cat-item" onclick="filterCategory('Tools',this)"><span class="cat-icon">🔧</span> Tools</div>
+          <div class="cat-item" onclick="filterCategory('Food',this)"><span class="cat-icon">🍔</span> Food</div>
+        </div>
+      </div>
+
+      <div class="filter-section">
+        <h4>Sort By</h4>
+        <select class="sort-select" id="sortSelect" onchange="applyFilters()">
+          <option value="newest">Newest First</option>
+          <option value="discount">Highest Discount</option>
+          <option value="price-low">Price: Low to High</option>
+          <option value="price-high">Price: High to Low</option>
+        </select>
+      </div>
+
+      <div class="filter-section">
+        <h4>Max Price</h4>
+        <div class="price-range">
+          <input type="range" id="maxPrice" min="0" max="1000" value="1000" step="10" oninput="updatePriceLabel()"/>
+          <div class="price-labels"><span>$0</span><span id="priceLabel">Any</span></div>
+        </div>
+      </div>
+
+      <div class="filter-section">
+        <h4>Min Discount</h4>
+        <div class="filter-option"><input type="checkbox" id="disc-10" onchange="applyFilters()"><label for="disc-10">10%+ off</label></div>
+        <div class="filter-option"><input type="checkbox" id="disc-25" onchange="applyFilters()"><label for="disc-25">25%+ off</label></div>
+        <div class="filter-option"><input type="checkbox" id="disc-50" onchange="applyFilters()"><label for="disc-50">50%+ off</label></div>
+        <button class="clear-btn" style="margin-top:8px" onclick="clearFilters()">Clear All Filters</button>
       </div>
     </div>
-
-    <div class="filter-card">
-      <h3>Sort By</h3>
-      <select class="sort-select" id="sortSelect" onchange="applyFilters()">
-        <option value="newest">Newest First</option>
-        <option value="discount">Highest Discount</option>
-        <option value="price-low">Price: Low to High</option>
-        <option value="price-high">Price: High to Low</option>
-      </select>
-    </div>
-
-    <div class="filter-card">
-      <h3>Max Price</h3>
-      <div class="price-range">
-        <input type="range" id="maxPrice" min="0" max="1000" value="1000" step="10" oninput="updatePriceLabel()"/>
-        <div class="price-labels"><span>$0</span><span id="priceLabel">Any</span></div>
-      </div>
-    </div>
-
-    <div class="filter-card">
-      <h3>Min Discount</h3>
-      <div class="filter-option"><input type="checkbox" id="disc-10" onchange="applyFilters()"><label for="disc-10">10%+ off</label></div>
-      <div class="filter-option"><input type="checkbox" id="disc-25" onchange="applyFilters()"><label for="disc-25">25%+ off</label></div>
-      <div class="filter-option"><input type="checkbox" id="disc-50" onchange="applyFilters()"><label for="disc-50">50%+ off</label></div>
-      <button class="clear-btn" onclick="clearFilters()">Clear All Filters</button>
-    </div>
-
-    <!-- EXPIRED DEALS TAB -->
-    <button class="expired-tab" id="expiredTab" onclick="toggleExpired()">
-      <span>🕒 Expired Deals</span>
-      <span class="expired-count" id="expiredCount">0</span>
-    </button>
-
   </aside>
 
+  <!-- ===== MAIN CONTENT ===== -->
   <main class="main">
-    <button class="mobile-filter-btn" onclick="document.getElementById('sidebar').classList.toggle('open')">&#9776; Filter & Sort</button>
+
+    <!-- Mobile topbar -->
+    <div class="mobile-topbar">
+      <button class="mobile-filter-btn" onclick="openDrawer()">&#9776; Filter &amp; Sort</button>
+    </div>
+
+    <!-- Desktop: "Show Filters" button — shown only when sidebar is collapsed -->
+    <button id="showFiltersBtn" onclick="expandSidebar()">&#9776; Show Filters</button>
 
     <!-- Active Hot Deals -->
     <section id="hotSection">
@@ -270,22 +344,60 @@ footer { background: #222; color: #ccc; padding: 40px 16px 20px; margin-top: 40p
       <div class="pagination" id="pagination"></div>
     </section>
 
-    <!-- Expired Deals -->
-    <section id="expiredSection" style="display:none;">
-      <div class="expired-banner">
-        <h2>🕒 Expired Deals</h2>
-        <p>These deals are no longer active but may still be available at a discount</p>
-      </div>
-      <br>
-      <div class="section-header">
-        <h2>Past Deals</h2>
-        <span class="deal-count" id="expiredCountLabel"></span>
-      </div>
-      <div class="deal-grid" id="expiredDealsGrid"></div>
-      <div class="pagination" id="expiredPagination"></div>
-    </section>
-
   </main>
+</div>
+
+<!-- ===== MOBILE DRAWER ===== -->
+<div class="drawer-overlay" id="drawerOverlay" onclick="closeDrawer()"></div>
+<div class="drawer" id="drawer">
+  <div class="drawer-header">
+    <h2>&#9776; Filters &amp; Sort</h2>
+    <button class="drawer-close" onclick="closeDrawer()">&#x2715;</button>
+  </div>
+
+  <div class="drawer-section">
+    <h4>Categories</h4>
+    <div class="cat-list" id="mobileCatList">
+      <div class="cat-item active" onclick="filterCategory('all',this,true)"><span class="cat-icon">🏷️</span> All Deals</div>
+      <div class="cat-item" onclick="filterCategory('Electronics',this,true)"><span class="cat-icon">💻</span> Electronics</div>
+      <div class="cat-item" onclick="filterCategory('Home',this,true)"><span class="cat-icon">🏠</span> Home</div>
+      <div class="cat-item" onclick="filterCategory('Fashion',this,true)"><span class="cat-icon">👗</span> Fashion</div>
+      <div class="cat-item" onclick="filterCategory('Toys',this,true)"><span class="cat-icon">🧸</span> Toys</div>
+      <div class="cat-item" onclick="filterCategory('Sports',this,true)"><span class="cat-icon">⚽</span> Sports</div>
+      <div class="cat-item" onclick="filterCategory('Beauty',this,true)"><span class="cat-icon">💄</span> Beauty</div>
+      <div class="cat-item" onclick="filterCategory('Tools',this,true)"><span class="cat-icon">🔧</span> Tools</div>
+      <div class="cat-item" onclick="filterCategory('Food',this,true)"><span class="cat-icon">🍔</span> Food</div>
+    </div>
+  </div>
+
+  <div class="drawer-section">
+    <h4>Sort By</h4>
+    <select class="sort-select" id="sortSelectMobile" onchange="mirrorSort(this.value)">
+      <option value="newest">Newest First</option>
+      <option value="discount">Highest Discount</option>
+      <option value="price-low">Price: Low to High</option>
+      <option value="price-high">Price: High to Low</option>
+    </select>
+  </div>
+
+  <div class="drawer-section">
+    <h4>Max Price</h4>
+    <div class="price-range">
+      <input type="range" id="maxPriceMobile" min="0" max="1000" value="1000" step="10" oninput="mirrorMaxPrice(this.value)"/>
+      <div class="price-labels"><span>$0</span><span id="priceLabelMobile">Any</span></div>
+    </div>
+  </div>
+
+  <div class="drawer-section">
+    <h4>Min Discount</h4>
+    <div class="filter-option"><input type="checkbox" id="disc-10m" onchange="mirrorDiscount()"><label for="disc-10m">10%+ off</label></div>
+    <div class="filter-option"><input type="checkbox" id="disc-25m" onchange="mirrorDiscount()"><label for="disc-25m">25%+ off</label></div>
+    <div class="filter-option"><input type="checkbox" id="disc-50m" onchange="mirrorDiscount()"><label for="disc-50m">50%+ off</label></div>
+  </div>
+
+  <div class="drawer-footer">
+    <button class="clear-btn" onclick="clearFilters(); closeDrawer()">Clear All Filters</button>
+  </div>
 </div>
 
 <!-- DETAIL OVERLAY -->
@@ -362,8 +474,8 @@ footer { background: #222; color: #ccc; padding: 40px 16px 20px; margin-top: 40p
       </div>
       <div class="footer-col">
         <h4>Categories</h4>
-        <a href="#">Electronics</a><a href="#">Home & Kitchen</a><a href="#">Fashion</a>
-        <a href="#">Toys & Games</a><a href="#">Sports & Outdoors</a><a href="#">Beauty</a>
+        <a href="#">Electronics</a><a href="#">Home &amp; Kitchen</a><a href="#">Fashion</a>
+        <a href="#">Toys &amp; Games</a><a href="#">Sports &amp; Outdoors</a><a href="#">Beauty</a>
       </div>
       <div class="footer-col">
         <h4>Quick Links</h4>
@@ -379,25 +491,18 @@ footer { background: #222; color: #ccc; padding: 40px 16px 20px; margin-top: 40p
       <div class="affiliate-disclosure">
         <strong>Affiliate Disclosure:</strong> DealsInUSA.shop is a participant in the Amazon Services LLC Associates Program. When you click on a "Get Deal" link and make a qualifying purchase, we may earn a small commission at no additional cost to you.
       </div>
-      <p class="footer-copy">&copy; 2026 DealsInUSA.shop — All rights reserved.</p>
+      <p class="footer-copy">&copy; 2026 DealsInUSA.shop &mdash; All rights reserved.</p>
     </div>
   </div>
 </footer>
 
 <script>
 const ITEMS_PER_PAGE = 12;
-const EXPIRY_HOURS = 24; // deals older than 24 hours are expired
-
-let allDeals = [];
-let activeDeals = [];
-let expiredDeals = [];
-let filteredDeals = [];
-let expiredFiltered = [];
+let allDeals = [], activeDeals = [], filteredDeals = [];
 let currentPage = 1;
-let expiredPage = 1;
 let activeCategory = 'all';
-let showingExpired = false;
 
+/* ---- Category map ---- */
 const CATEGORY_MAP = {
   Electronics: ['speaker','headset','monitor','processor','laptop','desktop','tablet','phone','earbuds','tv','camera','charger','cable','hdmi','usb','gaming','keyboard','mouse','bluetooth','airpods','ipad','iphone','samsung','dell','hp','acer','asus','amd','intel','cpu','ssd','router','dash cam','cd player','kindle','earbud','mini pc','ryzen','core i'],
   Home: ['kitchen','cooker','vacuum','rack','faucet','ceiling fan','furniture','chair','sofa','lamp','dishwasher','coffee','blender','instant pot','dyson','kitchenaid','grinder','ice maker','air purifier','litter box','mop','shovel'],
@@ -408,21 +513,14 @@ const CATEGORY_MAP = {
   Tools: ['dewalt','ryobi','milwaukee','drill','saw','wrench','screwdriver','power tool','cordless','weed puller','pool brush','craftsman','surge protector','hex key','plier','nailer'],
   Food: ['sauce','snack','soda','protein','vitamin','grocery','food','drink','rao','flour','bolognese','cookies','wafer','prego','alfredo','cat treat','cat food','dish soap','ensure','cream soda']
 };
+const CAT_LIST = ['all','Electronics','Home','Fashion','Toys','Sports','Beauty','Tools','Food'];
 
 function detectCategory(title) {
   const t = title.toLowerCase();
-  for (const [cat, kw] of Object.entries(CATEGORY_MAP)) {
+  for (const [cat, kw] of Object.entries(CATEGORY_MAP))
     if (kw.some(k => t.includes(k))) return cat;
-  }
   return 'Other';
 }
-
-function isExpired(deal) {
-  const posted = new Date(deal.posted_at);
-  const hoursOld = (Date.now() - posted) / 3600000;
-  return hoursOld > EXPIRY_HOURS;
-}
-
 function timeAgo(dateStr) {
   const diff = Math.floor((Date.now() - new Date(dateStr)) / 60000);
   if (diff < 1) return 'Just now';
@@ -430,36 +528,33 @@ function timeAgo(dateStr) {
   if (diff < 1440) return Math.floor(diff/60) + 'h ago';
   return Math.floor(diff/1440) + 'd ago';
 }
-
 function extractDiscount(title) {
   const m = title.match(/(\d+)%\s*off/i);
   return m ? parseInt(m[1]) : 0;
 }
-
 function getOriginalPrice(price, discount) {
   const p = parseFloat(price?.replace(/[^0-9.]/g,''));
   if (!p || !discount) return null;
   return (p / (1 - discount/100)).toFixed(2);
 }
-
 function getImage(deal) {
-  if (deal.image && deal.image.startsWith('http')) return deal.image;
-  return 'https://via.placeholder.com/300x200?text=Amazon+Deal';
+  return (deal.image && deal.image.startsWith('http')) ? deal.image : 'https://via.placeholder.com/300x200?text=Amazon+Deal';
 }
 
-function createCard(deal, isHot, expired) {
+/* ---- Card builder ---- */
+function createCard(deal, isHot) {
   const disc = deal.discount || 0;
   const orig = getOriginalPrice(deal.price, disc);
-  const img = getImage(deal);
-  const dealJson = JSON.stringify(deal).replace(/'/g, "&#39;").replace(/"/g, '&quot;');
-
-  return `<div class="deal-card${expired ? ' expired-card' : ''}">
-    <div class="card-img" onclick='openDetail(${JSON.stringify(deal).replace(/'/g, "&#39;")})'>
+  const img  = getImage(deal);
+  return `<div class="deal-card">
+    <div class="card-img" onclick='openDetail(${JSON.stringify(deal).replace(/'/g,"&#39;")})'>
       <img src="${img}" alt="${deal.title.replace(/"/g,'&quot;')}" loading="lazy"
            onerror="this.src='https://via.placeholder.com/300x200?text=Deal'"/>
-      <span class="badge-deal">DEAL</span>
-      ${disc > 0 ? `<span class="badge-pct">-${disc}%</span>` : ''}
-      ${isHot && !expired ? `<span class="badge-hot">🔥 HOT</span>` : ''}
+      <div class="card-badge-row">
+        <span class="badge-deal">DEAL</span>
+        ${disc > 0 ? `<span class="badge-pct">-${disc}%</span>` : ''}
+      </div>
+      ${isHot ? `<span class="badge-hot">🔥 HOT</span>` : ''}
     </div>
     <div class="card-body">
       <p class="card-title">${deal.title}</p>
@@ -471,88 +566,84 @@ function createCard(deal, isHot, expired) {
     </div>
     <div class="card-meta"><span class="card-time">${timeAgo(deal.posted_at)}</span></div>
     <div class="card-footer">
-      <a href="${deal.amazon_url}" target="_blank" rel="noopener sponsored" class="get-deal-btn">
-        ${expired ? 'Check on Amazon' : 'Get Deal on Amazon'}
-      </a>
+      <a href="${deal.amazon_url}" target="_blank" rel="noopener sponsored" class="get-deal-btn">Get Deal on Amazon</a>
     </div>
   </div>`;
 }
 
 function renderHot(deals) {
   document.getElementById('hotDealsGrid').innerHTML = deals.length
-    ? deals.map((d, i) => createCard(d, i < 12, false)).join('')
+    ? deals.map((d, i) => createCard(d, i < 12)).join('')
     : '<div class="empty"><h3>No active deals right now</h3></div>';
 }
-
 function renderSearchResults(deals, page) {
   const start = (page-1) * ITEMS_PER_PAGE;
   const slice = deals.slice(start, start + ITEMS_PER_PAGE);
   document.getElementById('searchDealsGrid').innerHTML = slice.length
-    ? slice.map(d => createCard(d, false, isExpired(d))).join('')
+    ? slice.map(d => createCard(d, false)).join('')
     : '<div class="empty"><h3>No deals found</h3></div>';
   document.getElementById('dealCountLabel').textContent = deals.length + ' deals found';
   renderPagination(deals.length, 'pagination', currentPage, p => { currentPage = p; renderSearchResults(filteredDeals, p); });
 }
-
-function renderExpired(deals, page) {
-  const start = (page-1) * ITEMS_PER_PAGE;
-  const slice = deals.slice(start, start + ITEMS_PER_PAGE);
-  document.getElementById('expiredDealsGrid').innerHTML = slice.length
-    ? slice.map(d => createCard(d, false, true)).join('')
-    : '<div class="empty"><h3>No expired deals</h3></div>';
-  document.getElementById('expiredCountLabel').textContent = deals.length + ' expired deals';
-  renderPagination(deals.length, 'expiredPagination', expiredPage, p => { expiredPage = p; renderExpired(expiredFiltered, p); });
-}
-
 function renderPagination(total, elId, page, onPage) {
   const pages = Math.ceil(total / ITEMS_PER_PAGE);
   const el = document.getElementById(elId);
   if (pages <= 1) { el.innerHTML = ''; return; }
   let h = '';
   if (page > 1) h += `<button onclick="(${onPage.toString()})(${page-1})">&larr; Prev</button>`;
-  for (let i = Math.max(1, page-2); i <= Math.min(pages, page+2); i++) {
+  for (let i = Math.max(1, page-2); i <= Math.min(pages, page+2); i++)
     h += `<button class="${i===page?'active':''}" onclick="(${onPage.toString()})(${i})">${i}</button>`;
-  }
   if (page < pages) h += `<button onclick="(${onPage.toString()})(${page+1})">Next &rarr;</button>`;
   el.innerHTML = h;
 }
-
-function toggleExpired() {
-  showingExpired = !showingExpired;
-  const tab = document.getElementById('expiredTab');
-  tab.classList.toggle('active', showingExpired);
-
-  if (showingExpired) {
-    document.getElementById('hotSection').style.display = 'none';
-    document.getElementById('searchSection').style.display = 'none';
-    document.getElementById('expiredSection').style.display = 'block';
-    expiredFiltered = getSortedDeals(expiredDeals);
-    expiredPage = 1;
-    renderExpired(expiredFiltered, 1);
-  } else {
-    document.getElementById('expiredSection').style.display = 'none';
-    document.getElementById('hotSection').style.display = 'block';
-  }
-}
-
 function getSortedDeals(deals) {
   const sort = document.getElementById('sortSelect').value;
   return [...deals].sort((a, b) => {
     if (sort === 'discount') return (b.discount||0) - (a.discount||0);
-    if (sort === 'price-low') {
-      const pa = parseFloat(a.price?.replace(/[^0-9.]/g,'')) || 9999;
-      const pb = parseFloat(b.price?.replace(/[^0-9.]/g,'')) || 9999;
-      return pa - pb;
-    }
-    if (sort === 'price-high') {
-      const pa = parseFloat(a.price?.replace(/[^0-9.]/g,'')) || 0;
-      const pb = parseFloat(b.price?.replace(/[^0-9.]/g,'')) || 0;
-      return pb - pa;
-    }
+    if (sort === 'price-low') { return (parseFloat(a.price?.replace(/[^0-9.]/g,''))||9999) - (parseFloat(b.price?.replace(/[^0-9.]/g,''))||9999); }
+    if (sort === 'price-high') { return (parseFloat(b.price?.replace(/[^0-9.]/g,''))||0) - (parseFloat(a.price?.replace(/[^0-9.]/g,''))||0); }
     return new Date(b.posted_at) - new Date(a.posted_at);
   });
 }
 
+/* ---- Sidebar collapse/expand (desktop) ---- */
+function collapseSidebar() {
+  document.getElementById('pageLayout').classList.add('sidebar-collapsed');
+  document.getElementById('showFiltersBtn').style.display = 'flex';
+}
+function expandSidebar() {
+  document.getElementById('pageLayout').classList.remove('sidebar-collapsed');
+  document.getElementById('showFiltersBtn').style.display = 'none';
+}
+
+/* ---- Mobile drawer ---- */
+function openDrawer() {
+  document.getElementById('drawer').classList.add('open');
+  document.getElementById('drawerOverlay').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeDrawer() {
+  document.getElementById('drawer').classList.remove('open');
+  document.getElementById('drawerOverlay').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+/* ---- Mirror mobile → desktop controls ---- */
+function mirrorSort(val) { document.getElementById('sortSelect').value = val; applyFilters(); }
+function mirrorMaxPrice(val) {
+  document.getElementById('maxPrice').value = val;
+  document.getElementById('priceLabel').textContent = val >= 1000 ? 'Any' : '$' + val;
+  document.getElementById('priceLabelMobile').textContent = val >= 1000 ? 'Any' : '$' + val;
+  applyFilters();
+}
+function mirrorDiscount() {
+  ['10','25','50'].forEach(v => {
+    document.getElementById('disc-' + v).checked = document.getElementById('disc-' + v + 'm').checked;
+  });
+  applyFilters();
+}
+
+/* ---- Detail overlay ---- */
 function openDetail(deal) {
   const disc = deal.discount || 0;
   const orig = getOriginalPrice(deal.price, disc);
@@ -560,7 +651,6 @@ function openDetail(deal) {
   document.getElementById('detailTitle').textContent = deal.amazon_title || deal.title;
   document.getElementById('detailPrice').textContent = deal.price !== 'See price' ? deal.price : 'See Price';
   document.getElementById('detailGetBtn').href = deal.amazon_url;
-
   if (orig && disc > 0) {
     document.getElementById('detailOrig').textContent = `$${orig}`;
     document.getElementById('detailSave').textContent = `Save ${disc}%`;
@@ -569,11 +659,10 @@ function openDetail(deal) {
     document.getElementById('detailOrig').textContent = '';
     document.getElementById('detailSave').style.display = 'none';
   }
-
   const titleLower = deal.title.toLowerCase();
   let couponHtml = '';
   if (titleLower.includes('w/ s&s') || titleLower.includes('subscribe')) {
-    couponHtml = `<strong>Subscribe & Save</strong> — Select "Subscribe & Save" on Amazon to activate the discount. Cancel anytime after delivery.`;
+    couponHtml = `<strong>Subscribe &amp; Save</strong> — Select "Subscribe &amp; Save" on Amazon to activate the discount. Cancel anytime after delivery.`;
     document.getElementById('couponContent').className = 'coupon-tip';
   } else if (titleLower.includes('clip') || titleLower.includes('coupon')) {
     couponHtml = `<strong>Clip coupon on Amazon</strong> — Click the "Clip coupon" checkbox on the product page before adding to cart.`;
@@ -583,60 +672,44 @@ function openDetail(deal) {
     document.getElementById('couponContent').className = 'no-coupon-tip';
   }
   document.getElementById('couponContent').innerHTML = couponHtml;
-
   const features = deal.features || [];
   if (features.length > 0) {
     document.getElementById('detailFeatures').innerHTML = features.map(f => `<li>${f}</li>`).join('');
     document.getElementById('featuresSection').style.display = 'block';
-  } else {
-    document.getElementById('featuresSection').style.display = 'none';
-  }
-
+  } else { document.getElementById('featuresSection').style.display = 'none'; }
   const desc = deal.description || '';
   if (desc && desc.length > 20) {
     document.getElementById('detailDescription').textContent = desc;
     document.getElementById('descSection').style.display = 'block';
-  } else {
-    document.getElementById('descSection').style.display = 'none';
-  }
-
+  } else { document.getElementById('descSection').style.display = 'none'; }
   document.getElementById('detailOverlay').classList.add('open');
   document.body.style.overflow = 'hidden';
 }
-
 function closeDetail() {
   document.getElementById('detailOverlay').classList.remove('open');
   document.body.style.overflow = '';
 }
 
+/* ---- Search ---- */
 function onSearchInput() {
   const val = document.getElementById('searchInput').value;
   document.getElementById('searchClear').classList.toggle('visible', val.length > 0);
   applyFilters();
 }
-
 function clearSearch() {
   document.getElementById('searchInput').value = '';
   document.getElementById('searchClear').classList.remove('visible');
   activeCategory = 'all';
   document.querySelectorAll('.cat-item').forEach((el, i) => el.classList.toggle('active', i === 0));
-  showingExpired = false;
-  document.getElementById('expiredTab').classList.remove('active');
   document.getElementById('hotSection').style.display = 'block';
   document.getElementById('searchSection').style.display = 'none';
-  document.getElementById('expiredSection').style.display = 'none';
 }
-
 function applyFilters() {
   const query = document.getElementById('searchInput').value.trim().toLowerCase();
   const maxPrice = parseInt(document.getElementById('maxPrice').value);
-  const minDisc = document.getElementById('disc-50').checked ? 50
-    : document.getElementById('disc-25').checked ? 25
-    : document.getElementById('disc-10').checked ? 10 : 0;
-
+  const minDisc = document.getElementById('disc-50').checked ? 50 : document.getElementById('disc-25').checked ? 25 : document.getElementById('disc-10').checked ? 10 : 0;
   if (query || activeCategory !== 'all' || maxPrice < 1000 || minDisc > 0) {
-    // Search across ALL deals (active + expired)
-    filteredDeals = allDeals.filter(d => {
+    filteredDeals = activeDeals.filter(d => {
       if (query && !d.title.toLowerCase().includes(query)) return false;
       const p = parseFloat(d.price?.replace(/[^0-9.]/g,'')) || 0;
       if (p > 0 && p > maxPrice) return false;
@@ -645,59 +718,54 @@ function applyFilters() {
       return true;
     });
     filteredDeals = getSortedDeals(filteredDeals);
-
     document.getElementById('hotSection').style.display = 'none';
-    document.getElementById('expiredSection').style.display = 'none';
     document.getElementById('searchSection').style.display = 'block';
-    document.getElementById('searchResultsTitle').textContent = query
-      ? `Results for "${query}"` : `${activeCategory === 'all' ? 'All' : activeCategory} Deals`;
+    document.getElementById('searchResultsTitle').textContent = query ? `Results for "${query}"` : `${activeCategory === 'all' ? 'All' : activeCategory} Deals`;
     currentPage = 1;
     renderSearchResults(filteredDeals, 1);
-  } else if (showingExpired) {
-    expiredFiltered = getSortedDeals(expiredDeals);
-    renderExpired(expiredFiltered, 1);
   } else {
-    const sorted = getSortedDeals(activeDeals);
     document.getElementById('hotSection').style.display = 'block';
     document.getElementById('searchSection').style.display = 'none';
-    renderHot(sorted);
+    renderHot(getSortedDeals(activeDeals));
   }
 }
 
-function filterCategory(cat, el) {
+/* ---- Category filter ---- */
+function filterCategory(cat, el, fromMobile) {
   activeCategory = cat;
-  document.querySelectorAll('.cat-item').forEach(a => a.classList.remove('active'));
-  if (el) el.classList.add('active');
+  const idx = CAT_LIST.indexOf(cat);
+  document.querySelectorAll('#desktopCatList .cat-item').forEach((a, i) => a.classList.toggle('active', i === idx));
+  document.querySelectorAll('#mobileCatList .cat-item').forEach((a, i) => a.classList.toggle('active', i === idx));
   document.getElementById('searchInput').value = '';
   document.getElementById('searchClear').classList.remove('visible');
-  showingExpired = false;
-  document.getElementById('expiredTab').classList.remove('active');
+  if (fromMobile) closeDrawer();
   applyFilters();
 }
 
 function updatePriceLabel() {
   const v = document.getElementById('maxPrice').value;
   document.getElementById('priceLabel').textContent = v >= 1000 ? 'Any' : '$' + v;
+  document.getElementById('maxPriceMobile').value = v;
+  document.getElementById('priceLabelMobile').textContent = v >= 1000 ? 'Any' : '$' + v;
   applyFilters();
 }
 
 function clearFilters() {
   document.getElementById('searchInput').value = '';
   document.getElementById('searchClear').classList.remove('visible');
-  document.getElementById('maxPrice').value = 1000;
-  document.getElementById('priceLabel').textContent = 'Any';
+  ['maxPrice','maxPriceMobile'].forEach(id => document.getElementById(id).value = 1000);
+  ['priceLabel','priceLabelMobile'].forEach(id => document.getElementById(id).textContent = 'Any');
   document.getElementById('sortSelect').value = 'newest';
-  ['disc-10','disc-25','disc-50'].forEach(id => document.getElementById(id).checked = false);
+  document.getElementById('sortSelectMobile').value = 'newest';
+  ['disc-10','disc-25','disc-50','disc-10m','disc-25m','disc-50m'].forEach(id => document.getElementById(id).checked = false);
   activeCategory = 'all';
-  showingExpired = false;
-  document.getElementById('expiredTab').classList.remove('active');
   document.querySelectorAll('.cat-item').forEach((el, i) => el.classList.toggle('active', i === 0));
   document.getElementById('hotSection').style.display = 'block';
   document.getElementById('searchSection').style.display = 'none';
-  document.getElementById('expiredSection').style.display = 'none';
   renderHot(activeDeals);
 }
 
+/* ---- Modal ---- */
 function openModal(type) { document.getElementById('modalOverlay').classList.add('open'); switchModal(type); }
 function closeModal() { document.getElementById('modalOverlay').classList.remove('open'); }
 function switchModal(type) {
@@ -705,31 +773,25 @@ function switchModal(type) {
   document.getElementById('signupForm').style.display = type === 'signup' ? 'block' : 'none';
 }
 
+/* ---- Load deals (refresh every hour) ---- */
 async function loadDeals() {
   try {
     const res = await fetch('deals.json?t=' + Date.now());
     if (!res.ok) throw new Error('not found');
     const data = await res.json();
-
-    allDeals = data.map((d, i) => ({
+    allDeals = data.map(d => ({
       ...d,
-      category: detectCategory(d.title),
-      discount: extractDiscount(d.title),
+      category: d.category || detectCategory(d.title),
+      discount: d.discount || extractDiscount(d.title),
     }));
-
-    // Split into active and expired
-    activeDeals = allDeals.filter(d => !isExpired(d));
-    expiredDeals = allDeals.filter(d => isExpired(d));
-
-    // Update expired count badge
-    document.getElementById('expiredCount').textContent = expiredDeals.length;
-
-    filteredDeals = [...allDeals];
+    // Scraper already returns only active/open deals
+    activeDeals = allDeals;
+    filteredDeals = [...activeDeals];
     renderHot(activeDeals);
   } catch(e) {
     document.getElementById('hotDealsGrid').innerHTML = '<div class="empty"><h3>Could not load deals</h3></div>';
   }
-  setTimeout(loadDeals, 600000);
+  setTimeout(loadDeals, 3600000); // 1 hour
 }
 
 loadDeals();
