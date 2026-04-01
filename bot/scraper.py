@@ -201,7 +201,7 @@ def push_to_github():
         stashed = "No local changes" not in stash_result.stdout
 
         r = subprocess.run(
-            ["git", "-C", REPO_DIR, "add", "deals.json"],
+            ["git", "-C", REPO_DIR, "add", "deals.json", "bot/scraper.py"],
             capture_output=True, text=True
         )
         if r.returncode != 0:
@@ -209,10 +209,10 @@ def push_to_github():
             return
 
         result = subprocess.run(
-            ["git", "-C", REPO_DIR, "diff", "--cached", "--quiet"],
-            capture_output=True
+            ["git", "-C", REPO_DIR, "status", "--porcelain"],
+            capture_output=True, text=True
         )
-        if result.returncode == 0:
+        if not result.stdout.strip():
             if stashed:
                 subprocess.run(["git", "-C", REPO_DIR, "stash", "pop"], capture_output=True)
             print(f"[{datetime.now().strftime('%H:%M:%S')}] ℹ️  No new deals to push")
