@@ -6,3 +6,4 @@ deals_converted.json
 bot/scraper_backup.py
 bot/convert_deals.py
 website/
+bot/scraper.py
