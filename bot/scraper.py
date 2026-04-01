@@ -30,6 +30,40 @@ AMAZON_KEYWORDS = [
     "prime", "fulfilled by amazon"
 ]
 
+# Walmart exclusion keywords — any deal matching these will be skipped
+WALMART_KEYWORDS = [
+    "walmart", "walmart.com", "at walmart", "on walmart"
+]
+
+# ─────────────────────────────
+# Affiliate links for non-Amazon stores
+# Replace the tag values with your actual affiliate IDs when you sign up
+# ─────────────────────────────
+STORE_AFFILIATE_TAGS = {
+    "bestbuy":    {"param": "ref",        "tag": "dealsinusa-bb-20"},
+    "target":     {"param": "afid",       "tag": "dealsinusa-tgt-20"},
+    "newegg":     {"param": "aid",        "tag": "dealsinusa-ne-20"},
+    "ebay":       {"param": "mkevt",      "tag": "1"},   # eBay uses mkevt=1&mkcid=1&mkrid=...
+    "costco":     {"param": "ref",        "tag": "dealsinusa-cos-20"},
+    "bhphotovideo": {"param": "BI",       "tag": "dealsinusa-bh-20"},
+    "default":    {"param": "ref",        "tag": "dealsinusa-20"},
+}
+
+def make_affiliate_redirect(url):
+    """
+    Append a basic affiliate/ref tag to non-Amazon URLs.
+    Matches the store from the URL and appends the right param.
+    You should replace these with your real affiliate program links.
+    """
+    url_lower = url.lower()
+    config = STORE_AFFILIATE_TAGS["default"]
+    for store, cfg in STORE_AFFILIATE_TAGS.items():
+        if store in url_lower:
+            config = cfg
+            break
+    separator = "&" if "?" in url else "?"
+    return f"{url}{separator}{config['param']}={config['tag']}"
+
 # ─────────────────────────────
 # HELPERS
 # ─────────────────────────────
@@ -48,6 +82,14 @@ def clean_title(title):
     title = re.sub(r'&#039;', "'", title)
     title = re.sub(r'&039;', "'", title)
     return title.strip()
+
+def is_walmart_deal(title, url, description=""):
+    """Returns True if the deal is from Walmart — these should be skipped."""
+    text = f"{title} {url} {description}".lower()
+    for keyword in WALMART_KEYWORDS:
+        if keyword.lower() in text:
+            return True
+    return False
 
 def is_amazon_deal(title, url, description=""):
     text = f"{title} {url} {description}".lower()
@@ -106,7 +148,6 @@ def extract_image(item):
     Extract image URL from RSS item.
     Checks content:encoded (Slickdeals) and description (TechBargains).
     """
-    # 1. Try content:encoded — Slickdeals puts image here
     content = item.find("content:encoded") or item.find("encoded")
     if content:
         text = content.get_text() if hasattr(content, 'get_text') else str(content)
@@ -117,26 +158,21 @@ def extract_image(item):
         if m:
             return m.group(1)
 
-    # 2. Try description field — TechBargains puts image here as encoded HTML
     desc = item.find("description")
     if desc:
         text = desc.get_text() if hasattr(desc, 'get_text') else str(desc)
-        # TechBargains image pattern
         m = re.search(r"src='(https://www\.techbargains\.com/imagery/[^']+)'", text)
         if m:
             return m.group(1)
         m = re.search(r'src=["\']?(https://www\.techbargains\.com/imagery/[^"\'>\s]+)', text)
         if m:
             return m.group(1)
-        # Generic image fallback in description
         m = re.search(r'src=["\']?(https://[^"\'>\s]+\.(?:jpg|jpeg|png|webp)[^"\'>\s]*)', text, re.I)
         if m:
             url = m.group(1)
-            # Skip placeholder/icon images
             if 'placeholder' not in url.lower() and 'icon' not in url.lower():
                 return url
 
-    # 3. Try enclosure tag
     enclosure = item.find("enclosure")
     if enclosure and enclosure.get("url"):
         return enclosure["url"]
@@ -158,14 +194,12 @@ def save_deals(deals):
 
 def push_to_github():
     try:
-        # Stash any unstaged changes so pull --rebase doesn't error out
         stash_result = subprocess.run(
             ["git", "-C", REPO_DIR, "stash"],
             capture_output=True, text=True
         )
         stashed = "No local changes" not in stash_result.stdout
 
-        # Stage deals.json
         r = subprocess.run(
             ["git", "-C", REPO_DIR, "add", "deals.json"],
             capture_output=True, text=True
@@ -174,7 +208,6 @@ def push_to_github():
             print(f"[{datetime.now().strftime('%H:%M:%S')}] ⚠️  git add failed:\n{r.stderr.strip()}")
             return
 
-        # Check if there's anything to commit
         result = subprocess.run(
             ["git", "-C", REPO_DIR, "diff", "--cached", "--quiet"],
             capture_output=True
@@ -185,7 +218,6 @@ def push_to_github():
             print(f"[{datetime.now().strftime('%H:%M:%S')}] ℹ️  No new deals to push")
             return
 
-        # Commit
         r = subprocess.run(
             ["git", "-C", REPO_DIR, "commit", "-m",
              f"Update deals {datetime.now().strftime('%Y-%m-%d %H:%M')}"],
@@ -197,7 +229,6 @@ def push_to_github():
                 subprocess.run(["git", "-C", REPO_DIR, "stash", "pop"], capture_output=True)
             return
 
-        # Pull remote changes (rebase keeps history clean)
         print(f"[{datetime.now().strftime('%H:%M:%S')}] 🔄 Syncing with remote...")
         r = subprocess.run(
             ["git", "-C", REPO_DIR, "pull", "--rebase", "origin", "main"],
@@ -210,11 +241,9 @@ def push_to_github():
                 subprocess.run(["git", "-C", REPO_DIR, "stash", "pop"], capture_output=True)
             return
 
-        # Restore any stashed changes
         if stashed:
             subprocess.run(["git", "-C", REPO_DIR, "stash", "pop"], capture_output=True)
 
-        # Push
         r = subprocess.run(
             ["git", "-C", REPO_DIR, "push", "origin", "main"],
             capture_output=True, text=True
@@ -243,7 +272,10 @@ def parse_rss(url, source_name):
                 desc  = item.find("description")
                 desc_text = desc.get_text() if desc else ""
 
-                # Extract image from RSS item
+                # ── Skip Walmart deals ──
+                if is_walmart_deal(title, link, desc_text):
+                    continue
+
                 image = extract_image(item)
 
                 price = ""
@@ -255,9 +287,6 @@ def parse_rss(url, source_name):
                     if m:
                         price = m.group(0)
 
-                if not is_amazon_deal(title, link, desc_text):
-                    continue
-
                 if title and link:
                     deals.append({
                         "title": title,
@@ -265,11 +294,12 @@ def parse_rss(url, source_name):
                         "source_url": link,
                         "source": source_name,
                         "image": image,
-                        "description": desc_text[:300] if desc_text else ""
+                        "description": desc_text[:300] if desc_text else "",
+                        "is_amazon": is_amazon_deal(title, link, desc_text),
                     })
             except:
                 continue
-        print(f"  📦 {source_name}: {len(deals)} Amazon deals found")
+        print(f"  📦 {source_name}: {len(deals)} deals found (Walmart excluded)")
     except Exception as e:
         print(f"  ❌ {source_name} error: {e}")
     return deals
@@ -294,27 +324,54 @@ def run():
     print(f"🔄 Running at {datetime.now().strftime('%H:%M:%S')}")
     print(f"{'='*50}")
 
-    existing     = load_existing()
-    existing_ids = {d["id"] for d in existing}
+    existing = load_existing()
 
     all_deals = []
     all_deals += scrape_slickdeals()
     all_deals += scrape_dealsofamerica()
     all_deals += scrape_techbargains()
 
-    new_count = sum(1 for d in all_deals if make_id(d['title'], d['source_url']) not in existing_ids)
-    print(f"\n  🔎 Amazon deals scraped: {len(all_deals)} | New: {new_count}")
+    # Build set of currently active source URLs from RSS feeds
+    current_rss_urls = {d["source_url"] for d in all_deals}
+
+    # Prune stale deals: no longer in any RSS feed AND older than 2 hours
+    now = datetime.now()
+    pruned_count = 0
+    fresh_existing = []
+    for deal in existing:
+        in_rss = deal.get("source_url") in current_rss_urls
+        try:
+            posted = datetime.fromisoformat(deal.get("posted_at", now.isoformat()))
+            age_hours = (now - posted).total_seconds() / 3600
+        except:
+            age_hours = 0
+        if not in_rss and age_hours > 2:
+            pruned_count += 1
+        else:
+            fresh_existing.append(deal)
+
+    if pruned_count:
+        print(f"  🗑️  Removed {pruned_count} stale deals no longer in RSS feeds")
+    existing = fresh_existing
+    existing_ids = {d["id"] for d in existing}
+
+    amazon_deals  = [d for d in all_deals if d["is_amazon"]]
+    other_deals   = [d for d in all_deals if not d["is_amazon"]]
+    new_count     = sum(1 for d in all_deals if make_id(d['title'], d['source_url']) not in existing_ids)
+    print(f"\n  🔎 Total deals scraped: {len(all_deals)} | Amazon: {len(amazon_deals)} | Other: {len(other_deals)} | New: {new_count}")
 
     direct  = 0
     skipped = 0
+    other_linked = 0
     new_deals = []
 
-    for deal in all_deals:
+    # ── Process Amazon deals (resolve ASIN) ──
+    for deal in amazon_deals:
         deal_id = make_id(deal["title"], deal["source_url"])
         if deal_id in existing_ids:
             continue
 
-        print(f"\n  🔍 {deal['title'][:55]}")
+        print(f"\n  🔍 [Amazon] {deal['title'][:55]}")
         asin = find_asin(deal["source_url"])
 
         if not asin:
@@ -324,43 +381,68 @@ def run():
 
         amazon_url = make_affiliate_link(asin)
         print(f"  ✅ amazon.com/dp/{asin}")
-        if deal.get('image'):
-            print(f"  🖼️  Image: {deal['image'][:60]}")
-        else:
-            print(f"  🖼️  No image in RSS")
 
         deal["id"]         = deal_id
         deal["amazon_url"] = amazon_url
         deal["asin"]       = asin
+        deal["store"]      = "Amazon"
         deal["posted_at"]  = datetime.now().isoformat()
         deal.pop("description", None)
+        deal.pop("is_amazon", None)
         new_deals.append(deal)
         direct += 1
         time.sleep(1)
+
+    # ── Process non-Amazon deals (affiliate redirect link) ──
+    for deal in other_deals:
+        deal_id = make_id(deal["title"], deal["source_url"])
+        if deal_id in existing_ids:
+            continue
+
+        print(f"\n  🔍 [Other] {deal['title'][:55]}")
+        affiliate_url = make_affiliate_redirect(deal["source_url"])
+        print(f"  🔗 Affiliate redirect: {affiliate_url[:70]}")
+
+        deal["id"]         = deal_id
+        deal["amazon_url"] = affiliate_url   # reuse same field so frontend works as-is
+        deal["asin"]       = None
+        # Detect store name from URL for display
+        for store in ["bestbuy", "target", "newegg", "ebay", "costco", "bhphotovideo"]:
+            if store in deal["source_url"].lower():
+                deal["store"] = store.title()
+                break
+        else:
+            deal["store"] = "Other"
+        deal["posted_at"]  = datetime.now().isoformat()
+        deal.pop("description", None)
+        deal.pop("is_amazon", None)
+        new_deals.append(deal)
+        other_linked += 1
 
     if new_deals:
         updated = new_deals + existing
         updated = updated[:200]
         save_deals(updated)
         print(f"\n{'='*50}")
-        print(f"🎉 Added {len(new_deals)} new Amazon deals!")
-        print(f"✅ Direct product links: {direct}")
+        print(f"🎉 Added {len(new_deals)} new deals!")
+        print(f"✅ Amazon (ASIN resolved): {direct}")
+        print(f"🔗 Other stores (affiliate redirect): {other_linked}")
         print(f"⏭️  Skipped (no ASIN): {skipped}")
         print(f"🖼️  With images: {sum(1 for d in new_deals if d.get('image'))}")
-        print(f"📊 Success rate: {int(direct/(direct+skipped)*100) if (direct+skipped) > 0 else 0}%")
+        print(f"📊 Amazon success rate: {int(direct/(direct+skipped)*100) if (direct+skipped) > 0 else 0}%")
         print(f"{'='*50}")
     else:
-        print("\n  ℹ️  No new Amazon deals found this run.")
+        print("\n  ℹ️  No new deals found this run.")
 
-    print(f"\n⏰ Next check in 15 minutes...")
+    print(f"\n⏰ Next check in 1 hour...")
 
-INTERVAL_MINUTES = 15
+INTERVAL_MINUTES = 60
 
 if __name__ == "__main__":
     print("🛍️  DealsInUSA Scraper Started!")
     print(f"🏷️  Affiliate tag: {AFFILIATE_TAG}")
     print(f"💾  Output file: {OUTPUT_FILE}")
-    print(f"🎯  Mode: Amazon deals only")
+    print(f"🎯  Mode: All deals (Amazon + Other stores, Walmart excluded)")
     print(f"🚀  Auto-push to GitHub: enabled")
     print(f"🖼️  Images: Slickdeals CDN + TechBargains")
     print(f"⏱️  Interval: every {INTERVAL_MINUTES} minutes")
