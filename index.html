@@ -8,11 +8,24 @@
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
 :root {
-  --red: #f80217; --red-dark: #c1121f;
+  --red: #fc0318; --red-dark: #c1121f;
   --gray-light: #f8f8f8; --gray: #e0e0e0;
   --gray-mid: #999; --gray-dark: #444; --black: #222;
   --shadow: 0 2px 8px rgba(0,0,0,0.08); --radius: 10px;
   --sidebar-w: 230px;
+}
+
+/* Price disclaimer on cards */
+.price-disclaimer {
+  font-size: 10px; color: #aaa; text-align: center;
+  padding: 4px 8px 6px; border-top: 1px solid #f0f0f0;
+}
+
+/* Price disclaimer in detail overlay */
+.detail-price-disclaimer {
+  font-size: 11px; color: #f0a500; background: #fffbf0;
+  border: 1px solid #ffe08a; border-radius: 5px;
+  padding: 5px 10px; margin-top: 6px; display: inline-block;
 }
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--gray-light); color: var(--black); }
 
@@ -418,6 +431,7 @@ footer { background: #222; color: #ccc; padding: 40px 16px 20px; margin-top: 40p
           <span class="detail-orig" id="detailOrig"></span>
           <span class="detail-save" id="detailSave" style="display:none"></span>
         </div>
+        <div class="detail-price-disclaimer">⚠️ Prices may vary by the time you check on Amazon</div>
         <div class="coupon-box">
           <div class="coupon-box-title">&#9986;&#65039; Coupon / Savings Info</div>
           <div id="couponContent"></div>
@@ -588,6 +602,7 @@ function createCard(deal, isHot) {
     <div class="card-footer">
       <a href="${deal.amazon_url}" target="_blank" rel="noopener sponsored" class="get-deal-btn">🛒 Get Deal on ${getStoreName(deal)}</a>
     </div>
+    <div class="price-disclaimer">⚠️ Prices may vary by the time you check</div>
   </div>`;
 }
 
@@ -806,11 +821,27 @@ async function loadDeals() {
     const res = await fetch('deals.json?t=' + Date.now());
     if (!res.ok) throw new Error('not found');
     const data = await res.json();
-    allDeals = data.map(d => ({
+    const rawDeals = data.map(d => ({
       ...d,
       category: d.category || detectCategory(d.title),
       discount: d.discount || extractDiscount(d.title),
     }));
+
+    // Deduplicate: prefer by ASIN first, then by normalized title
+    const seenAsins = new Set();
+    const seenTitles = new Set();
+    allDeals = rawDeals.filter(d => {
+      if (d.asin) {
+        if (seenAsins.has(d.asin)) return false;
+        seenAsins.add(d.asin);
+      }
+      // Also deduplicate by normalized title (lowercase, no punctuation)
+      const normTitle = d.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 60);
+      if (seenTitles.has(normTitle)) return false;
+      seenTitles.add(normTitle);
+      return true;
+    });
+
     // Scraper already returns only active/open deals
     activeDeals = allDeals.filter(d => d.price && d.price.toLowerCase() !== 'see price');
     filteredDeals = [...activeDeals];
