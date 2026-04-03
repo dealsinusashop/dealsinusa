@@ -1,5 +1,113 @@
 [
   {
+    "title": "Select Accts: 3-Pk 0.15-Oz ChapStick Lip Balm Variety Pack (3 Flavors) $2.35 w/ S&S",
+    "price": "$2.35",
+    "source_url": "https://slickdeals.net/f/19378344-sns-ac-2-33-3-pack-0-15-oz-chapstick-lip-balm-variety-pack-spearmint-cherry-strawberry-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20009085.thumb",
+    "id": "ae134baf7df08f9f421e364234cc927f",
+    "amazon_url": "https://www.amazon.com/dp/B07GVVRXRC?tag=dealsinusa0ab-20",
+    "asin": "B07GVVRXRC",
+    "store": "Amazon",
+    "posted_at": "2026-04-03T15:43:20.889141"
+  },
+  {
+    "title": "10-pk Eveready 2032 Coin Batteries $3.60 w/ S&S",
+    "price": "$3.60",
+    "source_url": "https://slickdeals.net/f/19379592-sns-ac-3-59-10-count-eveready-cr2032-lithium-3v-coin-batteries-at-amazon-35-9-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20012079.thumb",
+    "id": "b4020a13e79f3a73e949418f4b4a34a8",
+    "amazon_url": "https://www.amazon.com/dp/B0DDWJBM67?tag=dealsinusa0ab-20",
+    "asin": "B0DDWJBM67",
+    "store": "Amazon",
+    "posted_at": "2026-04-03T15:43:28.663321"
+  },
+  {
+    "title": "Pudolla Mens 11\" Shorts with Zipper Pockets $9.99",
+    "price": "$9.99",
+    "source_url": "https://www.amazon.com/gp/product/B0D1TPS7L6/ref=sw_img_1?smid=ASY38BIXP6X8Z&th=1&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/265538.1775247477.fit_lim.size_125x125.jpg",
+    "id": "a3dff4227dd200a79c027e7df3178b36",
+    "amazon_url": "https://www.amazon.com/dp/B0D1TPS7L6?tag=dealsinusa0ab-20",
+    "asin": "B0D1TPS7L6",
+    "store": "Amazon",
+    "posted_at": "2026-04-03T15:43:41.489207"
+  },
+  {
+    "title": "HOTO Flashlight Lite 1000lm Zoomable USB-C Rechargeable Flashlight $19.99",
+    "price": "$19.99",
+    "source_url": "https://www.amazon.com/HOTO-Flashlight-Rechargeable-Emergency-Accessories/dp/B09VN15WT1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/245552.1775246299.fit_lim.size_125x125.jpg",
+    "id": "dec6c3ea1f202bce0f6f31ac28d8ce49",
+    "amazon_url": "https://www.amazon.com/dp/B09VN15WT1?tag=dealsinusa0ab-20",
+    "asin": "B09VN15WT1",
+    "store": "Amazon",
+    "posted_at": "2026-04-03T15:43:42.489341"
+  },
+  {
+    "title": "Acemagic M1 AMD Ryzen 7 7735HS Mini Desktop (24GB/1TB) $411.59",
+    "price": "$411.59",
+    "source_url": "https://www.amazon.com/gp/product/B0FSX2LDPH/ref=ox_sc_saved_image_1?smid=A3B2L2569E179Z&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/254313.1775238711.fit_lim.size_125x125.jpg",
+    "id": "f491585780fcd904ea881177ddb4eafc",
+    "amazon_url": "https://www.amazon.com/dp/B0FSX2LDPH?tag=dealsinusa0ab-20",
+    "asin": "B0FSX2LDPH",
+    "store": "Amazon",
+    "posted_at": "2026-04-03T15:43:43.489497"
+  },
+  {
+    "title": "Lysol Pro Kitchen 22oz Citrus Antibacterial All Purpose Cleaning Spray $2.82",
+    "price": "$2.82",
+    "source_url": "https://www.amazon.com/gp/product/B00007J6CX/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/263841.1775246103.fit_lim.size_125x125.jpg",
+    "id": "1cd0fd0b770c091401114d7ff900352d",
+    "amazon_url": "https://www.amazon.com/dp/B00007J6CX?tag=dealsinusa0ab-20",
+    "asin": "B00007J6CX",
+    "store": "Amazon",
+    "posted_at": "2026-04-03T15:43:44.489661"
+  },
+  {
+    "title": "Pinspark Lightweight Long Sleeve Pullover Hoodie $6.11",
+    "price": "$6.11",
+    "source_url": "https://www.amazon.com/gp/product/B0FDJH63Z1/ref=ox_sc_act_title_1?smid=A154O6JL5L5T2Z&th=1&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/265652.1775245981.fit_lim.size_125x125.jpg",
+    "id": "19e2b52ffae49b305412b5ad909154ec",
+    "amazon_url": "https://www.amazon.com/dp/B0FDJH63Z1?tag=dealsinusa0ab-20",
+    "asin": "B0FDJH63Z1",
+    "store": "Amazon",
+    "posted_at": "2026-04-03T15:43:45.489800"
+  },
+  {
+    "title": "Women\u2019s Basic Tops Just $5.99 on Amazon",
+    "price": "$5.99",
+    "source_url": "https://hip2save.com/deals/amazon-womens-tops/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0G2Y3J8C4.01.LZZZZZZZ.jpg",
+    "id": "ef2d7596bce20d878110ce0df860a1da",
+    "amazon_url": "https://www.amazon.com/dp/B0G2Y3J8C4?tag=dealsinusa0ab-20",
+    "asin": "B0G2Y3J8C4",
+    "store": "Amazon",
+    "posted_at": "2026-04-03T15:43:59.093865"
+  },
+  {
+    "title": "Harry Potter Fruit Snacks 10-Count Just $2 Shipped on Amazon",
+    "price": "$2",
+    "source_url": "https://hip2save.com/deals/harry-potter-fruit-snacks/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0F2PZZNZC.01.LZZZZZZZ.jpg",
+    "id": "2b2146750e65bba3cf4c6a174a09cc5d",
+    "amazon_url": "https://www.amazon.com/dp/B0F2PZZNZC?tag=dealsinusa0ab-20",
+    "asin": "B0F2PZZNZC",
+    "store": "Amazon",
+    "posted_at": "2026-04-03T15:44:00.538392"
+  },
+  {
     "title": "20-oz Stanley AeroLight Transit Bottle (Twilight) $22.80",
     "price": "$22.80",
     "source_url": "https://slickdeals.net/f/19378215-stanley-20-oz-aerolight-transit-bottle-at-amazon-22-79?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -528,42 +636,6 @@
     "posted_at": "2026-04-03T13:41:52.605298"
   },
   {
-    "title": "5-Pk 16\" x 36\" Sterling Shelf Liners for Wire Shelf System $10",
-    "price": "$10",
-    "source_url": "https://slickdeals.net/f/19380123-9-99-sterling-shelf-liners-for-wire-shelf-system-set-of-5-in-graphite-16-x-36-inch-plastic-wire-shelving-mats-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/20013288.thumb",
-    "id": "5897e02cecdbbb651c8d902e19578023",
-    "amazon_url": "https://www.amazon.com/dp/B0DCC5N4Z4?tag=dealsinusa0ab-20",
-    "asin": "B0DCC5N4Z4",
-    "store": "Amazon",
-    "posted_at": "2026-04-03T12:39:20.283375"
-  },
-  {
-    "title": "12-Pk 12-Oz Canada Dry Zero Sugar Fruit Splash Cherry Ginger Ale Soda $4.75 w/ S&S",
-    "price": "$4.75",
-    "source_url": "https://slickdeals.net/f/19380048-sns-4-75-12-pack-12-oz-canada-dry-zero-sugar-fruit-splash-cherry-ginger-ale-soda-at-amazon-39-6-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20013132.thumb",
-    "id": "52caf18f3315c4c8632d09ffcb3db149",
-    "amazon_url": "https://www.amazon.com/dp/B0CJWYCRG4?tag=dealsinusa0ab-20",
-    "asin": "B0CJWYCRG4",
-    "store": "Amazon",
-    "posted_at": "2026-04-03T12:39:22.772312"
-  },
-  {
-    "title": "31L Swissgear 1900 Scansmart Laptop Backpack (Black/Blue) $52.70 + Free S&H",
-    "price": "$52.70",
-    "source_url": "https://slickdeals.net/f/19377738-52-72-31l-19-swissgear-1900-scansmart-laptop-backpack-blue-black-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20007756.thumb",
-    "id": "c422162ae94bd4f5c95ead69c2b61913",
-    "amazon_url": "https://www.amazon.com/dp/B00ESKYI4M?tag=dealsinusa0ab-20",
-    "asin": "B00ESKYI4M",
-    "store": "Amazon",
-    "posted_at": "2026-04-03T12:39:26.395036"
-  },
-  {
     "title": "Anagoo 2-Person Wide Double Hammock with Stand (Wide Blue) $59.99",
     "price": "$59.99",
     "source_url": "https://www.amazon.com/gp/product/B0DTHHGTN4/ref=ox_sc_saved_image_1?smid=A3WCGPTPL20O9&psc=1",
@@ -672,42 +744,6 @@
     "posted_at": "2026-04-03T12:39:46.198799"
   },
   {
-    "title": "Andola 33\" x 17\" Electric Heating Pad with 6 Heat Settings (Yellow) $19.99",
-    "price": "$19.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FLJV25LH/ref=sw_img_1?smid=A2GFOL1E948JEU&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/263555.1775228608.fit_lim.size_125x125.jpg",
-    "id": "90a5b21f77a48fa99fb2068fcc33c5df",
-    "amazon_url": "https://www.amazon.com/dp/B0FLJV25LH?tag=dealsinusa0ab-20",
-    "asin": "B0FLJV25LH",
-    "store": "Amazon",
-    "posted_at": "2026-04-03T12:39:47.198959"
-  },
-  {
-    "title": "Hydro Flask Insulated Stainless Steel Travel Water Bottle with Wide Straw Lid (40oz Mermaid Green) $24.98",
-    "price": "$24.98",
-    "source_url": "https://www.amazon.com/gp/product/B0GFFL16CK/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/235341.1775228604.fit_lim.size_125x125.jpg",
-    "id": "9fed57c8963cf5dab901964317c4f565",
-    "amazon_url": "https://www.amazon.com/dp/B0GFFL16CK?tag=dealsinusa0ab-20",
-    "asin": "B0GFFL16CK",
-    "store": "Amazon",
-    "posted_at": "2026-04-03T12:39:48.199122"
-  },
-  {
-    "title": "Heantle Fingerprint Smart Electronic Deadbolt Front Door Lock Set $64.99",
-    "price": "$64.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FJM4G68F/ref=sw_img_1?smid=A24W7EW7GA0YGM&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/265627.1775231598.fit_lim.size_125x125.jpg",
-    "id": "30fbf18436a24adaaabf8c6973d8cfaa",
-    "amazon_url": "https://www.amazon.com/dp/B0FJM4G68F?tag=dealsinusa0ab-20",
-    "asin": "B0FJM4G68F",
-    "store": "Amazon",
-    "posted_at": "2026-04-03T12:39:49.199288"
-  },
-  {
     "title": "Prime members can grab this 8-in-1 USB-C surge protector for only $9",
     "price": "$9",
     "source_url": "https://9to5toys.com/2026/04/03/addtam-5-foot-8-in-1-usb-c-surge-protector/",
@@ -742,18 +778,6 @@
     "asin": "B08G14NBCS",
     "store": "Amazon",
     "posted_at": "2026-04-03T12:40:06.017052"
-  },
-  {
-    "title": "Slim 4-Tier Rolling Storage Cart Only $9.91 on Amazon (Reg. $27)",
-    "price": "$9.91",
-    "source_url": "https://hip2save.com/deals/slim-rolling-storage-cart/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B08YRTHSTZ.01.LZZZZZZZ.jpg",
-    "id": "cc68af6447db4390815773681b61decf",
-    "amazon_url": "https://www.amazon.com/dp/B08YRTHSTZ?tag=dealsinusa0ab-20",
-    "asin": "B08YRTHSTZ",
-    "store": "Amazon",
-    "posted_at": "2026-04-03T12:40:09.048036"
   },
   {
     "title": "Dash Pumpkin Mini Waffle Maker Only $5 Shipped (Reg. $11)",
@@ -852,18 +876,6 @@
     "posted_at": "2026-04-03T10:37:11.382265"
   },
   {
-    "title": "Moukabal 13\"x17\" Stainless Steel Dish Rack with Swivel Spout $18.90",
-    "price": "$18.90",
-    "source_url": "https://www.amazon.com/gp/product/B09Z7TVXMN/ref=ox_sc_saved_image_1?smid=A3CTA89LGUN16N&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/264852.1775219973.fit_lim.size_125x125.jpg",
-    "id": "8324fd0cea54edc1d6f2db1b690fe129",
-    "amazon_url": "https://www.amazon.com/dp/B09Z7TVXMN?tag=dealsinusa0ab-20",
-    "asin": "B09Z7TVXMN",
-    "store": "Amazon",
-    "posted_at": "2026-04-03T10:37:15.382872"
-  },
-  {
     "title": "Kid\u2019s Mini Karaoke Machine Only $8.69 on Amazon",
     "price": "$8.69",
     "source_url": "https://hip2save.com/deals/kids-karaoke-machine/",
@@ -898,18 +910,6 @@
     "asin": "B09D1GJKBG",
     "store": "Amazon",
     "posted_at": "2026-04-03T10:37:37.112227"
-  },
-  {
-    "title": "Mod Podge 16oz Bottle Just $4.79 on Amazon",
-    "price": "$4.79",
-    "source_url": "https://hip2save.com/deals/mod-podge/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B00178QQJ8.01.LZZZZZZZ.jpg",
-    "id": "40e5dd46042482767668de160bf30939",
-    "amazon_url": "https://www.amazon.com/dp/B00178QQJ8?tag=dealsinusa0ab-20",
-    "asin": "B00178QQJ8",
-    "store": "Amazon",
-    "posted_at": "2026-04-03T10:37:38.434573"
   },
   {
     "title": "Parchment Paper Baking Sheets \u2013 12\u00d716 Inches, Non-Stick Precut, 200 Pieces \u2013 Just $15.62!",
