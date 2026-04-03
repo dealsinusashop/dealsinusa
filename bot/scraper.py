@@ -267,6 +267,24 @@ def scrape_dealsofamerica():
 def scrape_techbargains():
     return parse_rss("https://www.techbargains.com/rss.xml", "TechBargains")
 
+def scrape_dealnews():
+    return parse_rss("https://www.dealnews.com/c142/Electronics/?rss=1", "DealNews")
+
+def scrape_bensbargains():
+    return parse_rss("https://bensbargains.com/feed/", "BensBargains")
+
+def scrape_bradsdeals():
+    return parse_rss("https://www.bradsdeals.com/feed", "BradsDeals")
+
+def scrape_krazycouponlady():
+    return parse_rss("https://thekrazycouponlady.com/feed", "KrazyCouponLady")
+
+def scrape_9to5toys():
+    return parse_rss("https://9to5toys.com/feed/", "9to5Toys")
+
+def scrape_redflagdeals():
+    return parse_rss("https://forums.redflagdeals.com/feed/", "RedFlagDeals")
+
 # ─────────────────────────────
 # MAIN PIPELINE
 # ─────────────────────────────
@@ -281,6 +299,12 @@ def run():
     all_deals += scrape_slickdeals()
     all_deals += scrape_dealsofamerica()
     all_deals += scrape_techbargains()
+    all_deals += scrape_dealnews()
+    all_deals += scrape_bensbargains()
+    all_deals += scrape_bradsdeals()
+    all_deals += scrape_krazycouponlady()
+    all_deals += scrape_9to5toys()
+    all_deals += scrape_redflagdeals()
 
     # Build set of currently active source URLs from RSS feeds
     current_rss_urls = {d["source_url"] for d in all_deals}
@@ -366,7 +390,8 @@ if __name__ == "__main__":
     print(f"💾  Output file: {OUTPUT_FILE}")
     print(f"🎯  Mode: Amazon deals only (Walmart excluded)")
     print(f"🚀  Auto-push to GitHub: enabled")
-    print(f"🖼️  Images: Slickdeals CDN + TechBargains")
+    print(f"📡  Sources: Slickdeals, DealsOfAmerica, TechBargains, DealNews,")
+    print(f"            BensBargains, BradsDeals, KrazyCouponLady, 9to5Toys, RedFlagDeals")
     print(f"⏱️  Interval: every {INTERVAL_MINUTES} minutes")
 
     if os.path.exists(OUTPUT_FILE):
