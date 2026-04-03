@@ -109,34 +109,73 @@ def find_asin(url):
     return None
 
 def extract_image(item):
+    # Helper to clean and validate image URLs
+    def valid_img(url):
+        if not url or not url.startswith('http'):
+            return None
+        skip = ['placeholder', 'icon', 'logo', 'avatar', 'spinner',
+                'pixel', 'spacer', 'blank', 'tracking', '1x1', 'badge']
+        if any(s in url.lower() for s in skip):
+            return None
+        return url
+
+    # 1. Try media:content tag (used by many WordPress feeds)
+    media = item.find("media:content") or item.find("media:thumbnail")
+    if media:
+        url = media.get("url") or media.get("src")
+        if valid_img(url):
+            return url
+
+    # 2. Try enclosure tag
+    enclosure = item.find("enclosure")
+    if enclosure:
+        url = enclosure.get("url", "")
+        if valid_img(url) and any(x in url.lower() for x in ['.jpg','.jpeg','.png','.webp','.gif']):
+            return url
+
+    # 3. Try content:encoded (Slickdeals, Hip2Save, WordPress blogs)
     content = item.find("content:encoded") or item.find("encoded")
     if content:
         text = content.get_text() if hasattr(content, 'get_text') else str(content)
+        # Slickdeals CDN
         m = re.search(r'src=["\']?(https://static\.slickdealscdn\.com[^"\'>\s]+)', text)
-        if m:
+        if m and valid_img(m.group(1)):
             return m.group(1)
-        m = re.search(r'src=["\']?(https://[^"\'>\s]+\.(?:jpg|jpeg|png|webp)[^"\'>\s]*)', text, re.I)
-        if m:
+        # WordPress featured image (wp-content/uploads)
+        m = re.search(r'src=["\']?(https://[^"\'>\s]+/wp-content/uploads/[^"\'>\s]+\.(?:jpg|jpeg|png|webp))', text, re.I)
+        if m and valid_img(m.group(1)):
             return m.group(1)
+        # Any image URL
+        for m in re.finditer(r'src=["\']?(https://[^"\'>\s]+\.(?:jpg|jpeg|png|webp)(?:\?[^"\'>\s]*)?)', text, re.I):
+            url = m.group(1)
+            if valid_img(url):
+                return url
 
+    # 4. Try description field (TechBargains, Hip2Save, others)
     desc = item.find("description")
     if desc:
         text = desc.get_text() if hasattr(desc, 'get_text') else str(desc)
-        m = re.search(r"src='(https://www\.techbargains\.com/imagery/[^']+)'", text)
-        if m:
+        # TechBargains
+        m = re.search(r"src=['\"]?(https://www\.techbargains\.com/imagery/[^'\">\s]+)", text)
+        if m and valid_img(m.group(1)):
             return m.group(1)
-        m = re.search(r'src=["\']?(https://www\.techbargains\.com/imagery/[^"\'>\s]+)', text)
-        if m:
+        # WordPress wp-content uploads
+        m = re.search(r'src=["\']?(https://[^"\'>\s]+/wp-content/uploads/[^"\'>\s]+\.(?:jpg|jpeg|png|webp))', text, re.I)
+        if m and valid_img(m.group(1)):
             return m.group(1)
-        m = re.search(r'src=["\']?(https://[^"\'>\s]+\.(?:jpg|jpeg|png|webp)[^"\'>\s]*)', text, re.I)
-        if m:
+        # Any image URL in description
+        for m in re.finditer(r'src=["\']?(https://[^"\'>\s]+\.(?:jpg|jpeg|png|webp)(?:\?[^"\'>\s]*)?)', text, re.I):
             url = m.group(1)
-            if 'placeholder' not in url.lower() and 'icon' not in url.lower():
+            if valid_img(url):
                 return url
 
-    enclosure = item.find("enclosure")
-    if enclosure and enclosure.get("url"):
-        return enclosure["url"]
+    # 5. Try itunes:image or any other image tag
+    for tag in ["itunes:image", "image"]:
+        img_tag = item.find(tag)
+        if img_tag:
+            url = img_tag.get("href") or img_tag.get_text(strip=True)
+            if valid_img(url):
+                return url
 
     return ""
 
