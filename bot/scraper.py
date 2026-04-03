@@ -285,6 +285,21 @@ def scrape_9to5toys():
 def scrape_redflagdeals():
     return parse_rss("https://forums.redflagdeals.com/feed/", "RedFlagDeals")
 
+def scrape_hip2save():
+    return parse_rss("https://www.hip2save.com/feed/", "Hip2Save")
+
+def scrape_livingrichwithcoupons():
+    return parse_rss("https://www.livingrichwithcoupons.com/feed", "LivingRichWithCoupons")
+
+def scrape_freebies2deals():
+    return parse_rss("https://freebies2deals.com/feed/", "Freebies2Deals")
+
+def scrape_passionforsavings():
+    return parse_rss("https://www.passionforsavings.com/feed/", "PassionForSavings")
+
+def scrape_junglescout():
+    return parse_rss("https://www.junglescout.com/blog/feed/", "JungleScout")
+
 # ─────────────────────────────
 # MAIN PIPELINE
 # ─────────────────────────────
@@ -305,6 +320,11 @@ def run():
     all_deals += scrape_krazycouponlady()
     all_deals += scrape_9to5toys()
     all_deals += scrape_redflagdeals()
+    all_deals += scrape_hip2save()
+    all_deals += scrape_livingrichwithcoupons()
+    all_deals += scrape_freebies2deals()
+    all_deals += scrape_passionforsavings()
+    all_deals += scrape_junglescout()
 
     # Build set of currently active source URLs from RSS feeds
     current_rss_urls = {d["source_url"] for d in all_deals}
@@ -391,7 +411,9 @@ if __name__ == "__main__":
     print(f"🎯  Mode: Amazon deals only (Walmart excluded)")
     print(f"🚀  Auto-push to GitHub: enabled")
     print(f"📡  Sources: Slickdeals, DealsOfAmerica, TechBargains, DealNews,")
-    print(f"            BensBargains, BradsDeals, KrazyCouponLady, 9to5Toys, RedFlagDeals")
+    print(f"            BensBargains, BradsDeals, KrazyCouponLady, 9to5Toys,")
+    print(f"            RedFlagDeals, Hip2Save, LivingRichWithCoupons,")
+    print(f"            Freebies2Deals, PassionForSavings, JungleScout")
     print(f"⏱️  Interval: every {INTERVAL_MINUTES} minutes")
 
     if os.path.exists(OUTPUT_FILE):
