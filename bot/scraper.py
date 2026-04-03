@@ -309,7 +309,7 @@ def get_image_from_cdn(asin):
         pass
     return ""
 
-
+def scrape_slickdeals():
     return parse_rss(
         "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
         "Slickdeals"
@@ -463,4 +463,3 @@ if __name__ == "__main__":
     while True:
         run()
         time.sleep(INTERVAL_MINUTES * 60)
-
