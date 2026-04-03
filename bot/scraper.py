@@ -294,14 +294,26 @@ def parse_rss(url, source_name):
         print(f"  ❌ {source_name} error: {e}")
     return deals
 
-def scrape_slickdeals():
+def get_image_from_cdn(asin):
+    """Fallback: fetch product image directly from Amazon CDN using ASIN."""
+    try:
+        for url in [
+            f"https://www.amazon.com/images/P/{asin}.01.LZZZZZZZ.jpg",
+            f"https://images-na.ssl-images-amazon.com/images/P/{asin}.01.LZZZZZZZ.jpg",
+            f"https://m.media-amazon.com/images/P/{asin}.01._SL500_.jpg",
+        ]:
+            r = requests.head(url, headers=HEADERS, timeout=8, allow_redirects=True)
+            if r.status_code == 200 and 'image' in r.headers.get('content-type', ''):
+                return url
+    except:
+        pass
+    return ""
+
+
     return parse_rss(
         "https://slickdeals.net/newsearch.php?mode=frontpage&searcharea=deals&searchin=first&rss=1",
         "Slickdeals"
     )
-
-def scrape_dealsofamerica():
-    return parse_rss("https://www.dealsofamerica.com/rss.xml", "DealsOfAmerica")
 
 def scrape_techbargains():
     return parse_rss("https://www.techbargains.com/rss.xml", "TechBargains")
@@ -309,20 +321,8 @@ def scrape_techbargains():
 def scrape_dealnews():
     return parse_rss("https://www.dealnews.com/c142/Electronics/?rss=1", "DealNews")
 
-def scrape_bensbargains():
-    return parse_rss("https://bensbargains.com/feed/", "BensBargains")
-
-def scrape_bradsdeals():
-    return parse_rss("https://www.bradsdeals.com/feed", "BradsDeals")
-
-def scrape_krazycouponlady():
-    return parse_rss("https://thekrazycouponlady.com/feed", "KrazyCouponLady")
-
 def scrape_9to5toys():
     return parse_rss("https://9to5toys.com/feed/", "9to5Toys")
-
-def scrape_redflagdeals():
-    return parse_rss("https://forums.redflagdeals.com/feed/", "RedFlagDeals")
 
 def scrape_hip2save():
     return parse_rss("https://www.hip2save.com/feed/", "Hip2Save")
@@ -351,14 +351,9 @@ def run():
 
     all_deals = []
     all_deals += scrape_slickdeals()
-    all_deals += scrape_dealsofamerica()
     all_deals += scrape_techbargains()
     all_deals += scrape_dealnews()
-    all_deals += scrape_bensbargains()
-    all_deals += scrape_bradsdeals()
-    all_deals += scrape_krazycouponlady()
     all_deals += scrape_9to5toys()
-    all_deals += scrape_redflagdeals()
     all_deals += scrape_hip2save()
     all_deals += scrape_livingrichwithcoupons()
     all_deals += scrape_freebies2deals()
@@ -412,8 +407,15 @@ def run():
 
         amazon_url = make_affiliate_link(asin)
         print(f"  ✅ amazon.com/dp/{asin}")
+
+        # If no image from RSS, try Amazon CDN directly
+        if not deal.get('image'):
+            deal['image'] = get_image_from_cdn(asin)
+
         if deal.get('image'):
             print(f"  🖼️  Image: {deal['image'][:60]}")
+        else:
+            print(f"  🖼️  No image found")
 
         deal["id"]         = deal_id
         deal["amazon_url"] = amazon_url
@@ -449,10 +451,9 @@ if __name__ == "__main__":
     print(f"💾  Output file: {OUTPUT_FILE}")
     print(f"🎯  Mode: Amazon deals only (Walmart excluded)")
     print(f"🚀  Auto-push to GitHub: enabled")
-    print(f"📡  Sources: Slickdeals, DealsOfAmerica, TechBargains, DealNews,")
-    print(f"            BensBargains, BradsDeals, KrazyCouponLady, 9to5Toys,")
-    print(f"            RedFlagDeals, Hip2Save, LivingRichWithCoupons,")
-    print(f"            Freebies2Deals, PassionForSavings, JungleScout")
+    print(f"📡  Sources: Slickdeals, TechBargains, DealNews, 9to5Toys,")
+    print(f"            Hip2Save, LivingRichWithCoupons, Freebies2Deals,")
+    print(f"            PassionForSavings, JungleScout")
     print(f"⏱️  Interval: every {INTERVAL_MINUTES} minutes")
 
     if os.path.exists(OUTPUT_FILE):
@@ -462,3 +463,4 @@ if __name__ == "__main__":
     while True:
         run()
         time.sleep(INTERVAL_MINUTES * 60)
+
