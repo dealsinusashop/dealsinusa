@@ -405,6 +405,12 @@ def run():
             skipped += 1
             continue
 
+        # Skip deals with no price
+        if not deal.get("price") or deal["price"].lower() == "see price":
+            print(f"  ⏭️  Skipped — no price found")
+            skipped += 1
+            continue
+
         amazon_url = make_affiliate_link(asin)
         print(f"  ✅ amazon.com/dp/{asin}")
 
