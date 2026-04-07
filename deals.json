@@ -1,5 +1,17 @@
 [
   {
+    "title": "Rosalina's Storybook Hardcover (Super Mario Galaxy) $16.45",
+    "price": "$16.45",
+    "source_url": "https://slickdeals.net/f/19389801-rosalina-s-storybook-hardcover-super-mario-galaxy-16-44-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/2/5/6/5/0/6/300x300/20036085.thumb",
+    "id": "9f2c86b469c01ab2e143b07776b0a438",
+    "amazon_url": "https://www.amazon.com/dp/1506754902?tag=dealsinusa0ab-20",
+    "asin": "1506754902",
+    "store": "Amazon",
+    "posted_at": "2026-04-06T23:09:12.938052"
+  },
+  {
     "title": "24-Pk 8.4-Oz Red Bull Energy Drink (Original) $25.45 w/ S&S",
     "price": "$25.45",
     "source_url": "https://slickdeals.net/f/19388418-sns-ac-25-44-24-pack-8-4-oz-red-bull-energy-drink-original-at-amazon-1-06-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -336,54 +348,6 @@
     "posted_at": "2026-04-06T20:07:30.108245"
   },
   {
-    "title": "12-pk 5.5-oz Purina Friskies Wet Cat Food Variety Pack (Tasty Treasures Prime Filets) 2 for $12.10 & More w/ S&S",
-    "price": "$12.10",
-    "source_url": "https://slickdeals.net/f/19390302-sns-ac-39-31-2-40-pack-5-5-oz-friskies-wet-cat-food-surfin-and-turfin-19-66-each-at-amazon-49-1-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/4/5/4/3/2/5/300x300/20038479.thumb",
-    "id": "772d625135d11bd6463e27df1dea6386",
-    "amazon_url": "https://www.amazon.com/dp/B0777J8V5J?tag=dealsinusa0ab-20",
-    "asin": "B0777J8V5J",
-    "store": "Amazon",
-    "posted_at": "2026-04-06T19:05:46.953420"
-  },
-  {
-    "title": "Select Accounts: 12-Pk 3.5-Oz Crunch 'n Munch Caramel Popcorn w/ Peanuts $8.25 w/ S&S",
-    "price": "$8.25",
-    "source_url": "https://slickdeals.net/f/19387965-sns-ac-8-24-12-pack-3-5-oz-crunch-n-munch-caramel-popcorn-with-peanuts-at-amazon-68-7-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20031414.thumb",
-    "id": "94a66d55d7320fd32df23fc6b98def44",
-    "amazon_url": "https://www.amazon.com/dp/B009WN4HQY?tag=dealsinusa0ab-20",
-    "asin": "B009WN4HQY",
-    "store": "Amazon",
-    "posted_at": "2026-04-06T19:05:49.316033"
-  },
-  {
-    "title": "Select Accounts: 200-Ct Centrum Silver Men's 50+ Multivitamin Tablets $9.60 w/ S&S",
-    "price": "$9.60",
-    "source_url": "https://slickdeals.net/f/19386327-select-accounts-200-ct-centrum-silver-men-s-50-multivitamin-tablets-9-60-w-s-s?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/4/3/4/7/1/300x300/20029386.thumb",
-    "id": "dc86fe91954c6de66f1a9706925992ee",
-    "amazon_url": "https://www.amazon.com/dp/B09KCD4D7F?tag=dealsinusa0ab-20",
-    "asin": "B09KCD4D7F",
-    "store": "Amazon",
-    "posted_at": "2026-04-06T19:05:51.788630"
-  },
-  {
-    "title": "Select Accounts: 7oz. Active Seal & Grout Mold Stain Remover (Unscented) $10.35 w/ S&S",
-    "price": "$10.35",
-    "source_url": "https://slickdeals.net/f/19388022-select-accounts-7oz-active-seal-grout-mold-stain-remover-unscented-10-35-w-s-s?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20031600.thumb",
-    "id": "3026eef3b632a804aefa656e4d8c8384",
-    "amazon_url": "https://www.amazon.com/dp/B0CTS8VQ85?tag=dealsinusa0ab-20",
-    "asin": "B0CTS8VQ85",
-    "store": "Amazon",
-    "posted_at": "2026-04-06T19:05:54.336312"
-  },
-  {
     "title": "Apple MacBook Air 13.6\" M5 Chip Laptop (16GB/512GB) $949.99 | 15.3\" Laptop from $1150",
     "price": "$949.99",
     "source_url": "https://www.amazon.com/gp/product/B0GR19X8DC/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
@@ -574,30 +538,6 @@
     "asin": "B01ANP5US8",
     "store": "Amazon",
     "posted_at": "2026-04-06T19:06:21.601089"
-  },
-  {
-    "title": "3-pk 12.5-oz Mrs. Meyer's Clean Day Hand Soap (Compassion Flower) $9.35 w/ S&S",
-    "price": "$9.35",
-    "source_url": "https://slickdeals.net/f/19386360-sns-ac-9-16-3-pack-12-5-oz-mrs-meyer-s-clean-day-hand-soap-compassion-flower-at-amazon-3-05-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20027586.thumb",
-    "id": "baafa27802fef9e889c96529f7040a35",
-    "amazon_url": "https://www.amazon.com/dp/B0BC29LL92?tag=dealsinusa0ab-20",
-    "asin": "B0BC29LL92",
-    "store": "Amazon",
-    "posted_at": "2026-04-06T18:04:50.486255"
-  },
-  {
-    "title": "5.9\" Hyodream Rechargeable LED Moon Lamp w/ 16-Colors, Touch & Remote Control $8.40",
-    "price": "$8.40",
-    "source_url": "https://slickdeals.net/f/19388004-ac-8-39-5-9-hyodream-rechargeable-led-moon-lamp-w-16-colors-touch-remote-control-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20031537.thumb",
-    "id": "0f50778e8debb0fd0e65110ac372425c",
-    "amazon_url": "https://www.amazon.com/dp/B07HH5ZLRQ?tag=dealsinusa0ab-20",
-    "asin": "B07HH5ZLRQ",
-    "store": "Amazon",
-    "posted_at": "2026-04-06T18:04:59.066954"
   },
   {
     "title": "The advanced EGO 10-inch cordless electric carbon fiber pole saw with LED cutting light falls to $299 2026 low (Reg. $389)",
@@ -1150,18 +1090,6 @@
     "asin": "B000096QJQ",
     "store": "Amazon",
     "posted_at": "2026-04-06T13:00:07.383494"
-  },
-  {
-    "title": "Utz Potato Chips, Barbeque \u2013 1 Ounce (Pack of 60) \u2013 Just $15.27!",
-    "price": "$15.27",
-    "source_url": "https://freebies2deals.com/2026/04/utz-potato-chips-barbeque-1-ounce-pack-of-60-just-15-27.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2026/04/amchips.png",
-    "id": "b31352f86361421ebcfadc612c63e665",
-    "amazon_url": "https://www.amazon.com/dp/B00BJL1IUA?tag=dealsinusa0ab-20",
-    "asin": "B00BJL1IUA",
-    "store": "Amazon",
-    "posted_at": "2026-04-06T13:00:14.197659"
   },
   {
     "title": "Women\u2019s Memory Foam Slippers Just $9.99 on Amazon (Reg. $20)",
