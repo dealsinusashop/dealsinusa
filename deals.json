@@ -1,5 +1,89 @@
 [
   {
+    "title": "Select Accts: 14-Oz Stella & Chewy's Freeze-Dried Raw Dinner Patties (Chicken) $12 w/ S&S",
+    "price": "$12",
+    "source_url": "https://slickdeals.net/f/19401555-select-accts-14-oz-stella-chewy-s-freeze-dried-raw-dinner-patties-chicken-12-w-s-s?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/4/8/2/3/7/7/300x300/20069115.thumb",
+    "id": "7b4c0d06e691ae56fc8e719b0dbf4d81",
+    "amazon_url": "https://www.amazon.com/dp/B0018CK0EA?tag=dealsinusa0ab-20",
+    "asin": "B0018CK0EA",
+    "store": "Amazon",
+    "posted_at": "2026-04-09T18:13:12.642428"
+  },
+  {
+    "title": "12-Pk 12-Oz 7UP Cherry Flavored Soda $4.75 w/ S&S",
+    "price": "$4.75",
+    "source_url": "https://slickdeals.net/f/19399335-sns-4-75-12-pack-12-oz-7up-cherry-flavored-soda-at-amazon-39-6-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20061690.thumb",
+    "id": "0e28f07e0809876bd5edc3981e86872a",
+    "amazon_url": "https://www.amazon.com/dp/B000WG86GW?tag=dealsinusa0ab-20",
+    "asin": "B000WG86GW",
+    "store": "Amazon",
+    "posted_at": "2026-04-09T18:13:16.521104"
+  },
+  {
+    "title": "Sony WH-1000XM5 Noise Cancelling Wireless Headphones $248.00",
+    "price": "$248.00",
+    "source_url": "https://www.amazon.com/gp/product/B09XS7JWHH/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/257978.1775769435.fit_lim.size_125x125.jpg",
+    "id": "02d30c65700c3d0ed3d0fe8825f1be6f",
+    "amazon_url": "https://www.amazon.com/dp/B09XS7JWHH?tag=dealsinusa0ab-20",
+    "asin": "B09XS7JWHH",
+    "store": "Amazon",
+    "posted_at": "2026-04-09T18:13:28.579146"
+  },
+  {
+    "title": "DUMOS 48\" Height Adjustable Electric Standing Desk $69.99",
+    "price": "$69.99",
+    "source_url": "https://www.amazon.com/gp/product/B0G3WZ7H6T/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/265197.1775769248.fit_lim.size_125x125.jpg",
+    "id": "fbc58ba6439247d0a76a38cb5f0ffd04",
+    "amazon_url": "https://www.amazon.com/dp/B0G3WZ7H6T?tag=dealsinusa0ab-20",
+    "asin": "B0G3WZ7H6T",
+    "store": "Amazon",
+    "posted_at": "2026-04-09T18:13:29.579270"
+  },
+  {
+    "title": "Smonet Y1 Smart Fingerprint Keyless Front Door Lock Set with Handle $59.99",
+    "price": "$59.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GS8X2CRP/ref=ox_sc_act_title_1?smid=A2KFOZN1I78PGH&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/265828.1775769103.fit_lim.size_125x125.jpg",
+    "id": "3058b9123f82d4601e811ba94407ffeb",
+    "amazon_url": "https://www.amazon.com/dp/B0GS8X2CRP?tag=dealsinusa0ab-20",
+    "asin": "B0GS8X2CRP",
+    "store": "Amazon",
+    "posted_at": "2026-04-09T18:13:30.579369"
+  },
+  {
+    "title": "Bestselling Bible in 52 Weeks Study Book Only $7.85 on Amazon (Reg. $15)",
+    "price": "$7.85",
+    "source_url": "https://hip2save.com/deals/bible-in-52-weeks/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/164152815X.01.LZZZZZZZ.jpg",
+    "id": "9ede5c9bc9ec6bc8337e7e980a6df2b2",
+    "amazon_url": "https://www.amazon.com/dp/164152815X?tag=dealsinusa0ab-20",
+    "asin": "164152815X",
+    "store": "Amazon",
+    "posted_at": "2026-04-09T18:13:45.279437"
+  },
+  {
+    "title": "Reynolds Wrap Aluminum Foil 30-Foot Roll Only $2.71 Shipped on Amazon",
+    "price": "$2.71",
+    "source_url": "https://hip2save.com/deals/reynolds-wrap-aluminum-foil/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B09CDXP875.01.LZZZZZZZ.jpg",
+    "id": "c550212137df9c1704a9ac55aef56f33",
+    "amazon_url": "https://www.amazon.com/dp/B09CDXP875?tag=dealsinusa0ab-20",
+    "asin": "B09CDXP875",
+    "store": "Amazon",
+    "posted_at": "2026-04-09T18:13:47.272060"
+  },
+  {
     "title": "Marineland Bio-Wheel Penguin 350 GPH Aquarium Power Filter (Up to 75-Gal) $19.45 w/ S&S",
     "price": "$19.45",
     "source_url": "https://slickdeals.net/f/19400949-sns-19-45-marineland-penguin-bio-wheel-power-filter-multi-stage-aquarium-filtration-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -408,18 +492,6 @@
     "posted_at": "2026-04-09T16:11:36.744756"
   },
   {
-    "title": "Select Accounts: 2.75-Oz Amazon Grocery Chili Powder $0.70 w/ S&S",
-    "price": "$0.70",
-    "source_url": "https://slickdeals.net/f/19398225-sns-ac-0-72-2-75-oz-amazon-grocery-chili-powder-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/4/8/2/3/7/7/300x300/20067090.thumb",
-    "id": "0f9604b5282f18a0eaf82535b1154e6a",
-    "amazon_url": "https://www.amazon.com/dp/B07W1WVMDJ?tag=dealsinusa0ab-20",
-    "asin": "B07W1WVMDJ",
-    "store": "Amazon",
-    "posted_at": "2026-04-09T15:09:30.478668"
-  },
-  {
     "title": "Pinspark UPF 50+ Sun Protection Long Sleeve Hoodie $9.99",
     "price": "$9.99",
     "source_url": "https://www.amazon.com/gp/product/B0G6ZCBDRC/ref=sw_img_1?smid=A154O6JL5L5T2Z&psc=1",
@@ -720,42 +792,6 @@
     "posted_at": "2026-04-09T14:08:38.851129"
   },
   {
-    "title": "Eikules Hidden Camera Detector $8.99",
-    "price": "$8.99",
-    "source_url": "https://www.amazon.com/dp/B0GBTGVH51?m=A3SOZZ103ZYUGF&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/263632.1775755779.fit_lim.size_125x125.jpg",
-    "id": "0c503cb97f1d74c063fd4b39c78853e5",
-    "amazon_url": "https://www.amazon.com/dp/B0GBTGVH51?tag=dealsinusa0ab-20",
-    "asin": "B0GBTGVH51",
-    "store": "Amazon",
-    "posted_at": "2026-04-09T14:08:39.851291"
-  },
-  {
-    "title": "Anker Solix C1000 Gen 2 1024Wh LiFePO4 Portable Power Station $428.99",
-    "price": "$428.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FN7MSY4L/ref=ox_sc_act_title_1?smid=A294P4X9EWVXLJ&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/265441.1775755130.fit_lim.size_125x125.jpg",
-    "id": "e7359e0ca4027545d9bfd13992f4b00d",
-    "amazon_url": "https://www.amazon.com/dp/B0FN7MSY4L?tag=dealsinusa0ab-20",
-    "asin": "B0FN7MSY4L",
-    "store": "Amazon",
-    "posted_at": "2026-04-09T14:08:40.851450"
-  },
-  {
-    "title": "Yuhuo 3-in-1 Vibration Heated Elbow & Knee Massager with Touchscreen Control $25.81",
-    "price": "$25.81",
-    "source_url": "https://www.amazon.com/gp/product/B0FGXH7Y1C/ref=ox_sc_saved_image_1?smid=A27ZTNKATM1H5L&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/257478.1775739235.fit_lim.size_125x125.jpg",
-    "id": "635f18aa106d8354668043b7aa80f0e7",
-    "amazon_url": "https://www.amazon.com/dp/B0FGXH7Y1C?tag=dealsinusa0ab-20",
-    "asin": "B0FGXH7Y1C",
-    "store": "Amazon",
-    "posted_at": "2026-04-09T14:08:41.851608"
-  },
-  {
     "title": "Soda 12-Packs Only $4.75 Shipped on Amazon (7UP, A&W, Dr Pepper, Sunkist, & More)",
     "price": "$4.75",
     "source_url": "https://hip2save.com/deals/amazon-soda/",
@@ -912,18 +948,6 @@
     "posted_at": "2026-04-09T12:06:22.141739"
   },
   {
-    "title": "Cordless Beard Trimmer 15-Piece Set Only $14.99 on Amazon (Reg. $30)",
-    "price": "$14.99",
-    "source_url": "https://hip2save.com/deals/beard-trimmer/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FPWQ2QTT.01.LZZZZZZZ.jpg",
-    "id": "3d4f43338f4a55fc93d5d570083ac741",
-    "amazon_url": "https://www.amazon.com/dp/B0FPWQ2QTT?tag=dealsinusa0ab-20",
-    "asin": "B0FPWQ2QTT",
-    "store": "Amazon",
-    "posted_at": "2026-04-09T12:06:23.497637"
-  },
-  {
     "title": "2026 Graduation Cupcake Toppers \u2013 Just $9.99!",
     "price": "$9.99",
     "source_url": "https://freebies2deals.com/2026/04/2026-graduation-cupcake-toppers-just-9-99-2.html",
@@ -934,18 +958,6 @@
     "asin": "B0CWP7N87X",
     "store": "Amazon",
     "posted_at": "2026-04-09T12:06:28.463049"
-  },
-  {
-    "title": "50% Off Solid Gold Dog Food Topper on Amazon",
-    "price": "$2.99",
-    "source_url": "https://hip2save.com/deals/solid-gold-dog-food-topper/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0DJG2ZCW3.01.LZZZZZZZ.jpg",
-    "id": "194329b046334da90fe29e1c31d8897d",
-    "amazon_url": "https://www.amazon.com/dp/B0DJG2ZCW3?tag=dealsinusa0ab-20",
-    "asin": "B0DJG2ZCW3",
-    "store": "Amazon",
-    "posted_at": "2026-04-09T11:05:04.355691"
   },
   {
     "title": "2 Pack Upgraded Apple Watch Charger \u2013 Just $8.49!",
@@ -1078,18 +1090,6 @@
     "asin": "B09Q4GWMZQ",
     "store": "Amazon",
     "posted_at": "2026-04-08T13:44:49.395279"
-  },
-  {
-    "title": "Originally $3,700 LG 77-inch C5 OLED TV is $1,700 at Amazon right now ($2,000 under launch)",
-    "price": "$3,700",
-    "source_url": "https://9to5toys.com/2026/04/08/lg-77-inch-c5-oled-tv-deal/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/01/LG-OLED-C5.jpg",
-    "id": "c6b94afac2cd8abfb3f44e5ecb02ff60",
-    "amazon_url": "https://www.amazon.com/dp/B0DYQFW6TR?tag=dealsinusa0ab-20",
-    "asin": "B0DYQFW6TR",
-    "store": "Amazon",
-    "posted_at": "2026-04-08T12:43:48.612540"
   },
   {
     "title": "beetles Gel Polish Nail Set Dreamy Town Collection \u2013 20 Colors w/ Sparkle Glitter Uv Gel \u2013 Just $17.99!",
