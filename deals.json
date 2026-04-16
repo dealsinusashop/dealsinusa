@@ -1,5 +1,41 @@
 [
   {
+    "title": "3-Pc Fiskars Garden Tool Set $10.50",
+    "price": "$10.50",
+    "source_url": "https://slickdeals.net/f/19414497-10-49-3-pc-fiskars-garden-tool-set-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20099007.thumb",
+    "id": "5ac1367e8726f41fcefd894aca22197e",
+    "amazon_url": "https://www.amazon.com/dp/B01M26SAQQ?tag=dealsinusa0ab-20",
+    "asin": "B01M26SAQQ",
+    "store": "Amazon",
+    "posted_at": "2026-04-16T06:16:20.192227"
+  },
+  {
+    "title": "Amazon undercuts official Pixel 10 Pro XL deal, now $300 off (Extra $50 off starts today)",
+    "price": "$300",
+    "source_url": "https://9to5toys.com/2026/04/16/amazon-undercuts-pixel-10-pro-xl-deal-lowest/",
+    "source": "9to5Toys",
+    "image": "https://www.amazon.com/images/P/B0FFTPPFMZ.01.LZZZZZZZ.jpg",
+    "id": "74a66230f5b0d5e6365f6d660830f0db",
+    "amazon_url": "https://www.amazon.com/dp/B0FFTPPFMZ?tag=dealsinusa0ab-20",
+    "asin": "B0FFTPPFMZ",
+    "store": "Amazon",
+    "posted_at": "2026-04-16T06:16:28.906325"
+  },
+  {
+    "title": "Still live: AirPods Pro 3 back at $200 holiday pricing this week",
+    "price": "$200",
+    "source_url": "https://9to5toys.com/2026/04/16/this-weekend-airpods-pro-3-deal-now-live/",
+    "source": "9to5Toys",
+    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/01/AirPods-Pro-3-deal.jpg",
+    "id": "6315e9cee1bec1fb9a8e37131b5d7d8c",
+    "amazon_url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=dealsinusa0ab-20",
+    "asin": "B0FQFB8FMG",
+    "store": "Amazon",
+    "posted_at": "2026-04-16T06:16:30.051414"
+  },
+  {
     "title": "L Lohas 3000K Dimmable LED Night Lights (2-Pack) $6.99",
     "price": "$6.99",
     "source_url": "https://www.amazon.com/gp/product/B0B3XMTRHN/ref=sw_img_1?smid=A2X4NE86JUW3T&psc=1",
@@ -82,18 +118,6 @@
     "asin": "B000WGBK2Y",
     "store": "Amazon",
     "posted_at": "2026-04-16T00:11:16.997279"
-  },
-  {
-    "title": "DeWALT 9-Gal 3 in 1 Multi Function Wet and Dry Vacuum $70 + Free S&H",
-    "price": "$70",
-    "source_url": "https://slickdeals.net/f/19423812-69-98-dewalt-9-gal-3-in-1-multi-function-wet-and-dry-vacuum-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20122503.thumb",
-    "id": "af02c1d6862ec391d3ca748a04038977",
-    "amazon_url": "https://www.amazon.com/dp/B07BYDT7XX?tag=dealsinusa0ab-20",
-    "asin": "B07BYDT7XX",
-    "store": "Amazon",
-    "posted_at": "2026-04-16T00:11:22.104349"
   },
   {
     "title": "50% Off Girls Swimsuits on Amazon = Cute Styles from $8.49",
@@ -466,30 +490,6 @@
     "asin": "B0G34T3QMP",
     "store": "Amazon",
     "posted_at": "2026-04-15T19:06:44.231907"
-  },
-  {
-    "title": "Sungait Military Aviator Polarized Sunglasses $8.49",
-    "price": "$8.49",
-    "source_url": "https://www.amazon.com/gp/product/B07H3PQW3T/ref=ox_sc_act_title_1?smid=A23GDHSEKQ6LWC&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/258862.1776293073.fit_lim.size_125x125.jpg",
-    "id": "753bc0d1b6cfe6809b0e9dbc0543c3fe",
-    "amazon_url": "https://www.amazon.com/dp/B07H3PQW3T?tag=dealsinusa0ab-20",
-    "asin": "B07H3PQW3T",
-    "store": "Amazon",
-    "posted_at": "2026-04-15T19:06:45.232056"
-  },
-  {
-    "title": "XXXFLOWER Plant Terrarium with Wooden Stand $11.01",
-    "price": "$11.01",
-    "source_url": "https://www.amazon.com/gp/product/B07D29P5Z1/ref=ox_sc_act_title_1?smid=A28SPR73D5JUI&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/259073.1776292793.fit_lim.size_125x125.jpg",
-    "id": "9484f7f9f7479e498fdb9005c745e180",
-    "amazon_url": "https://www.amazon.com/dp/B07D29P5Z1?tag=dealsinusa0ab-20",
-    "asin": "B07D29P5Z1",
-    "store": "Amazon",
-    "posted_at": "2026-04-15T19:06:47.232365"
   },
   {
     "title": "Coslus C52 Electric Cordless Nail Drill $6.99",
@@ -982,18 +982,6 @@
     "asin": "B0GR17YNHL",
     "store": "Amazon",
     "posted_at": "2026-04-15T06:52:26.809185"
-  },
-  {
-    "title": "This week\u2019s AirPods Pro 3 deal is now live, back at $200 holiday pricing",
-    "price": "$200",
-    "source_url": "https://9to5toys.com/2026/04/15/this-weekend-airpods-pro-3-deal-now-live/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/01/AirPods-Pro-3-deal.jpg",
-    "id": "f1bcd88ab73176cb68e08ae6a37185cd",
-    "amazon_url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=dealsinusa0ab-20",
-    "asin": "B0FQFB8FMG",
-    "store": "Amazon",
-    "posted_at": "2026-04-15T05:51:17.348148"
   },
   {
     "title": "Budget shoppers and young riders alike can find commuting independence on Segway\u2019s E2 Plus e-scooter down at $280",
