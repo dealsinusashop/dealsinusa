@@ -1,5 +1,77 @@
 [
   {
+    "title": "Select Accounts: 3-Pk 4-Oz Velveeta Original Cheese Sauce Pouches $2.30 w/ S&S",
+    "price": "$2.30",
+    "source_url": "https://slickdeals.net/f/19430340-select-accounts-3-pk-4-oz-velveeta-original-cheese-sauce-pouches-2-30-w-s-s?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20137656.thumb",
+    "id": "54c1711ddead65c6275807cbd5e6930b",
+    "amazon_url": "https://www.amazon.com/dp/B00KGCCZ96?tag=dealsinusa0ab-20",
+    "asin": "B00KGCCZ96",
+    "store": "Amazon",
+    "posted_at": "2026-04-18T09:07:05.171684"
+  },
+  {
+    "title": "Select Accts: 24-Pk 11.15-Oz Sanpellegrino Zero Sparkling Drink (Peach Clementine) $12.60 w/ S&S",
+    "price": "$12.60",
+    "source_url": "https://slickdeals.net/f/19433544-sns-ac-12-61-24-pack-11-15-oz-san-pellegrino-zero-italian-sparkling-drinks-peach-clementine-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20146419.thumb",
+    "id": "51d6afd26687251ee1479f39f767b9a6",
+    "amazon_url": "https://www.amazon.com/dp/B0CD2PKZPC?tag=dealsinusa0ab-20",
+    "asin": "B0CD2PKZPC",
+    "store": "Amazon",
+    "posted_at": "2026-04-18T09:07:08.156374"
+  },
+  {
+    "title": "Jufinx X117 150,000rpm Brushless Motor 3-Gear Electric Compressed Air Duster $19.99",
+    "price": "$19.99",
+    "source_url": "https://www.amazon.com/gp/product/B0FND2524R/ref=ox_sc_act_title_1?smid=A4PNSHJMWBCOI&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/261179.1776514204.fit_lim.size_125x125.jpg",
+    "id": "d744a42ab8015ec93887b0491a3dcaeb",
+    "amazon_url": "https://www.amazon.com/dp/B0FND2524R?tag=dealsinusa0ab-20",
+    "asin": "B0FND2524R",
+    "store": "Amazon",
+    "posted_at": "2026-04-18T09:07:26.894319"
+  },
+  {
+    "title": "Gearwrench  3/8\" Drive 6 Point Standard & Deep Impact SAE/Metric Socket Set (44-Piece) $67.58",
+    "price": "$67.58",
+    "source_url": "https://www.amazon.com/gp/product/B00UM688Z6/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/253976.1776513901.fit_lim.size_125x125.jpg",
+    "id": "6a43c4c8764f539cbb03477f7afe2077",
+    "amazon_url": "https://www.amazon.com/dp/B00UM688Z6?tag=dealsinusa0ab-20",
+    "asin": "B00UM688Z6",
+    "store": "Amazon",
+    "posted_at": "2026-04-18T09:07:27.894502"
+  },
+  {
+    "title": "HQST 100W 12V Monocrystalline Solar Panel w/ Solar Connectors $44.99",
+    "price": "$44.99",
+    "source_url": "https://www.amazon.com/gp/product/B07L7ZGGVT/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/232134.1776513622.fit_lim.size_125x125.jpg",
+    "id": "5e7ed9675c716e99106f8c007628f49e",
+    "amazon_url": "https://www.amazon.com/dp/B07L7ZGGVT?tag=dealsinusa0ab-20",
+    "asin": "B07L7ZGGVT",
+    "store": "Amazon",
+    "posted_at": "2026-04-18T09:07:28.894728"
+  },
+  {
+    "title": "9to5Toys Fashion Weekly \u2013 Geometric sweatshirts,  Nike Air Max 270, Levi\u2019s Amazon sale, more",
+    "price": "$10",
+    "source_url": "https://9to5toys.com/2026/04/18/9to5toys-fashion-weekly-geometric-sweatshirts-nike-air-max-270-levis-amazon-sale-more/",
+    "source": "9to5Toys",
+    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2025/11/9to5toys-fashion-weekly-tan.jpg",
+    "id": "5244309e7ef9e597e11005616f2e4351",
+    "amazon_url": "https://www.amazon.com/dp/B0CGJJJC4M?tag=dealsinusa0ab-20",
+    "asin": "B0CGJJJC4M",
+    "store": "Amazon",
+    "posted_at": "2026-04-18T09:07:40.008826"
+  },
+  {
     "title": "ThermoMaven HT04 0.5-Sec Instant Read Digital Meat Thermometer (NIST Certified) $12.99",
     "price": "$12.99",
     "source_url": "https://www.amazon.com/gp/product/B0DNMTK56N/ref=ox_sc_act_title_1?smid=A16UKHHK50ZZN6&th=1",
@@ -84,18 +156,6 @@
     "posted_at": "2026-04-18T08:05:52.445907"
   },
   {
-    "title": "TWO Dash Mini Waffle Makers Just $9.98 on Amazon (Under $5 Each)",
-    "price": "$9.98",
-    "source_url": "https://hip2save.com/deals/dash-mini-waffle-maker/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B01M9I779L.01.LZZZZZZZ.jpg",
-    "id": "7d0e0c7b59834f6a79c9ae7811fa18e1",
-    "amazon_url": "https://www.amazon.com/dp/B01M9I779L?tag=dealsinusa0ab-20",
-    "asin": "B01M9I779L",
-    "store": "Amazon",
-    "posted_at": "2026-04-18T07:05:07.829042"
-  },
-  {
     "title": "32-Pc Milwaukee Shockwave Heavy Duty Impact Driver Bit Set $16 + Free Pickup",
     "price": "$16",
     "source_url": "https://slickdeals.net/f/19427748-15-99-32-pc-milwaukee-electric-tool-shockwave-heavy-duty-impact-driver-bit-set-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -142,18 +202,6 @@
     "asin": "B0CRFQ5BZT",
     "store": "Amazon",
     "posted_at": "2026-04-18T03:02:01.012496"
-  },
-  {
-    "title": "Seasonic Focus GX 850W ATX 3.1 80+ Gold Fully Modular Power Supply $109 + Free S&H",
-    "price": "$109",
-    "source_url": "https://slickdeals.net/f/19431477-108-99-seasonic-focus-gx-850w-power-supply-atx-3-1-pcie-5-1-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20140935.thumb",
-    "id": "00079335ca51d216e0338d4c1a8be25b",
-    "amazon_url": "https://www.amazon.com/dp/B0DP66HG7W?tag=dealsinusa0ab-20",
-    "asin": "B0DP66HG7W",
-    "store": "Amazon",
-    "posted_at": "2026-04-18T03:02:03.647259"
   },
   {
     "title": "50% Off Artificial Flowers on Amazon (Instant No-Maintenance Color w/ No Fading!)",
@@ -528,30 +576,6 @@
     "posted_at": "2026-04-17T16:54:57.295139"
   },
   {
-    "title": "3M Claw Drywall Picture Hanger (Up to 15lbs, 5x Hangers) $5.19",
-    "price": "$5.19",
-    "source_url": "https://www.amazon.com/gp/product/B08PXVPKD4/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/218272.1776457329.fit_lim.size_125x125.jpg",
-    "id": "cbc7b52e1afc09657ddcbdce8764d627",
-    "amazon_url": "https://www.amazon.com/dp/B08PXVPKD4?tag=dealsinusa0ab-20",
-    "asin": "B08PXVPKD4",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T16:54:58.295288"
-  },
-  {
-    "title": "Chelmon Slim Front Pocket RFID Blocking Wallet $3.99",
-    "price": "$3.99",
-    "source_url": "https://www.amazon.com/gp/product/B076DKRWZP/ref=ox_sc_act_title_1?smid=A371RDB7WRXL6D&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/264957.1776457297.fit_lim.size_125x125.jpg",
-    "id": "95f536a0793d9760289f3e1db389c388",
-    "amazon_url": "https://www.amazon.com/dp/B076DKRWZP?tag=dealsinusa0ab-20",
-    "asin": "B076DKRWZP",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T16:54:59.295445"
-  },
-  {
     "title": "Exclusive $870 savings hits Anker\u2019s eufy E15 RTK robot lawn mower with pure vision FSD cameras + AI support at a new $930 low",
     "price": "$870",
     "source_url": "https://9to5toys.com/2026/04/17/exclusive-anker-eufy-e15-rtk-robot-lawn-mower-at-new-930-low/",
@@ -768,18 +792,6 @@
     "posted_at": "2026-04-17T13:51:35.686505"
   },
   {
-    "title": "Women\u2019s Swimsuits from $11.99 on Amazon (Regularly $50)",
-    "price": "$11.99",
-    "source_url": "https://hip2save.com/deals/amazon-womens-swimsuit/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0G1LR6CRQ.01.LZZZZZZZ.jpg",
-    "id": "a88160867aa4d092713a0399ec1ea0fe",
-    "amazon_url": "https://www.amazon.com/dp/B0G1LR6CRQ?tag=dealsinusa0ab-20",
-    "asin": "B0G1LR6CRQ",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T13:51:37.751010"
-  },
-  {
     "title": "PURPLE LADYBUG 150 Rainbow Scratch Art Mini Notes \u2013 Just $5.59!",
     "price": "$5.59",
     "source_url": "https://freebies2deals.com/2026/04/purple-ladybug-150-rainbow-scratch-art-mini-notes-just-5-59.html",
@@ -994,18 +1006,6 @@
     "asin": "B0G4SWDH8P",
     "store": "Amazon",
     "posted_at": "2026-04-17T07:43:11.026971"
-  },
-  {
-    "title": "Amazon just knocked $100 off all Jet Black Apple Watch Series 11 models, plus more from $299",
-    "price": "$100",
-    "source_url": "https://9to5toys.com/2026/04/16/jet-black-apple-watch-series-11-deal-2/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2025/11/Apple-Watch-Series-11-best-price.jpg",
-    "id": "d1837af96850ed64725ef108458e575e",
-    "amazon_url": "https://www.amazon.com/dp/B0FQFL8PZ5?tag=dealsinusa0ab-20",
-    "asin": "B0FQFL8PZ5",
-    "store": "Amazon",
-    "posted_at": "2026-04-16T17:30:29.555531"
   },
   {
     "title": "Green Toys Car Carrier \u2013 Just $18.54!",
