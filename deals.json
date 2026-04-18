@@ -1,5 +1,53 @@
 [
   {
+    "title": "Spacekeeper Heavy Duty Folding Hand Truck (500lb Capacity) $18.84",
+    "price": "$18.84",
+    "source_url": "https://www.amazon.com/gp/product/B09C5R4QLY/ref=ox_sc_act_title_1?smid=A274ZGF02D9J1W&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/225910.1776515391.fit_lim.size_125x125.jpg",
+    "id": "c35512b23475eac2dff4f08dfc753ab8",
+    "amazon_url": "https://www.amazon.com/dp/B09C5R4QLY?tag=dealsinusa0ab-20",
+    "asin": "B09C5R4QLY",
+    "store": "Amazon",
+    "posted_at": "2026-04-18T10:08:25.291035"
+  },
+  {
+    "title": "Samsung ViewFinity S50GC Series 34\" 3440x1440 WQHD HDR 100Hz Wide Monitor $199.99",
+    "price": "$199.99",
+    "source_url": "https://www.amazon.com/gp/product/B0C6LSD69F/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/243533.1776515114.fit_lim.size_125x125.jpg",
+    "id": "3c3c3adaca53ef8bc22e95a93bfa7ff5",
+    "amazon_url": "https://www.amazon.com/dp/B0C6LSD69F?tag=dealsinusa0ab-20",
+    "asin": "B0C6LSD69F",
+    "store": "Amazon",
+    "posted_at": "2026-04-18T10:08:26.291169"
+  },
+  {
+    "title": "Insignia F20 Series 40\" FHD 1080p LED Smart Fire TV w/ Alexa Voice Remote $109.99",
+    "price": "$109.99",
+    "source_url": "https://www.amazon.com/gp/product/B0F256YJCK/ref=ewc_pr_img_1?smid=ANSF0RE9FUP82&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/219996.1776514908.fit_lim.size_125x125.jpg",
+    "id": "f0c8580ad4cd775dc2480948348235c6",
+    "amazon_url": "https://www.amazon.com/dp/B0F256YJCK?tag=dealsinusa0ab-20",
+    "asin": "B0F256YJCK",
+    "store": "Amazon",
+    "posted_at": "2026-04-18T10:08:27.291341"
+  },
+  {
+    "title": "Mechanical Pencil Set Just $6.74 Shipped on Amazon (Reg. $16)",
+    "price": "$6.74",
+    "source_url": "https://hip2save.com/deals/four-candies-mechanical-pencil-set/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0D46H7LS6.01.LZZZZZZZ.jpg",
+    "id": "b0d091a54e34178ecf776ee5d8363259",
+    "amazon_url": "https://www.amazon.com/dp/B0D46H7LS6?tag=dealsinusa0ab-20",
+    "asin": "B0D46H7LS6",
+    "store": "Amazon",
+    "posted_at": "2026-04-18T10:08:34.424348"
+  },
+  {
     "title": "Select Accounts: 3-Pk 4-Oz Velveeta Original Cheese Sauce Pouches $2.30 w/ S&S",
     "price": "$2.30",
     "source_url": "https://slickdeals.net/f/19430340-select-accounts-3-pk-4-oz-velveeta-original-cheese-sauce-pouches-2-30-w-s-s?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -178,30 +226,6 @@
     "asin": "B07MVBCWRF",
     "store": "Amazon",
     "posted_at": "2026-04-18T04:02:30.995199"
-  },
-  {
-    "title": "30-Ct Nature Valley Crunchy Granola Bars (Peanut Butter) $4.80 w/ S&S",
-    "price": "$4.80",
-    "source_url": "https://slickdeals.net/f/19428783-nature-valley-crunchy-granola-bars-peanut-butter-30-ct-22-35-oz-15-pouches-4-78-after-coupon-s-s-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/20146353.thumb",
-    "id": "e9b776801e47f7c721330eacb4994266",
-    "amazon_url": "https://www.amazon.com/dp/B0B1SR6KZM?tag=dealsinusa0ab-20",
-    "asin": "B0B1SR6KZM",
-    "store": "Amazon",
-    "posted_at": "2026-04-18T03:01:58.978692"
-  },
-  {
-    "title": "Casio MDV106 Series Unisex Analog 44mm Stainless Steel Watch $66 + Free S&H",
-    "price": "$66",
-    "source_url": "https://slickdeals.net/f/19429986-66-casio-mdv106-series-unisex-analog-44mm-stainless-steel-watch-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/8/2/3/9/6/6/7/300x300/20146236.thumb",
-    "id": "ddefb398049ead978d393d302d657400",
-    "amazon_url": "https://www.amazon.com/dp/B0CRFQ5BZT?tag=dealsinusa0ab-20",
-    "asin": "B0CRFQ5BZT",
-    "store": "Amazon",
-    "posted_at": "2026-04-18T03:02:01.012496"
   },
   {
     "title": "50% Off Artificial Flowers on Amazon (Instant No-Maintenance Color w/ No Fading!)",
@@ -552,30 +576,6 @@
     "posted_at": "2026-04-17T16:54:55.294831"
   },
   {
-    "title": "Apple MacBook Neo 13\" A18 Pro 2408x1506 Laptop (8GB/256GB) $589 | 512GB with Touch ID $689.99",
-    "price": "$589",
-    "source_url": "https://www.amazon.com/Apple-2026-MacBook-13-inch-Laptop/dp/B0GR6F79MT",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/264728.1776457414.fit_lim.size_125x125.jpg",
-    "id": "593131128aa777992e46492b58721991",
-    "amazon_url": "https://www.amazon.com/dp/B0GR6F79MT?tag=dealsinusa0ab-20",
-    "asin": "B0GR6F79MT",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T16:54:56.294984"
-  },
-  {
-    "title": "KitchenAid Full Size Stainless Steel Dish Rack $46",
-    "price": "$46",
-    "source_url": "https://www.amazon.com/KitchenAid-KNS896BXGRA-Full-Size-Light/dp/B078JXFBDP",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/87385.1776457341.fit_lim.size_125x125.jpg",
-    "id": "a69dc5ff49bc334995fc98790f714d4b",
-    "amazon_url": "https://www.amazon.com/dp/B078JXFBDP?tag=dealsinusa0ab-20",
-    "asin": "B078JXFBDP",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T16:54:57.295139"
-  },
-  {
     "title": "Exclusive $870 savings hits Anker\u2019s eufy E15 RTK robot lawn mower with pure vision FSD cameras + AI support at a new $930 low",
     "price": "$870",
     "source_url": "https://9to5toys.com/2026/04/17/exclusive-anker-eufy-e15-rtk-robot-lawn-mower-at-new-930-low/",
@@ -708,114 +708,6 @@
     "posted_at": "2026-04-17T14:53:07.927947"
   },
   {
-    "title": "New Amazon Pet Promo + Stackable Coupons = $100 Worth of Dog Treats Only $48 Shipped After Credit",
-    "price": "$100",
-    "source_url": "https://hip2save.com/deals/amazon-pet-promo/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B07MRCRJLJ.01.LZZZZZZZ.jpg",
-    "id": "a053f40c63e3aa0bedadcba0967c0993",
-    "amazon_url": "https://www.amazon.com/dp/B07MRCRJLJ?tag=dealsinusa0ab-20",
-    "asin": "B07MRCRJLJ",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T14:53:10.636847"
-  },
-  {
-    "title": "Nissin Chow Mein Teriyaki, Chicken, 4 Ounce \u2013 Pack of 8 \u2013 Just $7.75!",
-    "price": "$7.75",
-    "source_url": "https://freebies2deals.com/2026/04/nissin-chow-mein-teriyaki-chicken-4-ounce-pack-of-8-just-7-75.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2024/06/amnoodles.png",
-    "id": "5a7aa284ca012b7537534e423f60baf4",
-    "amazon_url": "https://www.amazon.com/dp/B0052T72CI?tag=dealsinusa0ab-20",
-    "asin": "B0052T72CI",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T14:53:15.823849"
-  },
-  {
-    "title": "Softsoap Antibacterial Liquid Hand Soap Refill, 50 Ounce, Crisp Clean Scent \u2013 Just $4.09!",
-    "price": "$4.09",
-    "source_url": "https://freebies2deals.com/2026/04/softsoap-antibacterial-liquid-hand-soap-refill-50-ounce-crisp-clean-scent-just-4-09.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2025/09/amsoftsoap.png",
-    "id": "1e1665649e4666f6a988f2fd306e326e",
-    "amazon_url": "https://www.amazon.com/dp/B081FFRGZB?tag=dealsinusa0ab-20",
-    "asin": "B081FFRGZB",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T14:53:17.085710"
-  },
-  {
-    "title": "Kamrui P2 Intel Core i5-12600H Mini Desktop (16GB/512GB) $339.15",
-    "price": "$339.15",
-    "source_url": "https://www.amazon.com/gp/product/B0FJ85SCQ3/ref=ox_sc_saved_image_1?smid=A2ZLCM9VDH4JQE&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/265067.1776438560.fit_lim.size_125x125.jpg",
-    "id": "4e819dca6d712d5fd18aaa4860fc2b5a",
-    "amazon_url": "https://www.amazon.com/dp/B0FJ85SCQ3?tag=dealsinusa0ab-20",
-    "asin": "B0FJ85SCQ3",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T13:51:18.375926"
-  },
-  {
-    "title": "Kraft Mac & Cheese Only 87\u00a2 Shipped on Amazon",
-    "price": "$1.24",
-    "source_url": "https://hip2save.com/deals/kraft-mac-cheese/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B000PXZZQG.01.LZZZZZZZ.jpg",
-    "id": "ecc17154d182cbc7edfe8e286d2a8f1a",
-    "amazon_url": "https://www.amazon.com/dp/B000PXZZQG?tag=dealsinusa0ab-20",
-    "asin": "B000PXZZQG",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T13:51:31.435709"
-  },
-  {
-    "title": "Flashlight Gloves Just $8.99 on Amazon (Reg. $23) | Father\u2019s Day Gift Idea!",
-    "price": "$8.99",
-    "source_url": "https://hip2save.com/deals/flashlight-gloves/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0B82ND59N.01.LZZZZZZZ.jpg",
-    "id": "a1e764c8ca2a5a164b09dbf511332650",
-    "amazon_url": "https://www.amazon.com/dp/B0B82ND59N?tag=dealsinusa0ab-20",
-    "asin": "B0B82ND59N",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T13:51:33.894662"
-  },
-  {
-    "title": "Snyder\u2019s Pretzels 10-Pack Just $4 Shipped on Amazon (Reg. $8)",
-    "price": "$4",
-    "source_url": "https://hip2save.com/deals/snyders-pretzels/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B00JVLQBR0.01.LZZZZZZZ.jpg",
-    "id": "5369a6e976d6010022d22d40a5a07087",
-    "amazon_url": "https://www.amazon.com/dp/B00JVLQBR0?tag=dealsinusa0ab-20",
-    "asin": "B00JVLQBR0",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T13:51:35.686505"
-  },
-  {
-    "title": "PURPLE LADYBUG 150 Rainbow Scratch Art Mini Notes \u2013 Just $5.59!",
-    "price": "$5.59",
-    "source_url": "https://freebies2deals.com/2026/04/purple-ladybug-150-rainbow-scratch-art-mini-notes-just-5-59.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2025/05/amscratchart.png",
-    "id": "894b501e6bede8092923543fe66e742c",
-    "amazon_url": "https://www.amazon.com/dp/B07218YVCZ?tag=dealsinusa0ab-20",
-    "asin": "B07218YVCZ",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T13:51:45.352077"
-  },
-  {
-    "title": "Clay Beads Bracelet Making Kit with 5000Pcs \u2013 Just $5.99!",
-    "price": "$5.99",
-    "source_url": "https://freebies2deals.com/2026/04/clay-beads-bracelet-making-kit-with-5000pcs-just-5-99-3.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2024/02/amclaybeads.png",
-    "id": "0850e700bdda2a3ee5032e30e9c651da",
-    "amazon_url": "https://www.amazon.com/dp/B0BWMPGFVL?tag=dealsinusa0ab-20",
-    "asin": "B0BWMPGFVL",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T13:51:46.661928"
-  },
-  {
     "title": "Bissell Little Green Multi-Purpose Portable Carpet & Upholstery Cleaner Kit (1400B) $99.99",
     "price": "$99.99",
     "source_url": "https://www.amazon.com/gp/product/B0016HF5GK/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
@@ -852,30 +744,6 @@
     "posted_at": "2026-04-17T12:50:18.096436"
   },
   {
-    "title": "Hot Toy Deals! Time to Refill the Gift Closet? Take up to 70% off toys at Amazon!",
-    "price": "$35",
-    "source_url": "https://freebies2deals.com/2026/04/hot-toy-deals-time-to-refill-the-gift-closet-take-up-to-70-off-toys-at-amazon-118.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2025/05/amtoyclear.png",
-    "id": "ce28d372cd077578da0cd47ce23819ae",
-    "amazon_url": "https://www.amazon.com/dp/B00DBYBNEE?tag=dealsinusa0ab-20",
-    "asin": "B00DBYBNEE",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T12:50:30.502958"
-  },
-  {
-    "title": "LEGO Botanicals Lucky Bamboo Building Set 10344 \u2013 Just $23.99!",
-    "price": "$23.99",
-    "source_url": "https://freebies2deals.com/2026/04/lego-botanicals-lucky-bamboo-building-set-10344-just-23-99.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2026/04/amlegobb.png",
-    "id": "ad6c8d54fd7004b8e3e9bb286513e63e",
-    "amazon_url": "https://www.amazon.com/dp/B0DJ18ZWYQ?tag=dealsinusa0ab-20",
-    "asin": "B0DJ18ZWYQ",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T12:50:31.804008"
-  },
-  {
     "title": "These geometric textured sweatshirts are only $10 Prime shipped across various colorways (50% off)",
     "price": "$10",
     "source_url": "https://9to5toys.com/2026/04/17/g-gradual-geometric-textured-crewneck-sweatshirt/",
@@ -886,18 +754,6 @@
     "asin": "B0FJLPGLVG",
     "store": "Amazon",
     "posted_at": "2026-04-17T11:48:50.930500"
-  },
-  {
-    "title": "LEGO Creator 3 in1 Wild Animals: Colorful Hummingbird 31384 \u2013 Just $24.99!",
-    "price": "$24.99",
-    "source_url": "https://freebies2deals.com/2026/04/lego-creator-3-in1-wild-animals-colorful-hummingbird-31384-just-24-99.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2026/04/amlegohb.png",
-    "id": "81ccb06478d6944e5b1f21e30dea0eae",
-    "amazon_url": "https://www.amazon.com/dp/B0FMS7YJFM?tag=dealsinusa0ab-20",
-    "asin": "B0FMS7YJFM",
-    "store": "Amazon",
-    "posted_at": "2026-04-17T11:49:01.918973"
   },
   {
     "title": "EcoFlow weekend flash sale cuts up to 61% off units, like the DELTA 3 Plus 440W solar bundle at a new $899 low, more",
@@ -1008,66 +864,6 @@
     "posted_at": "2026-04-17T07:43:11.026971"
   },
   {
-    "title": "Green Toys Car Carrier \u2013 Just $18.54!",
-    "price": "$18.54",
-    "source_url": "https://freebies2deals.com/2026/04/green-toys-car-carrier-just-18-54.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2021/06/amgtcarc.png",
-    "id": "3ce5dc3f5a10fe93cf6d785ad8e25ef1",
-    "amazon_url": "https://www.amazon.com/dp/B06WLLMXF8?tag=dealsinusa0ab-20",
-    "asin": "B06WLLMXF8",
-    "store": "Amazon",
-    "posted_at": "2026-04-16T14:27:14.442576"
-  },
-  {
-    "title": "StarKist Tuna Creations Hickory Smoked, 2.6 Oz, Pack of 12 \u2013 Just $12.65!",
-    "price": "$12.65",
-    "source_url": "https://freebies2deals.com/2026/04/starkist-tuna-creations-hickory-smoked-2-6-oz-pack-of-12-just-12-65.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2024/01/amtuna.png",
-    "id": "f24e1a53b5c5ebc4683c412ad01bdc00",
-    "amazon_url": "https://www.amazon.com/dp/B07GFQ6TYX?tag=dealsinusa0ab-20",
-    "asin": "B07GFQ6TYX",
-    "store": "Amazon",
-    "posted_at": "2026-04-16T13:25:34.170389"
-  },
-  {
-    "title": "ArtNaturals Organic Beeswax Lip Balm Gift Set \u2013 Just $7.47!",
-    "price": "$7.47",
-    "source_url": "https://freebies2deals.com/2026/04/artnaturals-organic-beeswax-lip-balm-gift-set-just-7-47.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2024/02/ambalm.png",
-    "id": "aff98e21417d5524e816f792374b555a",
-    "amazon_url": "https://www.amazon.com/dp/B01I0I0DY6?tag=dealsinusa0ab-20",
-    "asin": "B01I0I0DY6",
-    "store": "Amazon",
-    "posted_at": "2026-04-16T13:25:35.464906"
-  },
-  {
-    "title": "Cinnamon Toast Crunch, Breakfast Cereal, Cinnamon Sugar Squares, 12 oz \u2013 Just $2.67!",
-    "price": "$2.67",
-    "source_url": "https://freebies2deals.com/2026/04/cinnamon-toast-crunch-breakfast-cereal-cinnamon-sugar-squares-12-oz-just-2-67-4.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2022/03/amctcereal.png",
-    "id": "c76108fd1e28bf43d84ecfd006f9a0e7",
-    "amazon_url": "https://www.amazon.com/dp/B07CX3GRXV?tag=dealsinusa0ab-20",
-    "asin": "B07CX3GRXV",
-    "store": "Amazon",
-    "posted_at": "2026-04-16T12:24:09.080622"
-  },
-  {
-    "title": "3 Pairs Sterling Silver Hoop Earrings \u2013 14k White Gold Plated \u2013 Just $11.33!",
-    "price": "$11.33",
-    "source_url": "https://freebies2deals.com/2026/04/3-pairs-sterling-silver-hoop-earrings-14k-white-gold-plated-just-11-33.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2019/08/earrings.png",
-    "id": "fa3693c48a69d8d4c424037937ebc613",
-    "amazon_url": "https://www.amazon.com/dp/B07T4FR5HS?tag=dealsinusa0ab-20",
-    "asin": "B07T4FR5HS",
-    "store": "Amazon",
-    "posted_at": "2026-04-16T11:22:44.768963"
-  },
-  {
     "title": "Ropeless Weighted Battle Ropes 2 Pack for $13.xx on Amazon | HIIT & Cardio Workout!",
     "price": "$13",
     "source_url": "https://www.livingrichwithcoupons.com/2026/04/ropeless-weighted-battle-ropes-2-pack-for-13-xx-on-amazon-hiit-cardio-workout.html",
@@ -1078,149 +874,5 @@
     "asin": "B0FWD17HPB",
     "store": "Amazon",
     "posted_at": "2026-04-16T09:19:56.321919"
-  },
-  {
-    "title": "6 Pack LED Night Lights with Dusk to Dawn Sensor \u2013 Just $9.99!",
-    "price": "$9.99",
-    "source_url": "https://freebies2deals.com/2026/04/6-pack-led-night-lights-with-dusk-to-dawn-sensor-just-9-99.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2026/02/amlednl.png",
-    "id": "6eb9cafd5419c54817c00a68bafba16c",
-    "amazon_url": "https://www.amazon.com/dp/B0DGG7V2ND?tag=dealsinusa0ab-20",
-    "asin": "B0DGG7V2ND",
-    "store": "Amazon",
-    "posted_at": "2026-04-15T15:03:08.408780"
-  },
-  {
-    "title": "Airborne Elderberry + Zinc & Vitamin C Effervescent Tablets, Immune Support Supplement \u2013 20 Count \u2013 Just $11.13!",
-    "price": "$11.13",
-    "source_url": "https://freebies2deals.com/2026/04/airborne-elderberry-zinc-vitamin-c-effervescent-tablets-immune-support-supplement-20-count-just-11-13.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2023/08/amair.png",
-    "id": "59e445d7dce93dcedddbc51df6c231d6",
-    "amazon_url": "https://www.amazon.com/dp/B086CGZQT9?tag=dealsinusa0ab-20",
-    "asin": "B086CGZQT9",
-    "store": "Amazon",
-    "posted_at": "2026-04-15T15:03:09.699365"
-  },
-  {
-    "title": "Maruchan Instant Lunch Beef, Ramen Noodle Soup, 12 Count \u2013 Just $5.58!",
-    "price": "$5.58",
-    "source_url": "https://freebies2deals.com/2026/04/maruchan-instant-lunch-beef-ramen-noodle-soup-12-count-just-5-58.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2025/10/amramn.png",
-    "id": "c63d5dde7ef00f96dddbaa65fe796e7d",
-    "amazon_url": "https://www.amazon.com/dp/B003OB69PC?tag=dealsinusa0ab-20",
-    "asin": "B003OB69PC",
-    "store": "Amazon",
-    "posted_at": "2026-04-15T14:01:52.745150"
-  },
-  {
-    "title": "TUMS Smoothies Extra Strength Antacid Tablets, Berry Fusion \u2013 140 Count \u2013 Just $4.99!",
-    "price": "$4.99",
-    "source_url": "https://freebies2deals.com/2026/04/tums-smoothies-extra-strength-antacid-tablets-berry-fusion-140-count-just-4-99.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2023/09/amtums.png",
-    "id": "eb5aedbe7a44c790cb3a47c0092b48e6",
-    "amazon_url": "https://www.amazon.com/dp/B00399H31S?tag=dealsinusa0ab-20",
-    "asin": "B00399H31S",
-    "store": "Amazon",
-    "posted_at": "2026-04-15T14:01:53.998675"
-  },
-  {
-    "title": "Amazon Basics 100 Pack AA High-Performance Alkaline Batteries \u2013 Just $14.84!",
-    "price": "$14.84",
-    "source_url": "https://freebies2deals.com/2026/04/amazon-basics-100-pack-aa-high-performance-alkaline-batteries-just-14-84.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2023/04/amaabatt.png",
-    "id": "76d0c4d3a3250ce41a770e4fc037c532",
-    "amazon_url": "https://www.amazon.com/dp/B01B8R6PF2?tag=dealsinusa0ab-20",
-    "asin": "B01B8R6PF2",
-    "store": "Amazon",
-    "posted_at": "2026-04-15T13:00:12.224832"
-  },
-  {
-    "title": "Portable NOAA Weather Radio, Battery Operated Emergency NOAA/AM/FM Radio \u2013 Just $23.99!",
-    "price": "$23.99",
-    "source_url": "https://freebies2deals.com/2026/04/portable-noaa-weather-radio-battery-operated-emergency-noaa-am-fm-radio-just-23-99-3.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2022/09/amweathrad.png",
-    "id": "c5abab3a0ef6f789186ee75df9705960",
-    "amazon_url": "https://www.amazon.com/dp/B07P7QDJZX?tag=dealsinusa0ab-20",
-    "asin": "B07P7QDJZX",
-    "store": "Amazon",
-    "posted_at": "2026-04-15T13:00:13.530994"
-  },
-  {
-    "title": "Monster Energy Zero Ultra, Sugar Free Energy Drink, 16 Ounce \u2013 Pack of 15 \u2013 Just $12.37!",
-    "price": "$12.37",
-    "source_url": "https://freebies2deals.com/2026/04/monster-energy-zero-ultra-sugar-free-energy-drink-16-ounce-pack-of-15-just-12-37.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2026/04/ammonster.png",
-    "id": "b48e4a1997b583e3975ae6e9bfed884a",
-    "amazon_url": "https://www.amazon.com/dp/B0BL7316GD?tag=dealsinusa0ab-20",
-    "asin": "B0BL7316GD",
-    "store": "Amazon",
-    "posted_at": "2026-04-15T11:58:58.884761"
-  },
-  {
-    "title": "Dixie Paper Plates, 8 1/2 inch, 90 Count \u2013 Just $5.69!",
-    "price": "$5.69",
-    "source_url": "https://freebies2deals.com/2026/04/dixie-paper-plates-8-1-2-inch-90-count-just-5-69-3.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2023/06/amdixie.png",
-    "id": "abf45dc575765fc8e7dd7f4352984ef5",
-    "amazon_url": "https://www.amazon.com/dp/B0748J34WZ?tag=dealsinusa0ab-20",
-    "asin": "B0748J34WZ",
-    "store": "Amazon",
-    "posted_at": "2026-04-14T14:37:42.303085"
-  },
-  {
-    "title": "Emergen-C Immune+ Triple Action Immune Support Powder, Raspberry \u2013 30 Count \u2013 Just $7.99!",
-    "price": "$7.99",
-    "source_url": "https://freebies2deals.com/2026/04/emergen-c-immune-triple-action-immune-support-powder-raspberry-30-count-just-7-99-2.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2025/07/amemer.png",
-    "id": "c8df72b5fd997e7522c0187e21b11870",
-    "amazon_url": "https://www.amazon.com/dp/B00ND99HY0?tag=dealsinusa0ab-20",
-    "asin": "B00ND99HY0",
-    "store": "Amazon",
-    "posted_at": "2026-04-14T13:36:22.504863"
-  },
-  {
-    "title": "LEGO Creator 3 in 1 Wild Animals Surprising Spider 31159 \u2013 Just $9.99!",
-    "price": "$9.99",
-    "source_url": "https://freebies2deals.com/2026/04/lego-creator-3-in-1-wild-animals-surprising-spider-31159-just-9-99.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2025/03/amspilego.png",
-    "id": "41bcc878799141afbdd9f6f11de93347",
-    "amazon_url": "https://www.amazon.com/dp/B0DJ1BQHQX?tag=dealsinusa0ab-20",
-    "asin": "B0DJ1BQHQX",
-    "store": "Amazon",
-    "posted_at": "2026-04-14T13:36:23.786203"
-  },
-  {
-    "title": "Rice Krispies Treats Mini Crispy Marshmallow Squares 52 Count \u2013 Just $6.78!",
-    "price": "$6.78",
-    "source_url": "https://freebies2deals.com/2026/04/rice-krispies-treats-mini-crispy-marshmallow-squares-52-count-just-6-78.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2025/04/wmricekrisp.png",
-    "id": "9fbb80ce7ddfb1960f7aa425df02a2bc",
-    "amazon_url": "https://www.amazon.com/dp/B0BV7BT26B?tag=dealsinusa0ab-20",
-    "asin": "B0BV7BT26B",
-    "store": "Amazon",
-    "posted_at": "2026-04-14T13:36:25.080942"
-  },
-  {
-    "title": "Chuckit! Ultra Fetch Stick Dog Toy \u2013 Just $6.94!",
-    "price": "$6.94",
-    "source_url": "https://freebies2deals.com/2026/04/chuckit-ultra-fetch-stick-dog-toy-just-6-94.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2022/08/amdog.png",
-    "id": "41f69c0ae4cb479b7cf0091b55e4f1cc",
-    "amazon_url": "https://www.amazon.com/dp/B07SK3R2C3?tag=dealsinusa0ab-20",
-    "asin": "B07SK3R2C3",
-    "store": "Amazon",
-    "posted_at": "2026-04-14T12:34:54.294014"
   }
 ]
