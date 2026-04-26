@@ -1,5 +1,17 @@
 [
   {
+    "title": "Today Only: Women\u2019s Joggers Just $6.99 on Amazon",
+    "price": "$6.99",
+    "source_url": "https://hip2save.com/deals/amazon-joggers/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0DQPVJD72.01.LZZZZZZZ.jpg",
+    "id": "1e867208f43eebc8f610bb427656304e",
+    "amazon_url": "https://www.amazon.com/dp/B0DQPVJD72?tag=dealsinusa0ab-20",
+    "asin": "B0DQPVJD72",
+    "store": "Amazon",
+    "posted_at": "2026-04-26T10:33:46.813365"
+  },
+  {
     "title": "JBL Vibe Beam True Wireless Earphones $29.95",
     "price": "$29.95",
     "source_url": "https://slickdeals.net/f/19436415-29-95-jbl-vibe-beam-true-wireless-earphones-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -46,18 +58,6 @@
     "asin": "B0C26LBWNM",
     "store": "Amazon",
     "posted_at": "2026-04-26T08:31:50.712811"
-  },
-  {
-    "title": "1.7-Oz Supergoop! Unseen SPF 50 Sunscreen $19",
-    "price": "$19",
-    "source_url": "https://slickdeals.net/f/19460352-supergoop-unseen-sunscreen-spf-50-clear-invisible-face-sunscreen-1-7-fl-oz-19?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/6/2/0/0/0/9/300x300/20215959.thumb",
-    "id": "03a2524b065289dc32576b7b3194d429",
-    "amazon_url": "https://www.amazon.com/dp/B0DPNL864S?tag=dealsinusa0ab-20",
-    "asin": "B0DPNL864S",
-    "store": "Amazon",
-    "posted_at": "2026-04-26T08:31:53.183454"
   },
   {
     "title": "Select Accts: 12-Pk 7.5-Oz Kraft Mac and Cheese Boxes $6.90 w/ S&S",
@@ -502,30 +502,6 @@
     "asin": "B0B748ZXM4",
     "store": "Amazon",
     "posted_at": "2026-04-25T13:19:29.079215"
-  },
-  {
-    "title": "Cast Iron Dutch Oven Just $34.49 Shipped on Amazon (Reg. $69)",
-    "price": "$34.49",
-    "source_url": "https://hip2save.com/deals/cast-iron-dutch-oven/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0BYJRFPMS.01.LZZZZZZZ.jpg",
-    "id": "da91e505753d6974d0c44a86d6f5f57a",
-    "amazon_url": "https://www.amazon.com/dp/B0BYJRFPMS?tag=dealsinusa0ab-20",
-    "asin": "B0BYJRFPMS",
-    "store": "Amazon",
-    "posted_at": "2026-04-25T13:19:30.974639"
-  },
-  {
-    "title": "Crunch \u2018n Munch 12-Pack Only $8 Shipped on Amazon",
-    "price": "$8",
-    "source_url": "https://hip2save.com/deals/crunch-n-munch/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B009WN4HQY.01.LZZZZZZZ.jpg",
-    "id": "23c2178c39178acc2738d3d5d093cb27",
-    "amazon_url": "https://www.amazon.com/dp/B009WN4HQY?tag=dealsinusa0ab-20",
-    "asin": "B009WN4HQY",
-    "store": "Amazon",
-    "posted_at": "2026-04-25T13:19:32.680905"
   },
   {
     "title": "Wemax 500 ISO Lumens 1080P Smart Google TV 120\" Projector w/ Dual 5W Speaker $179.99",
