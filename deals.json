@@ -1,5 +1,101 @@
 [
   {
+    "title": "7-oz Pepperidge Farm Milano White Chocolate Lemon Flavored Cookies 2 for $5.40 w/ S&S",
+    "price": "$5.40",
+    "source_url": "https://slickdeals.net/f/19502112-sns-ac-5-41-2-7-oz-pepperidge-farm-milano-cookies-white-chocolate-lemon-flavored-2-71-each-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20330040.thumb",
+    "id": "55687a3ec1036863840805ef44904bdc",
+    "amazon_url": "https://www.amazon.com/dp/B0DD5MQ9LT?tag=dealsinusa0ab-20",
+    "asin": "B0DD5MQ9LT",
+    "store": "Amazon",
+    "posted_at": "2026-05-08T15:33:14.699158"
+  },
+  {
+    "title": "Wegear G80-24100 PIXIU 98 Mechanical Gaming Keyboard with Knob $66.49",
+    "price": "$66.49",
+    "source_url": "https://www.amazon.com/gp/product/B0FX2HP3KR/ref=ox_sc_act_title_1?smid=A3GCS82NQ4ID6T&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/266808.1778267526.fit_lim.size_125x125.jpg",
+    "id": "036190d841a8403c63612ad945ee8285",
+    "amazon_url": "https://www.amazon.com/dp/B0FX2HP3KR?tag=dealsinusa0ab-20",
+    "asin": "B0FX2HP3KR",
+    "store": "Amazon",
+    "posted_at": "2026-05-08T15:33:27.930786"
+  },
+  {
+    "title": "Beautural 2-Speed Stainless Steel Blade Fabric Shaver & Lint Remover $6.98",
+    "price": "$6.98",
+    "source_url": "https://www.amazon.com/gp/product/B07RK796J6/ref=ox_sc_act_title_1?smid=ASGE5N8Y3OYHT&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/253694.1778265185.fit_lim.size_125x125.jpg",
+    "id": "4004845228d26c50722cb3acaf02c64e",
+    "amazon_url": "https://www.amazon.com/dp/B07RK796J6?tag=dealsinusa0ab-20",
+    "asin": "B07RK796J6",
+    "store": "Amazon",
+    "posted_at": "2026-05-08T15:33:28.930929"
+  },
+  {
+    "title": "Sungait UV400 Ultra Lightweight Rectangular Polarized Sunglasses $6.79",
+    "price": "$6.79",
+    "source_url": "https://www.amazon.com/gp/product/B07D25KB1S/ref=ox_sc_act_title_1?smid=A23GDHSEKQ6LWC&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/160213.1778265159.fit_lim.size_125x125.jpg",
+    "id": "e1ff7fca77d9657bdaee706dea141331",
+    "amazon_url": "https://www.amazon.com/dp/B07D25KB1S?tag=dealsinusa0ab-20",
+    "asin": "B07D25KB1S",
+    "store": "Amazon",
+    "posted_at": "2026-05-08T15:33:29.931045"
+  },
+  {
+    "title": "Ashgoob 2\" Office Chair Wheels (Set of 5) $13.39",
+    "price": "$13.39",
+    "source_url": "https://www.amazon.com/gp/product/B0FD7PD58L/ref=ox_sc_act_title_1?smid=A34F2D010AY621&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/266415.1778265355.fit_lim.size_125x125.jpg",
+    "id": "8cedfa3d6f52dc37910182f22623f8fb",
+    "amazon_url": "https://www.amazon.com/dp/B0FD7PD58L?tag=dealsinusa0ab-20",
+    "asin": "B0FD7PD58L",
+    "store": "Amazon",
+    "posted_at": "2026-05-08T15:33:30.931173"
+  },
+  {
+    "title": "50% Off Custom Neon Signs on Amazon + Free Shipping",
+    "price": "$9.99",
+    "source_url": "https://hip2save.com/deals/custom-neon-sign/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0D22L4LYY.01.LZZZZZZZ.jpg",
+    "id": "151b0a20f8daeb73d518dac5f9eaf0eb",
+    "amazon_url": "https://www.amazon.com/dp/B0D22L4LYY?tag=dealsinusa0ab-20",
+    "asin": "B0D22L4LYY",
+    "store": "Amazon",
+    "posted_at": "2026-05-08T15:33:42.534004"
+  },
+  {
+    "title": "Get 50% Off Ouidad Hair Products on Amazon | Climate Control Shampoo Only $11 Shipped (Reg. $24)",
+    "price": "$11",
+    "source_url": "https://hip2save.com/deals/ouidad-hair-products/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B073RRTZ66.01.LZZZZZZZ.jpg",
+    "id": "ccf92b4794b57caf1b09608f73ed1dbe",
+    "amazon_url": "https://www.amazon.com/dp/B073RRTZ66?tag=dealsinusa0ab-20",
+    "asin": "B073RRTZ66",
+    "store": "Amazon",
+    "posted_at": "2026-05-08T15:33:43.925753"
+  },
+  {
+    "title": "Toddler Swim Vest Floaties Only $13.99 on Amazon (Reg. $30)",
+    "price": "$13.99",
+    "source_url": "https://hip2save.com/deals/toddler-swim-vest/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FX5CWSZM.01.LZZZZZZZ.jpg",
+    "id": "f3957b733e01a16decbb98ad5f95e6a7",
+    "amazon_url": "https://www.amazon.com/dp/B0FX5CWSZM?tag=dealsinusa0ab-20",
+    "asin": "B0FX5CWSZM",
+    "store": "Amazon",
+    "posted_at": "2026-05-08T15:33:45.270262"
+  },
+  {
     "title": "DJI Neo 4K UHD Mini Drone w/ 3x Batteries & 2-Way Charging Hub (Controller-Free) $199 + Free S&H",
     "price": "$199",
     "source_url": "https://slickdeals.net/f/19501383-dji-neo-three-battery-combo-mini-drone-4k-uhd-camera-controller-free-199-99-fs-various-sellers-on-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -612,66 +708,6 @@
     "posted_at": "2026-05-08T12:30:06.973425"
   },
   {
-    "title": "KYY X90E 15.6\" 1080p IPS USB-C Dual Portable Monitor Laptop Extender $215.99",
-    "price": "$215.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FWK11JHY/ref=ox_sc_saved_image_1?smid=A2INEX8WFAATT3&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/264651.1778247273.fit_lim.size_125x125.jpg",
-    "id": "0fd8bbb068c2eb9cb5ec4b4dabaf3634",
-    "amazon_url": "https://www.amazon.com/dp/B0FWK11JHY?tag=dealsinusa0ab-20",
-    "asin": "B0FWK11JHY",
-    "store": "Amazon",
-    "posted_at": "2026-05-08T12:30:07.973575"
-  },
-  {
-    "title": "Libin 9\" Mens Water-Resistant Quick Dry Hiking Shorts $14.99",
-    "price": "$14.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FX93M6WM/ref=sw_img_1?smid=A3NZPOMD22XCCN&th=1&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266791.1778254587.fit_lim.size_125x125.jpg",
-    "id": "5e19a4c7434bb479e5d0e70cd0e9701d",
-    "amazon_url": "https://www.amazon.com/dp/B0FX93M6WM?tag=dealsinusa0ab-20",
-    "asin": "B0FX93M6WM",
-    "store": "Amazon",
-    "posted_at": "2026-05-08T12:30:08.973723"
-  },
-  {
-    "title": "Osulloc Premium Tea Collection (40-Count, 10 flavors x 4 each) $27.99",
-    "price": "$27.99",
-    "source_url": "https://www.amazon.com/gp/product/B07L9KDSNN/ref=ewc_pr_img_1?smid=AFNDG2SC47T1S&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266788.1778253201.fit_lim.size_125x125.jpg",
-    "id": "bac9f3b89840a0bf6d4d3289bad81b5e",
-    "amazon_url": "https://www.amazon.com/dp/B07L9KDSNN?tag=dealsinusa0ab-20",
-    "asin": "B07L9KDSNN",
-    "store": "Amazon",
-    "posted_at": "2026-05-08T12:30:09.973850"
-  },
-  {
-    "title": "Febreze Fabric Spray Air Freshener (23.6oz) $3.69",
-    "price": "$3.69",
-    "source_url": "https://www.amazon.com/gp/product/B0DKPH19SV/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266787.1778252787.fit_lim.size_125x125.jpg",
-    "id": "e6fac6fc015316e61559792b390aa1d9",
-    "amazon_url": "https://www.amazon.com/dp/B0DKPH19SV?tag=dealsinusa0ab-20",
-    "asin": "B0DKPH19SV",
-    "store": "Amazon",
-    "posted_at": "2026-05-08T12:30:10.973989"
-  },
-  {
-    "title": "Nymzview J16 4K WiFi GPS Dash Cam with 2.5K Rear & 2.5K Cabin Cams, 64GB Card $65.39",
-    "price": "$65.39",
-    "source_url": "https://www.amazon.com/gp/product/B0GJLQ73PK/ref=sw_img_1?smid=A3FC0NN68U9SL0&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/265857.1778251739.fit_lim.size_125x125.jpg",
-    "id": "e34d651ada48428b6e7a1f8b06e853cd",
-    "amazon_url": "https://www.amazon.com/dp/B0GJLQ73PK?tag=dealsinusa0ab-20",
-    "asin": "B0GJLQ73PK",
-    "store": "Amazon",
-    "posted_at": "2026-05-08T12:30:11.974202"
-  },
-  {
     "title": "Carry meals and keep them heated in this 1.3-liter East Oak cordless electric lunch box for a $65 low",
     "price": "$65",
     "source_url": "https://9to5toys.com/2026/05/08/1-3-liter-east-oak-cordless-electric-lunch-box-65-low/",
@@ -718,18 +754,6 @@
     "asin": "B09BDCKMFT",
     "store": "Amazon",
     "posted_at": "2026-05-08T12:30:32.106452"
-  },
-  {
-    "title": "Koilboane 4-in-1 Hidden Camera & Bug Detector $19.99",
-    "price": "$19.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GSYJY533/ref=ox_sc_act_title_1?smid=AGKJTJPI6XZ1S&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266785.1778251812.fit_lim.size_125x125.jpg",
-    "id": "0111d0768d8447501d4e01ec2267f999",
-    "amazon_url": "https://www.amazon.com/dp/B0GSYJY533?tag=dealsinusa0ab-20",
-    "asin": "B0GSYJY533",
-    "store": "Amazon",
-    "posted_at": "2026-05-08T11:28:56.675351"
   },
   {
     "title": "Wearable Sleeping Bag Just $27.99 on Amazon | Must-Have for Soccer Moms, Tailgates & Camping",
@@ -852,30 +876,6 @@
     "posted_at": "2026-05-08T08:25:36.038389"
   },
   {
-    "title": "Nongshim Ramen Noodles 6-Pack Just $5.70 Shipped on Amazon",
-    "price": "$5.70",
-    "source_url": "https://hip2save.com/deals/nongshim/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B017IRZJK8.01.LZZZZZZZ.jpg",
-    "id": "2df3355e17bf2bae318a76e00afdc6f5",
-    "amazon_url": "https://www.amazon.com/dp/B017IRZJK8?tag=dealsinusa0ab-20",
-    "asin": "B017IRZJK8",
-    "store": "Amazon",
-    "posted_at": "2026-05-08T08:25:37.498802"
-  },
-  {
-    "title": "Reese\u2019s Filled Pretzels Just $2.94 Shipped on Amazon",
-    "price": "$2.94",
-    "source_url": "https://hip2save.com/deals/reeses-pretzels/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0DL2G4FKX.01.LZZZZZZZ.jpg",
-    "id": "caa294c4155c2180a5ad853cc32465b6",
-    "amazon_url": "https://www.amazon.com/dp/B0DL2G4FKX?tag=dealsinusa0ab-20",
-    "asin": "B0DL2G4FKX",
-    "store": "Amazon",
-    "posted_at": "2026-05-08T08:25:39.310080"
-  },
-  {
     "title": "One of the best deals ever on Galaxy Tab S11, now as low as $540 (Reg. $900)",
     "price": "$540",
     "source_url": "https://9to5toys.com/2026/05/08/best-deals-ever-galaxy-tab-s11/",
@@ -898,54 +898,6 @@
     "asin": "B0FQFL8PZ5",
     "store": "Amazon",
     "posted_at": "2026-05-08T07:24:31.989945"
-  },
-  {
-    "title": "Reese\u2019s Filled Pretzel Just $2.82 Shipped on Amazon",
-    "price": "$2.82",
-    "source_url": "https://hip2save.com/deals/reeses-pretzels/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0DL2G4FKX.01.LZZZZZZZ.jpg",
-    "id": "bee26a05629c896dc8341f281b776204",
-    "amazon_url": "https://www.amazon.com/dp/B0DL2G4FKX?tag=dealsinusa0ab-20",
-    "asin": "B0DL2G4FKX",
-    "store": "Amazon",
-    "posted_at": "2026-05-08T07:24:34.111554"
-  },
-  {
-    "title": "Up to 65% Off Women\u2019s Maxi & Mini Dresses on Amazon",
-    "price": "$19.99",
-    "source_url": "https://hip2save.com/deals/womens-dresses/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FXQ5BLMY.01.LZZZZZZZ.jpg",
-    "id": "f742e4cc6ca79fb506ba373c95f775c2",
-    "amazon_url": "https://www.amazon.com/dp/B0FXQ5BLMY?tag=dealsinusa0ab-20",
-    "asin": "B0FXQ5BLMY",
-    "store": "Amazon",
-    "posted_at": "2026-05-07T23:18:59.417441"
-  },
-  {
-    "title": "Luseta Rosemary Mint Shampoo & Conditioner Set Only $14.74 Shipped on Amazon",
-    "price": "$14.74",
-    "source_url": "https://hip2save.com/deals/luseta-rosemary-mint-shampoo-conditioner/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0CGTW78F9.01.LZZZZZZZ.jpg",
-    "id": "186294a9605436f46d5699e676633751",
-    "amazon_url": "https://www.amazon.com/dp/B0CGTW78F9?tag=dealsinusa0ab-20",
-    "asin": "B0CGTW78F9",
-    "store": "Amazon",
-    "posted_at": "2026-05-07T22:18:17.561386"
-  },
-  {
-    "title": "Amazon\u2019s M3 iPad Air clearance deals up to $300 off still shipping in time for Mom\u2019s big day",
-    "price": "$300",
-    "source_url": "https://9to5toys.com/2026/05/07/amazon-m3-ipad-air-clearance-deals-mothers-day/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/03/ipad-air-m4-first-deal.webp",
-    "id": "25f4725989a2459a94d86b202d7e9367",
-    "amazon_url": "https://www.amazon.com/dp/B0GQVJJZ2M?tag=dealsinusa0ab-20",
-    "asin": "B0GQVJJZ2M",
-    "store": "Amazon",
-    "posted_at": "2026-05-07T16:13:08.886015"
   },
   {
     "title": "Vintage Aesthetic Stickers \u2013 50 Pcs, Vinyl Waterproof Stickers for Water Bottles, Laptops, Phones, Computers and more \u2013 Just $4.79!",
