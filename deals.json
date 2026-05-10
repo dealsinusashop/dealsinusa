@@ -1,5 +1,101 @@
 [
   {
+    "title": "12-Pk 12-Oz Canada Dry Cherry Ginger Ale (Fruit Splash) $4.75 w/ S&S",
+    "price": "$4.75",
+    "source_url": "https://slickdeals.net/f/19505094-sns-4-75-12-pk-12-oz-canada-dry-cherry-ginger-ale-fruit-splash-at-amazon-39-6-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20338314.thumb",
+    "id": "855ddee588bb4c4fa70d27d01b482b43",
+    "amazon_url": "https://www.amazon.com/dp/B0CJX7YDKN?tag=dealsinusa0ab-20",
+    "asin": "B0CJX7YDKN",
+    "store": "Amazon",
+    "posted_at": "2026-05-10T16:08:07.581124"
+  },
+  {
+    "title": "40-Ct OSULLOC Premium Tea Collection (10 Flavors) $28",
+    "price": "$28",
+    "source_url": "https://slickdeals.net/f/19487805-40-ct-osulloc-premium-tea-collection-10-flavors-28?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/5/9/4/5/1/300x300/20347794.thumb",
+    "id": "3a310a6c62bc8f79fc82602cb0ad999a",
+    "amazon_url": "https://www.amazon.com/dp/B07L9KDSNN?tag=dealsinusa0ab-20",
+    "asin": "B07L9KDSNN",
+    "store": "Amazon",
+    "posted_at": "2026-05-10T16:08:13.559383"
+  },
+  {
+    "title": "Wegear PIXIU 98 Mechanical Gaming Keyboard with Knob $66.49",
+    "price": "$66.49",
+    "source_url": "https://www.amazon.com/gp/product/B0FX2HP3KR/ref=sw_img_1?smid=A3GCS82NQ4ID6T&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/266808.1778438793.fit_lim.size_125x125.jpg",
+    "id": "6f4b4bbebf0bf078f03e398055f1a175",
+    "amazon_url": "https://www.amazon.com/dp/B0FX2HP3KR?tag=dealsinusa0ab-20",
+    "asin": "B0FX2HP3KR",
+    "store": "Amazon",
+    "posted_at": "2026-05-10T16:08:28.818944"
+  },
+  {
+    "title": "Craftsman V20 4.0-Amp Hour Lithium Ion Battery (2-Pack) $71.10",
+    "price": "$71.10",
+    "source_url": "https://www.amazon.com/dp/B07KH9SQKB",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/237875.1778439256.fit_lim.size_125x125.jpg",
+    "id": "73ab6d22addf973ae9119968e3df89ba",
+    "amazon_url": "https://www.amazon.com/dp/B07KH9SQKB?tag=dealsinusa0ab-20",
+    "asin": "B07KH9SQKB",
+    "store": "Amazon",
+    "posted_at": "2026-05-10T16:08:29.819063"
+  },
+  {
+    "title": "18K Gold-Plated Moissanite Engagement Ring Just $19.99 Shipped on Amazon (Reg. $40)",
+    "price": "$19.99",
+    "source_url": "https://hip2save.com/deals/amazon-wedding-rings/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FKM43SWR.01.LZZZZZZZ.jpg",
+    "id": "7046f6f46de4e4ba7960ff958363585b",
+    "amazon_url": "https://www.amazon.com/dp/B0FKM43SWR?tag=dealsinusa0ab-20",
+    "asin": "B0FKM43SWR",
+    "store": "Amazon",
+    "posted_at": "2026-05-10T16:08:35.739524"
+  },
+  {
+    "title": "Solar Torch Lights 6-Pack Just $14.97 on Amazon",
+    "price": "$14.97",
+    "source_url": "https://hip2save.com/deals/solar-tiki-torch/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B09VFMXVMX.01.LZZZZZZZ.jpg",
+    "id": "bbe17c0cb833a99cf8505c57178f6d6e",
+    "amazon_url": "https://www.amazon.com/dp/B09VFMXVMX?tag=dealsinusa0ab-20",
+    "asin": "B09VFMXVMX",
+    "store": "Amazon",
+    "posted_at": "2026-05-10T16:08:37.957239"
+  },
+  {
+    "title": "Hair Claw Clips 8-Pack Only $4.74 on Amazon",
+    "price": "$4.74",
+    "source_url": "https://hip2save.com/deals/claw-clips/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0CG6MHFLW.01.LZZZZZZZ.jpg",
+    "id": "e9ac9c36d11e34d673f1d85ecd1a90ad",
+    "amazon_url": "https://www.amazon.com/dp/B0CG6MHFLW?tag=dealsinusa0ab-20",
+    "asin": "B0CG6MHFLW",
+    "store": "Amazon",
+    "posted_at": "2026-05-10T16:08:39.438604"
+  },
+  {
+    "title": "HUGE Sourdough Starter Kit Only $20.39 on Amazon (Reg. $33)",
+    "price": "$20.39",
+    "source_url": "https://hip2save.com/deals/sourdough-jar-kit/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FQ458DQH.01.LZZZZZZZ.jpg",
+    "id": "0fa656f19cd232bd6b4962609f010f21",
+    "amazon_url": "https://www.amazon.com/dp/B0FQ458DQH?tag=dealsinusa0ab-20",
+    "asin": "B0FQ458DQH",
+    "store": "Amazon",
+    "posted_at": "2026-05-10T16:08:41.512536"
+  },
+  {
     "title": "MCHBF Glass Hummingbird Feeder 25oz $11.99",
     "price": "$11.99",
     "source_url": "https://www.amazon.com/gp/product/B0DRVBQGQN/ref=sw_img_1?smid=A31HU90Y9Z2GD&psc=1",
@@ -492,42 +588,6 @@
     "posted_at": "2026-05-10T13:05:50.144284"
   },
   {
-    "title": "Nultat Strong Double Sided Tape $4.54",
-    "price": "$4.54",
-    "source_url": "https://www.amazon.com/gp/product/B0DNPDN3K5/ref=ox_sc_act_title_1?smid=A2XYTA3QSFT0UZ&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266479.1778427663.fit_lim.size_125x125.jpg",
-    "id": "5c6572ec07ebfd78355d47b04548984f",
-    "amazon_url": "https://www.amazon.com/dp/B0DNPDN3K5?tag=dealsinusa0ab-20",
-    "asin": "B0DNPDN3K5",
-    "store": "Amazon",
-    "posted_at": "2026-05-10T13:05:51.144418"
-  },
-  {
-    "title": "Bissell Little Green Multi-Purpose Portable Carpet & Upholstery Cleaner Kit (1400B) $99.99",
-    "price": "$99.99",
-    "source_url": "https://www.amazon.com/gp/product/B0016HF5GK/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/257784.1778420301.fit_lim.size_125x125.jpg",
-    "id": "fd627852a1b6df40809dad36eb9c3ada",
-    "amazon_url": "https://www.amazon.com/dp/B0016HF5GK?tag=dealsinusa0ab-20",
-    "asin": "B0016HF5GK",
-    "store": "Amazon",
-    "posted_at": "2026-05-10T13:05:52.144532"
-  },
-  {
-    "title": "Pinkbomb 9\" Mens Swim Trunks with Compression Liner $12.99",
-    "price": "$12.99",
-    "source_url": "https://www.amazon.com/gp/product/B0BZVR3TN3/ref=sw_img_1?smid=A2HCPSFW57VMQ4&th=1&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266658.1778427614.fit_lim.size_125x125.jpg",
-    "id": "7bb23c13e195c38c64edc6aff97aa8fa",
-    "amazon_url": "https://www.amazon.com/dp/B0BZVR3TN3?tag=dealsinusa0ab-20",
-    "asin": "B0BZVR3TN3",
-    "store": "Amazon",
-    "posted_at": "2026-05-10T13:05:53.144694"
-  },
-  {
     "title": "Kids Swim Goggles w/ Earplugs 3-Pack Only $11.99 on Amazon",
     "price": "$11.99",
     "source_url": "https://hip2save.com/deals/kids-goggles/",
@@ -586,18 +646,6 @@
     "asin": "B0FQ458DQH",
     "store": "Amazon",
     "posted_at": "2026-05-10T12:04:47.468937"
-  },
-  {
-    "title": "4-Pk 14.9-Oz sodastream Beverage Mix (Cranberry Raspberry) $8",
-    "price": "$8",
-    "source_url": "https://slickdeals.net/f/19507725-8-4-pack-14-9-oz-sodastream-beverage-mix-cranberry-raspberry-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20345508.thumb",
-    "id": "07432a96d27bd661bdaf6729ad3ee80e",
-    "amazon_url": "https://www.amazon.com/dp/B01FUIDOEA?tag=dealsinusa0ab-20",
-    "asin": "B01FUIDOEA",
-    "store": "Amazon",
-    "posted_at": "2026-05-10T11:03:34.462720"
   },
   {
     "title": "Women\u2019s Leggings from $4 on Amazon (Yep, They Have Pockets!)",
