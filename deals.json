@@ -1,5 +1,89 @@
 [
   {
+    "title": "Sunny Health & Fitness Vinyl Coated Kettlebell (15lbs) $17.99",
+    "price": "$17.99",
+    "source_url": "https://www.amazon.com/gp/product/B003XFOL4K/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/266941.1778707294.fit_lim.size_125x125.jpg",
+    "id": "0499729323f5d222887b0804074811f8",
+    "amazon_url": "https://www.amazon.com/dp/B003XFOL4K?tag=dealsinusa0ab-20",
+    "asin": "B003XFOL4K",
+    "store": "Amazon",
+    "posted_at": "2026-05-13T18:12:35.327943"
+  },
+  {
+    "title": "Barsone Heat Resistant Silicone Nonstick Spatula Set (5-Piece) $4.99",
+    "price": "$4.99",
+    "source_url": "https://www.amazon.com/gp/product/B0CDWMCZRS/ref=ox_sc_act_title_1?smid=A3H132C5BVBFL8&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/266940.1778706830.fit_lim.size_125x125.jpg",
+    "id": "1e923f728531e7570a2281284b7c9ede",
+    "amazon_url": "https://www.amazon.com/dp/B0CDWMCZRS?tag=dealsinusa0ab-20",
+    "asin": "B0CDWMCZRS",
+    "store": "Amazon",
+    "posted_at": "2026-05-13T18:12:36.328089"
+  },
+  {
+    "title": "Tide Pods Original Scent Laundry Detergent (4x 42-Pods) $32.17",
+    "price": "$32.17",
+    "source_url": "https://www.amazon.com/gp/product/B0747ZC625/ref=sw_img_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/229134.1778706070.fit_lim.size_125x125.jpg",
+    "id": "23343267e0b0eb1e0904a0a1221ae7e0",
+    "amazon_url": "https://www.amazon.com/dp/B0747ZC625?tag=dealsinusa0ab-20",
+    "asin": "B0747ZC625",
+    "store": "Amazon",
+    "posted_at": "2026-05-13T18:12:37.328219"
+  },
+  {
+    "title": "Hefty Soak-Proof Foam Bowls 50-Count Only $2.93 Shipped on Amazon",
+    "price": "$2.93",
+    "source_url": "https://hip2save.com/deals/hefty-foam-bowls/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B000LNSCE2.01.LZZZZZZZ.jpg",
+    "id": "26778c4175b257d251cf20d2da5c92ba",
+    "amazon_url": "https://www.amazon.com/dp/B000LNSCE2?tag=dealsinusa0ab-20",
+    "asin": "B000LNSCE2",
+    "store": "Amazon",
+    "posted_at": "2026-05-13T18:12:45.629341"
+  },
+  {
+    "title": "Bra & Tank Top Organizer 2-Pack Just $5.99 on Amazon (Reg. $10)",
+    "price": "$5.99",
+    "source_url": "https://hip2save.com/deals/bra-hanger/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0DYMT7D4J.01.LZZZZZZZ.jpg",
+    "id": "8c0f16ad24f3a3c76c596c858e711258",
+    "amazon_url": "https://www.amazon.com/dp/B0DYMT7D4J?tag=dealsinusa0ab-20",
+    "asin": "B0DYMT7D4J",
+    "store": "Amazon",
+    "posted_at": "2026-05-13T18:12:47.290340"
+  },
+  {
+    "title": "Every Kitchen Needs This $5 Chicken Shredder",
+    "price": "$5",
+    "source_url": "https://hip2save.com/deals/amazon-chicken-shredder/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0CHHFPM2S.01.LZZZZZZZ.jpg",
+    "id": "bb84616b86d8c4ed4ce14944947735da",
+    "amazon_url": "https://www.amazon.com/dp/B0CHHFPM2S?tag=dealsinusa0ab-20",
+    "asin": "B0CHHFPM2S",
+    "store": "Amazon",
+    "posted_at": "2026-05-13T18:12:49.036682"
+  },
+  {
+    "title": "RFID Blocking Keychain Wallet Just $4.97 on Amazon",
+    "price": "$4.97",
+    "source_url": "https://hip2save.com/deals/keychain-wallets/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B09ZL4YR8M.01.LZZZZZZZ.jpg",
+    "id": "c0b5312466740d7a756a7bc3842bd7a9",
+    "amazon_url": "https://www.amazon.com/dp/B09ZL4YR8M?tag=dealsinusa0ab-20",
+    "asin": "B09ZL4YR8M",
+    "store": "Amazon",
+    "posted_at": "2026-05-13T18:12:50.676918"
+  },
+  {
     "title": "42-Ct Tide PODS 3-in-1 Laundry Detergent Pacs (Original) 4 for $32.15 w/ S&S + Free S&H",
     "price": "$32.15",
     "source_url": "https://slickdeals.net/f/19518786-sns-ac-32-16-4-42-count-tide-pods-laundry-detergent-pacs-3-in-1-stain-remover-original-8-04-each-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -960,30 +1044,6 @@
     "posted_at": "2026-05-13T14:08:10.652358"
   },
   {
-    "title": "Amazon Saver 12oz Crunchy Chocolate Chip Cookies $1.40",
-    "price": "$1.40",
-    "source_url": "https://www.amazon.com/gp/product/B0CHTFVX6H/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266927.1778688226.fit_lim.size_125x125.jpg",
-    "id": "06ce35439fe973ab573233d0f7bdc7f5",
-    "amazon_url": "https://www.amazon.com/dp/B0CHTFVX6H?tag=dealsinusa0ab-20",
-    "asin": "B0CHTFVX6H",
-    "store": "Amazon",
-    "posted_at": "2026-05-13T14:08:13.032355"
-  },
-  {
-    "title": "Trjzwa 172 Drip Irrigation System Kit (26-Piece) $39.99",
-    "price": "$39.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GF29M184/ref=sw_img_1?smid=A3R165ZWMFK9AE&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266938.1778694702.fit_lim.size_125x125.jpg",
-    "id": "eee9f81bb3c32d71925fb868c8217b14",
-    "amazon_url": "https://www.amazon.com/dp/B0GF29M184?tag=dealsinusa0ab-20",
-    "asin": "B0GF29M184",
-    "store": "Amazon",
-    "posted_at": "2026-05-13T14:08:14.032594"
-  },
-  {
     "title": "Keychain Knife Only $2.99 on Amazon (Reg. $9) | Father\u2019s Day Gift Idea",
     "price": "$2.99",
     "source_url": "https://hip2save.com/deals/keychain-knife/",
@@ -1152,18 +1212,6 @@
     "posted_at": "2026-05-13T13:07:16.176716"
   },
   {
-    "title": "Bitiwend 16 RGB Submersible LED Lights $3.98",
-    "price": "$3.98",
-    "source_url": "https://www.amazon.com/gp/product/B0GCY9BF67/ref=ox_sc_act_title_1?smid=A3F8UGUAMTZ1YL&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266921.1778683896.fit_lim.size_125x125.jpg",
-    "id": "8451978b1688d526dc53f953095b2ef9",
-    "amazon_url": "https://www.amazon.com/dp/B0GCY9BF67?tag=dealsinusa0ab-20",
-    "asin": "B0GCY9BF67",
-    "store": "Amazon",
-    "posted_at": "2026-05-13T12:05:27.264579"
-  },
-  {
     "title": "Ninja\u2019s latest FlexFlame ProConnect 5-in-1 smart grill & smoker steps up summer cookouts for a $1,100 low",
     "price": "$1,100",
     "source_url": "https://9to5toys.com/2026/05/13/ninja-flexflame-proconnect-5-in-1-smart-grill-smoker-1100-low/",
@@ -1186,54 +1234,6 @@
     "asin": "B0GGT4H32V",
     "store": "Amazon",
     "posted_at": "2026-05-13T12:05:52.796755"
-  },
-  {
-    "title": "Rice Krispies Treats Minis 52-Count Just $8 Shipped on Amazon",
-    "price": "$8",
-    "source_url": "https://hip2save.com/deals/rice-krispies-treats-snack-bars/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0BV7BT26B.01.LZZZZZZZ.jpg",
-    "id": "d0824b1e4e0224031b839f631682f73b",
-    "amazon_url": "https://www.amazon.com/dp/B0BV7BT26B?tag=dealsinusa0ab-20",
-    "asin": "B0BV7BT26B",
-    "store": "Amazon",
-    "posted_at": "2026-05-13T12:05:55.125178"
-  },
-  {
-    "title": "Adjustable Weight Bench Only $41.99 Shipped on Amazon (Reg. $76)",
-    "price": "$41.99",
-    "source_url": "https://hip2save.com/deals/adjustable-weight-bench/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0CTMKNWF7.01.LZZZZZZZ.jpg",
-    "id": "298ab4c849107a99405f00018a7a6c2e",
-    "amazon_url": "https://www.amazon.com/dp/B0CTMKNWF7?tag=dealsinusa0ab-20",
-    "asin": "B0CTMKNWF7",
-    "store": "Amazon",
-    "posted_at": "2026-05-13T12:05:56.465955"
-  },
-  {
-    "title": "Towel Warmer Only $46 Shipped on Amazon (Regularly $100)",
-    "price": "$46",
-    "source_url": "https://hip2save.com/deals/towel-warmer/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0DLJX9F32.01.LZZZZZZZ.jpg",
-    "id": "236a4c79acf5c821e520fb81a5a6bfbf",
-    "amazon_url": "https://www.amazon.com/dp/B0DLJX9F32?tag=dealsinusa0ab-20",
-    "asin": "B0DLJX9F32",
-    "store": "Amazon",
-    "posted_at": "2026-05-13T12:05:58.117997"
-  },
-  {
-    "title": "Luseta Rice Water Shampoo + Conditioner Set Only $18 Shipped on Amazon",
-    "price": "$18",
-    "source_url": "https://hip2save.com/deals/luseta-rice-water-shampoo-conditioner/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0F2972C58.01.LZZZZZZZ.jpg",
-    "id": "99bb64d7eacae543f2099b9b7bb5a060",
-    "amazon_url": "https://www.amazon.com/dp/B0F2972C58?tag=dealsinusa0ab-20",
-    "asin": "B0F2972C58",
-    "store": "Amazon",
-    "posted_at": "2026-05-13T12:05:59.410414"
   },
   {
     "title": "Get a 15-inch POWERLOAD string trimmer, a 670 CFM leaf blower, and a 4.0Ah battery in this EGO tool combo at $350",
