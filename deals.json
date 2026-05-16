@@ -1,5 +1,53 @@
 [
   {
+    "title": "Select Acct's: Hill's Science Diet Cat Food: 15.5-Lb Adult 7+ Dry Hairball Control $20.40 & More w/ S&S",
+    "price": "$20.40",
+    "source_url": "https://slickdeals.net/f/19528992-sns-ac-11-69-7-pound-hill-s-science-diet-sensitive-stomach-skin-adult-dry-cat-food-chicken-rice-more-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/5/1/4/8/2/1/3/300x300/20407869.thumb",
+    "id": "68c3459bb67fbca414f8671f514019e7",
+    "amazon_url": "https://www.amazon.com/dp/B003M60K54?tag=dealsinusa0ab-20",
+    "asin": "B003M60K54",
+    "store": "Amazon",
+    "posted_at": "2026-05-16T19:11:32.272891"
+  },
+  {
+    "title": "12-Ct 15.25-Oz Dole Tropical Gold Canned Pineapple Chunks in 100% Juice $17.20 w/ S&S",
+    "price": "$17.20",
+    "source_url": "https://slickdeals.net/f/19529490-dole-canned-fruit-tropical-gold-pineapple-chunks-in-100-pineapple-juice-gluten-free-pantry-staples-no-sugar-added-15-25-oz-12-count-17-22-after-coupon-s-s-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/7/2/9/6/9/0/300x300/20406156.thumb",
+    "id": "203309b584d93018f15701477f4ccfbb",
+    "amazon_url": "https://www.amazon.com/dp/B0C4G4Q7VN?tag=dealsinusa0ab-20",
+    "asin": "B0C4G4Q7VN",
+    "store": "Amazon",
+    "posted_at": "2026-05-16T19:11:35.738433"
+  },
+  {
+    "title": "One of the Best Home Gym Deals We\u2019ve Seen: Weight Bench Only $41 Shipped on Amazon",
+    "price": "$41",
+    "source_url": "https://hip2save.com/deals/adjustable-weight-bench/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0CTMKNWF7.01.LZZZZZZZ.jpg",
+    "id": "194c0fe24a00998524eaed1cf659ab6e",
+    "amazon_url": "https://www.amazon.com/dp/B0CTMKNWF7?tag=dealsinusa0ab-20",
+    "asin": "B0CTMKNWF7",
+    "store": "Amazon",
+    "posted_at": "2026-05-16T19:11:49.352804"
+  },
+  {
+    "title": "Fiskars 7-in-1 Garden Shears Multi-Tool Just $14.99 on Amazon (Regularly $26)",
+    "price": "$14.99",
+    "source_url": "https://hip2save.com/deals/fiskars-shears/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B07QDMMNBJ.01.LZZZZZZZ.jpg",
+    "id": "55b320cf1e240fc948cd09b05d5d987d",
+    "amazon_url": "https://www.amazon.com/dp/B07QDMMNBJ?tag=dealsinusa0ab-20",
+    "asin": "B07QDMMNBJ",
+    "store": "Amazon",
+    "posted_at": "2026-05-16T19:11:51.147892"
+  },
+  {
     "title": "Women\u2019s Maxi & Mini Dresses from $8.49 on Amazon",
     "price": "$8.49",
     "source_url": "https://hip2save.com/deals/womens-dresses/",
@@ -202,30 +250,6 @@
     "asin": "B003PU2IKW",
     "store": "Amazon",
     "posted_at": "2026-05-16T14:08:49.108092"
-  },
-  {
-    "title": "6-oz Eva-Dry Wireless Mini Dehumidifier (White) $10.50",
-    "price": "$10.50",
-    "source_url": "https://slickdeals.net/f/19507485-10-49-eva-dry-wireless-mini-dehumidifier-white-e-333-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/20344734.thumb",
-    "id": "b923f25c032bd6fc85092d3ac871581d",
-    "amazon_url": "https://www.amazon.com/dp/B000H0XFCS?tag=dealsinusa0ab-20",
-    "asin": "B000H0XFCS",
-    "store": "Amazon",
-    "posted_at": "2026-05-16T13:06:59.083499"
-  },
-  {
-    "title": "90\" x 90\" Bedsure Gentlesoft 100% Cotton Queen Waffle Blanket (White) $22.50 & More",
-    "price": "$22.50",
-    "source_url": "https://slickdeals.net/f/19525887-bedsure-gentlesoft-cotton-blanket-white-90-x90-queen-22-49-or-50-x70-xl-throw-14-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/2/0/3/1/1/5/0/300x300/20396625.thumb",
-    "id": "a5e1713c68eb011d54b19046134aa1e0",
-    "amazon_url": "https://www.amazon.com/dp/B0FVLW3F4Q?tag=dealsinusa0ab-20",
-    "asin": "B0FVLW3F4Q",
-    "store": "Amazon",
-    "posted_at": "2026-05-16T13:07:05.060480"
   },
   {
     "title": "Sireck UPF50+ Wide Brim Fishing Hat $8.99",
@@ -792,18 +816,6 @@
     "posted_at": "2026-05-16T13:08:06.590548"
   },
   {
-    "title": "12-pk 12-oz Dr Pepper Zero Sugar Soda $4.75 w/ S&S",
-    "price": "$4.75",
-    "source_url": "https://slickdeals.net/f/19528806-sns-4-75-12-pk-12-oz-dr-pepper-zero-sugar-soda-at-amazon-39-6-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20404743.thumb",
-    "id": "3082741e7050bd3b68e7e725f5074776",
-    "amazon_url": "https://www.amazon.com/dp/B08XXGB5NK?tag=dealsinusa0ab-20",
-    "asin": "B08XXGB5NK",
-    "store": "Amazon",
-    "posted_at": "2026-05-16T12:06:11.182533"
-  },
-  {
     "title": "Water Bottle Organizer Just $7.98 on Amazon (Holds NINE Bottles!)",
     "price": "$7.98",
     "source_url": "https://hip2save.com/deals/water-bottle-organizer/",
@@ -814,30 +826,6 @@
     "asin": "B0FNBG2HDD",
     "store": "Amazon",
     "posted_at": "2026-05-16T12:06:33.102932"
-  },
-  {
-    "title": "Cooling Pillowcase 2-Pack Just $4.79 Shipped for Prime Members",
-    "price": "$4.79",
-    "source_url": "https://hip2save.com/deals/cooling-pillowcase/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0CB7RBHKJ.01.LZZZZZZZ.jpg",
-    "id": "8a3502b44c5609567f22a34c58d80476",
-    "amazon_url": "https://www.amazon.com/dp/B0CB7RBHKJ?tag=dealsinusa0ab-20",
-    "asin": "B0CB7RBHKJ",
-    "store": "Amazon",
-    "posted_at": "2026-05-16T12:06:34.775902"
-  },
-  {
-    "title": "Cooling Towels 6-Pack Only $8.49 on Amazon (Regularly $17)",
-    "price": "$8.49",
-    "source_url": "https://hip2save.com/deals/cooling-towels/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0CNKHL1SW.01.LZZZZZZZ.jpg",
-    "id": "a5749b60f5da4acd06c5995fb7b3be05",
-    "amazon_url": "https://www.amazon.com/dp/B0CNKHL1SW?tag=dealsinusa0ab-20",
-    "asin": "B0CNKHL1SW",
-    "store": "Amazon",
-    "posted_at": "2026-05-16T12:06:36.530655"
   },
   {
     "title": "New Nothing Headphone (a) hits best Amazon price ever today at $169 (All colors)",
