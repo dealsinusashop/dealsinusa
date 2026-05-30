@@ -1,5 +1,77 @@
 [
   {
+    "title": "20-Oz Head Country BBQ Sauce (Apple Habanero) $2.95",
+    "price": "$2.95",
+    "source_url": "https://slickdeals.net/f/19577181-20-oz-head-country-bbq-sauce-apple-habanero-2-95?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/20539380.thumb",
+    "id": "cc1c21a48d0231c50f751a90bca6e7ec",
+    "amazon_url": "https://www.amazon.com/dp/B0713RL2FX?tag=dealsinusa0ab-20",
+    "asin": "B0713RL2FX",
+    "store": "Amazon",
+    "posted_at": "2026-05-30T14:48:17.037104"
+  },
+  {
+    "title": "4-Ct Quest Nutrition Blueberry Muffin Protein Snack $5.05 w/ S&S",
+    "price": "$5.05",
+    "source_url": "https://slickdeals.net/f/19577244-4-count-quest-nutrition-blueberry-muffin-protein-snack-5-06-w-s-s-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/20539566.thumb",
+    "id": "40e45e96bd45acd0157dda11285c959d",
+    "amazon_url": "https://www.amazon.com/dp/B0F167PX79?tag=dealsinusa0ab-20",
+    "asin": "B0F167PX79",
+    "store": "Amazon",
+    "posted_at": "2026-05-30T14:48:19.226171"
+  },
+  {
+    "title": "Type O Negative: October Rust (Vinyl w/ AutoRip MP3) $25",
+    "price": "$25",
+    "source_url": "https://slickdeals.net/f/19576653-24-99-type-o-negative-october-rust-vinyl-w-autorip-mp3-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20537964.thumb",
+    "id": "8ee801e992eb2e1114bbbc082496b4ab",
+    "amazon_url": "https://www.amazon.com/dp/B0DFZR93R3?tag=dealsinusa0ab-20",
+    "asin": "B0DFZR93R3",
+    "store": "Amazon",
+    "posted_at": "2026-05-30T14:48:21.658967"
+  },
+  {
+    "title": "Wish-Bone Red Wine Vinaigrette Salad Dressing Only $1 Shipped on Amazon",
+    "price": "$1",
+    "source_url": "https://hip2save.com/deals/wish-bone-salad-dressing/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B01N5WJK0T.01.LZZZZZZZ.jpg",
+    "id": "6ced85ab20f14c00194f25b79d1dd1ba",
+    "amazon_url": "https://www.amazon.com/dp/B01N5WJK0T?tag=dealsinusa0ab-20",
+    "asin": "B01N5WJK0T",
+    "store": "Amazon",
+    "posted_at": "2026-05-30T14:48:36.324611"
+  },
+  {
+    "title": "Bior\u00e9 Face Wash Only $4 Shipped on Amazon",
+    "price": "$4",
+    "source_url": "https://hip2save.com/deals/biore-face-wash/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B07YFHMLD3.01.LZZZZZZZ.jpg",
+    "id": "636a93ca4471ab09b864d197a3acbd52",
+    "amazon_url": "https://www.amazon.com/dp/B07YFHMLD3?tag=dealsinusa0ab-20",
+    "asin": "B07YFHMLD3",
+    "store": "Amazon",
+    "posted_at": "2026-05-30T14:48:37.879466"
+  },
+  {
+    "title": "Blue Buffalo Tastefuls Wet Cat Food 4-Pack Only $1.96 Shipped on Amazon",
+    "price": "$1.96",
+    "source_url": "https://hip2save.com/deals/blue-buffalo-cat-food/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0CP8B35VQ.01.LZZZZZZZ.jpg",
+    "id": "ee0c446d1ba08ad0a4540db2ae089f9b",
+    "amazon_url": "https://www.amazon.com/dp/B0CP8B35VQ?tag=dealsinusa0ab-20",
+    "asin": "B0CP8B35VQ",
+    "store": "Amazon",
+    "posted_at": "2026-05-30T14:48:39.369154"
+  },
+  {
     "title": "2-Pk CRAFTSMAN V20 4Ah Lithium Ion Batteries + 10% Back w/ Prime Card $69 + Free S&H",
     "price": "$69",
     "source_url": "https://slickdeals.net/f/19575405-ac-69-2-pk-4ah-craftsman-v20-lithium-ion-battery-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -694,42 +766,6 @@
     "asin": "B0GHXTY6PZ",
     "store": "Amazon",
     "posted_at": "2026-05-30T09:44:30.323354"
-  },
-  {
-    "title": "Score 50% Off Artificial Flowers on Amazon (Easy Spring Color That Lasts!)",
-    "price": "$27.99",
-    "source_url": "https://hip2save.com/deals/amazon-artificial-flowers/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0DZBNF4HG.01.LZZZZZZZ.jpg",
-    "id": "bc3aa32c49be44e352c9bab49bd4c863",
-    "amazon_url": "https://www.amazon.com/dp/B0DZBNF4HG?tag=dealsinusa0ab-20",
-    "asin": "B0DZBNF4HG",
-    "store": "Amazon",
-    "posted_at": "2026-05-30T09:44:32.990557"
-  },
-  {
-    "title": "50% Off Artificial Flowers on Amazon (Easy Spring Color That Lasts!)",
-    "price": "$27.99",
-    "source_url": "https://hip2save.com/deals/amazon-artificial-flowers/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0DZBNF4HG.01.LZZZZZZZ.jpg",
-    "id": "a08708036b6f4938a7aea37bed57db8e",
-    "amazon_url": "https://www.amazon.com/dp/B0DZBNF4HG?tag=dealsinusa0ab-20",
-    "asin": "B0DZBNF4HG",
-    "store": "Amazon",
-    "posted_at": "2026-05-30T08:43:52.913477"
-  },
-  {
-    "title": "John Wick: Chapters 1-3 (4K Ultra HD + Digital 4K) $22.50",
-    "price": "$22.50",
-    "source_url": "https://slickdeals.net/f/19555338-22-49-john-wick-chapters-1-3-4k-ultra-hd-digital-4k-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20478168.thumb",
-    "id": "8f4a5ba784a03dfd4c0c2ea2b57d93c2",
-    "amazon_url": "https://www.amazon.com/dp/B088SW754M?tag=dealsinusa0ab-20",
-    "asin": "B088SW754M",
-    "store": "Amazon",
-    "posted_at": "2026-05-30T05:41:49.936424"
   },
   {
     "title": "Vagkri 2200-CFM Oscillating Evaporative Air Cooler (9.2-Gal) $126.49",
