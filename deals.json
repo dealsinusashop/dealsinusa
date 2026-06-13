@@ -1,5 +1,89 @@
 [
   {
+    "title": "Amazon Basics USB-C to USB-C 4 Fast Charger Cable $9.44",
+    "price": "$9.44",
+    "source_url": "https://www.amazon.com/gp/product/B0C93G2M83/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/251477.1781352291.fit_lim.size_125x125.jpg",
+    "id": "812fee5a0854b48e68ef8f26259c5e21",
+    "amazon_url": "https://www.amazon.com/dp/B0C93G2M83?tag=dealsinusa0ab-20",
+    "asin": "B0C93G2M83",
+    "store": "Amazon",
+    "posted_at": "2026-06-13T10:13:21.893885"
+  },
+  {
+    "title": "G Gradual Mens 7\" Lightweight Casual Shorts $14.83",
+    "price": "$14.83",
+    "source_url": "https://www.amazon.com/gp/product/B0D1G8THM1/ref=ox_sc_act_title_1?smid=A3J1UQ06EUSAGL&th=1&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/263941.1781351964.fit_lim.size_125x125.jpg",
+    "id": "d8d1ca1ad8eb29dd80191c7bb9ca5e94",
+    "amazon_url": "https://www.amazon.com/dp/B0D1G8THM1?tag=dealsinusa0ab-20",
+    "asin": "B0D1G8THM1",
+    "store": "Amazon",
+    "posted_at": "2026-06-13T10:13:22.894118"
+  },
+  {
+    "title": "Blink Wired Doorbell 2K+ and Outdoor 2K+ Wireless Smart Security Camera (5-Cam) w/ Sync Module Core $166.99",
+    "price": "$166.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GNTT91F2/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268029.1781351644.fit_lim.size_125x125.jpg",
+    "id": "367feff4471c86f4db4dc6421694349c",
+    "amazon_url": "https://www.amazon.com/dp/B0GNTT91F2?tag=dealsinusa0ab-20",
+    "asin": "B0GNTT91F2",
+    "store": "Amazon",
+    "posted_at": "2026-06-13T10:13:23.894225"
+  },
+  {
+    "title": "Best of 9to5Toys \u2013\u00a0This week\u2019s top deals: AirPods Pro 3, early Prime Day, new Switch 2 games, more",
+    "price": "$420",
+    "source_url": "https://9to5toys.com/2026/06/13/this-week-best-deals-airpods-pro-3/",
+    "source": "9to5Toys",
+    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2024/12/Best-of-9to5Toys.jpg",
+    "id": "4eb68d3311e7ba7a9146664554555c1c",
+    "amazon_url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=dealsinusa0ab-20",
+    "asin": "B0FQFB8FMG",
+    "store": "Amazon",
+    "posted_at": "2026-06-13T10:13:32.264376"
+  },
+  {
+    "title": "Method Body Wash Only $5 Shipped on Amazon (Reg. $10.19)",
+    "price": "$5",
+    "source_url": "https://hip2save.com/deals/method-body-wash/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0DJ2Q8VBB.01.LZZZZZZZ.jpg",
+    "id": "cd39eaa7d8c8872c000c9aa0839df26f",
+    "amazon_url": "https://www.amazon.com/dp/B0DJ2Q8VBB?tag=dealsinusa0ab-20",
+    "asin": "B0DJ2Q8VBB",
+    "store": "Amazon",
+    "posted_at": "2026-06-13T10:13:33.859113"
+  },
+  {
+    "title": "Ceramic Utensil Holder Set Just $16.49 on Amazon (Reg. $33)",
+    "price": "$16.49",
+    "source_url": "https://hip2save.com/deals/utensil-holder/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0DXVBFC89.01.LZZZZZZZ.jpg",
+    "id": "3afca32757e2f92d4f0a89017676bf5c",
+    "amazon_url": "https://www.amazon.com/dp/B0DXVBFC89?tag=dealsinusa0ab-20",
+    "asin": "B0DXVBFC89",
+    "store": "Amazon",
+    "posted_at": "2026-06-13T10:13:35.267726"
+  },
+  {
+    "title": "Heinz Ketchup Just $1.47 Shipped on Amazon (These Are Going Fast!)",
+    "price": "$1.47",
+    "source_url": "https://hip2save.com/deals/heinz-ketchup/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0005YKO8E.01.LZZZZZZZ.jpg",
+    "id": "78f3aebda11eff43b194e4a41e2dbbec",
+    "amazon_url": "https://www.amazon.com/dp/B0005YKO8E?tag=dealsinusa0ab-20",
+    "asin": "B0005YKO8E",
+    "store": "Amazon",
+    "posted_at": "2026-06-13T10:13:37.014864"
+  },
+  {
     "title": "Neil Diamond All Time Greatest Hits (Audio CD) $6.90",
     "price": "$6.90",
     "source_url": "https://slickdeals.net/f/19621899-prime-6-88-neil-diamond-all-time-greatest-hits-audio-cd-w-autorip-mp3-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -432,54 +516,6 @@
     "posted_at": "2026-06-12T19:02:31.909311"
   },
   {
-    "title": "Acemagician M1 AMD Ryzen 7 7735HS Mini Desktop (24GB/512GB) $395.09",
-    "price": "$395.09",
-    "source_url": "https://www.amazon.com/gp/product/B0FQNGZD5D/ref=ox_sc_saved_image_1?smid=A386IWWEIFJKVT&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/259926.1781304451.fit_lim.size_125x125.jpg",
-    "id": "7e70e6b519f597103709c5cb651ddc13",
-    "amazon_url": "https://www.amazon.com/dp/B0FQNGZD5D?tag=dealsinusa0ab-20",
-    "asin": "B0FQNGZD5D",
-    "store": "Amazon",
-    "posted_at": "2026-06-12T19:02:32.909482"
-  },
-  {
-    "title": "Apple MacBook Air 13.6\" M5 Chip Laptop (16GB/512GB) $949.99 | 15.3\" Laptop from $1150",
-    "price": "$949.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GR19X8DC/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/264714.1781304357.fit_lim.size_125x125.jpg",
-    "id": "5e293f58bec1fa3d5f83ae135e9c6dc9",
-    "amazon_url": "https://www.amazon.com/dp/B0GR19X8DC?tag=dealsinusa0ab-20",
-    "asin": "B0GR19X8DC",
-    "store": "Amazon",
-    "posted_at": "2026-06-12T19:02:33.909634"
-  },
-  {
-    "title": "QOOQ Turmeric Kojic Acid Soap for Dark Spots Remover $3.99",
-    "price": "$3.99",
-    "source_url": "https://www.amazon.com/gp/product/B0DX1QDSGF/ref=sw_img_1?smid=A27M99SHXH577Z&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/267954.1781304311.fit_lim.size_125x125.jpg",
-    "id": "7209e3f4c8227cb903f6b51c77cc8fcf",
-    "amazon_url": "https://www.amazon.com/dp/B0DX1QDSGF?tag=dealsinusa0ab-20",
-    "asin": "B0DX1QDSGF",
-    "store": "Amazon",
-    "posted_at": "2026-06-12T19:02:34.909786"
-  },
-  {
-    "title": "Seesii 5-Gallon Battery Powered Backpack Sprayer w/ Dual Battery, Telescopic Brass Wand, 7 Nozzles $77.49",
-    "price": "$77.49",
-    "source_url": "https://www.amazon.com/gp/product/B0G1TBC7FS/ref=ox_sc_act_title_1?smid=A1678NGPH4OQTW&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/267042.1781304255.fit_lim.size_125x125.jpg",
-    "id": "df5ba1189c017c6328cf442ce6d0d2ff",
-    "amazon_url": "https://www.amazon.com/dp/B0G1TBC7FS?tag=dealsinusa0ab-20",
-    "asin": "B0G1TBC7FS",
-    "store": "Amazon",
-    "posted_at": "2026-06-12T19:02:35.909920"
-  },
-  {
     "title": "Kids Fabric Flower Maker Just $9.99 on Amazon \u2013 Great Rainy Day Activity!",
     "price": "$9.99",
     "source_url": "https://hip2save.com/deals/fabric-flower-maker/",
@@ -550,30 +586,6 @@
     "asin": "B0GKM9WQVX",
     "store": "Amazon",
     "posted_at": "2026-06-12T15:59:27.816461"
-  },
-  {
-    "title": "Kool-Aid Jammers 10-Count Just $1.89 Shipped on Amazon",
-    "price": "$1.89",
-    "source_url": "https://hip2save.com/deals/kool-aid-jammers/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B000VDWJ0U.01.LZZZZZZZ.jpg",
-    "id": "d8ea3219eb8bf9963d09d59fdd24697d",
-    "amazon_url": "https://www.amazon.com/dp/B000VDWJ0U?tag=dealsinusa0ab-20",
-    "asin": "B000VDWJ0U",
-    "store": "Amazon",
-    "posted_at": "2026-06-12T14:58:17.772098"
-  },
-  {
-    "title": "Harry\u2019s Men\u2019s Body Wash 3-Pack Just $13 Shipped on Amazon",
-    "price": "$13",
-    "source_url": "https://hip2save.com/deals/harrys-body-wash/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0DT7GZJNC.01.LZZZZZZZ.jpg",
-    "id": "a2ff29962e989b1647a4e8b3faebd267",
-    "amazon_url": "https://www.amazon.com/dp/B0DT7GZJNC?tag=dealsinusa0ab-20",
-    "asin": "B0DT7GZJNC",
-    "store": "Amazon",
-    "posted_at": "2026-06-12T14:58:19.268211"
   },
   {
     "title": "USB Rechargeable Sonic Electric Toothbrush  \u2013 Just $9.49!",
@@ -1078,18 +1090,6 @@
     "asin": "B09NNYTTXK",
     "store": "Amazon",
     "posted_at": "2026-06-12T00:45:14.175648"
-  },
-  {
-    "title": "This year\u2019s best Prime Day deal might already be live: AirPods Pro 3 now at $179 all-time low",
-    "price": "$179",
-    "source_url": "https://9to5toys.com/2026/06/11/best-prime-day-deal-live-airpods-pro-3/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/06/AirPods-Pro-3-Prime-Day-deal.jpg",
-    "id": "3f8d7830400b070dd9c0e1fddb338449",
-    "amazon_url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=dealsinusa0ab-20",
-    "asin": "B0FQFB8FMG",
-    "store": "Amazon",
-    "posted_at": "2026-06-11T18:38:58.975832"
   },
   {
     "title": "45% Off 6 Pack Clothes Storage Bins {Amazon} | Under $11",
