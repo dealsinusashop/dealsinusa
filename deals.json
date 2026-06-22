@@ -1,5 +1,41 @@
 [
   {
+    "title": "Apple AirPods Max 2 Active Noise Cancelling Wireless Headphones (Starlight) $399",
+    "price": "$399",
+    "source_url": "https://www.amazon.com/gp/product/B0GSRYXZM5/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/266133.1782112707.fit_lim.size_125x125.jpg",
+    "id": "af187e8fc104d75e345a4de62cf7d070",
+    "amazon_url": "https://www.amazon.com/dp/B0GSRYXZM5?tag=dealsinusa0ab-20",
+    "asin": "B0GSRYXZM5",
+    "store": "Amazon",
+    "posted_at": "2026-06-22T03:53:43.509471"
+  },
+  {
+    "title": "ThermoMaven x2 3000FT Smart Wireless Meat Thermometer $39.99",
+    "price": "$39.99",
+    "source_url": "https://www.amazon.com/gp/product/B0FHH6KBGX/ref=ox_sc_act_title_1?smid=A18BX0EPIDVB8G&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/266214.1782111178.fit_lim.size_125x125.jpg",
+    "id": "2d5cf952877cb97cb9984180ba2e81d6",
+    "amazon_url": "https://www.amazon.com/dp/B0FHH6KBGX?tag=dealsinusa0ab-20",
+    "asin": "B0FHH6KBGX",
+    "store": "Amazon",
+    "posted_at": "2026-06-22T03:53:44.509705"
+  },
+  {
+    "title": "Nintendo eShop $10 Gift Card $8.98",
+    "price": "$10",
+    "source_url": "https://www.amazon.com/gp/product/B01LZNGPY3/ref=sw_img_1?smid=A3ODHND3J0WMC8&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/118628.1782111111.fit_lim.size_125x125.jpg",
+    "id": "cfab5c46dbef3200ef348d734311f7b8",
+    "amazon_url": "https://www.amazon.com/dp/B01LZNGPY3?tag=dealsinusa0ab-20",
+    "asin": "B01LZNGPY3",
+    "store": "Amazon",
+    "posted_at": "2026-06-22T03:53:45.509919"
+  },
+  {
     "title": "4-Pk Apple AirTag (2nd Generation) $89 + Free S&H",
     "price": "$89",
     "source_url": "https://slickdeals.net/f/19655508-prime-89-4-pack-apple-airtag-2nd-generation-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -142,18 +178,6 @@
     "asin": "B0GJTXVN9Z",
     "store": "Amazon",
     "posted_at": "2026-06-21T23:50:41.216681"
-  },
-  {
-    "title": "5-Qt Mobil 1 Truck & SUV Full Synthetic Motor Oil (0W-20) $20",
-    "price": "$20",
-    "source_url": "https://slickdeals.net/f/19654461-20-5-qt-mobil-1-truck-suv-full-synthetic-motor-oil-0w-20-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/4/3/4/7/1/300x300/20743671.thumb",
-    "id": "aa96a37ab82aceb101e963ac6dbeb3f7",
-    "amazon_url": "https://www.amazon.com/dp/B0B1H1D287?tag=dealsinusa0ab-20",
-    "asin": "B0B1H1D287",
-    "store": "Amazon",
-    "posted_at": "2026-06-21T21:48:09.278898"
   },
   {
     "title": "Ninja SLUSHi Just $199.99 Shipped on Amazon (Reg. $350)",
@@ -612,30 +636,6 @@
     "posted_at": "2026-06-21T13:40:53.228266"
   },
   {
-    "title": "Ring Prime Day Deals: Up to 50% off select Video Doorbells, Alarm Systems, Cameras, More from $24.99",
-    "price": "$24.99",
-    "source_url": "https://www.amazon.com/stores/page/1B272CDD-6230-40E0-8E10-52C64B25CE49",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/236825.1782057894.fit_lim.size_125x125.png",
-    "id": "e3dd3f9c2ad5c4607be988b7bbe1840c",
-    "amazon_url": "https://www.amazon.com/dp/B0DVBL912R?tag=dealsinusa0ab-20",
-    "asin": "B0DVBL912R",
-    "store": "Amazon",
-    "posted_at": "2026-06-21T13:40:54.683154"
-  },
-  {
-    "title": "Seagrams Ginger Ale (12 fl oz, 12-Pack) $4.68",
-    "price": "$4.68",
-    "source_url": "https://www.amazon.com/gp/product/B00L8KDBCK/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/267995.1782058380.fit_lim.size_125x125.jpg",
-    "id": "b1f0bfc7f6e5e548626bbe19d9a7ca87",
-    "amazon_url": "https://www.amazon.com/dp/B00L8KDBCK?tag=dealsinusa0ab-20",
-    "asin": "B00L8KDBCK",
-    "store": "Amazon",
-    "posted_at": "2026-06-21T13:40:55.683302"
-  },
-  {
     "title": "RARE Savings on Viral BYOMA Skincare on Amazon",
     "price": "$17.99",
     "source_url": "https://hip2save.com/deals/byoma-skincare/",
@@ -742,30 +742,6 @@
     "asin": "B0FQFB8FMG",
     "store": "Amazon",
     "posted_at": "2026-06-21T07:35:16.875786"
-  },
-  {
-    "title": "Boltarc 21V 10\" 3-in-1 Cordless String Trimmer Kit with 2x 4.0Ah Batteries $34.99",
-    "price": "$34.99",
-    "source_url": "https://www.amazon.com/gp/product/B0H2YNNQM1/ref=sw_img_1?smid=A2LAX4OOBJMITA&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266523.1781970397.fit_lim.size_125x125.jpg",
-    "id": "636b2129d08ef8facb69d288deef0c89",
-    "amazon_url": "https://www.amazon.com/dp/B0H2YNNQM1?tag=dealsinusa0ab-20",
-    "asin": "B0H2YNNQM1",
-    "store": "Amazon",
-    "posted_at": "2026-06-20T13:21:10.113235"
-  },
-  {
-    "title": "Filtrete Allergens & Pet Dander 16x25x1 MPR 1000 MERV 11 Air Filter (4-Pack) $23.49",
-    "price": "$23.49",
-    "source_url": "https://www.amazon.com/gp/product/B005GZ89WU/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/268242.1781970339.fit_lim.size_125x125.jpg",
-    "id": "7fa35cc1453260dd91e1a2f5e2de0b5c",
-    "amazon_url": "https://www.amazon.com/dp/B005GZ89WU?tag=dealsinusa0ab-20",
-    "asin": "B005GZ89WU",
-    "store": "Amazon",
-    "posted_at": "2026-06-20T13:21:11.113371"
   },
   {
     "title": "Apple\u2019s 2026 M5 Pro MacBook Pro 2TB with 20-Core GPU just hit the best Amazon price ever at $215 off",
