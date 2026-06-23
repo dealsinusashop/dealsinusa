@@ -1,5 +1,65 @@
 [
   {
+    "title": "20-Pk Pepperidge Farm Cookies Snack Packs (Variety Packs) $9.95 w/ S&S",
+    "price": "$9.95",
+    "source_url": "https://slickdeals.net/f/19658511-sns-9-97-20-pk-pepperidge-farm-cookies-snack-packs-variety-packs-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20754612.thumb",
+    "id": "8ba60de4af97117e374929a7bc68ea89",
+    "amazon_url": "https://www.amazon.com/dp/B0DD5TF8YG?tag=dealsinusa0ab-20",
+    "asin": "B0DD5TF8YG",
+    "store": "Amazon",
+    "posted_at": "2026-06-23T05:19:25.039071"
+  },
+  {
+    "title": "Synology DS223j 2-Bay NAS DiskStation $159 | 4-Bay NAS with Dual M.2 SSD Slots $416",
+    "price": "$159",
+    "source_url": "https://www.amazon.com/gp/product/B0C8814GKB/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/205184.1782203458.fit_lim.size_125x125.jpg",
+    "id": "b35bb43e9b7d946b58881f7b4bf0f4ee",
+    "amazon_url": "https://www.amazon.com/dp/B0C8814GKB?tag=dealsinusa0ab-20",
+    "asin": "B0C8814GKB",
+    "store": "Amazon",
+    "posted_at": "2026-06-23T05:19:41.395478"
+  },
+  {
+    "title": "Samsung Galaxy S26 Ultra Unlocked 256GB Android Smartphone $949.99",
+    "price": "$949.99",
+    "source_url": "https://www.amazon.com/gp/product/B0G4SWDH8P/ref=sw_img_1?smid=ATVPDKIKX0DER",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/264087.1782202876.fit_lim.size_125x125.jpg",
+    "id": "2c0265cc71732ebc13c28f7b9cc7f909",
+    "amazon_url": "https://www.amazon.com/dp/B0G4SWDH8P?tag=dealsinusa0ab-20",
+    "asin": "B0G4SWDH8P",
+    "store": "Amazon",
+    "posted_at": "2026-06-23T05:19:43.055091"
+  },
+  {
+    "title": "Giant $150 price drop hits 2026 AirPods Max 2 to deliver new Prime Day all-time low (All colors)",
+    "price": "$150",
+    "source_url": "https://9to5toys.com/2026/06/23/price-drop-2026-airpods-max-2/",
+    "source": "9to5Toys",
+    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2024/09/AirPods-Max-USB-C-copy.jpg",
+    "id": "9b5c3307a011176112ec7e8ed370f4bc",
+    "amazon_url": "https://www.amazon.com/dp/B0GSS4SGZR?tag=dealsinusa0ab-20",
+    "asin": "B0GSS4SGZR",
+    "store": "Amazon",
+    "posted_at": "2026-06-23T05:20:09.893194"
+  },
+  {
+    "title": "Frito-Lay 40-Count Variety Packs Only $14 Shipped on Amazon (Reg. $22)",
+    "price": "$14",
+    "source_url": "https://hip2save.com/deals/frito-lay-variety-pack/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B076H6F974.01.LZZZZZZZ.jpg",
+    "id": "9c84066b02d337a2ad5d88195d3a5bdb",
+    "amazon_url": "https://www.amazon.com/dp/B076H6F974?tag=dealsinusa0ab-20",
+    "asin": "B076H6F974",
+    "store": "Amazon",
+    "posted_at": "2026-06-23T05:20:12.981804"
+  },
+  {
     "title": "Sony WH-1000XM5 Noise Cancelling Wireless Headphones $198",
     "price": "$198",
     "source_url": "https://www.amazon.com/gp/product/B09XS7JWHH/ref=ox_sc_saved_image_1?smid=ATVPDKIKX0DER&th=1",
@@ -226,18 +286,6 @@
     "asin": "B0B44PDCLC",
     "store": "Amazon",
     "posted_at": "2026-06-23T03:17:56.874141"
-  },
-  {
-    "title": "24-Oz Full Moon Chicken Jerky All Natural Grain Free Dog Treats $6.65 w/ S&S",
-    "price": "$6.65",
-    "source_url": "https://slickdeals.net/f/19661850-sns-6-64-24-oz-full-moon-chicken-jerky-all-natural-grain-free-dog-treats-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20763102.thumb",
-    "id": "01de069ba207f8ee75e5256939ea0821",
-    "amazon_url": "https://www.amazon.com/dp/B01EX0H12M?tag=dealsinusa0ab-20",
-    "asin": "B01EX0H12M",
-    "store": "Amazon",
-    "posted_at": "2026-06-23T02:16:30.087065"
   },
   {
     "title": "Woot\u2019s Apple accessory Prime Day sale is now live from $7: Black USB-C cables, chargers, more",
@@ -696,42 +744,6 @@
     "posted_at": "2026-06-22T19:10:18.498396"
   },
   {
-    "title": "Apple Watch Series 11 42mm GPS Smartwatch from $279 | 46mm $329",
-    "price": "$279",
-    "source_url": "https://www.amazon.com/dp/B0FQFL8PZ5",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/259589.1782164936.fit_lim.size_125x125.jpg",
-    "id": "18430e4fbe3e1393751903d912ff4841",
-    "amazon_url": "https://www.amazon.com/dp/B0FQFL8PZ5?tag=dealsinusa0ab-20",
-    "asin": "B0FQFL8PZ5",
-    "store": "Amazon",
-    "posted_at": "2026-06-22T19:10:19.498548"
-  },
-  {
-    "title": "Xiuxiuzsx 13.52oz Touchless USB-Rechargeable Automatic Soap Dispenser $9.99",
-    "price": "$9.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GVJ83NK2/ref=ox_sc_act_title_1?smid=A25BELCZAZW66M&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/268115.1782164907.fit_lim.size_125x125.jpg",
-    "id": "6a87d19ae4007306f70a37b5805dac7e",
-    "amazon_url": "https://www.amazon.com/dp/B0GVJ83NK2?tag=dealsinusa0ab-20",
-    "asin": "B0GVJ83NK2",
-    "store": "Amazon",
-    "posted_at": "2026-06-22T19:10:20.498683"
-  },
-  {
-    "title": "Apple AirTag 2nd Generation Tracker (4-Pack) $89",
-    "price": "$89",
-    "source_url": "https://www.amazon.com/gp/product/B0GJTXVN9Z/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/263894.1782168949.fit_lim.size_125x125.jpg",
-    "id": "42879a07a972d051fe237d94d1e1578b",
-    "amazon_url": "https://www.amazon.com/dp/B0GJTXVN9Z?tag=dealsinusa0ab-20",
-    "asin": "B0GJTXVN9Z",
-    "store": "Amazon",
-    "posted_at": "2026-06-22T19:10:21.498888"
-  },
-  {
     "title": "Refresh Your Summer Look w/ These 10 Amazon Fashion Staples Starting Under $6!",
     "price": "$6",
     "source_url": "https://hip2save.com/deals/amazon-fashion-promo-codes/",
@@ -852,30 +864,6 @@
     "posted_at": "2026-06-22T14:04:41.755206"
   },
   {
-    "title": "Magic Doodle Board 2-Pack Only $3.99 on Amazon",
-    "price": "$3.99",
-    "source_url": "https://hip2save.com/deals/magic-doodle-board/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B08FFKBX8G.01.LZZZZZZZ.jpg",
-    "id": "f5a323c197471eeced56f2bbdccc565d",
-    "amazon_url": "https://www.amazon.com/dp/B08FFKBX8G?tag=dealsinusa0ab-20",
-    "asin": "B08FFKBX8G",
-    "store": "Amazon",
-    "posted_at": "2026-06-22T14:04:45.598161"
-  },
-  {
-    "title": "18K Gold Plated Initial Bracelet Only $3.99 on Amazon",
-    "price": "$3.99",
-    "source_url": "https://hip2save.com/deals/initial-bracelet/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0CN7C1V6W.01.LZZZZZZZ.jpg",
-    "id": "82915a921a9889e19bf1c72c938e8b78",
-    "amazon_url": "https://www.amazon.com/dp/B0CN7C1V6W?tag=dealsinusa0ab-20",
-    "asin": "B0CN7C1V6W",
-    "store": "Amazon",
-    "posted_at": "2026-06-22T14:04:47.457365"
-  },
-  {
     "title": "Most affordable Apple Watch Series 11 models drop to new all-time low from $279 [Updated]",
     "price": "$279",
     "source_url": "https://9to5toys.com/2026/06/22/apple-watch-series-11-models-prime-day-all-time-low/",
@@ -982,18 +970,6 @@
     "asin": "B0FQFL8PZ5",
     "store": "Amazon",
     "posted_at": "2026-06-22T07:56:39.619957"
-  },
-  {
-    "title": "Apple Watch Ultra 3 drops to best price ever at $150 off (Black and Natural, various band options)",
-    "price": "$150",
-    "source_url": "https://9to5toys.com/2026/06/22/apple-watch-ultra-3-best-price-prime-day/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2025/09/Apple-Watch-Ultra-3-launch-deals-Amazon.jpg",
-    "id": "bbf45dbbb4488230ac70c97367632621",
-    "amazon_url": "https://www.amazon.com/dp/B0FQFL8PZ5?tag=dealsinusa0ab-20",
-    "asin": "B0FQFL8PZ5",
-    "store": "Amazon",
-    "posted_at": "2026-06-22T06:55:48.708365"
   },
   {
     "title": "Apple\u2019s latest AirTag 2 hits Amazon all-time low pricing ahead of Prime Day from $22 each",
