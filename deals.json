@@ -1,5 +1,41 @@
 [
   {
+    "title": "1L Paul Mitchell Tea Tree Special Shampoo or Conditioner $26.40",
+    "price": "$26.40",
+    "source_url": "https://slickdeals.net/f/19685145-1l-paul-mitchell-tea-tree-special-shampoo-or-conditioner-26-40?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20826063.thumb",
+    "id": "843237b1de1f0637b1316338b31f1990",
+    "amazon_url": "https://www.amazon.com/dp/B000MD65FO?tag=dealsinusa0ab-20",
+    "asin": "B000MD65FO",
+    "store": "Amazon",
+    "posted_at": "2026-06-25T23:10:20.069704"
+  },
+  {
+    "title": "Burt\u2019s Bees Lip Balm 4-Packs from $8.56 Shipped on Amazon",
+    "price": "$8.56",
+    "source_url": "https://hip2save.com/deals/burts-bees-lip-balm/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B08VXNT6L2.01.LZZZZZZZ.jpg",
+    "id": "4a34c37745d1eaf19f30f0704275657f",
+    "amazon_url": "https://www.amazon.com/dp/B08VXNT6L2?tag=dealsinusa0ab-20",
+    "asin": "B08VXNT6L2",
+    "store": "Amazon",
+    "posted_at": "2026-06-25T23:11:01.537650"
+  },
+  {
+    "title": "BIOptimizers Supplements from $13 Shipped for Prime Members | Stock Up on Collin\u2019s Fave Magnesium!",
+    "price": "$13",
+    "source_url": "https://hip2save.com/deals/bioptimizers-supplements/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B09R2DCRMY.01.LZZZZZZZ.jpg",
+    "id": "cbb3377bcfe0d4e93f95a73847222a63",
+    "amazon_url": "https://www.amazon.com/dp/B09R2DCRMY?tag=dealsinusa0ab-20",
+    "asin": "B09R2DCRMY",
+    "store": "Amazon",
+    "posted_at": "2026-06-25T23:11:03.392140"
+  },
+  {
     "title": "Bandai HG IBO 1/144 Gundam Barbatos Lupus Rex Iron-Blooded Orphans Model Kit $11.40",
     "price": "$11.40",
     "source_url": "https://slickdeals.net/f/19686534-11-38-bandai-hobby-gundam-iron-blooded-orphans-no-33-gundam-barbatos-lupus-rex-hg-ibo-1-144-model-kit-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -94,42 +130,6 @@
     "asin": "B0CGY2RW9V",
     "store": "Amazon",
     "posted_at": "2026-06-25T21:07:08.364044"
-  },
-  {
-    "title": "8-Port TP-Link Gigabit Unmanaged Ethernet Network Switch + 10% Back w/ Prime Card $15.20",
-    "price": "$15.20",
-    "source_url": "https://slickdeals.net/f/19647477-15-18-8-port-tp-link-gigabit-unmanaged-ethernet-network-switch-tl-sg108-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20727237.thumb",
-    "id": "f1a2dcec7c3a82fac806c9c0f7cd666d",
-    "amazon_url": "https://www.amazon.com/dp/B00A121WN6?tag=dealsinusa0ab-20",
-    "asin": "B00A121WN6",
-    "store": "Amazon",
-    "posted_at": "2026-06-25T21:07:13.648352"
-  },
-  {
-    "title": "2-Pk 15-Lb Authentic Royal Basmati White Rice $28.45 w/ S&S",
-    "price": "$28.45",
-    "source_url": "https://slickdeals.net/f/19685148-28-47-2-pk-15-lb-authentic-royal-basmati-white-rice-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20826081.thumb",
-    "id": "12db315fdfba27678baf1f40dabb706f",
-    "amazon_url": "https://www.amazon.com/dp/B0D14W6HLL?tag=dealsinusa0ab-20",
-    "asin": "B0D14W6HLL",
-    "store": "Amazon",
-    "posted_at": "2026-06-25T21:07:16.438972"
-  },
-  {
-    "title": "6\" BLOKEES Star Wars EP V: The Empire Strikes Back: Darth Vader Model Kit $10",
-    "price": "$10",
-    "source_url": "https://slickdeals.net/f/19682877-10-blokees-star-wars-ep-v-the-empire-strikes-back-darth-vader-model-kit-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20820114.thumb",
-    "id": "dc7dad1a715b605fc836574b7d1bcdb6",
-    "amazon_url": "https://www.amazon.com/dp/B0FXHH3JLJ?tag=dealsinusa0ab-20",
-    "asin": "B0FXHH3JLJ",
-    "store": "Amazon",
-    "posted_at": "2026-06-25T21:07:18.946447"
   },
   {
     "title": "Liquid Death Sparkling Water 12-Packs from $6.47 Shipped on Amazon",
@@ -958,30 +958,6 @@
     "asin": "B012O5855A",
     "store": "Amazon",
     "posted_at": "2026-06-25T13:56:09.965005"
-  },
-  {
-    "title": "Blink Mini 2 Camera Only $12.99 for Prime Members (Reg. $40) | No Subscription Needed!",
-    "price": "$12.99",
-    "source_url": "https://hip2save.com/deals/blink-mini-camera/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0F3BB8D37.01.LZZZZZZZ.jpg",
-    "id": "59bc42577c5ac10a7b67c365b817b089",
-    "amazon_url": "https://www.amazon.com/dp/B0F3BB8D37?tag=dealsinusa0ab-20",
-    "asin": "B0F3BB8D37",
-    "store": "Amazon",
-    "posted_at": "2026-06-25T13:56:11.493370"
-  },
-  {
-    "title": "Rubbermaid Brilliance Food Storage 10-Piece Set Only $16.79 on Amazon (Over 60K 5-Star Reviews!)",
-    "price": "$16.79",
-    "source_url": "https://hip2save.com/deals/rubbermaid-brilliance/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B01JCNEIC6.01.LZZZZZZZ.jpg",
-    "id": "3642749a6660bdc5db9191d1b3eba088",
-    "amazon_url": "https://www.amazon.com/dp/B01JCNEIC6?tag=dealsinusa0ab-20",
-    "asin": "B01JCNEIC6",
-    "store": "Amazon",
-    "posted_at": "2026-06-25T13:56:12.951545"
   },
   {
     "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker, Stainless Steel, 6 Quart \u2013 Just $64.99! Prime Day 2026 Deals!",
