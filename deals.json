@@ -1,5 +1,29 @@
 [
   {
+    "title": "ecobee officially extends HomeKit Prime Day deals: Smart Thermostat, cams, sensors, bundles more up to $122 off",
+    "price": "$122",
+    "source_url": "https://9to5toys.com/2026/06/27/ecobee-officially-extends-homekit-prime-day-deals/",
+    "source": "9to5Toys",
+    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2025/11/ecobee-black-friday-2025-sale.jpg",
+    "id": "a63c450ed1d316cb392d9458334d16c7",
+    "amazon_url": "https://www.amazon.com/dp/B09XXS48P8?tag=dealsinusa0ab-20",
+    "asin": "B09XXS48P8",
+    "store": "Amazon",
+    "posted_at": "2026-06-27T05:58:14.426608"
+  },
+  {
+    "title": "Best Buy\u2019s massive Tech Fest sale still live: Apple, Android, TVs, headphones, FREE credit, more",
+    "price": "$150",
+    "source_url": "https://9to5toys.com/2026/06/27/best-buy-tech-fest-prime-day-sale-now-live/",
+    "source": "9to5Toys",
+    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/06/Best-Buy-Tech-Fest-2026-Prime-day-sale.jpg",
+    "id": "d934957416838f0b509930b23d8497c8",
+    "amazon_url": "https://www.amazon.com/dp/B0FQFPB851?tag=dealsinusa0ab-20",
+    "asin": "B0FQFPB851",
+    "store": "Amazon",
+    "posted_at": "2026-06-27T05:58:16.239836"
+  },
+  {
     "title": "1-Gallon Meguiar's Gold Class Car Wash Foam $13.30 w/ S&S",
     "price": "$13.30",
     "source_url": "https://slickdeals.net/f/19688115-1-gallon-meguiar-s-gold-class-car-wash-foam-13-30-w-s-s?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -132,66 +156,6 @@
     "posted_at": "2026-06-27T03:56:28.531523"
   },
   {
-    "title": "Ioion Automatic Electric Salt and Pepper Grinder Set with Adjustable Coarseness $12.34",
-    "price": "$12.34",
-    "source_url": "https://www.amazon.com/gp/product/B0DJSQQ1ZW/ref=ox_sc_act_title_1?smid=A15MYT3JMG1XQQ&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/255045.1782505895.fit_lim.size_125x125.jpg",
-    "id": "d638d34d57fdaff410822a165ef57b86",
-    "amazon_url": "https://www.amazon.com/dp/B0DJSQQ1ZW?tag=dealsinusa0ab-20",
-    "asin": "B0DJSQQ1ZW",
-    "store": "Amazon",
-    "posted_at": "2026-06-27T03:56:29.739245"
-  },
-  {
-    "title": "Apple Watch Series 11 42mm GPS Smartwatch from $279 | 46mm $329",
-    "price": "$279",
-    "source_url": "https://www.amazon.com/dp/B0FQFL8PZ5",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/259589.1782511134.fit_lim.size_125x125.jpg",
-    "id": "18430e4fbe3e1393751903d912ff4841",
-    "amazon_url": "https://www.amazon.com/dp/B0FQFL8PZ5?tag=dealsinusa0ab-20",
-    "asin": "B0FQFL8PZ5",
-    "store": "Amazon",
-    "posted_at": "2026-06-27T03:56:30.739392"
-  },
-  {
-    "title": "Intex 12x30\" Metal Frame Swimming Pool $72.79",
-    "price": "$72.79",
-    "source_url": "https://www.amazon.com/INTEX-28210EP-Ground-Swimming-Included/dp/B0FGW3M3Y7?th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/268504.1782506388.fit_lim.size_125x125.jpg",
-    "id": "db0c6d0d9217e6fc6929b76cecfd76b0",
-    "amazon_url": "https://www.amazon.com/dp/B0FGW3M3Y7?tag=dealsinusa0ab-20",
-    "asin": "B0FGW3M3Y7",
-    "store": "Amazon",
-    "posted_at": "2026-06-27T03:56:31.739494"
-  },
-  {
-    "title": "Greenvines 11 360-Degree Patio Offset Cantilever Umbrella with Base, Aluminum Ribs $154.99",
-    "price": "$154.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GJ4XVPXG/ref=ox_sc_act_title_1?smid=A1V38HS4S9ZE5P&th=1&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/268453.1782505721.fit_lim.size_125x125.jpg",
-    "id": "59ce9917f2cf6c0b100556e925a4dda6",
-    "amazon_url": "https://www.amazon.com/dp/B0GJ4XVPXG?tag=dealsinusa0ab-20",
-    "asin": "B0GJ4XVPXG",
-    "store": "Amazon",
-    "posted_at": "2026-06-27T03:56:32.739594"
-  },
-  {
-    "title": "Apple iPad 11\" 128GB A16 Chip Liquid Retina Display Tablet $299",
-    "price": "$299",
-    "source_url": "https://www.amazon.com/gp/product/B0DZ77D5HL/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/254674.1782511009.fit_lim.size_125x125.jpg",
-    "id": "0fa5bfc92205b6c0c277b14318a10fdc",
-    "amazon_url": "https://www.amazon.com/dp/B0DZ77D5HL?tag=dealsinusa0ab-20",
-    "asin": "B0DZ77D5HL",
-    "store": "Amazon",
-    "posted_at": "2026-06-27T03:56:33.739710"
-  },
-  {
     "title": "8-Pc Klein Tools All-Purpose Screwdriver Set $33",
     "price": "$33",
     "source_url": "https://slickdeals.net/f/19684209-32-98-8-pc-klein-tools-all-purpose-screwdriver-set-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -226,18 +190,6 @@
     "asin": "B0FZDGR4JB",
     "store": "Amazon",
     "posted_at": "2026-06-27T02:54:55.252872"
-  },
-  {
-    "title": "Prime Members: Inglourious Basterds (4K Ultra HD + Blu-ray + Digital Copy) $9 & More + Free S&H",
-    "price": "$9",
-    "source_url": "https://slickdeals.net/f/19690554-prime-8-99-inglourious-basterds-4k-ultra-hd-blu-ray-digital-copy-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20838612.thumb",
-    "id": "03dc512b3e94e84f22029d4da4e8087e",
-    "amazon_url": "https://www.amazon.com/dp/B09CRLZKVS?tag=dealsinusa0ab-20",
-    "asin": "B09CRLZKVS",
-    "store": "Amazon",
-    "posted_at": "2026-06-27T01:53:55.328794"
   },
   {
     "title": "Last Chance to Score 50% Off Team-Fave Lumineux Teeth Whitening Strips on Amazon w/ Prime",
@@ -1102,54 +1054,6 @@
     "asin": "B0G1TC6D3N",
     "store": "Amazon",
     "posted_at": "2026-06-26T09:29:01.393418"
-  },
-  {
-    "title": "Selling out quick: M5 Pro/Max MacBook Pro up to $850 under the new list prices for Prime Day",
-    "price": "$850",
-    "source_url": "https://9to5toys.com/2026/06/26/m5-pro-m5-max-macbook-pro-prime-day/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/04/MacBook-Pro-M5-Pro.jpg",
-    "id": "25abf7a98d476b229fb472c99e169945",
-    "amazon_url": "https://www.amazon.com/dp/B0FWD623D1?tag=dealsinusa0ab-20",
-    "asin": "B0FWD623D1",
-    "store": "Amazon",
-    "posted_at": "2026-06-26T09:29:02.532811"
-  },
-  {
-    "title": "Amazon Echo Spot drops even lower to $40 (50% off), plus more Prime Day all-time lows",
-    "price": "$40",
-    "source_url": "https://9to5toys.com/2026/06/26/amazon-echo-spot-prime-day/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2025/09/Prime-Day-Echo-Spot-smart-speaker-deals.jpg",
-    "id": "6a0eaea5f70a5b12c241908c72a6ca01",
-    "amazon_url": "https://www.amazon.com/dp/B0BFC7WQ6R?tag=dealsinusa0ab-20",
-    "asin": "B0BFC7WQ6R",
-    "store": "Amazon",
-    "posted_at": "2026-06-26T08:27:01.706618"
-  },
-  {
-    "title": "Google Pixel Watch 4 drops even lower for final 24 hours of Prime Day at up to $115 off",
-    "price": "$115",
-    "source_url": "https://9to5toys.com/2026/06/26/google-pixel-watch-4-prime-day/",
-    "source": "9to5Toys",
-    "image": "https://www.amazon.com/images/P/B0FFTRNTDD.01.LZZZZZZZ.jpg",
-    "id": "be891ec4e64a7a342bf6842667e4cec7",
-    "amazon_url": "https://www.amazon.com/dp/B0FFTRNTDD?tag=dealsinusa0ab-20",
-    "asin": "B0FFTRNTDD",
-    "store": "Amazon",
-    "posted_at": "2026-06-26T07:25:14.495287"
-  },
-  {
-    "title": "Skip sketchy public Wi-Fi with TP-Link\u2019s portable Wi-Fi 7 router, now just $90 for Prime Day",
-    "price": "$90",
-    "source_url": "https://9to5toys.com/2026/06/26/tp-link-portable-wi-fi-7-router-now-just-90-for-prime-day/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/06/TPLink-Roam-7.jpg",
-    "id": "efdede8cac78e9147236ee1c41dbc7d4",
-    "amazon_url": "https://www.amazon.com/dp/B0FHZGXZH7?tag=dealsinusa0ab-20",
-    "asin": "B0FHZGXZH7",
-    "store": "Amazon",
-    "posted_at": "2026-06-26T07:25:15.630282"
   },
   {
     "title": "Finish Ultimate Quantum Infinity Shine Dishwasher Pods 62 Count \u2013 Just $12.49! Prime Day 2026 Deals!",
