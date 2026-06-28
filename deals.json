@@ -1,5 +1,101 @@
 [
   {
+    "title": "The Hobbit Illustrated by the Author by J.R.R. Tolkien (Hardcover) $27.70",
+    "price": "$27.70",
+    "source_url": "https://slickdeals.net/f/19672731-the-hobbit-illustrated-by-the-author-a-special-edition-of-the-fantasy-classic-featuring-sprayed-edges-tolkien-illustrated-editions-4-27-68?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/2/5/6/3/8/300x300/20792289.thumb",
+    "id": "c9c3f215b429ce230f59027f4bfa841d",
+    "amazon_url": "https://www.amazon.com/dp/0063347539?tag=dealsinusa0ab-20",
+    "asin": "0063347539",
+    "store": "Amazon",
+    "posted_at": "2026-06-28T14:23:21.539310"
+  },
+  {
+    "title": "Mechanix Wear Material4x M-Pact Gloves $15.32",
+    "price": "$15.32",
+    "source_url": "https://www.amazon.com/gp/product/B00GFTAM62",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268514.1782669072.fit_lim.size_125x125.jpg",
+    "id": "ebd5d631c804418aa2b5bcf35354e354",
+    "amazon_url": "https://www.amazon.com/dp/B00GFTAM62?tag=dealsinusa0ab-20",
+    "asin": "B00GFTAM62",
+    "store": "Amazon",
+    "posted_at": "2026-06-28T14:23:29.804023"
+  },
+  {
+    "title": "Lee Mens Dungarees New Belted Wyoming Cargo Short $16.01",
+    "price": "$16.01",
+    "source_url": "https://www.amazon.com/gp/product/B0CQZ5P2XX/ref=sw_img_1?smid=&th=1&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/244513.1782670433.fit_lim.size_125x125.jpg",
+    "id": "2d328777c3135647920d3316c1f269ac",
+    "amazon_url": "https://www.amazon.com/dp/B0CQZ5P2XX?tag=dealsinusa0ab-20",
+    "asin": "B0CQZ5P2XX",
+    "store": "Amazon",
+    "posted_at": "2026-06-28T14:23:30.804344"
+  },
+  {
+    "title": "Citizen Mens Classic Addysen Eco-Drive Sapphire Crystal Stainless Steel Watch $190",
+    "price": "$190",
+    "source_url": "https://www.amazon.com/gp/product/B00PXVTU5C?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/267298.1782669560.fit_lim.size_125x125.jpg",
+    "id": "175889c51c03f96b07d80cb3d8fd7123",
+    "amazon_url": "https://www.amazon.com/dp/B00PXVTU5C?tag=dealsinusa0ab-20",
+    "asin": "B00PXVTU5C",
+    "store": "Amazon",
+    "posted_at": "2026-06-28T14:23:31.804467"
+  },
+  {
+    "title": "Zojirushi 20oz Stainless Steel Vacuum Water Bottle $23.55",
+    "price": "$23.55",
+    "source_url": "https://www.amazon.com/dp/B0FGJC67ZM",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/257140.1782669432.fit_lim.size_125x125.jpg",
+    "id": "713b7e66ad6c33b58da2f7ebe616b199",
+    "amazon_url": "https://www.amazon.com/dp/B0FGJC67ZM?tag=dealsinusa0ab-20",
+    "asin": "B0FGJC67ZM",
+    "store": "Amazon",
+    "posted_at": "2026-06-28T14:23:32.804579"
+  },
+  {
+    "title": "Cold Steel 90TH Trail Hawk Axe American Hickory Handle $21.74",
+    "price": "$21.74",
+    "source_url": "https://www.amazon.com/gp/product/B0014BMBA6/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/267976.1782669100.fit_lim.size_125x125.jpg",
+    "id": "765e03cdee3033e89af31ad991ff1fad",
+    "amazon_url": "https://www.amazon.com/dp/B0014BMBA6?tag=dealsinusa0ab-20",
+    "asin": "B0014BMBA6",
+    "store": "Amazon",
+    "posted_at": "2026-06-28T14:23:33.804695"
+  },
+  {
+    "title": "Osprey Daylite Plus Commuter Backpack 20L $48.75",
+    "price": "$48.75",
+    "source_url": "https://www.amazon.com/gp/product/B0FGY2QGTK/ref=sw_img_1?smid=&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/250934.1782668355.fit_lim.size_125x125.jpg",
+    "id": "a3f30d4cd7bf26404dedb384b18a76f6",
+    "amazon_url": "https://www.amazon.com/dp/B0FGY2QGTK?tag=dealsinusa0ab-20",
+    "asin": "B0FGY2QGTK",
+    "store": "Amazon",
+    "posted_at": "2026-06-28T14:23:34.804818"
+  },
+  {
+    "title": "Rechargeable Portable Fan Only $5.99 on Amazon (Reg. $10)",
+    "price": "$5.99",
+    "source_url": "https://hip2save.com/deals/rechargeable-portable-fan/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0F17F3BMC.01.LZZZZZZZ.jpg",
+    "id": "9a692b0223e2c10b9b1cc36d6e06d456",
+    "amazon_url": "https://www.amazon.com/dp/B0F17F3BMC?tag=dealsinusa0ab-20",
+    "asin": "B0F17F3BMC",
+    "store": "Amazon",
+    "posted_at": "2026-06-28T14:23:45.531460"
+  },
+  {
     "title": "Select Accounts: 6-Pk 16-Oz BODYARMOR LYTE Electrolyte Drink (Dragonfruit Berry) $3.90 w/ S&S",
     "price": "$3.90",
     "source_url": "https://slickdeals.net/f/19694649-sns-ac-3-90-6-pk-16-oz-bodyarmor-lyte-electrolyte-drink-dragonfruit-berry-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -228,30 +324,6 @@
     "posted_at": "2026-06-28T12:21:51.006543"
   },
   {
-    "title": "Dreame VH20 USB-Rechargeable Handheld Vacuum Sealer Machine with 30x Reusable Bags $29.99",
-    "price": "$29.99",
-    "source_url": "https://www.amazon.com/gp/product/B0G7YPCSRD/ref=ox_sc_act_title_1?smid=A3CJX9JC479F7I&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/265450.1782654819.fit_lim.size_125x125.jpg",
-    "id": "e9f2933429784efac1c2e1bafbf6c8de",
-    "amazon_url": "https://www.amazon.com/dp/B0G7YPCSRD?tag=dealsinusa0ab-20",
-    "asin": "B0G7YPCSRD",
-    "store": "Amazon",
-    "posted_at": "2026-06-28T12:21:52.006690"
-  },
-  {
-    "title": "Evwallbox 40-Amp 9.6-kW 240V ETL Certified Level 2 EV Charger with J1772 25 Cable $279.99",
-    "price": "$279.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GZ3WGF4X/ref=ox_sc_act_title_2?smid=A374N2C85Q73OT&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/268487.1782654668.fit_lim.size_125x125.jpg",
-    "id": "79ffca826cddf0f784a856600c539c64",
-    "amazon_url": "https://www.amazon.com/dp/B0GZ3WGF4X?tag=dealsinusa0ab-20",
-    "asin": "B0GZ3WGF4X",
-    "store": "Amazon",
-    "posted_at": "2026-06-28T12:21:53.006876"
-  },
-  {
     "title": "Little Tikes Outdoor Water Table w/ Accessories Just $47 Shipped on Amazon (Reg. $100)",
     "price": "$47",
     "source_url": "https://hip2save.com/deals/little-tikes-water-table/",
@@ -310,18 +382,6 @@
     "asin": "B0G36TDT1W",
     "store": "Amazon",
     "posted_at": "2026-06-28T11:21:08.804206"
-  },
-  {
-    "title": "3-Pack 160-Ct Kleenex 2-Ply Facial Tissues 4 for $16",
-    "price": "$16",
-    "source_url": "https://slickdeals.net/f/19693764-3-pack-160-ct-kleenex-2-ply-facial-tissues-4-for-16?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20844483.thumb",
-    "id": "bfc4474fca0fce5cad5845221b8e1cf0",
-    "amazon_url": "https://www.amazon.com/dp/B00KA25G7A?tag=dealsinusa0ab-20",
-    "asin": "B00KA25G7A",
-    "store": "Amazon",
-    "posted_at": "2026-06-28T10:19:42.387495"
   },
   {
     "title": "Must Have! Under $9 for 110 Clear Vinyl Gloves on Amazon",
@@ -936,18 +996,6 @@
     "posted_at": "2026-06-26T07:25:53.114983"
   },
   {
-    "title": "Bunch O Balloons Tropical Party (6 Pack) \u2013 Just $9.99! Prime Day 2026 Deals!",
-    "price": "$9.99",
-    "source_url": "https://freebies2deals.com/2026/06/bunch-o-balloons-tropical-party-6-pack-just-9-99-prime-day-2026-deals.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2026/06/ambal.png",
-    "id": "30799720344732af3bacc2057afd9137",
-    "amazon_url": "https://www.amazon.com/dp/B0B44PDCLC?tag=dealsinusa0ab-20",
-    "asin": "B0B44PDCLC",
-    "store": "Amazon",
-    "posted_at": "2026-06-26T07:25:54.306799"
-  },
-  {
     "title": "3 Tier Rolling Utility Cart Organizer with Removable Drawer \u2013 Just $19.54! Prime Day 2026 Deals!",
     "price": "$19.54",
     "source_url": "https://freebies2deals.com/2026/06/3-tier-rolling-utility-cart-organizer-with-removable-drawer-just-19-54-prime-day-2026-deals.html",
@@ -1150,18 +1198,6 @@
     "asin": "B0C9V48DDZ",
     "store": "Amazon",
     "posted_at": "2026-06-26T06:23:40.953408"
-  },
-  {
-    "title": "brainPLAY Trickiest Puzzles Ever: Book of Perplexing Brain Teasers, Logic Puzzles, Riddles, Thinking Games and More \u2013 Just $6.52! Prime Day 2026 Deals!",
-    "price": "$6.52",
-    "source_url": "https://freebies2deals.com/2026/06/brainplay-trickiest-puzzles-ever-book-of-perplexing-brain-teasers-logic-puzzles-riddles-thinking-games-and-more-just-6-52-prime-day-2026-deals.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2025/07/ampuzz.png",
-    "id": "df4e68a98e362201d8b428981ec336a1",
-    "amazon_url": "https://www.amazon.com/dp/1639622500?tag=dealsinusa0ab-20",
-    "asin": "1639622500",
-    "store": "Amazon",
-    "posted_at": "2026-06-26T06:23:42.183717"
   },
   {
     "title": "Land Prime Day pricing on AirPods Pro 3 while you still can, one of the best deals ever still live at $70 off",
