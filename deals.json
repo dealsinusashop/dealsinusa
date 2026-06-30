@@ -1,5 +1,389 @@
 [
   {
+    "title": "Bose SoundLink Flex Bluetooth Speaker (2nd Gen, Blue) $89 + Free S&H",
+    "price": "$89",
+    "source_url": "https://slickdeals.net/f/19704972-bose-soundlink-flex-bluetooth-speaker-2nd-gen-blue-dusk-89-free-s-h-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/2/9/8/1/5/7/1/1/300x300/20865759.thumb",
+    "id": "ccf8947a95c4831e2fb5bfe828e2aa87",
+    "amazon_url": "https://www.amazon.com/dp/B0D6WB7BV6?tag=dealsinusa0ab-20",
+    "asin": "B0D6WB7BV6",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:24.881483"
+  },
+  {
+    "title": "John Wick: Titans of Cult Steelbook Edition (4K Ultra HD Amazon Exclusive) $33",
+    "price": "$33",
+    "source_url": "https://slickdeals.net/f/19698114-32-99-john-wick-10th-anniversary-titans-of-cult-steelbook-4k-uhd-blu-ray-digital-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20851710.thumb",
+    "id": "951d2254faee140294ddce4a15acc298",
+    "amazon_url": "https://www.amazon.com/dp/B0DD56BQ5W?tag=dealsinusa0ab-20",
+    "asin": "B0DD56BQ5W",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:27.176106"
+  },
+  {
+    "title": "Team America: World Police (4K UHD + Blu-ray + Digital Copy) $14.50",
+    "price": "$14.50",
+    "source_url": "https://slickdeals.net/f/19698858-14-49-team-america-world-police-4k-uhd-blu-ray-digital-copy-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20853276.thumb",
+    "id": "d11982aeebce323e470464b11d74e5a2",
+    "amazon_url": "https://www.amazon.com/dp/B0D1RL7NNM?tag=dealsinusa0ab-20",
+    "asin": "B0D1RL7NNM",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:32.323647"
+  },
+  {
+    "title": "Fanshen Polarized Sports Sunglasses (3-Pack) $9.99",
+    "price": "$9.99",
+    "source_url": "https://www.amazon.com/gp/product/B0FNX3YNGZ/ref=ox_sc_act_title_1?smid=A2QRLSFWQOEB2X&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/262299.1782842291.fit_lim.size_125x125.jpg",
+    "id": "b768052cc59adc9800209d3e67162e5b",
+    "amazon_url": "https://www.amazon.com/dp/B0FNX3YNGZ?tag=dealsinusa0ab-20",
+    "asin": "B0FNX3YNGZ",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:43.922563"
+  },
+  {
+    "title": "Tapo HybridCam 360 2K Pan/Tilt Indoor & Outdoor Security Camera $27.99",
+    "price": "$27.99",
+    "source_url": "https://www.amazon.com/gp/product/B0FGB69DG7/ref=sw_img_1?smid=&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/258560.1782835915.fit_lim.size_125x125.jpg",
+    "id": "b31b388df5f998f7dbcd9c957b1c7d31",
+    "amazon_url": "https://www.amazon.com/dp/B0FGB69DG7?tag=dealsinusa0ab-20",
+    "asin": "B0FGB69DG7",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:44.922733"
+  },
+  {
+    "title": "ThermoMaven Bluetooth Wireless 6-Sensor Smart Meat Thermometer with 4 Probes $119.99",
+    "price": "$119.99",
+    "source_url": "https://www.amazon.com/gp/product/B0DFW4XBXM/ref=ox_sc_saved_image_1?smid=A18BX0EPIDVB8G&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268611.1782842414.fit_lim.size_125x125.jpg",
+    "id": "4e1b40843047ba5d7b862de81bd40677",
+    "amazon_url": "https://www.amazon.com/dp/B0DFW4XBXM?tag=dealsinusa0ab-20",
+    "asin": "B0DFW4XBXM",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:45.922861"
+  },
+  {
+    "title": "Bosch ITT1535B 3.5\" Screwdriving Power Bits (10-Pack) $8.59",
+    "price": "$8.59",
+    "source_url": "https://www.amazon.com/gp/product/B07GLBWXJV/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268610.1782841892.fit_lim.size_125x125.png",
+    "id": "141f8021b95eb75560520fc2673cbf60",
+    "amazon_url": "https://www.amazon.com/dp/B07GLBWXJV?tag=dealsinusa0ab-20",
+    "asin": "B07GLBWXJV",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:46.923031"
+  },
+  {
+    "title": "Godox XT1 Noise-Canceling 2.4GHz Wireless Lavalier Microphone (656ft Range) $51.50",
+    "price": "$51.50",
+    "source_url": "https://www.amazon.com/gp/product/B0DB24WHCQ/ref=ox_sc_saved_image_1?smid=A1XE4BVNXB611D&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268609.1782841727.fit_lim.size_125x125.jpg",
+    "id": "e6e9a5e4a466a152c5baedb142c4e82c",
+    "amazon_url": "https://www.amazon.com/dp/B0DB24WHCQ?tag=dealsinusa0ab-20",
+    "asin": "B0DB24WHCQ",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:47.923166"
+  },
+  {
+    "title": "Amazon Saver Frosted Flakes 13.5oz Cereal $1.76",
+    "price": "$1.76",
+    "source_url": "https://www.amazon.com/gp/product/B0CTP8ZSF3/ref=sw_img_1?smid=&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268597.1782837324.fit_lim.size_125x125.jpg",
+    "id": "c795f78a58bb6aa20639682392fa3984",
+    "amazon_url": "https://www.amazon.com/dp/B0CTP8ZSF3?tag=dealsinusa0ab-20",
+    "asin": "B0CTP8ZSF3",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:48.923309"
+  },
+  {
+    "title": "Dumos 72\" x 23\"x 30\" Raised Wood Garden Bed $74.99",
+    "price": "$74.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GTTGGFQJ/ref=sw_img_1?smid=&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268592.1782836603.fit_lim.size_125x125.jpg",
+    "id": "922fba9aafff61b587f9ca7df091932e",
+    "amazon_url": "https://www.amazon.com/dp/B0GTTGGFQJ?tag=dealsinusa0ab-20",
+    "asin": "B0GTTGGFQJ",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:49.923451"
+  },
+  {
+    "title": "A.1. Steakhouse New York Marinade 16 oz Bottles (6-Pack) $12.13",
+    "price": "$12.13",
+    "source_url": "https://www.amazon.com/gp/product/B000E1HUFS/ref=sw_img_1?smid=&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268607.1782841587.fit_lim.size_125x125.jpg",
+    "id": "eaf299d6eb80acad01fed91d414aba2d",
+    "amazon_url": "https://www.amazon.com/dp/B000E1HUFS?tag=dealsinusa0ab-20",
+    "asin": "B000E1HUFS",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:50.923596"
+  },
+  {
+    "title": "Ahomo 36\"x6\" Waterproof Under Desk Cable Management System (Clamp Mounted) $14.99",
+    "price": "$14.99",
+    "source_url": "https://www.amazon.com/gp/product/B0FDG128FN/ref=ox_sc_act_title_1?smid=A2SL1R28EMJGH&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/262822.1782841729.fit_lim.size_125x125.jpg",
+    "id": "92cc9b46cd72f4cfd07d2a366a0c976a",
+    "amazon_url": "https://www.amazon.com/dp/B0FDG128FN?tag=dealsinusa0ab-20",
+    "asin": "B0FDG128FN",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:51.923733"
+  },
+  {
+    "title": "Amazon Fresh 8oz Tomato Sauce (1-Pack) $0.46",
+    "price": "$0.46",
+    "source_url": "https://www.amazon.com/gp/product/B07TTHC4XT/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/256059.1782841180.fit_lim.size_125x125.png",
+    "id": "746c8acbabd7333f14faa43c61b97ab2",
+    "amazon_url": "https://www.amazon.com/dp/B07TTHC4XT?tag=dealsinusa0ab-20",
+    "asin": "B07TTHC4XT",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:52.923871"
+  },
+  {
+    "title": "Full Moon 1.5lb Chicken Jerky Dog Treats $25.12",
+    "price": "$25.12",
+    "source_url": "https://www.amazon.com/gp/product/B01EX0H12M/ref=ox_sc_saved_image_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/239586.1782841690.fit_lim.size_125x125.jpg",
+    "id": "b026024d2b5c647ae9709928a7e1c130",
+    "amazon_url": "https://www.amazon.com/dp/B01EX0H12M?tag=dealsinusa0ab-20",
+    "asin": "B01EX0H12M",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:53.924000"
+  },
+  {
+    "title": "Keenluk K41 1080p Big HD Screen Two-Way Video Call Home Security Camera $26.90",
+    "price": "$26.90",
+    "source_url": "https://www.amazon.com/gp/product/B0DRYM224C/ref=ox_sc_saved_image_1?smid=A3DOBP8FACPBYW&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268605.1782840799.fit_lim.size_125x125.jpg",
+    "id": "826019238e332b5d24d485885bdb0557",
+    "amazon_url": "https://www.amazon.com/dp/B0DRYM224C?tag=dealsinusa0ab-20",
+    "asin": "B0DRYM224C",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:54.924129"
+  },
+  {
+    "title": "RealCoo\" 31L 15-17\" Laptop Backpack $13.29",
+    "price": "$13.29",
+    "source_url": "https://www.amazon.com/gp/product/B0FM7RR519/ref=sw_img_1?smid=&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268595.1782837028.fit_lim.size_125x125.jpg",
+    "id": "a99ed4e39cc273658a7f0aa4e4da6912",
+    "amazon_url": "https://www.amazon.com/dp/B0FM7RR519?tag=dealsinusa0ab-20",
+    "asin": "B0FM7RR519",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:55.924252"
+  },
+  {
+    "title": "Glade Hawaiian Breeze Air Freshener Candle Jar (6.8oz, 3-Count) $11.27",
+    "price": "$11.27",
+    "source_url": "https://www.amazon.com/gp/product/B097YRP76C/ref=sw_img_1?smid=&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/220412.1782836303.fit_lim.size_125x125.jpg",
+    "id": "59469480db8e975e63698b27956f90eb",
+    "amazon_url": "https://www.amazon.com/dp/B097YRP76C?tag=dealsinusa0ab-20",
+    "asin": "B097YRP76C",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:56.924404"
+  },
+  {
+    "title": "Orico 128GB microSD Card (100MB/s) with Adapter $23.49",
+    "price": "$23.49",
+    "source_url": "https://www.amazon.com/gp/product/B0GS1Q662K/ref=sw_img_1?smid=&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268586.1782835909.fit_lim.size_125x125.jpg",
+    "id": "1bc765bf983eabb879fcdd1192db083b",
+    "amazon_url": "https://www.amazon.com/dp/B0GS1Q662K?tag=dealsinusa0ab-20",
+    "asin": "B0GS1Q662K",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:57.924539"
+  },
+  {
+    "title": "Tjduk 17\" Magnetic Book Shelf (2-Pack) $16.49",
+    "price": "$16.49",
+    "source_url": "https://www.amazon.com/gp/product/B0GXVSS4RW/ref=ox_sc_act_title_2?smid=A1WUMARMZ01QI3&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268606.1782840932.fit_lim.size_125x125.jpg",
+    "id": "710137def3abf7510e4be83c94a16001",
+    "amazon_url": "https://www.amazon.com/dp/B0GXVSS4RW?tag=dealsinusa0ab-20",
+    "asin": "B0GXVSS4RW",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:58.924677"
+  },
+  {
+    "title": "Lego 1410-Piece Technic 2 Fast 2 Furious Nissan Skyline GT-R (R34) Car Building Set $111.99",
+    "price": "$111.99",
+    "source_url": "https://www.amazon.com/gp/product/B0DRW6C13X/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/233531.1782841029.fit_lim.size_125x125.jpg",
+    "id": "afe046e6aa2bb22a320366049e3cc4bc",
+    "amazon_url": "https://www.amazon.com/dp/B0DRW6C13X?tag=dealsinusa0ab-20",
+    "asin": "B0DRW6C13X",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:11:59.924817"
+  },
+  {
+    "title": "Whole Foods Market, Organic Mint Ginger Herbal Tea (20-Count) $2.33",
+    "price": "$2.33",
+    "source_url": "https://www.amazon.com/gp/product/B0C47G72K7/ref=sw_img_1?smid=&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268604.1782840049.fit_lim.size_125x125.jpg",
+    "id": "6f94281ee8d5210bcece6753e53d2bba",
+    "amazon_url": "https://www.amazon.com/dp/B0C47G72K7?tag=dealsinusa0ab-20",
+    "asin": "B0C47G72K7",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:12:00.924949"
+  },
+  {
+    "title": "Pinspark Mens Quick Dry Lightweight Golf Polo Shirt (Various Sizes) $9.99",
+    "price": "$9.99",
+    "source_url": "https://www.amazon.com/gp/product/B0G82QDHMW/ref=ox_sc_saved_image_1?smid=A154O6JL5L5T2Z&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/246183.1782839364.fit_lim.size_125x125.jpg",
+    "id": "f404badf38823ba5ef636fd881314e8e",
+    "amazon_url": "https://www.amazon.com/dp/B0G82QDHMW?tag=dealsinusa0ab-20",
+    "asin": "B0G82QDHMW",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:12:01.925104"
+  },
+  {
+    "title": "Tresemme 39oz Smooth and Silky Conditioner $3.21",
+    "price": "$3.21",
+    "source_url": "https://www.amazon.com/gp/product/B07S1WP26M/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/242823.1782839591.fit_lim.size_125x125.png",
+    "id": "9d9abe6d413323d1b6b644a3843abc3c",
+    "amazon_url": "https://www.amazon.com/dp/B07S1WP26M?tag=dealsinusa0ab-20",
+    "asin": "B07S1WP26M",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:12:02.925261"
+  },
+  {
+    "title": "Acemagic Retro X3 Ryzen 7 H 255 Mini Gaming PC (16GB/1TB) with AMD Radeon 780M GPU $629.99",
+    "price": "$629.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GJ4SHYNT/ref=ox_sc_saved_title_1?smid=A35HJUHS95KJDA&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268603.1782838944.fit_lim.size_125x125.jpg",
+    "id": "1d9ba0b36e279316cde350198220c974",
+    "amazon_url": "https://www.amazon.com/dp/B0GJ4SHYNT?tag=dealsinusa0ab-20",
+    "asin": "B0GJ4SHYNT",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:12:03.925413"
+  },
+  {
+    "title": "Uni-Ball Onyx Rollerball Pens (Micro Point, 0.5 mm, Blue Ink) $5.65",
+    "price": "$5.65",
+    "source_url": "https://www.amazon.com/gp/product/B00006IE88/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/267241.1782839308.fit_lim.size_125x125.jpg",
+    "id": "f36dcbccdc557d23caaf161ed7672384",
+    "amazon_url": "https://www.amazon.com/dp/B00006IE88?tag=dealsinusa0ab-20",
+    "asin": "B00006IE88",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:12:04.925560"
+  },
+  {
+    "title": "DeWalt DCL040 20V Max LED Work Light / Flashlight $31.90",
+    "price": "$31.90",
+    "source_url": "https://www.amazon.com/gp/product/B0052MILZM/ref=sw_img_1?smid=&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/220614.1782835882.fit_lim.size_125x125.jpg",
+    "id": "7e41a81c537464f7645a828967bb0d67",
+    "amazon_url": "https://www.amazon.com/dp/B0052MILZM?tag=dealsinusa0ab-20",
+    "asin": "B0052MILZM",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:12:05.925701"
+  },
+  {
+    "title": "Huanuo VESA 13-32\" Free Standing Adjustable Dual Monitor Stand with Glass Base $29.99",
+    "price": "$29.99",
+    "source_url": "https://www.amazon.com/gp/product/B0G2C7L169/ref=ox_sc_act_title_1?smid=A354B2RYDHS9BX&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268457.1782839027.fit_lim.size_125x125.jpg",
+    "id": "aaf70050cc88946282aec754c855de14",
+    "amazon_url": "https://www.amazon.com/dp/B0G2C7L169?tag=dealsinusa0ab-20",
+    "asin": "B0G2C7L169",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:12:06.925842"
+  },
+  {
+    "title": "Wera Tool-Check Plus 1 Compact Screwdriver Set (39-Piece) $87",
+    "price": "$87",
+    "source_url": "https://www.amazon.com/gp/product/B0DYP6Z6G1/ref=ox_sc_act_title_1?smid=A2DKF1L73WUF4Q&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268608.1782841599.fit_lim.size_125x125.jpg",
+    "id": "06fe1708234252d3a15fa2447e05c67e",
+    "amazon_url": "https://www.amazon.com/dp/B0DYP6Z6G1?tag=dealsinusa0ab-20",
+    "asin": "B0DYP6Z6G1",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:12:07.925999"
+  },
+  {
+    "title": "EXPO Dry Erase Markers 4-Pack Only $3 Shipped on Amazon",
+    "price": "$3",
+    "source_url": "https://hip2save.com/deals/expo-markers/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0019DEBS4.01.LZZZZZZZ.jpg",
+    "id": "bc129454f47706cfa64507dd93b44659",
+    "amazon_url": "https://www.amazon.com/dp/B0019DEBS4?tag=dealsinusa0ab-20",
+    "asin": "B0019DEBS4",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:12:18.736270"
+  },
+  {
+    "title": "$135 Off Plug & Play Triple Laptop Screen Extender on Amazon + Free Shipping",
+    "price": "$135",
+    "source_url": "https://hip2save.com/deals/portable-laptop-monitor/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FL28SP4Q.01.LZZZZZZZ.jpg",
+    "id": "8e485992ee20b8ce00e2d668031e14f8",
+    "amazon_url": "https://www.amazon.com/dp/B0FL28SP4Q?tag=dealsinusa0ab-20",
+    "asin": "B0FL28SP4Q",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:12:20.503637"
+  },
+  {
+    "title": "Cheetos Puffs Cheese Flavored Snacks, 0.875 Ounce, Pack of 40 \u2013 Just $12.63!",
+    "price": "$12.63",
+    "source_url": "https://freebies2deals.com/2026/06/cheetos-puffs-cheese-flavored-snacks-0-875-ounce-pack-of-40-just-12-63.html",
+    "source": "Freebies2Deals",
+    "image": "https://freebies2deals.com/wp-content/uploads/2021/10/ampuffs.png",
+    "id": "198b18dfa8ddc8cda09f9b0b9c467947",
+    "amazon_url": "https://www.amazon.com/dp/B0792T5NZX?tag=dealsinusa0ab-20",
+    "asin": "B0792T5NZX",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:12:25.964872"
+  },
+  {
+    "title": "Conair Detangling Hair Brush Set, 3-Pack \u2013 Just $7.99!",
+    "price": "$7.99",
+    "source_url": "https://freebies2deals.com/2026/06/conair-detangling-hair-brush-set-3-pack-just-7-99.html",
+    "source": "Freebies2Deals",
+    "image": "https://freebies2deals.com/wp-content/uploads/2026/06/ambrush.png",
+    "id": "9d988a6fae5d4ed983a302cb824fca41",
+    "amazon_url": "https://www.amazon.com/dp/B0DKB2RDTG?tag=dealsinusa0ab-20",
+    "asin": "B0DKB2RDTG",
+    "store": "Amazon",
+    "posted_at": "2026-06-30T14:12:27.240163"
+  },
+  {
     "title": "50-oz Softsoap Antibacterial Liquid Hand Soap Refill (Crisp Clean) $3.75 w/ S&S",
     "price": "$3.75",
     "source_url": "https://slickdeals.net/f/19696434-sns-ac-3-69-50-oz-softsoap-antibacterial-liquid-hand-soap-refill-crisp-clean-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -480,42 +864,6 @@
     "posted_at": "2026-06-30T12:07:56.873508"
   },
   {
-    "title": "DJI Mini 3 Drone w/ 4K Camera & Remote Control $269 + Free S&H",
-    "price": "$269",
-    "source_url": "https://slickdeals.net/f/19694709-269-dji-mini-3-drone-w-4k-camera-remote-controller-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20846184.thumb",
-    "id": "5f6b5cb48e0b61fc92c9815a164642d2",
-    "amazon_url": "https://www.amazon.com/dp/B0BL3T49JF?tag=dealsinusa0ab-20",
-    "asin": "B0BL3T49JF",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:06.864303"
-  },
-  {
-    "title": "Samsung Odyssey G5 (G55T) 34\" Curved 3440x1440 WQHD 165Hz Gaming Monitor $265.04",
-    "price": "$265.04",
-    "source_url": "https://www.amazon.com/gp/product/B08MVBYWGQ/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/254243.1782834767.fit_lim.size_125x125.jpg",
-    "id": "2797af5c6834a093adabc8300b48d48a",
-    "amazon_url": "https://www.amazon.com/dp/B08MVBYWGQ?tag=dealsinusa0ab-20",
-    "asin": "B08MVBYWGQ",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:22.053362"
-  },
-  {
-    "title": "Wogahev Ergonomic Memory Foam Reading Pillow $27.99",
-    "price": "$27.99",
-    "source_url": "https://www.amazon.com/gp/product/B0F28R23K7/ref=ox_sc_act_title_1?smid=A243V7YIU6FA4K&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/268546.1782824860.fit_lim.size_125x125.jpg",
-    "id": "98376c1dff0f41bca0657e676fe30153",
-    "amazon_url": "https://www.amazon.com/dp/B0F28R23K7?tag=dealsinusa0ab-20",
-    "asin": "B0F28R23K7",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:23.053544"
-  },
-  {
     "title": "Klein Tools Knect Pass Through Ratchet and 3/8\" Socket Adapter $24.98",
     "price": "$24.98",
     "source_url": "https://www.amazon.com/gp/product/B0FDL8FQK9/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
@@ -526,42 +874,6 @@
     "asin": "B0FDL8FQK9",
     "store": "Amazon",
     "posted_at": "2026-06-30T12:08:24.053740"
-  },
-  {
-    "title": "Pinspark Lightweight Long Sleeve Crewneck Sweatshirt $7.99",
-    "price": "$7.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FF512R37/ref=sw_img_1?smid=A154O6JL5L5T2Z&th=1&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/259614.1782757228.fit_lim.size_125x125.jpg",
-    "id": "168a21ba4cfd744edaec5983778cdc77",
-    "amazon_url": "https://www.amazon.com/dp/B0FF512R37?tag=dealsinusa0ab-20",
-    "asin": "B0FF512R37",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:25.053845"
-  },
-  {
-    "title": "Boldgnaite M6 Stainless Steel Lock Nuts (20-Pieces) $2.91",
-    "price": "$2.91",
-    "source_url": "https://www.amazon.com/gp/product/B0G37YT6KC/ref=ox_sc_act_title_1?smid=AGKE0O840DWR5&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/268583.1782834060.fit_lim.size_125x125.jpg",
-    "id": "b92f895086b9215ad1febab00475afab",
-    "amazon_url": "https://www.amazon.com/dp/B0G37YT6KC?tag=dealsinusa0ab-20",
-    "asin": "B0G37YT6KC",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:26.053945"
-  },
-  {
-    "title": "Gyroor G13 500W All-Terrain Self-Balancing Hoverboard with LED Lights $69.99",
-    "price": "$69.99",
-    "source_url": "https://www.amazon.com/gp/product/B0CCNPV7NZ/ref=ox_sc_act_title_1?smid=AHGEGWXX7DCPQ&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/255483.1782737971.fit_lim.size_125x125.jpg",
-    "id": "67ff89aa1c189e9ac267eb3714aa2f5f",
-    "amazon_url": "https://www.amazon.com/dp/B0CCNPV7NZ?tag=dealsinusa0ab-20",
-    "asin": "B0CCNPV7NZ",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:27.054069"
   },
   {
     "title": "Hotsales 13500rpm 4-Speed USB-Rechargeable Clip-on Portable Fan (Pink) $8.99",
@@ -588,30 +900,6 @@
     "posted_at": "2026-06-30T12:08:29.054319"
   },
   {
-    "title": "Owala SmoothSip Slider 12oz Insulated Stainless Steel Coffee Tumbler $19.99",
-    "price": "$19.99",
-    "source_url": "https://www.amazon.com/gp/product/B0DF472VMZ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/258463.1782833891.fit_lim.size_125x125.png",
-    "id": "4ad9d761a5a6c8c9c0242dc0514fbfe5",
-    "amazon_url": "https://www.amazon.com/dp/B0DF472VMZ?tag=dealsinusa0ab-20",
-    "asin": "B0DF472VMZ",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:30.054447"
-  },
-  {
-    "title": "Little Giant Velocity M22 Multi-Position Aluminum Ladder (300lb Capacity) $197.03",
-    "price": "$197.03",
-    "source_url": "https://www.amazon.com/Little-Giant-Multi-Use-Ladder-15422-001/dp/B00E1AQE46",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/268394.1782738847.fit_lim.size_125x125.jpg",
-    "id": "df441932837ea2a890d41e50068bd19d",
-    "amazon_url": "https://www.amazon.com/dp/B00E1AQE46?tag=dealsinusa0ab-20",
-    "asin": "B00E1AQE46",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:31.054578"
-  },
-  {
     "title": "Vevor 3-Tier 400lbs Heavy Duty 360-Degree Swivel Wheels Welding Cart $48.44",
     "price": "$48.44",
     "source_url": "https://www.amazon.com/gp/product/B0C84DHTNB/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
@@ -622,30 +910,6 @@
     "asin": "B0C84DHTNB",
     "store": "Amazon",
     "posted_at": "2026-06-30T12:08:32.054699"
-  },
-  {
-    "title": "LEGO Technic John Deere 1470H Wheeled Harvester Building Toy (117-Piece, 42218) $7.99",
-    "price": "$7.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FMS68R65/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/268125.1782832847.fit_lim.size_125x125.jpg",
-    "id": "65312c37b751134317244873a63b3730",
-    "amazon_url": "https://www.amazon.com/dp/B0FMS68R65?tag=dealsinusa0ab-20",
-    "asin": "B0FMS68R65",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:33.054819"
-  },
-  {
-    "title": "ThermoMaven HT04 0.5-Sec Instant Read Digital Meat Thermometer (NIST Certified) $6.20",
-    "price": "$6.20",
-    "source_url": "https://www.amazon.com/gp/product/B0CZCX5WDC/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/254678.1782752620.fit_lim.size_125x125.jpg",
-    "id": "e5d4b7d3ca289c57522f13262e988784",
-    "amazon_url": "https://www.amazon.com/dp/B0CZCX5WDC?tag=dealsinusa0ab-20",
-    "asin": "B0CZCX5WDC",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:34.054942"
   },
   {
     "title": "Garmin Instinct 3 45mm Tactical Edition Amoled Display Rugged GPS Smartwatch $349.99",
@@ -672,66 +936,6 @@
     "posted_at": "2026-06-30T12:08:36.055192"
   },
   {
-    "title": "TheFitLife 50 Anti-Kink, Lightweight & Flexible Stainless Steel Metal Garden Hose $24.62",
-    "price": "$24.62",
-    "source_url": "https://www.amazon.com/gp/product/B0GJCZ9KV8/ref=sw_img_1?smid=A3HQVD37PN3YOI&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/248010.1782833114.fit_lim.size_125x125.jpg",
-    "id": "58813c383e286284eb0c51dfc40bedc6",
-    "amazon_url": "https://www.amazon.com/dp/B0GJCZ9KV8?tag=dealsinusa0ab-20",
-    "asin": "B0GJCZ9KV8",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:37.055316"
-  },
-  {
-    "title": "Conair Detangling Hair Brush Set (3-Pack) $7.99",
-    "price": "$7.99",
-    "source_url": "https://www.amazon.com/gp/product/B0DKB2RDTG/ref=sw_img_1?smid=&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/268544.1782823080.fit_lim.size_125x125.jpg",
-    "id": "5e5167657588c9bc3565bb4cb5a735a4",
-    "amazon_url": "https://www.amazon.com/dp/B0DKB2RDTG?tag=dealsinusa0ab-20",
-    "asin": "B0DKB2RDTG",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:38.055443"
-  },
-  {
-    "title": "Vynix 3D Soft Complete Blackout Sleeping Mask $4.99",
-    "price": "$4.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FSQVBQDC/ref=ox_sc_act_title_1?smid=A1LX72WKTJS3SZ&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/265161.1782833078.fit_lim.size_125x125.jpg",
-    "id": "568380daff00383f9d7e66660948fe0c",
-    "amazon_url": "https://www.amazon.com/dp/B0FSQVBQDC?tag=dealsinusa0ab-20",
-    "asin": "B0FSQVBQDC",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:39.055572"
-  },
-  {
-    "title": "Tipmile Slim RFID Blocking Wallet Credit Card Holder $4.99",
-    "price": "$4.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FWCGGBXK/ref=ox_sc_act_title_1?smid=A3QZE8NGN44CY7&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266105.1782755067.fit_lim.size_125x125.jpg",
-    "id": "c59f3c721daa79be6a196118e18cf3c2",
-    "amazon_url": "https://www.amazon.com/dp/B0FWCGGBXK?tag=dealsinusa0ab-20",
-    "asin": "B0FWCGGBXK",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:40.055696"
-  },
-  {
-    "title": "Craftsman CMHT81646 Electrical 6\" Diagonal Pliers $6.98",
-    "price": "$6.98",
-    "source_url": "https://www.amazon.com/gp/product/B083Q3L3NX/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/267649.1782738854.fit_lim.size_125x125.jpg",
-    "id": "2affb7fc51edc6cba1dfc632bdcc8dbd",
-    "amazon_url": "https://www.amazon.com/dp/B083Q3L3NX?tag=dealsinusa0ab-20",
-    "asin": "B083Q3L3NX",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:41.055818"
-  },
-  {
     "title": "Adidas 20oz Stainless Steel Water Bottle w/ Straw Lid $12.60",
     "price": "$12.60",
     "source_url": "https://www.amazon.com/gp/product/B0DH69PZ9N/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1&psc=1",
@@ -742,18 +946,6 @@
     "asin": "B0DH69PZ9N",
     "store": "Amazon",
     "posted_at": "2026-06-30T12:08:42.055944"
-  },
-  {
-    "title": "PJ Paul Jones Mens Casual Short Sleeve Dress Shirt $9.59",
-    "price": "$9.59",
-    "source_url": "https://www.amazon.com/gp/product/B0FY6KRH6K/ref=ox_sc_act_title_1?smid=A2FOAMAM1NPBGV&th=1&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/267239.1782750121.fit_lim.size_125x125.jpg",
-    "id": "4b8e07a9fb3c110913548edb407990a2",
-    "amazon_url": "https://www.amazon.com/dp/B0FY6KRH6K?tag=dealsinusa0ab-20",
-    "asin": "B0FY6KRH6K",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:43.056060"
   },
   {
     "title": "Everyfun P7 180L Electric Utility Wagon Cart (180L, 330lb Load) $159.99",
@@ -768,30 +960,6 @@
     "posted_at": "2026-06-30T12:08:44.056182"
   },
   {
-    "title": "Aepr 6-Mode Shiatsu Vibration Foot Massager with Cooling and Heating $155.99",
-    "price": "$155.99",
-    "source_url": "https://www.amazon.com/gp/product/B0H25DP9FR/ref=sw_img_1?smid=&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/267721.1782833286.fit_lim.size_125x125.jpg",
-    "id": "9ee5a1be6a9d254cfb55b19765e50c74",
-    "amazon_url": "https://www.amazon.com/dp/B0H25DP9FR?tag=dealsinusa0ab-20",
-    "asin": "B0H25DP9FR",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:45.056302"
-  },
-  {
-    "title": "Dioosn 24\"x12\" Sturdy Metal Peg Boad (2-Pack) with 38-Piece Hooks $21.59",
-    "price": "$21.59",
-    "source_url": "https://www.amazon.com/gp/product/B0F6N31T2X/ref=ox_sc_act_title_1?smid=A3Y5XWJIU6HYU&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/267566.1782823562.fit_lim.size_125x125.jpg",
-    "id": "5132b9fc693cca2353c3ee5523cd7fdc",
-    "amazon_url": "https://www.amazon.com/dp/B0F6N31T2X?tag=dealsinusa0ab-20",
-    "asin": "B0F6N31T2X",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:46.056431"
-  },
-  {
     "title": "Aerolite 3-in-2 Retractable USB-C, microUSB, Lightning to USB-C USB-A Charging Cable $8.99",
     "price": "$8.99",
     "source_url": "https://www.amazon.com/gp/product/B0GZZXDZQS/ref=sw_img_1?smid=&th=1",
@@ -802,42 +970,6 @@
     "asin": "B0GZZXDZQS",
     "store": "Amazon",
     "posted_at": "2026-06-30T12:08:47.056549"
-  },
-  {
-    "title": "Takeya Patented Deluxe Cold Brew Coffee Maker $10.55",
-    "price": "$10.55",
-    "source_url": "https://www.amazon.com/gp/product/B00FFLY64U/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/210298.1782830998.fit_lim.size_125x125.jpg",
-    "id": "b7f1f0fb003f88167f5224951bfd34f0",
-    "amazon_url": "https://www.amazon.com/dp/B00FFLY64U?tag=dealsinusa0ab-20",
-    "asin": "B00FFLY64U",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:48.056679"
-  },
-  {
-    "title": "Anoson 4\", 6\", 8\", 12\" Black Cable Zip Ties Assortment (400-Pack) $5.99",
-    "price": "$5.99",
-    "source_url": "https://www.amazon.com/gp/product/B0C2Z4L3S6/ref=ox_sc_act_title_1?smid=AQBY8QJQWQ17I&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/264512.1782751786.fit_lim.size_125x125.jpg",
-    "id": "a5f8f2620132d150912811a453866e33",
-    "amazon_url": "https://www.amazon.com/dp/B0C2Z4L3S6?tag=dealsinusa0ab-20",
-    "asin": "B0C2Z4L3S6",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:49.056802"
-  },
-  {
-    "title": "Apple MacBook Pro 14.2\" M5 10-Core CPU 10-Core GPU 3024x1964 Mini-LED Laptop (16GB/1TB) $1849",
-    "price": "$1849",
-    "source_url": "https://www.amazon.com/gp/product/B0FWD623D1/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/260613.1782832320.fit_lim.size_125x125.jpg",
-    "id": "8fdd6f9465286027ac409fa35bcaba56",
-    "amazon_url": "https://www.amazon.com/dp/B0FWD623D1?tag=dealsinusa0ab-20",
-    "asin": "B0FWD623D1",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T12:08:50.056932"
   },
   {
     "title": "Lifemaster Eco Friendly White Assorted Plant Pot Set (10-Pack) $15.06",
@@ -922,30 +1054,6 @@
     "asin": "B09WN3TNSV",
     "store": "Amazon",
     "posted_at": "2026-06-30T12:09:13.519385"
-  },
-  {
-    "title": "4-Lbs OxiClean Triple Action White Revive Laundry Whitener & Stain Remover Powder $10.40 w/ S&S",
-    "price": "$10.40",
-    "source_url": "https://slickdeals.net/f/19703652-sns-ac-10-39-4-lbs-oxiclean-triple-action-white-revive-laundry-whitener-and-stain-remover-powder-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20862846.thumb",
-    "id": "708f94c3bc39e7b8f9e04e40e1e6219e",
-    "amazon_url": "https://www.amazon.com/dp/B0FDYV3KK4?tag=dealsinusa0ab-20",
-    "asin": "B0FDYV3KK4",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T11:06:18.673892"
-  },
-  {
-    "title": "85\" Hisense 85U6SF Pro 4K Mini\u2011LED ULED Smart Fire TV + 10% Back w/ Prime Visa $1100 + Free S&H",
-    "price": "$1100",
-    "source_url": "https://slickdeals.net/f/19700682-1099-99-85-hisense-85u6sf-pro-4k-144hz-mini-led-uled-smart-fire-tv-10-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/6/7/9/8/1/2/300x300/20865261.thumb",
-    "id": "cdaf633589b604a033034577e9096576",
-    "amazon_url": "https://www.amazon.com/dp/B0GT4G294Y?tag=dealsinusa0ab-20",
-    "asin": "B0GT4G294Y",
-    "store": "Amazon",
-    "posted_at": "2026-06-30T11:06:21.282267"
   },
   {
     "title": "PoboVi Gen 2 18mAh Rechargeable Waterproof Bluetooth Titanium Smart Ring $80.32",
@@ -1104,18 +1212,6 @@
     "posted_at": "2026-06-29T20:53:25.064727"
   },
   {
-    "title": "TWO Native Body Washes Just $10.44 Shipped on Amazon",
-    "price": "$10.44",
-    "source_url": "https://hip2save.com/deals/native-body-wash/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FP69WY64.01.LZZZZZZZ.jpg",
-    "id": "3c1e07b808a2b05827ed6541870a7831",
-    "amazon_url": "https://www.amazon.com/dp/B0FP69WY64?tag=dealsinusa0ab-20",
-    "asin": "B0FP69WY64",
-    "store": "Amazon",
-    "posted_at": "2026-06-29T17:50:12.458589"
-  },
-  {
     "title": "Segway extends Prime Day savings on EVs for up to 58% off, like the all-terrain ZT3 Pro e-scooter at $850 + more from $250",
     "price": "$850",
     "source_url": "https://9to5toys.com/2026/06/29/segway-prime-day-savings-zt3-pro-electric-scooter-more/",
@@ -1174,30 +1270,6 @@
     "asin": "B07262XS4K",
     "store": "Amazon",
     "posted_at": "2026-06-29T13:45:34.029303"
-  },
-  {
-    "title": "The Worx Nitro 20V 8-inch cordless electric pole saw with 13.3-feet of reach is keeping to its $120 Prime Day rate",
-    "price": "$120",
-    "source_url": "https://9to5toys.com/2026/06/29/worx-nitro-20v-8-inch-cordless-electric-pole-saw-120/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/06/Worx-Nitro-20V-8-inch-pole-saw.jpg",
-    "id": "5094273e754b0970fedd6cca315e2f19",
-    "amazon_url": "https://www.amazon.com/dp/B07W5JX8RP?tag=dealsinusa0ab-20",
-    "asin": "B07W5JX8RP",
-    "store": "Amazon",
-    "posted_at": "2026-06-29T12:43:47.092908"
-  },
-  {
-    "title": "Acer delivers a metal unibody design, 4K resolution, and 1/2-inch Sony sensor in this webcam for just $34 (Reg. $60)",
-    "price": "$34",
-    "source_url": "https://9to5toys.com/2026/06/29/acer-4k-metal-unibody-webcam/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/06/Acer-4K-Metal-Unibody-Webcam.png",
-    "id": "5841dfc4db9709f9e4c2eb69f14c3866",
-    "amazon_url": "https://www.amazon.com/dp/B00605BYCW?tag=dealsinusa0ab-20",
-    "asin": "B00605BYCW",
-    "store": "Amazon",
-    "posted_at": "2026-06-29T12:43:48.822246"
   },
   {
     "title": "50% Off Beeswax Bread Bags 2 Pack at Amazon! | Under $9 Great for Muffins, Bagels and More Too!",
@@ -1282,18 +1354,6 @@
     "asin": "B0CBL8TGXQ",
     "store": "Amazon",
     "posted_at": "2026-06-26T07:25:46.374786"
-  },
-  {
-    "title": "LEGO Flower Bouquet 10280 Building Kit \u2013 Just $39.99! Prime Day 2026 Deals!",
-    "price": "$39.99",
-    "source_url": "https://freebies2deals.com/2026/06/lego-flower-bouquet-10280-building-kit-just-39-99-prime-day-2026-deals.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2022/04/amlego.png",
-    "id": "52562b643d932d85820c9840c3279b59",
-    "amazon_url": "https://www.amazon.com/dp/B08HW1L75J?tag=dealsinusa0ab-20",
-    "asin": "B08HW1L75J",
-    "store": "Amazon",
-    "posted_at": "2026-06-26T07:25:47.743356"
   },
   {
     "title": "3 Tier Rolling Utility Cart Organizer with Removable Drawer \u2013 Just $19.54! Prime Day 2026 Deals!",
@@ -1402,17 +1462,5 @@
     "asin": "B0FTGWYDBH",
     "store": "Amazon",
     "posted_at": "2026-06-26T06:21:45.035437"
-  },
-  {
-    "title": "Squishmallows Original Jolene The Lavender Spotted Cowgirl Fruit Bat Multisize Combo Pack \u2013 Just $7.49! Prime Day 2026 Deals!",
-    "price": "$7.49",
-    "source_url": "https://freebies2deals.com/2026/06/squishmallows-original-jolene-the-lavender-spotted-cowgirl-fruit-bat-multisize-combo-pack-just-7-49-prime-day-2026-deals.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2026/03/am3cowsqu.png",
-    "id": "cb8be114f8bab04577331ddc067cb4aa",
-    "amazon_url": "https://www.amazon.com/dp/B0DK7Y2BVV?tag=dealsinusa0ab-20",
-    "asin": "B0DK7Y2BVV",
-    "store": "Amazon",
-    "posted_at": "2026-06-26T06:22:01.345168"
   }
 ]
