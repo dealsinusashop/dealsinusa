@@ -1,5 +1,41 @@
 [
   {
+    "title": "The Calvin and Hobbes Portable Compendium (Paperback): Set 2 $10.30, Set 1 $10.15",
+    "price": "$10.30",
+    "source_url": "https://slickdeals.net/f/19717350-10-12-the-calvin-and-hobbes-portable-compendium-set-1-by-bill-watterson-paperback-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20890938.thumb",
+    "id": "acbb39dab6ee4b24ecebcf7645b39b8f",
+    "amazon_url": "https://www.amazon.com/dp/1524884979?tag=dealsinusa0ab-20",
+    "asin": "1524884979",
+    "store": "Amazon",
+    "posted_at": "2026-07-03T21:33:35.331787"
+  },
+  {
+    "title": "Sparkling Ice LIFESAVERS 12-Packs Only $11 Shipped on Amazon (Reg. $18)",
+    "price": "$11",
+    "source_url": "https://hip2save.com/deals/sparkling-ice/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0G4NPGVS9.01.LZZZZZZZ.jpg",
+    "id": "ede901f015cb868d9edbe6aa1d54e066",
+    "amazon_url": "https://www.amazon.com/dp/B0G4NPGVS9?tag=dealsinusa0ab-20",
+    "asin": "B0G4NPGVS9",
+    "store": "Amazon",
+    "posted_at": "2026-07-03T21:34:01.881870"
+  },
+  {
+    "title": "Method All-Purpose Cleaner Spray 2-Pack Just $5 Shipped on Amazon (Reg. $11)",
+    "price": "$5",
+    "source_url": "https://hip2save.com/deals/method-all-purpose-cleaner/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0BGQTZB4T.01.LZZZZZZZ.jpg",
+    "id": "4e71a7aae44338df9b157bba1341807e",
+    "amazon_url": "https://www.amazon.com/dp/B0BGQTZB4T?tag=dealsinusa0ab-20",
+    "asin": "B0BGQTZB4T",
+    "store": "Amazon",
+    "posted_at": "2026-07-03T21:34:03.411908"
+  },
+  {
     "title": "PINSPARK Men's UPF 50+ Sun Shirts Long Sleeve Rash Guard Hoodie $10",
     "price": "$10",
     "source_url": "https://slickdeals.net/f/19718238-pinspark-men-s-upf-50-long-sleeve-hoodie-various-colors-10-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -166,18 +202,6 @@
     "asin": "B00FFJ2IEW",
     "store": "Amazon",
     "posted_at": "2026-07-03T19:31:40.923989"
-  },
-  {
-    "title": "16-oz Rao's Homemade Pasta (various) from $2.10 & More",
-    "price": "$2.10",
-    "source_url": "https://slickdeals.net/f/19717407-sns-ac-2-09-16-oz-rao-s-homemade-pasta-various-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/8/4/0/9/0/5/1/300x300/20892552.thumb",
-    "id": "28048ee1c88aac99666ce85dbedf885e",
-    "amazon_url": "https://www.amazon.com/dp/B089D4HBV4?tag=dealsinusa0ab-20",
-    "asin": "B089D4HBV4",
-    "store": "Amazon",
-    "posted_at": "2026-07-03T19:31:43.195463"
   },
   {
     "title": "Fanttik F2 Master Mini 25000RPM Cordless Rotary Tool Kit w/ 28 Accessories $39.99",
@@ -382,30 +406,6 @@
     "asin": "B08YJDKMF6",
     "store": "Amazon",
     "posted_at": "2026-07-03T19:32:08.337100"
-  },
-  {
-    "title": "50-oz Softsoap Liquid Hand Soap Refill (Milk & Honey Scented) $4",
-    "price": "$4",
-    "source_url": "https://slickdeals.net/f/19716525-ac-3-99-50-oz-softsoap-milk-honey-scented-liquid-hand-soap-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20889537.thumb",
-    "id": "8b11af8dd3c8d772b1f291008d86a522",
-    "amazon_url": "https://www.amazon.com/dp/B07L98GZH9?tag=dealsinusa0ab-20",
-    "asin": "B07L98GZH9",
-    "store": "Amazon",
-    "posted_at": "2026-07-03T18:30:25.076917"
-  },
-  {
-    "title": "Chicken Run - Eggstraction (Nintendo Switch) $10",
-    "price": "$10",
-    "source_url": "https://slickdeals.net/f/19716480-ac-9-99-chicken-run-eggstraction-nintendo-switch-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20889480.thumb",
-    "id": "f3e87f88fac5f7912fd407217ebe3293",
-    "amazon_url": "https://www.amazon.com/dp/B0FFN3Q871?tag=dealsinusa0ab-20",
-    "asin": "B0FFN3Q871",
-    "store": "Amazon",
-    "posted_at": "2026-07-03T18:30:27.252378"
   },
   {
     "title": "Adidas Mens Lightblaze Lightweight Sneakers $28.99",
@@ -778,18 +778,6 @@
     "asin": "B0036QFZ46",
     "store": "Amazon",
     "posted_at": "2026-07-03T13:25:40.481389"
-  },
-  {
-    "title": "Shout Stain Remover Spray Just $1.84 Shipped on Amazon",
-    "price": "$1.84",
-    "source_url": "https://hip2save.com/deals/shout-stain-remover/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B000VDX2SS.01.LZZZZZZZ.jpg",
-    "id": "8a8938300b3c96e7da3ecae805a2b5cc",
-    "amazon_url": "https://www.amazon.com/dp/B000VDX2SS?tag=dealsinusa0ab-20",
-    "asin": "B000VDX2SS",
-    "store": "Amazon",
-    "posted_at": "2026-07-03T12:24:14.588708"
   },
   {
     "title": "24 Art Glitter Gel Pens Fine Tip Markers \u2013 Just $5.55!",
