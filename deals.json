@@ -1,5 +1,173 @@
 [
   {
+    "title": "Bad Religion: NO CONTROL (Vinyl LP) $16",
+    "price": "$16",
+    "source_url": "https://slickdeals.net/f/19732419-15-99-bad-religion-no-control-vinyl-lp-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20920422.thumb",
+    "id": "1a544c14adeb883858ccf31bae534e51",
+    "amazon_url": "https://www.amazon.com/dp/B000001INW?tag=dealsinusa0ab-20",
+    "asin": "B000001INW",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:54:01.362498"
+  },
+  {
+    "title": "46-oz Snyder's of Hanover Pretzel Snaps $6.05 w/ S&S",
+    "price": "$6.05",
+    "source_url": "https://slickdeals.net/f/19732653-sns-ac-6-05-46-oz-snyder-s-of-hanover-pretzel-snaps-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20921115.thumb",
+    "id": "d97021232f2923e39dca04dc39b95dfe",
+    "amazon_url": "https://www.amazon.com/dp/B0858J4BQF?tag=dealsinusa0ab-20",
+    "asin": "B0858J4BQF",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:54:04.314199"
+  },
+  {
+    "title": "Amazon Basics Self-Adjusting 10-24 AWG Wire Stripper Crimping Tool $8.20",
+    "price": "$8.20",
+    "source_url": "https://slickdeals.net/f/19731675-8-18-amazon-basics-self-adjusting-10-24-awg-wire-stripper-crimping-tool-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20918793.thumb",
+    "id": "3ed1ea5a84941d887740fa2764659f62",
+    "amazon_url": "https://www.amazon.com/dp/B07TS6KCXD?tag=dealsinusa0ab-20",
+    "asin": "B07TS6KCXD",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:54:06.711023"
+  },
+  {
+    "title": "5/8\" x 18\" ESTWING Gooseneck Wrecking Bar $10.85",
+    "price": "$10.85",
+    "source_url": "https://slickdeals.net/f/19732608-10-86-5-8-x-18-estwing-ewb-18-forged-steel-gooseneck-wrecking-bar-w-angled-chisel-end-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20920986.thumb",
+    "id": "3c759aa6aa5d7676915cfbba7fba1463",
+    "amazon_url": "https://www.amazon.com/dp/B00DT0OWPW?tag=dealsinusa0ab-20",
+    "asin": "B00DT0OWPW",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:54:13.901465"
+  },
+  {
+    "title": "Phylluz 52 DC Motor Flush Mount Ceiling Fan with Lights $47.98",
+    "price": "$47.98",
+    "source_url": "https://www.amazon.com/gp/product/B0G2Y9XDC6/ref=ox_sc_act_title_1?smid=A1NCE66K1VA8M0&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/258365.1783457512.fit_lim.size_125x125.jpg",
+    "id": "db11ad4845218137f436e01176a0a1ba",
+    "amazon_url": "https://www.amazon.com/dp/B0G2Y9XDC6?tag=dealsinusa0ab-20",
+    "asin": "B0G2Y9XDC6",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:54:36.366696"
+  },
+  {
+    "title": "Wavlink 2.5 Gbps USB-C to Ethernet Adapter $12.99",
+    "price": "$12.99",
+    "source_url": "https://www.amazon.com/gp/product/B0F5H77D13/ref=ox_sc_act_title_1?smid=A3FMOHF4Y740FZ&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/261443.1783456905.fit_lim.size_125x125.jpg",
+    "id": "3009dfb28f8a3d1bca04ce3b92a27356",
+    "amazon_url": "https://www.amazon.com/dp/B0F5H77D13?tag=dealsinusa0ab-20",
+    "asin": "B0F5H77D13",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:54:37.366826"
+  },
+  {
+    "title": "Dewalt DW3278 Circular Saw Fence $7.97",
+    "price": "$7.97",
+    "source_url": "https://www.amazon.com/gp/product/B00004RH4D/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268929.1783456665.fit_lim.size_125x125.jpg",
+    "id": "800ef9a9d90d98f06d57acbda56b2afd",
+    "amazon_url": "https://www.amazon.com/dp/B00004RH4D?tag=dealsinusa0ab-20",
+    "asin": "B00004RH4D",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:54:38.366948"
+  },
+  {
+    "title": "Airhas Mens Anatomical Toe Box Barefoot Shoes $19.61",
+    "price": "$19.61",
+    "source_url": "https://www.amazon.com/gp/product/B0FNCZL6M9/ref=ox_sc_act_title_1?smid=A2N95Y3LQLZB4&th=1&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/258326.1783456263.fit_lim.size_125x125.jpg",
+    "id": "716151a1c2b3d9de92c90b67fe96d211",
+    "amazon_url": "https://www.amazon.com/dp/B0FNCZL6M9?tag=dealsinusa0ab-20",
+    "asin": "B0FNCZL6M9",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:54:39.367086"
+  },
+  {
+    "title": "Lisen 2E421 5000mAh Ultra Slim MagSafe Portable Charger $13.99",
+    "price": "$13.99",
+    "source_url": "https://www.amazon.com/gp/product/B0DD74T3LF/ref=ox_sc_act_title_1?smid=A3G4I7MQ0EI4OR&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/260668.1783455963.fit_lim.size_125x125.jpg",
+    "id": "de0a2f5a6dce51920ee838a2ef7f8b7c",
+    "amazon_url": "https://www.amazon.com/dp/B0DD74T3LF?tag=dealsinusa0ab-20",
+    "asin": "B0DD74T3LF",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:54:40.367234"
+  },
+  {
+    "title": "Bring home EGO\u2019s 21-inch cordless electric Select Cut + Touch Drive mower with a 7.5Ah battery at its $599 2026 low",
+    "price": "$599",
+    "source_url": "https://9to5toys.com/2026/07/07/ego-21-inch-cordless-electric-select-cut-touch-drive-mower-7-5ah-battery-599/",
+    "source": "9to5Toys",
+    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2025/05/EGO-Power-56V-21-inch-cordless-electric-select-cut-lawn-mower-7.5and5.0-batteries.jpg",
+    "id": "90bddbc61df4e93d58338cc731816db4",
+    "amazon_url": "https://www.amazon.com/dp/B0857KWHHC?tag=dealsinusa0ab-20",
+    "asin": "B0857KWHHC",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:54:53.691371"
+  },
+  {
+    "title": "Anker\u2019s Nebula P1 portable Google TV projector comes with detachable speakers for $639 ($160 off), more",
+    "price": "$639",
+    "source_url": "https://9to5toys.com/2026/07/07/anker-nebula-p1-portable-google-tv-projector-detachable-speakers-639/",
+    "source": "9to5Toys",
+    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/07/Anker-Nebula-P1-Portable-GTV-Projector-with-detacehable-speakers-2.jpg",
+    "id": "86e28b363387a71f63860ea9ba9e7820",
+    "amazon_url": "https://www.amazon.com/dp/B0FQL6HLQ3?tag=dealsinusa0ab-20",
+    "asin": "B0FQL6HLQ3",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:54:55.522739"
+  },
+  {
+    "title": "Color-Changing Solar Lights 2-Pack Only $14.99 on Amazon (Reg. $30)",
+    "price": "$14.99",
+    "source_url": "https://hip2save.com/deals/linkind-solar-lights/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B08FSLV3LX.01.LZZZZZZZ.jpg",
+    "id": "1116906ae8df724d43f16951f5bc3968",
+    "amazon_url": "https://www.amazon.com/dp/B08FSLV3LX?tag=dealsinusa0ab-20",
+    "asin": "B08FSLV3LX",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:54:58.914525"
+  },
+  {
+    "title": "Trendy Initial Bracelet Stack Just $4.99 on Amazon (Reg. $13)",
+    "price": "$4.99",
+    "source_url": "https://hip2save.com/deals/bracelet-stacks/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FRXQVNWF.01.LZZZZZZZ.jpg",
+    "id": "620b1f5efb1c04993d76670808538e91",
+    "amazon_url": "https://www.amazon.com/dp/B0FRXQVNWF?tag=dealsinusa0ab-20",
+    "asin": "B0FRXQVNWF",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:55:00.226744"
+  },
+  {
+    "title": "Swim Goggles 2-Packs from $6.99 on Amazon",
+    "price": "$6.99",
+    "source_url": "https://hip2save.com/deals/swim-goggles/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0872VLHBS.01.LZZZZZZZ.jpg",
+    "id": "49dd26e862236da8498ec34f0e5696e0",
+    "amazon_url": "https://www.amazon.com/dp/B0872VLHBS?tag=dealsinusa0ab-20",
+    "asin": "B0872VLHBS",
+    "store": "Amazon",
+    "posted_at": "2026-07-07T17:55:01.523823"
+  },
+  {
     "title": "Team America: World Police (4K UHD + Blu-ray + Digital Copy) $14.50",
     "price": "$14.50",
     "source_url": "https://slickdeals.net/f/19731114-14-49-team-america-world-police-4k-uhd-blu-ray-digital-copy-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -154,18 +322,6 @@
     "asin": "1684051614",
     "store": "Amazon",
     "posted_at": "2026-07-07T15:51:46.934727"
-  },
-  {
-    "title": "RDS Industries Game Traveler Deluxe Case for Nintendo Switch (Purple) $12",
-    "price": "$12",
-    "source_url": "https://slickdeals.net/f/19727268-11-99-r-d-s-industries-inc-game-traveler-deluxe-licensed-travel-case-designed-for-nintendo-switch-lite-oled-purple-nns40sn-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/2/5/1/6/8/8/6/300x300/20922516.thumb",
-    "id": "6c5cf6641948f37e8cdce9223be8890c",
-    "amazon_url": "https://www.amazon.com/dp/B0C7BHBF89?tag=dealsinusa0ab-20",
-    "asin": "B0C7BHBF89",
-    "store": "Amazon",
-    "posted_at": "2026-07-07T15:51:52.374143"
   },
   {
     "title": "Eazer EAW01 Pro 65\" Squeegee Window Cleaning Tool Kit $15.59",
@@ -394,18 +550,6 @@
     "asin": "B0010O094W",
     "store": "Amazon",
     "posted_at": "2026-07-07T15:52:37.147675"
-  },
-  {
-    "title": "24-ct 0.8-oz Lemonhead Hard Lemon Candy Boxes $3.65 w/ S&S",
-    "price": "$3.65",
-    "source_url": "https://slickdeals.net/f/19731720-sns-3-65-24-ct-0-8-oz-lemonhead-hard-lemon-candy-boxes-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/20918901.thumb",
-    "id": "1b3dccde65f3ab8e3c4096add64eeba2",
-    "amazon_url": "https://www.amazon.com/dp/B01KOKCYXQ?tag=dealsinusa0ab-20",
-    "asin": "B01KOKCYXQ",
-    "store": "Amazon",
-    "posted_at": "2026-07-07T14:50:16.659907"
   },
   {
     "title": "BougeRV 53-Quart 12V/24V DC Portable Refrigerator $249.99",
@@ -694,18 +838,6 @@
     "asin": "B0GVYZ1WK7",
     "store": "Amazon",
     "posted_at": "2026-07-07T14:50:57.259482"
-  },
-  {
-    "title": "Comhoma Ergonomic Reclining Gaming Chair with Foot Rest and Adjustable Armrests $137.99",
-    "price": "$137.99",
-    "source_url": "https://www.amazon.com/gp/product/B0DYNW9SW6/ref=ox_sc_act_image_1?smid=A2FOCRURH1KCXI&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/268909.1783446496.fit_lim.size_125x125.jpg",
-    "id": "470e5eec2c7c04bbaab839873268a0cf",
-    "amazon_url": "https://www.amazon.com/dp/B0DYNW9SW6?tag=dealsinusa0ab-20",
-    "asin": "B0DYNW9SW6",
-    "store": "Amazon",
-    "posted_at": "2026-07-07T14:50:58.259615"
   },
   {
     "title": "KeySmart\u2019s keychain box opener now down at $6 Prime shipped",
@@ -1032,18 +1164,6 @@
     "posted_at": "2026-07-07T12:48:42.023047"
   },
   {
-    "title": "NS 2-in-1 3-Mode 3000K-6500K Dimmable Adjustable CRI95+ LED Desk Lamp $30.99",
-    "price": "$30.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GF6FZGDQ/ref=ox_sc_act_title_1?smid=A32XGTY342VSY0&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/268885.1783437473.fit_lim.size_125x125.jpg",
-    "id": "d82a21c4fe5a5209091289d083d9ff8a",
-    "amazon_url": "https://www.amazon.com/dp/B0GF6FZGDQ?tag=dealsinusa0ab-20",
-    "asin": "B0GF6FZGDQ",
-    "store": "Amazon",
-    "posted_at": "2026-07-07T11:46:26.713725"
-  },
-  {
     "title": "This 10,000mAh 45W power bank with built-in USB-C cables can charge up to four devices, and it\u2019s just $19 today (47% off)",
     "price": "$19",
     "source_url": "https://9to5toys.com/2026/07/07/baseus-45w-power-bank-cables/",
@@ -1090,18 +1210,6 @@
     "asin": "B0DRJT29ZM",
     "store": "Amazon",
     "posted_at": "2026-07-07T11:46:59.324576"
-  },
-  {
-    "title": "Score Over $30 Worth of Snacks for $14.62 Shipped w/ NEW Amazon Grocery Promo",
-    "price": "$30",
-    "source_url": "https://hip2save.com/deals/amazon-grocery-promo/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0BGMPD5M9.01.LZZZZZZZ.jpg",
-    "id": "9401426ec40db3250118c081a065608d",
-    "amazon_url": "https://www.amazon.com/dp/B0BGMPD5M9?tag=dealsinusa0ab-20",
-    "asin": "B0BGMPD5M9",
-    "store": "Amazon",
-    "posted_at": "2026-07-07T11:47:02.206175"
   },
   {
     "title": "Sharge\u2019s ultra-slim 0.3-inch Qi2 15W MagSafe power bank is down to just $27 today",
