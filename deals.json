@@ -1,5 +1,29 @@
 [
   {
+    "title": "Giant Tic Tac Box w/ 60 Mini Boxes Only $18.77 Shipped on Amazon (Just 32\u00a2 Per Pack!)",
+    "price": "$18.77",
+    "source_url": "https://hip2save.com/deals/giant-tic-tac-box/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B01K85YZZW.01.LZZZZZZZ.jpg",
+    "id": "891afbf58f6b9071b34c825bfd25ed50",
+    "amazon_url": "https://www.amazon.com/dp/B01K85YZZW?tag=dealsinusa0ab-20",
+    "asin": "B01K85YZZW",
+    "store": "Amazon",
+    "posted_at": "2026-08-03T20:28:37.725053"
+  },
+  {
+    "title": "Melissa & Doug Paw Patrol Magnetic Puzzles 2-Pack Just $9.40 on Amazon (Reg. $13)",
+    "price": "$9.40",
+    "source_url": "https://hip2save.com/deals/melissa-doug-puzzles/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B08XTRKWL5.01.LZZZZZZZ.jpg",
+    "id": "c5d816c4ceb4560b8cdeb746c1e8b7ce",
+    "amazon_url": "https://www.amazon.com/dp/B08XTRKWL5?tag=dealsinusa0ab-20",
+    "asin": "B08XTRKWL5",
+    "store": "Amazon",
+    "posted_at": "2026-08-03T20:28:40.029977"
+  },
+  {
     "title": "Gretsch Ignite Jet Club Laurel Fingerboard Electric Guitar (Duo-Tone Burst) $108 + Free S&H",
     "price": "$108",
     "source_url": "https://slickdeals.net/f/19835859-gretsch-ignite-jet-club-electric-guitar-108?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -10,18 +34,6 @@
     "asin": "B0FJCHHPJD",
     "store": "Amazon",
     "posted_at": "2026-08-03T18:26:46.336320"
-  },
-  {
-    "title": "DJI Neo Mini Drone with 4K UHD Camera $139 & More + Free S&H",
-    "price": "$139",
-    "source_url": "https://slickdeals.net/f/19836879-dji-neo-mini-drones-w-4k-uhd-camera-subject-tracking-built-in-propeller-guard-controller-free-more-139?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/2/6/8/0/6/1/2/1/300x300/21175011.thumb",
-    "id": "138beaac3be0df57e92a149d3c605ad6",
-    "amazon_url": "https://www.amazon.com/dp/B07FTPX71F?tag=dealsinusa0ab-20",
-    "asin": "B07FTPX71F",
-    "store": "Amazon",
-    "posted_at": "2026-08-03T18:26:55.686957"
   },
   {
     "title": "Jorest 25-in-1 Small Precision Screwdriver Set $5.99",
@@ -70,18 +82,6 @@
     "asin": "B0DK7NGMK2",
     "store": "Amazon",
     "posted_at": "2026-08-03T17:25:10.822808"
-  },
-  {
-    "title": "1oz. The Ordinary Niacinamide 10% + Zinc 1% Smoothing Skin Serum $4.80",
-    "price": "$4.80",
-    "source_url": "https://slickdeals.net/f/19835121-4-80-1oz-the-ordinary-niacinamide-10-zinc-1-smoothing-skin-serum-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21171468.thumb",
-    "id": "883031abd4eb448d460380dbb271fd1b",
-    "amazon_url": "https://www.amazon.com/dp/B01MDTVZTZ?tag=dealsinusa0ab-20",
-    "asin": "B01MDTVZTZ",
-    "store": "Amazon",
-    "posted_at": "2026-08-03T17:25:17.676105"
   },
   {
     "title": "AXTH 115-in-1 Precision Screwdriver Set $9.59",
@@ -910,30 +910,6 @@
     "asin": "B0CTY7ZNPD",
     "store": "Amazon",
     "posted_at": "2026-08-03T12:20:45.250362"
-  },
-  {
-    "title": "Electric Toothbrush w/ 8 Brush Heads Only $8.98 on Amazon (Reg. $28)",
-    "price": "$8.98",
-    "source_url": "https://hip2save.com/deals/electric-toothbrush/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FRFV7ZKF.01.LZZZZZZZ.jpg",
-    "id": "d3b2b2de9b05797e2339cc5ce1a324b3",
-    "amazon_url": "https://www.amazon.com/dp/B0FRFV7ZKF?tag=dealsinusa0ab-20",
-    "asin": "B0FRFV7ZKF",
-    "store": "Amazon",
-    "posted_at": "2026-08-03T12:20:48.064993"
-  },
-  {
-    "title": "Women\u2019s Tennis Skorts w/ Pockets from $8.56 on Amazon",
-    "price": "$8.56",
-    "source_url": "https://hip2save.com/deals/amazon-tennis-skort/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0GXJZ3KSM.01.LZZZZZZZ.jpg",
-    "id": "9f6274c5b9fba9ad817aa64c9a2d4bd8",
-    "amazon_url": "https://www.amazon.com/dp/B0GXJZ3KSM?tag=dealsinusa0ab-20",
-    "asin": "B0GXJZ3KSM",
-    "store": "Amazon",
-    "posted_at": "2026-08-03T12:20:50.232761"
   },
   {
     "title": "Lexar\u2019s 2TB magnetic iPhone SSD just dropped $130 to hit lowest price since the hike",
