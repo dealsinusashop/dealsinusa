@@ -1,5 +1,89 @@
 [
   {
+    "title": "The Hobbit & The Lord Of The Rings: Deluxe Pocket Boxed Set $24.90",
+    "price": "$24.90",
+    "source_url": "https://slickdeals.net/f/19849143-24-92-the-hobbit-the-lord-of-the-rings-deluxe-pocket-boxed-set-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/8/2/3/9/6/6/7/300x300/21217317.thumb",
+    "id": "03c6eb7856467ca5100f034e53aecd40",
+    "amazon_url": "https://www.amazon.com/dp/0544445783?tag=dealsinusa0ab-20",
+    "asin": "0544445783",
+    "store": "Amazon",
+    "posted_at": "2026-08-07T03:32:14.423289"
+  },
+  {
+    "title": "Quantum Leap: The Complete Series (1989) (DVD) $14.50",
+    "price": "$14.50",
+    "source_url": "https://slickdeals.net/f/19845942-quantum-leap-the-complete-series-1989-dvd-14-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/8/6/6/3/0/300x300/21217236.thumb",
+    "id": "74f6170ad287218f63e1c14fd653515e",
+    "amazon_url": "https://www.amazon.com/dp/B0DNR7FMK2?tag=dealsinusa0ab-20",
+    "asin": "B0DNR7FMK2",
+    "store": "Amazon",
+    "posted_at": "2026-08-07T03:32:18.009700"
+  },
+  {
+    "title": "12-Pk 12-Oz Dr Pepper Zero Sugar Soda $4.90 w/ S&S",
+    "price": "$4.90",
+    "source_url": "https://slickdeals.net/f/19852260-sns-ac-4-91-12-pk-12-oz-dr-pepper-zero-sugar-soda-at-amazon-40-9-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21216012.thumb",
+    "id": "a8c759ebba6b7422be875b99ad3b1f56",
+    "amazon_url": "https://www.amazon.com/dp/B08XXGB5NK?tag=dealsinusa0ab-20",
+    "asin": "B08XXGB5NK",
+    "store": "Amazon",
+    "posted_at": "2026-08-07T03:32:20.565485"
+  },
+  {
+    "title": "Gintan 9-in-1 Collapsible Chopping Board with Colander, Knives, Veggie Chopper $12.48",
+    "price": "$12.48",
+    "source_url": "https://www.amazon.com/gp/product/B0BZHNJ9L4/ref=ox_sc_act_title_1?smid=A2UWA4DOICWQF4&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/265757.1786086229.fit_lim.size_125x125.jpg",
+    "id": "2eeb7f7433128aa48ac0836fd3f60020",
+    "amazon_url": "https://www.amazon.com/dp/B0BZHNJ9L4?tag=dealsinusa0ab-20",
+    "asin": "B0BZHNJ9L4",
+    "store": "Amazon",
+    "posted_at": "2026-08-07T03:32:28.323152"
+  },
+  {
+    "title": "Wegear GaN III Tech USB-C 30W Compact Wall Charger with Cables (2-Pack) $9.99",
+    "price": "$9.99",
+    "source_url": "https://www.amazon.com/gp/product/B0FH4XF4D8/ref=ox_sc_act_title_1?smid=A3GCS82NQ4ID6T&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/259855.1786085618.fit_lim.size_125x125.png",
+    "id": "6746145f576b3bd3a118063f6e8cac5a",
+    "amazon_url": "https://www.amazon.com/dp/B0FH4XF4D8?tag=dealsinusa0ab-20",
+    "asin": "B0FH4XF4D8",
+    "store": "Amazon",
+    "posted_at": "2026-08-07T03:32:29.323334"
+  },
+  {
+    "title": "Ugreen USB Bluetooth 6.0 Adapter for PC $7.99",
+    "price": "$7.99",
+    "source_url": "https://www.amazon.com/gp/product/B0DYV5MPLF/ref=ox_sc_act_title_1?smid=AKXVBT49GGF3B&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/260016.1786085189.fit_lim.size_125x125.jpg",
+    "id": "dd76bb04f128e90d337e9b97b373490b",
+    "amazon_url": "https://www.amazon.com/dp/B0DYV5MPLF?tag=dealsinusa0ab-20",
+    "asin": "B0DYV5MPLF",
+    "store": "Amazon",
+    "posted_at": "2026-08-07T03:32:30.323490"
+  },
+  {
+    "title": "Snapfresh 2-in-1 7.2V Cordless Grass Shear Bush Trimmer with Charger $14.99",
+    "price": "$14.99",
+    "source_url": "https://www.amazon.com/gp/product/B094XRTKT7/ref=ox_sc_act_title_1?smid=A22QUSZKZV2W3J&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270128.1786084761.fit_lim.size_125x125.jpg",
+    "id": "9f78c74936d48427ac0ea1c44be0dffc",
+    "amazon_url": "https://www.amazon.com/dp/B094XRTKT7?tag=dealsinusa0ab-20",
+    "asin": "B094XRTKT7",
+    "store": "Amazon",
+    "posted_at": "2026-08-07T03:32:31.323616"
+  },
+  {
     "title": "Select Accts: 12-Pk 1.06-Oz Quest Nutrition Protein Cheese Crackers (Cheddar Blast) $15.30 w/ S&S",
     "price": "$15.30",
     "source_url": "https://slickdeals.net/f/19845285-sns-ac-15-42-12-pk-1-06oz-quest-nutrition-protein-cheese-crackers-cheddar-blast-at-amazon-1-28-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -300,18 +384,6 @@
     "posted_at": "2026-08-06T17:25:03.071716"
   },
   {
-    "title": "Granicell 1100mAh AAA NiMH Rechargeable Batteries (16-Pack) $5.84",
-    "price": "$5.84",
-    "source_url": "https://www.amazon.com/gp/product/B0DR5W2HQ7/ref=ox_sc_act_title_1?smid=A3VAS7TG3A9ALR&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/269777.1786049243.fit_lim.size_125x125.jpg",
-    "id": "8eb938fcd0da70ac76ecd6924145d2b5",
-    "amazon_url": "https://www.amazon.com/dp/B0DR5W2HQ7?tag=dealsinusa0ab-20",
-    "asin": "B0DR5W2HQ7",
-    "store": "Amazon",
-    "posted_at": "2026-08-06T17:25:04.071855"
-  },
-  {
     "title": "OxiClean 6.2oz Max Force Laundry Stain Remover Gel Stick $1.79",
     "price": "$1.79",
     "source_url": "https://www.amazon.com/gp/product/B0756J22LT/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
@@ -490,42 +562,6 @@
     "asin": "B0GXK7GMKQ",
     "store": "Amazon",
     "posted_at": "2026-08-06T17:25:19.074345"
-  },
-  {
-    "title": "Pinspark Mens UPF50+ Lightweight Long Sleeve Full Zip Hoodie (Various Sizes) $9.99",
-    "price": "$9.99",
-    "source_url": "https://www.amazon.com/gp/product/B0G7HPRGSF/ref=ox_sc_act_title_1?smid=A154O6JL5L5T2Z&th=1&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/265179.1786047876.fit_lim.size_125x125.jpg",
-    "id": "340dfbfcb4b1535976e2d63bc386bc50",
-    "amazon_url": "https://www.amazon.com/dp/B0G7HPRGSF?tag=dealsinusa0ab-20",
-    "asin": "B0G7HPRGSF",
-    "store": "Amazon",
-    "posted_at": "2026-08-06T17:25:20.074506"
-  },
-  {
-    "title": "Finenut Silicone Cooking Spoons with Wooden Handle & S-Hooks (2-Pack) $8.24",
-    "price": "$8.24",
-    "source_url": "https://www.amazon.com/gp/product/B0GVDDW32G/ref=ox_sc_act_title_1?smid=A2M850P3D4X4SB&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/269956.1786047686.fit_lim.size_125x125.jpg",
-    "id": "f77325ff6b5d3add799377da7d25bb70",
-    "amazon_url": "https://www.amazon.com/dp/B0GVDDW32G?tag=dealsinusa0ab-20",
-    "asin": "B0GVDDW32G",
-    "store": "Amazon",
-    "posted_at": "2026-08-06T17:25:21.074664"
-  },
-  {
-    "title": "Aultong 100\" Extendable Microfiber Feather Duster (12-Pack) $11.99",
-    "price": "$11.99",
-    "source_url": "https://www.amazon.com/gp/product/B09Y8X6NZZ/ref=ox_sc_act_title_1?smid=A3TAZV5XYXAWBH&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/269894.1786047496.fit_lim.size_125x125.jpg",
-    "id": "8aed14482aa6d797351131917a1786d1",
-    "amazon_url": "https://www.amazon.com/dp/B09Y8X6NZZ?tag=dealsinusa0ab-20",
-    "asin": "B09Y8X6NZZ",
-    "store": "Amazon",
-    "posted_at": "2026-08-06T17:25:22.074826"
   },
   {
     "title": "Get a 17-inch mower, 270 CFM blower, and 12-inch string trimmer + 2x batteries in this 48V (24V x 2) Greenworks kit at a $430 low",
