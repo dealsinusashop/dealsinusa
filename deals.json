@@ -1,5 +1,137 @@
 [
   {
+    "title": "12-Pk 12-Oz Dr Pepper Soda 3 for $14.75 w/ S&S",
+    "price": "$14.75",
+    "source_url": "https://slickdeals.net/f/19852536-sns-ac-14-74-3-12-pk-12-oz-dr-pepper-soda-4-91-each-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21216744.thumb",
+    "id": "dd95c3dbf213e6d079345249c7d74455",
+    "amazon_url": "https://www.amazon.com/dp/B000R9COOY?tag=dealsinusa0ab-20",
+    "asin": "B000R9COOY",
+    "store": "Amazon",
+    "posted_at": "2026-08-08T07:55:48.948726"
+  },
+  {
+    "title": "3-Port GaN Anker Prime Up to 67W Compact Fast Wall Charger (2x USB-C + 1x USB-A) $35",
+    "price": "$35",
+    "source_url": "https://slickdeals.net/f/19836885-34-98-3-port-gan-anker-prime-up-to-67w-compact-fast-wall-charger-2x-usb-c-1x-usb-a-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/21226389.thumb",
+    "id": "b4f5442e1ec198d4675fc2576473d65e",
+    "amazon_url": "https://www.amazon.com/dp/B0C4YTB56H?tag=dealsinusa0ab-20",
+    "asin": "B0C4YTB56H",
+    "store": "Amazon",
+    "posted_at": "2026-08-08T07:55:56.382049"
+  },
+  {
+    "title": "Elgato Stream Deck + Production Console & Studio Controller with LCD Keys, Dials $159.99",
+    "price": "$159.99",
+    "source_url": "https://www.amazon.com/gp/product/B0BJL8SJ59/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/263250.1786189379.fit_lim.size_125x125.jpg",
+    "id": "afce6684a42e0e3740c8dfaccc71e12a",
+    "amazon_url": "https://www.amazon.com/dp/B0BJL8SJ59?tag=dealsinusa0ab-20",
+    "asin": "B0BJL8SJ59",
+    "store": "Amazon",
+    "posted_at": "2026-08-08T07:55:59.296071"
+  },
+  {
+    "title": "Amazon Grocery Tomato Paste (6oz) $0.61",
+    "price": "$0.61",
+    "source_url": "https://www.amazon.com/gp/product/B07TSCWJ13/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/262448.1786189282.fit_lim.size_125x125.jpg",
+    "id": "7b80cd208519e61a1cfb21be96231a0a",
+    "amazon_url": "https://www.amazon.com/dp/B07TSCWJ13?tag=dealsinusa0ab-20",
+    "asin": "B07TSCWJ13",
+    "store": "Amazon",
+    "posted_at": "2026-08-08T07:56:00.296219"
+  },
+  {
+    "title": "Orbit 27389 50 Coil Garden Hose with 8-Pattern Hose Nozzle  $14.26",
+    "price": "$14.26",
+    "source_url": "https://www.amazon.com/gp/product/B0793J5QG9/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270182.1786188909.fit_lim.size_125x125.jpg",
+    "id": "1a2ab4037eb04198da1a783a921d1394",
+    "amazon_url": "https://www.amazon.com/dp/B0793J5QG9?tag=dealsinusa0ab-20",
+    "asin": "B0793J5QG9",
+    "store": "Amazon",
+    "posted_at": "2026-08-08T07:56:01.296346"
+  },
+  {
+    "title": "Cool Coolers Reusable Ice Packs by Fit & Fresh (4-Pack, XL Slim) $6.97",
+    "price": "$6.97",
+    "source_url": "https://www.amazon.com/gp/product/B0GH8T193N/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270180.1786188242.fit_lim.size_125x125.jpg",
+    "id": "220c0f84ed8697edea769b3edf6f2f1b",
+    "amazon_url": "https://www.amazon.com/dp/B0GH8T193N?tag=dealsinusa0ab-20",
+    "asin": "B0GH8T193N",
+    "store": "Amazon",
+    "posted_at": "2026-08-08T07:56:02.296518"
+  },
+  {
+    "title": "Cleancult 3-Stain Fighting Enzymes Laundry Detergent Sheets (Wild Lavender, 60-Loads) $5.99",
+    "price": "$5.99",
+    "source_url": "https://www.amazon.com/gp/product/B0CRGGVZQ4/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270181.1786188232.fit_lim.size_125x125.jpg",
+    "id": "e29a7445c78e242e962152e81f4475c5",
+    "amazon_url": "https://www.amazon.com/dp/B0CRGGVZQ4?tag=dealsinusa0ab-20",
+    "asin": "B0CRGGVZQ4",
+    "store": "Amazon",
+    "posted_at": "2026-08-08T07:56:03.296695"
+  },
+  {
+    "title": "Vevor 1/2\" x 50 Hybrid Retractable Air Hose Reel $81.20",
+    "price": "$81.20",
+    "source_url": "https://www.amazon.com/gp/product/B0DP4J6YZD/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270179.1786187334.fit_lim.size_125x125.jpg",
+    "id": "aca92b5aeeb74d10d141c0be70053abb",
+    "amazon_url": "https://www.amazon.com/dp/B0DP4J6YZD?tag=dealsinusa0ab-20",
+    "asin": "B0DP4J6YZD",
+    "store": "Amazon",
+    "posted_at": "2026-08-08T07:56:04.296831"
+  },
+  {
+    "title": "Score Collin\u2019s Sweater Vest for Only $9.99 on Amazon (Reg. $37)",
+    "price": "$9.99",
+    "source_url": "https://hip2save.com/deals/zesica-sweater-vest/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FXR9NQLV.01.LZZZZZZZ.jpg",
+    "id": "d29bd7b579df3a2cec451e0bf5f8422b",
+    "amazon_url": "https://www.amazon.com/dp/B0FXR9NQLV?tag=dealsinusa0ab-20",
+    "asin": "B0FXR9NQLV",
+    "store": "Amazon",
+    "posted_at": "2026-08-08T07:56:12.878291"
+  },
+  {
+    "title": "Native Hand Soaps Only $2.32 Each Shipped on Amazon",
+    "price": "$2.32",
+    "source_url": "https://hip2save.com/deals/native-hand-soap/",
+    "source": "Hip2Save",
+    "image": "",
+    "id": "29c2a318953354dda60451bf4d7a5a96",
+    "amazon_url": "https://www.amazon.com/dp/B0FPHJ931K?tag=dealsinusa0ab-20",
+    "asin": "B0FPHJ931K",
+    "store": "Amazon",
+    "posted_at": "2026-08-08T07:56:22.538533"
+  },
+  {
+    "title": "Grab These Viral Biker Shorts for Only $3.49 on Amazon",
+    "price": "$3.49",
+    "source_url": "https://hip2save.com/deals/amazon-womens-bike-shorts/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0CQLJXVTN.01.LZZZZZZZ.jpg",
+    "id": "20193db760716f32cf052d829b816701",
+    "amazon_url": "https://www.amazon.com/dp/B0CQLJXVTN?tag=dealsinusa0ab-20",
+    "asin": "B0CQLJXVTN",
+    "store": "Amazon",
+    "posted_at": "2026-08-08T07:56:23.867078"
+  },
+  {
     "title": "Odoland 2-in-1 Leakproof Insulated Cooler Bag with Handle $27.19",
     "price": "$27.19",
     "source_url": "https://www.amazon.com/gp/product/B0DQKK6JNV/ref=ox_sc_act_image_1?smid=AS00LCPQEC9Q6&th=1",
@@ -396,54 +528,6 @@
     "posted_at": "2026-08-07T17:46:56.420739"
   },
   {
-    "title": "Hanes Mens Short Sleeve Polo Shirt (Various Sizes, 2-Pack) $10.50",
-    "price": "$10.50",
-    "source_url": "https://www.amazon.com/gp/product/B00KBZONLG/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/269849.1786135867.fit_lim.size_125x125.jpg",
-    "id": "513d21201907732d0c1c52c337cbd4b3",
-    "amazon_url": "https://www.amazon.com/dp/B00KBZONLG?tag=dealsinusa0ab-20",
-    "asin": "B00KBZONLG",
-    "store": "Amazon",
-    "posted_at": "2026-08-07T17:46:57.420923"
-  },
-  {
-    "title": "Varillo 17.3\" Weighted Ropeless Battle Ropes (2-Piece) $14",
-    "price": "$14",
-    "source_url": "https://www.amazon.com/gp/product/B0G4FXMX56/ref=ox_sc_act_image_1?smid=A1NKE1P22TSPR9&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/269864.1786135784.fit_lim.size_125x125.jpg",
-    "id": "2b4c9cd32e45320da94d60c30c94cec3",
-    "amazon_url": "https://www.amazon.com/dp/B0G4FXMX56?tag=dealsinusa0ab-20",
-    "asin": "B0G4FXMX56",
-    "store": "Amazon",
-    "posted_at": "2026-08-07T17:46:59.421212"
-  },
-  {
-    "title": "Siteer Y31 5-in-1 Portable Handheld Turbo Fan With Running Armband $8.09",
-    "price": "$8.09",
-    "source_url": "https://www.amazon.com/gp/product/B0H97S16X1/ref=ox_sc_act_title_1?smid=A7LKL0REF9OEW&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/267937.1786135660.fit_lim.size_125x125.jpg",
-    "id": "ac714815f5b49010bffdc57e2b8735eb",
-    "amazon_url": "https://www.amazon.com/dp/B0H97S16X1?tag=dealsinusa0ab-20",
-    "asin": "B0H97S16X1",
-    "store": "Amazon",
-    "posted_at": "2026-08-07T17:47:00.421350"
-  },
-  {
-    "title": "Ucanfeel High Arch Heavy-Duty Support Pain Relief Plantar Insoles $8.99",
-    "price": "$8.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GF8V6TF5/ref=ox_sc_act_title_1?smid=A3QR6FJ1BLP4&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/270041.1786135928.fit_lim.size_125x125.png",
-    "id": "2c356ff9e8f40a0f194ea667b96099f7",
-    "amazon_url": "https://www.amazon.com/dp/B0GF8V6TF5?tag=dealsinusa0ab-20",
-    "asin": "B0GF8V6TF5",
-    "store": "Amazon",
-    "posted_at": "2026-08-07T17:47:01.421522"
-  },
-  {
     "title": "Anker\u2019s soundcore Nebula P1 portable projector comes with detachable speakers for $639, more",
     "price": "$639,",
     "source_url": "https://9to5toys.com/2026/08/07/anker-soundcore-nebula-p1-portable-projector-with-detachable-speakers-639-more/",
@@ -588,30 +672,6 @@
     "posted_at": "2026-08-07T16:45:32.998362"
   },
   {
-    "title": "Acemagician K1 AMD Ryzen 7 7730U Mini Desktop (16GB/512GB) $417.04",
-    "price": "$417.04",
-    "source_url": "https://www.amazon.com/gp/product/B0FQNGZD5D/ref=ox_sc_act_image_1?smid=A37HPOXNU0OVOZ&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/255438.1786132999.fit_lim.size_125x125.jpg",
-    "id": "339675e3becd285c5fd0474068f61894",
-    "amazon_url": "https://www.amazon.com/dp/B0FQNGZD5D?tag=dealsinusa0ab-20",
-    "asin": "B0FQNGZD5D",
-    "store": "Amazon",
-    "posted_at": "2026-08-07T16:45:33.998517"
-  },
-  {
-    "title": "Aoben 1/2\" 450ft-lbs Cordless Electric Impact Wrench Kit $39.99",
-    "price": "$39.99",
-    "source_url": "https://www.amazon.com/gp/product/B0CGHW8X2Z/ref=ox_sc_act_image_1?smid=A2Z8WLXHWYVKYJ&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/252025.1786135228.fit_lim.size_125x125.jpg",
-    "id": "b3230391cc52a02b5911b15175ac4b93",
-    "amazon_url": "https://www.amazon.com/dp/B0CGHW8X2Z?tag=dealsinusa0ab-20",
-    "asin": "B0CGHW8X2Z",
-    "store": "Amazon",
-    "posted_at": "2026-08-07T16:45:35.998843"
-  },
-  {
     "title": "Bring 10-in-1 cooking functions to your kitchen, dorm, more with Ninja\u2019s Foodi XL Pro oven at a $230 2026 low",
     "price": "$230",
     "source_url": "https://9to5toys.com/2026/08/07/ninja-foodi-xl-pro-10-in-1-oven-230-2026-low/",
@@ -708,18 +768,6 @@
     "posted_at": "2026-08-07T15:44:40.523931"
   },
   {
-    "title": "Acemagician K1 AMD Ryzen 7 7730U Mini Desktop (16GB/512GB) $412.65",
-    "price": "$412.65",
-    "source_url": "https://www.amazon.com/gp/product/B0FQNGZD5D/ref=ox_sc_act_image_1?smid=A37HPOXNU0OVOZ&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/255438.1786126464.fit_lim.size_125x125.jpg",
-    "id": "dbe4a06d9da10c5ccdd22d719b5558d2",
-    "amazon_url": "https://www.amazon.com/dp/B0FQNGZD5D?tag=dealsinusa0ab-20",
-    "asin": "B0FQNGZD5D",
-    "store": "Amazon",
-    "posted_at": "2026-08-07T14:43:09.530354"
-  },
-  {
     "title": "Wallet Tracker Card Just $8 on Amazon (Reg. $17) | Inexpensive AirTag Alternative",
     "price": "$8",
     "source_url": "https://hip2save.com/deals/amazon-wallet-tracker-card/",
@@ -780,18 +828,6 @@
     "posted_at": "2026-08-07T14:43:28.184250"
   },
   {
-    "title": "Women\u2019s Dresses w/ Pockets from $9 on Amazon",
-    "price": "$9",
-    "source_url": "https://hip2save.com/deals/womens-dresses/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0DPHYMGS4.01.LZZZZZZZ.jpg",
-    "id": "ecc53b1efb994e9eaef3c6667416cb24",
-    "amazon_url": "https://www.amazon.com/dp/B0DPHYMGS4?tag=dealsinusa0ab-20",
-    "asin": "B0DPHYMGS4",
-    "store": "Amazon",
-    "posted_at": "2026-08-07T14:43:29.499531"
-  },
-  {
     "title": "LEGO Creator 3 in 1 Wild Animals Surprising Spider 31159 \u2013 Just $9.99! Price Drop!",
     "price": "$9.99",
     "source_url": "https://freebies2deals.com/2026/08/lego-creator-3-in-1-wild-animals-surprising-spider-31159-just-9-99-price-drop.html",
@@ -826,18 +862,6 @@
     "asin": "B0GJCT5JVY",
     "store": "Amazon",
     "posted_at": "2026-08-07T13:42:08.850770"
-  },
-  {
-    "title": "Cottonelle Toilet Paper Mega Rolls 48-Count Just $31.78 Shipped on Amazon (Reg. $55)",
-    "price": "$31.78",
-    "source_url": "https://hip2save.com/deals/cottonelle-toilet-paper/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0CM5C15ZD.01.LZZZZZZZ.jpg",
-    "id": "f39e5124c96ea2050a7bc25a115a7a6a",
-    "amazon_url": "https://www.amazon.com/dp/B0CM5C15ZD?tag=dealsinusa0ab-20",
-    "asin": "B0CM5C15ZD",
-    "store": "Amazon",
-    "posted_at": "2026-08-07T13:42:11.342380"
   },
   {
     "title": "PLANTERS Honey Roasted Peanuts, 16 oz Jar \u2013 Just $2.53!",
