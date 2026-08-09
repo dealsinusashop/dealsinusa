@@ -1,5 +1,17 @@
 [
   {
+    "title": "This Pack of 6 Hair Clips is Only $2.47 on Amazon",
+    "price": "$2.47",
+    "source_url": "https://hip2save.com/deals/claw-clips/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0GDWPJYZZ.01.LZZZZZZZ.jpg",
+    "id": "c8465e51b6edfea76843805826d35143",
+    "amazon_url": "https://www.amazon.com/dp/B0GDWPJYZZ?tag=dealsinusa0ab-20",
+    "asin": "B0GDWPJYZZ",
+    "store": "Amazon",
+    "posted_at": "2026-08-09T16:20:22.183479"
+  },
+  {
     "title": "Select Accts: 120-Ct VitBoost Magnesium Glycinate 500mg Sleep Support Capsules $7.95 w/ S&S",
     "price": "$7.95",
     "source_url": "https://slickdeals.net/f/19800153-s-s-vitboost-magnesium-glycinate-500mg-support-sleep-120-veggie-capsules-7-96?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -396,42 +408,6 @@
     "posted_at": "2026-08-09T14:18:09.882534"
   },
   {
-    "title": "250' Wirefy 12-Gauge/2-Conductor Low Voltage Landscape Wire $30",
-    "price": "$30",
-    "source_url": "https://slickdeals.net/f/19855380-250-wirefy-12-gauge-2-conductor-low-voltage-landscape-wire-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/2/7/7/2/7/2/6/300x300/21224709.thumb",
-    "id": "5391158f6d0129103afada6b5cfda0a6",
-    "amazon_url": "https://www.amazon.com/dp/B07Y7QW4VP?tag=dealsinusa0ab-20",
-    "asin": "B07Y7QW4VP",
-    "store": "Amazon",
-    "posted_at": "2026-08-09T14:18:12.281045"
-  },
-  {
-    "title": "Apple AirPods 4 Spatial Audio Wireless Earbuds $99",
-    "price": "$99",
-    "source_url": "https://www.amazon.com/gp/product/B0DGHMNQ5Z/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/250677.1786285700.fit_lim.size_125x125.jpg",
-    "id": "aba5149f420a58b6aa4abd9987d42ea0",
-    "amazon_url": "https://www.amazon.com/dp/B0DGHMNQ5Z?tag=dealsinusa0ab-20",
-    "asin": "B0DGHMNQ5Z",
-    "store": "Amazon",
-    "posted_at": "2026-08-09T14:18:25.054644"
-  },
-  {
-    "title": "Weize 500lbs 53\"x19\" Waterproof Mount Cargo Carrier Basket $99.99",
-    "price": "$99.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FP15J9NK/ref=ox_sc_act_image_1?smid=A90JZPBX1SCGX&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/270195.1786297942.fit_lim.size_125x125.jpg",
-    "id": "996098b42e91c19267814b42e66fbb90",
-    "amazon_url": "https://www.amazon.com/dp/B0FP15J9NK?tag=dealsinusa0ab-20",
-    "asin": "B0FP15J9NK",
-    "store": "Amazon",
-    "posted_at": "2026-08-09T14:18:26.054907"
-  },
-  {
     "title": "Coke 6-Packs Only $3.73 Each Shipped on Amazon",
     "price": "$3.73",
     "source_url": "https://hip2save.com/deals/amazon-soda/",
@@ -600,18 +576,6 @@
     "posted_at": "2026-08-09T12:16:50.092629"
   },
   {
-    "title": "1135-Pc LEGO Technic Lamborghini Revuelto Super Sports Car Toy w/ Remote Control $152 + Free S&H",
-    "price": "$152",
-    "source_url": "https://slickdeals.net/f/19830993-1135-pc-lego-technic-lamborghini-revuelto-super-sports-car-toy-w-remote-control-152-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21162600.thumb",
-    "id": "7fb2c0489345cf9f1752bc84c2c3481b",
-    "amazon_url": "https://www.amazon.com/dp/B0DX3J8SNJ?tag=dealsinusa0ab-20",
-    "asin": "B0DX3J8SNJ",
-    "store": "Amazon",
-    "posted_at": "2026-08-09T11:15:29.019320"
-  },
-  {
     "title": "TWO Method All-Purpose Cleaner Sprays Just $5 Shipped on Amazon (Reg. $11)",
     "price": "$5",
     "source_url": "https://hip2save.com/deals/method-all-purpose-cleaner/",
@@ -694,30 +658,6 @@
     "asin": "B0H4H72WBQ",
     "store": "Amazon",
     "posted_at": "2026-08-08T21:06:21.216030"
-  },
-  {
-    "title": "Native Hand Soaps Only $2.32 Each Shipped on Amazon",
-    "price": "$2.32",
-    "source_url": "https://hip2save.com/deals/native-hand-soap/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FPHJ931K.01.LZZZZZZZ.jpg",
-    "id": "29c2a318953354dda60451bf4d7a5a96",
-    "amazon_url": "https://www.amazon.com/dp/B0FPHJ931K?tag=dealsinusa0ab-20",
-    "asin": "B0FPHJ931K",
-    "store": "Amazon",
-    "posted_at": "2026-08-08T19:05:05.706407"
-  },
-  {
-    "title": "Banana Boat SPF 50 Lip Balm 2-Pack Just $3.74 Shipped on Amazon",
-    "price": "$3.74",
-    "source_url": "https://hip2save.com/deals/banana-boat-lip-balm/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B09GQY5SNF.01.LZZZZZZZ.jpg",
-    "id": "bed609688e6c7cf76012bddf3ff1aa85",
-    "amazon_url": "https://www.amazon.com/dp/B09GQY5SNF?tag=dealsinusa0ab-20",
-    "asin": "B09GQY5SNF",
-    "store": "Amazon",
-    "posted_at": "2026-08-08T18:04:24.398634"
   },
   {
     "title": "Chenille Knit Throw Blankets on Sale! From JUST $15.89 (reg up to $43.99)",
