@@ -1,5 +1,53 @@
 [
   {
+    "title": "Amazon Basics All-Weather Durability Mens Golf Gloves $6.49",
+    "price": "$6.49",
+    "source_url": "https://www.amazon.com/gp/product/B0F4WTT8T9/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270409.1786660277.fit_lim.size_125x125.png",
+    "id": "2c1f0cb9e77fc741ebe72d0c40fa6b62",
+    "amazon_url": "https://www.amazon.com/dp/B0F4WTT8T9?tag=dealsinusa0ab-20",
+    "asin": "B0F4WTT8T9",
+    "store": "Amazon",
+    "posted_at": "2026-08-13T18:52:31.005658"
+  },
+  {
+    "title": "Ugreen 2-in-1 USB C to 3.5mm Audio and Charger Adapter $14.99",
+    "price": "$14.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GS9YXDQ6/ref=ox_sc_act_title_1?smid=AKXVBT49GGF3B&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270408.1786659395.fit_lim.size_125x125.png",
+    "id": "91589513bfb619852d3162d74ac4730a",
+    "amazon_url": "https://www.amazon.com/dp/B0GS9YXDQ6?tag=dealsinusa0ab-20",
+    "asin": "B0GS9YXDQ6",
+    "store": "Amazon",
+    "posted_at": "2026-08-13T18:52:32.005863"
+  },
+  {
+    "title": "JandCase 3D Funny Axolotl Night Lights Plug Into Wall $7.99",
+    "price": "$7.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GX1J7VBX/ref=ox_sc_act_title_1?smid=AMD30HYZTKO95&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270407.1786659461.fit_lim.size_125x125.png",
+    "id": "a11a3faa67c53864712e09f74478652b",
+    "amazon_url": "https://www.amazon.com/dp/B0GX1J7VBX?tag=dealsinusa0ab-20",
+    "asin": "B0GX1J7VBX",
+    "store": "Amazon",
+    "posted_at": "2026-08-13T18:52:33.005994"
+  },
+  {
+    "title": "Cast Iron Dutch Oven w/ Potholders Just $29.99 Shipped on Amazon (Perfect for Sourdough)",
+    "price": "$29.99",
+    "source_url": "https://hip2save.com/deals/cast-iron-dutch-oven/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0G64G5D1P.01.LZZZZZZZ.jpg",
+    "id": "a42e7c6c5166575ac782198344b670f5",
+    "amazon_url": "https://www.amazon.com/dp/B0G64G5D1P?tag=dealsinusa0ab-20",
+    "asin": "B0G64G5D1P",
+    "store": "Amazon",
+    "posted_at": "2026-08-13T18:52:41.176278"
+  },
+  {
     "title": "TP-Link Deco 7 Outdoor BE65 BE11000 Tri-Band Wi-Fi 7 Mesh Extender $220 + Free S&H",
     "price": "$220",
     "source_url": "https://slickdeals.net/f/19861746-219-99-tp-link-deco-7-outdoor-be65-be11000-tri-band-wi-fi-7-mesh-extender-15-back-w-prime-visa-card-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -504,30 +552,6 @@
     "posted_at": "2026-08-13T16:50:49.719851"
   },
   {
-    "title": "G Gradual Mens Short Sleeve UPF 50+ Sun Shirt $7.79",
-    "price": "$7.79",
-    "source_url": "https://www.amazon.com/gp/product/B0GL5PT7CX/ref=ox_sc_act_image_1?smid=A3J1UQ06EUSAGL&th=1&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/265324.1786652163.fit_lim.size_125x125.png",
-    "id": "cdbdeebdb80322ff2690ec297274108e",
-    "amazon_url": "https://www.amazon.com/dp/B0GL5PT7CX?tag=dealsinusa0ab-20",
-    "asin": "B0GL5PT7CX",
-    "store": "Amazon",
-    "posted_at": "2026-08-13T16:50:50.719996"
-  },
-  {
-    "title": "Orico 40Gbps M.2 NVMe SSD Enclosure (8TB) with Cooling Fan $47.59",
-    "price": "$47.59",
-    "source_url": "https://www.amazon.com/gp/product/B0DNZB7SML/ref=ox_sc_act_title_1?smid=A34PF29WPO2NUY&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/260284.1786650973.fit_lim.size_125x125.jpg",
-    "id": "9b26868abc89381a33b9537c3381c223",
-    "amazon_url": "https://www.amazon.com/dp/B0DNZB7SML?tag=dealsinusa0ab-20",
-    "asin": "B0DNZB7SML",
-    "store": "Amazon",
-    "posted_at": "2026-08-13T16:50:51.720140"
-  },
-  {
     "title": "Govee Back to School Sale offers up to 45% discounts on campus-ready smart lighting devices starting from $64",
     "price": "$64",
     "source_url": "https://9to5toys.com/2026/08/13/govee-back-to-school-sale-campus-ready-smart-lighting-devices-from-64/",
@@ -586,18 +610,6 @@
     "asin": "B0GK349WJ7",
     "store": "Amazon",
     "posted_at": "2026-08-13T15:49:28.931455"
-  },
-  {
-    "title": "3-in-1 CURSOR FITNESS Under Desk Walking Pad Treadmill w/ Handles $123.50 + Free S&H",
-    "price": "$123.50",
-    "source_url": "https://slickdeals.net/f/19856208-ac-123-49-3-in-1-cursor-fitness-under-desk-walking-pad-treadmill-w-handles-16-manual-incline-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21226560.thumb",
-    "id": "225573b2a866025c4308cb0ac6106b8c",
-    "amazon_url": "https://www.amazon.com/dp/B0H2LZCW3N?tag=dealsinusa0ab-20",
-    "asin": "B0H2LZCW3N",
-    "store": "Amazon",
-    "posted_at": "2026-08-13T15:49:33.876451"
   },
   {
     "title": "Coppertone Kids Sunscreen Bundle Just $7.64 Shipped on Amazon (Reg. $16)",
@@ -994,30 +1006,6 @@
     "asin": "B0CG7P9KTH",
     "store": "Amazon",
     "posted_at": "2026-08-13T11:45:09.839921"
-  },
-  {
-    "title": "Women\u2019s Halloween Pumpkin Shirt Just $7.99 on Amazon (Reg. $20)",
-    "price": "$7.99",
-    "source_url": "https://hip2save.com/deals/womens-halloween-pumpkin-shirt/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FKGTPDKY.01.LZZZZZZZ.jpg",
-    "id": "8530096bad415278b11e516ede29f36a",
-    "amazon_url": "https://www.amazon.com/dp/B0FKGTPDKY?tag=dealsinusa0ab-20",
-    "asin": "B0FKGTPDKY",
-    "store": "Amazon",
-    "posted_at": "2026-08-13T11:45:13.400707"
-  },
-  {
-    "title": "TikTok Is Loving Barefoot Shoes & This Pair Is Just $14.99 on Amazon",
-    "price": "$14.99",
-    "source_url": "https://hip2save.com/deals/barefoot-shoes/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0GZKZ4V2X.01.LZZZZZZZ.jpg",
-    "id": "6dcedc791a1232e12c973d40deba83b4",
-    "amazon_url": "https://www.amazon.com/dp/B0GZKZ4V2X?tag=dealsinusa0ab-20",
-    "asin": "B0GZKZ4V2X",
-    "store": "Amazon",
-    "posted_at": "2026-08-13T11:45:14.724751"
   },
   {
     "title": "B&H undercuts direct Jackery sale on the 5.5-pound 288Wh Explorer 300D compact power station for $169 ($50 off)",
