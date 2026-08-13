@@ -1,5 +1,65 @@
 [
   {
+    "title": "Amazon Grocery 4oz Diced Jalapenos $0.75",
+    "price": "$0.75",
+    "source_url": "https://www.amazon.com/gp/product/B0BV5D3D5Z/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270367.1786609867.fit_lim.size_125x125.jpg",
+    "id": "908d3b685645dbe5ae4b38c6a000cb2b",
+    "amazon_url": "https://www.amazon.com/dp/B0BV5D3D5Z?tag=dealsinusa0ab-20",
+    "asin": "B0BV5D3D5Z",
+    "store": "Amazon",
+    "posted_at": "2026-08-13T04:37:53.530117"
+  },
+  {
+    "title": "Tuyluxe 1000mAh Waterproof Solar Pathway Lights (8-Pack) $26.51",
+    "price": "$26.51",
+    "source_url": "https://www.amazon.com/gp/product/B0GHYMJQ9N/ref=ox_sc_act_title_1?smid=A24CV49JTYM4JF&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270365.1786609133.fit_lim.size_125x125.jpg",
+    "id": "806521fd863b2cc8c5348b6a37b8afd6",
+    "amazon_url": "https://www.amazon.com/dp/B0GHYMJQ9N?tag=dealsinusa0ab-20",
+    "asin": "B0GHYMJQ9N",
+    "store": "Amazon",
+    "posted_at": "2026-08-13T04:37:54.530277"
+  },
+  {
+    "title": "Talix Noise Cancellation 5g Clip-On Wireless Earbuds $19.99",
+    "price": "$19.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GXX6DLK3/ref=ox_sc_saved_image_1?smid=A3GCS82NQ4ID6T&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270366.1786609484.fit_lim.size_125x125.jpg",
+    "id": "9d57c9592f1304ce40bc5c50a96fec9b",
+    "amazon_url": "https://www.amazon.com/dp/B0GXX6DLK3?tag=dealsinusa0ab-20",
+    "asin": "B0GXX6DLK3",
+    "store": "Amazon",
+    "posted_at": "2026-08-13T04:37:55.530416"
+  },
+  {
+    "title": "Beats Studio Pro Noise Cancelling Wireless Headphones (Up to 40-Hour Battery Life) $169.95",
+    "price": "$169.95",
+    "source_url": "https://www.amazon.com/gp/product/B0C8PR4W22/ref=ox_sc_saved_image_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/238519.1786607700.fit_lim.size_125x125.jpg",
+    "id": "1b7aa27c0a61a79de4a8c1530454dfd4",
+    "amazon_url": "https://www.amazon.com/dp/B0C8PR4W22?tag=dealsinusa0ab-20",
+    "asin": "B0C8PR4W22",
+    "store": "Amazon",
+    "posted_at": "2026-08-13T04:37:56.530551"
+  },
+  {
+    "title": "Solati Professional Hair Clippers & Trimmer Kit with LED Display $17.39",
+    "price": "$17.39",
+    "source_url": "https://www.amazon.com/gp/product/B0DRXK7WXM/ref=ox_sc_act_title_1?smid=A2C8MA8QKK3AM2&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/261461.1786606639.fit_lim.size_125x125.jpg",
+    "id": "17d8bab325e947be5c4e6d2508f88b9c",
+    "amazon_url": "https://www.amazon.com/dp/B0DRXK7WXM?tag=dealsinusa0ab-20",
+    "asin": "B0DRXK7WXM",
+    "store": "Amazon",
+    "posted_at": "2026-08-13T04:37:57.530688"
+  },
+  {
     "title": "2-Pk 28-Oz Method All-Purpose Cleaner Spray (French Lavender) $5.05 w/ S&S",
     "price": "$5.05",
     "source_url": "https://slickdeals.net/f/19871028-5-03-2-pk-28-oz-method-all-purpose-cleaner-spray-french-lavender-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -72,18 +132,6 @@
     "posted_at": "2026-08-13T02:36:26.493491"
   },
   {
-    "title": "Marshall Stanmore III Bluetooth Home Speaker (Black) $250 + Free S&H",
-    "price": "$250",
-    "source_url": "https://slickdeals.net/f/19852974-marshall-stanmore-iii-bluetooth-home-speaker-black-250-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21217977.thumb",
-    "id": "155a78210672ad1379d08d2d2f146282",
-    "amazon_url": "https://www.amazon.com/dp/B09HTFCR59?tag=dealsinusa0ab-20",
-    "asin": "B09HTFCR59",
-    "store": "Amazon",
-    "posted_at": "2026-08-13T02:36:37.295745"
-  },
-  {
     "title": "VEVOR 50' x 1/2\" Retractable Air Hose Ceiling/Wall Mount Reel (Max 300PSI) $81.20 + Free S&H",
     "price": "$81.20",
     "source_url": "https://slickdeals.net/f/19832190-new-81-20-vevor-retractable-air-hose-reel-1-2-in-x-50-ft-hybrid-air-hose-max-300psi-1-2-npt-fitting-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -106,18 +154,6 @@
     "asin": "B09WB2WZWG",
     "store": "Amazon",
     "posted_at": "2026-08-13T00:35:21.934618"
-  },
-  {
-    "title": "2-Pk Filtrete 12x24x1 MERV 12 MPR 1500 Air Filter $10.10 w/ S&S",
-    "price": "$10.10",
-    "source_url": "https://slickdeals.net/f/19872627-sns-10-07-2-pack-filtrete-12x24x1-air-filter-merv-12-mpr-1500-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21267192.thumb",
-    "id": "d3e795bb188692f9e322124e1d1a6a2c",
-    "amazon_url": "https://www.amazon.com/dp/B00TUDHIOO?tag=dealsinusa0ab-20",
-    "asin": "B00TUDHIOO",
-    "store": "Amazon",
-    "posted_at": "2026-08-13T00:35:25.304427"
   },
   {
     "title": "Luseta Purple Shampoo & Conditioner Set Only $15.89 Shipped on Amazon",
@@ -622,66 +658,6 @@
     "asin": "B0H11F6VPZ",
     "store": "Amazon",
     "posted_at": "2026-08-12T17:30:23.467295"
-  },
-  {
-    "title": "Bravego 6.0 Bluetooth Headset with Noise Canceling Microphone $20.99",
-    "price": "$20.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GJQPXNF5/ref=ox_sc_act_image_1?smid=A12LOR75IKFBJQ&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/269715.1786567348.fit_lim.size_125x125.jpg",
-    "id": "d1bccf7c4108ab6d80479e25b2cbfd1b",
-    "amazon_url": "https://www.amazon.com/dp/B0GJQPXNF5?tag=dealsinusa0ab-20",
-    "asin": "B0GJQPXNF5",
-    "store": "Amazon",
-    "posted_at": "2026-08-12T17:30:24.467463"
-  },
-  {
-    "title": "Ucanfeel High Arch Heavy-Duty Support Pain Relief Plantar Insoles $8.99",
-    "price": "$8.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GF8V6TF5/ref=ox_sc_act_title_1?smid=A3QR6FJ1BLP4&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/270041.1786567148.fit_lim.size_125x125.png",
-    "id": "2c356ff9e8f40a0f194ea667b96099f7",
-    "amazon_url": "https://www.amazon.com/dp/B0GF8V6TF5?tag=dealsinusa0ab-20",
-    "asin": "B0GF8V6TF5",
-    "store": "Amazon",
-    "posted_at": "2026-08-12T17:30:25.467623"
-  },
-  {
-    "title": "Varillo 17.3\" Weighted Ropeless Battle Ropes (2-Piece) $14",
-    "price": "$14",
-    "source_url": "https://www.amazon.com/gp/product/B0G4FXMX56/ref=ox_sc_act_image_1?smid=A1NKE1P22TSPR9&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/269864.1786567075.fit_lim.size_125x125.jpg",
-    "id": "2b4c9cd32e45320da94d60c30c94cec3",
-    "amazon_url": "https://www.amazon.com/dp/B0G4FXMX56?tag=dealsinusa0ab-20",
-    "asin": "B0G4FXMX56",
-    "store": "Amazon",
-    "posted_at": "2026-08-12T17:30:26.467782"
-  },
-  {
-    "title": "MulWark Precision Hobby Knife, Sharpening Stone and Steel Ruler Set (32-Piece) $11.99",
-    "price": "$11.99",
-    "source_url": "https://www.amazon.com/gp/product/B0CR8XM88X/ref=ox_sc_act_title_1?smid=A2XAKEBHVSZ5DO&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/263653.1786567007.fit_lim.size_125x125.jpg",
-    "id": "839d267337408524ab4a34d5536c54f9",
-    "amazon_url": "https://www.amazon.com/dp/B0CR8XM88X?tag=dealsinusa0ab-20",
-    "asin": "B0CR8XM88X",
-    "store": "Amazon",
-    "posted_at": "2026-08-12T17:30:27.467947"
-  },
-  {
-    "title": "Csite UPF 50 Cooling Hoodie Towel for Neck and Face $6.99",
-    "price": "$6.99",
-    "source_url": "https://www.amazon.com/gp/product/B0D2LHXSPC/ref=ox_sc_act_image_1?smid=A2CF2K2DDL7BWA&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/270297.1786566929.fit_lim.size_125x125.jpg",
-    "id": "1a2f0362a0ddb676a1d465fd3020b70d",
-    "amazon_url": "https://www.amazon.com/dp/B0D2LHXSPC?tag=dealsinusa0ab-20",
-    "asin": "B0D2LHXSPC",
-    "store": "Amazon",
-    "posted_at": "2026-08-12T17:30:28.468107"
   },
   {
     "title": "Get pro-tier cutting action with Greenworks\u2019 80V 18-inch cordless electric chainsaw down at $210 (Second-lowest price of 2026)",
