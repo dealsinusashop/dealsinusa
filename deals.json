@@ -1,5 +1,89 @@
 [
   {
+    "title": "Ego Power+ 56V 670-CFM 3-Speed Cordless Leaf Blower with 4Ah Battery $239.99",
+    "price": "$239.99",
+    "source_url": "https://www.amazon.com/gp/product/B0BQQ9B2MD/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270488.1786814181.fit_lim.size_125x125.jpg",
+    "id": "4986faf7225e4e200eb72e0b9ef40e8a",
+    "amazon_url": "https://www.amazon.com/dp/B0BQQ9B2MD?tag=dealsinusa0ab-20",
+    "asin": "B0BQQ9B2MD",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T13:24:48.584455"
+  },
+  {
+    "title": "Qualiall 13000BTU Portable Butane Camping Stove $9.99",
+    "price": "$9.99",
+    "source_url": "https://www.amazon.com/gp/product/B08B1QTW1J/ref=ox_sc_act_image_1?smid=A3S5YFGSE7XOVP&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270487.1786812611.fit_lim.size_125x125.jpg",
+    "id": "d0648469c9a4627e54ed7ebf76942d01",
+    "amazon_url": "https://www.amazon.com/dp/B08B1QTW1J?tag=dealsinusa0ab-20",
+    "asin": "B08B1QTW1J",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T13:24:49.584618"
+  },
+  {
+    "title": "Chapin 12\" 2 Way Shutoff Hose Connection with Shut-Off Valves $14",
+    "price": "$14",
+    "source_url": "https://www.amazon.com/gp/product/B0CY17YY8T/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270486.1786810694.fit_lim.size_125x125.jpg",
+    "id": "ba0384628c030056ff014ab0bbabc960",
+    "amazon_url": "https://www.amazon.com/dp/B0CY17YY8T?tag=dealsinusa0ab-20",
+    "asin": "B0CY17YY8T",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T13:24:50.584988"
+  },
+  {
+    "title": "Metallic Marker 24-Pack w/ Stencils Only $5.99 Shipped on Amazon",
+    "price": "$5.99",
+    "source_url": "https://hip2save.com/deals/metallic-markers/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B07SJDLJZZ.01.LZZZZZZZ.jpg",
+    "id": "ed65a6140429b0b6771507a8658c258a",
+    "amazon_url": "https://www.amazon.com/dp/B07SJDLJZZ?tag=dealsinusa0ab-20",
+    "asin": "B07SJDLJZZ",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T13:24:56.934683"
+  },
+  {
+    "title": "Stock Up on Viral medicube Skincare from $14 Shipped on Amazon",
+    "price": "$14",
+    "source_url": "https://hip2save.com/deals/medicube/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0GVQ6NYR3.01.LZZZZZZZ.jpg",
+    "id": "89a6deb73f815ba437a24c96364ee597",
+    "amazon_url": "https://www.amazon.com/dp/B0GVQ6NYR3?tag=dealsinusa0ab-20",
+    "asin": "B0GVQ6NYR3",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T13:24:58.301882"
+  },
+  {
+    "title": "Kids UPF 50+ Sun Hat 2-Pack Only $2.49 on Amazon (Reg. $10)",
+    "price": "$2.49",
+    "source_url": "https://hip2save.com/deals/amazon-sun-hats/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0G6T7BYX8.01.LZZZZZZZ.jpg",
+    "id": "b3ced77ad6fcfded212d800b4c9b5070",
+    "amazon_url": "https://www.amazon.com/dp/B0G6T7BYX8?tag=dealsinusa0ab-20",
+    "asin": "B0G6T7BYX8",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T13:24:59.801378"
+  },
+  {
+    "title": "Motion Sensor LED Night Light 2-Pack Just $6.99 on Amazon",
+    "price": "$6.99",
+    "source_url": "https://hip2save.com/deals/led-night-light/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0978DVRZK.01.LZZZZZZZ.jpg",
+    "id": "40d6920c4fe10820f91eac96cfef8b9e",
+    "amazon_url": "https://www.amazon.com/dp/B0978DVRZK?tag=dealsinusa0ab-20",
+    "asin": "B0978DVRZK",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T13:25:01.329390"
+  },
+  {
     "title": "Casio G-Shock GAS-100B-7ACR Solar Resin Watch $108",
     "price": "$108",
     "source_url": "https://www.amazon.com/gp/product/B07FB364QD",
@@ -720,42 +804,6 @@
     "posted_at": "2026-08-15T06:19:50.017049"
   },
   {
-    "title": "Lisen 89lbs Suction Magsafe Car Mount (2-Pack) $16.99",
-    "price": "$16.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GK61RW8K/ref=ox_sc_act_image_1?smid=A2DGEJFAWVOIP0&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266126.1786783722.fit_lim.size_125x125.jpg",
-    "id": "231c0b508aee0e34252eec0bf4fe2db2",
-    "amazon_url": "https://www.amazon.com/dp/B0GK61RW8K?tag=dealsinusa0ab-20",
-    "asin": "B0GK61RW8K",
-    "store": "Amazon",
-    "posted_at": "2026-08-15T06:19:51.017302"
-  },
-  {
-    "title": "Philips Hue 1080P Audio & Motion Sensor, Night Vision Security Camera (2-Pack) $99.86",
-    "price": "$99.86",
-    "source_url": "https://www.amazon.com/gp/product/B0CLBF8JJS/ref=ox_sc_saved_image_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/270459.1786786567.fit_lim.size_125x125.jpg",
-    "id": "ab58ad9040294d2eebffae9f332e0bff",
-    "amazon_url": "https://www.amazon.com/dp/B0CLBF8JJS?tag=dealsinusa0ab-20",
-    "asin": "B0CLBF8JJS",
-    "store": "Amazon",
-    "posted_at": "2026-08-15T06:19:52.017476"
-  },
-  {
-    "title": "Gillette Mens Sensor3 Sensitive Disposable Razor (4-Count) $3.64",
-    "price": "$3.64",
-    "source_url": "https://www.amazon.com/gp/product/B0001LQGPG/ref=ewc_pr_img_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/198635.1786783745.fit_lim.size_125x125.jpg",
-    "id": "5ff5e4fd53105fedd53436c65961ba4d",
-    "amazon_url": "https://www.amazon.com/dp/B0001LQGPG?tag=dealsinusa0ab-20",
-    "asin": "B0001LQGPG",
-    "store": "Amazon",
-    "posted_at": "2026-08-15T06:19:53.017630"
-  },
-  {
     "title": "6.5\" WORKPRO Linesman Combination S Screw Extractor Pliers $9",
     "price": "$9",
     "source_url": "https://slickdeals.net/f/19873914-8-99-6-5-workpro-linesman-combination-s-screw-extractor-pliers-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -778,54 +826,6 @@
     "asin": "B07FB364QD",
     "store": "Amazon",
     "posted_at": "2026-08-15T05:18:54.837565"
-  },
-  {
-    "title": "12-Ct 2.12-Oz Quest Nutrition Ultimate Protein Bars (Variety Pack) 2 for $31.80 w/ S&S + Free S&H",
-    "price": "$31.80",
-    "source_url": "https://slickdeals.net/f/19877505-sns-ac-31-78-2-12-count-2-12-oz-quest-nutrition-ultimate-protein-bars-variety-pack-15-90-pk-1-32-ea-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/21289560.thumb",
-    "id": "f17a0e777d80731322ebef2eaca9d7e1",
-    "amazon_url": "https://www.amazon.com/dp/B07J2MM23Z?tag=dealsinusa0ab-20",
-    "asin": "B07J2MM23Z",
-    "store": "Amazon",
-    "posted_at": "2026-08-15T04:18:23.666601"
-  },
-  {
-    "title": "Women\u2019s Halloween Pumpkin Shirt Just $7.99 on Amazon (Reg. $20)",
-    "price": "$7.99",
-    "source_url": "https://hip2save.com/deals/womens-halloween-pumpkin-shirt/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FKGTPDKY.01.LZZZZZZZ.jpg",
-    "id": "8530096bad415278b11e516ede29f36a",
-    "amazon_url": "https://www.amazon.com/dp/B0FKGTPDKY?tag=dealsinusa0ab-20",
-    "asin": "B0FKGTPDKY",
-    "store": "Amazon",
-    "posted_at": "2026-08-14T22:14:58.082462"
-  },
-  {
-    "title": "Grab These Viral Biker Shorts for Only $3.49 on Amazon",
-    "price": "$3.49",
-    "source_url": "https://hip2save.com/deals/amazon-womens-bike-shorts/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0CQLJXVTN.01.LZZZZZZZ.jpg",
-    "id": "20193db760716f32cf052d829b816701",
-    "amazon_url": "https://www.amazon.com/dp/B0CQLJXVTN?tag=dealsinusa0ab-20",
-    "asin": "B0CQLJXVTN",
-    "store": "Amazon",
-    "posted_at": "2026-08-14T21:14:09.012234"
-  },
-  {
-    "title": "Band-Aid 160-Piece First Aid Kit Just $10 Shipped on Amazon (Reg. $25)",
-    "price": "$10",
-    "source_url": "https://hip2save.com/deals/first-aid-kit/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B09NWH8553.01.LZZZZZZZ.jpg",
-    "id": "b1b91a1aec258fc31b57c8a24bbfeace",
-    "amazon_url": "https://www.amazon.com/dp/B09NWH8553?tag=dealsinusa0ab-20",
-    "asin": "B09NWH8553",
-    "store": "Amazon",
-    "posted_at": "2026-08-14T20:13:29.043733"
   },
   {
     "title": "Segway Back to School EV Sale offers hundreds in savings on e-scooters, e-bikes, more \u2013 all starting from $160 (Updated)",
