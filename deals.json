@@ -1,5 +1,89 @@
 [
   {
+    "title": "Casio G-Shock GAS-100B-7ACR Solar Resin Watch $108",
+    "price": "$108",
+    "source_url": "https://www.amazon.com/gp/product/B07FB364QD",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270485.1786808297.fit_lim.size_125x125.jpg",
+    "id": "77bcacd95a2f7f9d3874a8e0fdae7610",
+    "amazon_url": "https://www.amazon.com/dp/B07FB364QD?tag=dealsinusa0ab-20",
+    "asin": "B07FB364QD",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T12:24:09.170649"
+  },
+  {
+    "title": "Lefant Pro Lidar Obstacle Avoiding WiFi-Control Robot Vacuum and Mop $89.99",
+    "price": "$89.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GL1RTJSP/ref=ox_sc_act_image_1?smid=ADJPHX1ZS3VNT&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/261249.1786808372.fit_lim.size_125x125.jpg",
+    "id": "d0df62b38acf9963efb7221748da36f0",
+    "amazon_url": "https://www.amazon.com/dp/B0GL1RTJSP?tag=dealsinusa0ab-20",
+    "asin": "B0GL1RTJSP",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T12:24:10.170978"
+  },
+  {
+    "title": "Wegear 45W GaN USB-C Nano Phone Charger (2-Pack) $12.99",
+    "price": "$12.99",
+    "source_url": "https://www.amazon.com/gp/product/B0H3YRXCBN/ref=ox_sc_act_title_1?smid=A3GCS82NQ4ID6T&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270483.1786807006.fit_lim.size_125x125.jpg",
+    "id": "32f35b5136d43320ae5da97e8958459c",
+    "amazon_url": "https://www.amazon.com/dp/B0H3YRXCBN?tag=dealsinusa0ab-20",
+    "asin": "B0H3YRXCBN",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T12:24:11.171130"
+  },
+  {
+    "title": "Olight 75 Lumen Sphere Smart Night Light $13.19",
+    "price": "$13.19",
+    "source_url": "https://www.amazon.com/gp/product/B0CW1QN3DF/ref=ox_sc_act_image_1?smid=A3E6E1V9X0VZ5Q&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/254396.1786807303.fit_lim.size_125x125.jpg",
+    "id": "e3fe6f97baa8fb556ea2e7ac66cd8596",
+    "amazon_url": "https://www.amazon.com/dp/B0CW1QN3DF?tag=dealsinusa0ab-20",
+    "asin": "B0CW1QN3DF",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T12:24:12.171267"
+  },
+  {
+    "title": "Pulsar Merger Laser Range Finder Thermal Binoculars $2499.99",
+    "price": "$2499.99",
+    "source_url": "https://www.amazon.com/gp/product/B0D64M6DJD/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270484.1786807350.fit_lim.size_125x125.jpg",
+    "id": "ed3a15133123c7fd78b173e56713309a",
+    "amazon_url": "https://www.amazon.com/dp/B0D64M6DJD?tag=dealsinusa0ab-20",
+    "asin": "B0D64M6DJD",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T12:24:13.171401"
+  },
+  {
+    "title": "Kojic Acid Turmeric Soap Just $3 Shipped on Amazon | Fades Dark Spots",
+    "price": "$3",
+    "source_url": "https://hip2save.com/deals/kojic-acid-turmeric-soap/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0DR8WYQYC.01.LZZZZZZZ.jpg",
+    "id": "3a9438e7fa3278c8815ac355c4bad662",
+    "amazon_url": "https://www.amazon.com/dp/B0DR8WYQYC?tag=dealsinusa0ab-20",
+    "asin": "B0DR8WYQYC",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T12:24:20.680308"
+  },
+  {
+    "title": "GO! OtterBox Phone Cases from $3.99 Shipped | iPhone, Samsung & More",
+    "price": "$3.99",
+    "source_url": "https://hip2save.com/deals/otterbox-phone-cases/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FG5TJ6RD.01.LZZZZZZZ.jpg",
+    "id": "ac2b2df4038c650730afcee017b11cfc",
+    "amazon_url": "https://www.amazon.com/dp/B0FG5TJ6RD?tag=dealsinusa0ab-20",
+    "asin": "B0FG5TJ6RD",
+    "store": "Amazon",
+    "posted_at": "2026-08-15T12:24:22.293834"
+  },
+  {
     "title": "Dramm 1.4\" Stainless Steel Compact Garden Pruning Shear with Heavy Duty Blade $8.89",
     "price": "$8.89",
     "source_url": "https://www.amazon.com/gp/product/B002WGINJU/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
@@ -672,18 +756,6 @@
     "posted_at": "2026-08-15T06:19:53.017630"
   },
   {
-    "title": "Henyu 1500 Yards Rechargeable Golf Rangefinder with Slope and Magnetic Mount $27.99",
-    "price": "$27.99",
-    "source_url": "https://www.amazon.com/gp/product/B0BKY35RHT/ref=ox_sc_act_title_1?smid=A1CVU4O3MNVFHI&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/269370.1786782310.fit_lim.size_125x125.jpg",
-    "id": "2d663b5fec8c4964ec169a6b9971df0a",
-    "amazon_url": "https://www.amazon.com/dp/B0BKY35RHT?tag=dealsinusa0ab-20",
-    "asin": "B0BKY35RHT",
-    "store": "Amazon",
-    "posted_at": "2026-08-15T06:19:54.017790"
-  },
-  {
     "title": "6.5\" WORKPRO Linesman Combination S Screw Extractor Pliers $9",
     "price": "$9",
     "source_url": "https://slickdeals.net/f/19873914-8-99-6-5-workpro-linesman-combination-s-screw-extractor-pliers-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -754,42 +826,6 @@
     "asin": "B09NWH8553",
     "store": "Amazon",
     "posted_at": "2026-08-14T20:13:29.043733"
-  },
-  {
-    "title": "Cloudpoem IP68 Waterproof Fitness Tracker Pedometer Watch $14.99",
-    "price": "$14.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FKMRQ3D9/ref=ox_sc_act_image_1?smid=A27U7VVOSHC52A&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/270458.1786744127.fit_lim.size_125x125.jpg",
-    "id": "5916649c07e97efac5a1e1ee8ec23808",
-    "amazon_url": "https://www.amazon.com/dp/B0FKMRQ3D9?tag=dealsinusa0ab-20",
-    "asin": "B0FKMRQ3D9",
-    "store": "Amazon",
-    "posted_at": "2026-08-14T18:11:46.437963"
-  },
-  {
-    "title": "One A Day Men\u2019s Multivitamins 200-Count from $5.59 Shipped on Amazon (Reg. $20!)",
-    "price": "$5.59",
-    "source_url": "https://hip2save.com/deals/amazon-one-a-day-mens-multivitamin/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B09KF8MKB8.01.LZZZZZZZ.jpg",
-    "id": "f97aaf6d1ab5be8fc8bf5d00d0f26e33",
-    "amazon_url": "https://www.amazon.com/dp/B09KF8MKB8?tag=dealsinusa0ab-20",
-    "asin": "B09KF8MKB8",
-    "store": "Amazon",
-    "posted_at": "2026-08-14T18:12:00.372987"
-  },
-  {
-    "title": "Planters Cashews Only $3 Shipped on Amazon",
-    "price": "$3",
-    "source_url": "https://hip2save.com/deals/amazon-planters-cashews/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FLLSX2DB.01.LZZZZZZZ.jpg",
-    "id": "af8628d3cd586f8f154db40bffe36da0",
-    "amazon_url": "https://www.amazon.com/dp/B0FLLSX2DB?tag=dealsinusa0ab-20",
-    "asin": "B0FLLSX2DB",
-    "store": "Amazon",
-    "posted_at": "2026-08-14T18:12:01.884055"
   },
   {
     "title": "Segway Back to School EV Sale offers hundreds in savings on e-scooters, e-bikes, more \u2013 all starting from $160 (Updated)",
