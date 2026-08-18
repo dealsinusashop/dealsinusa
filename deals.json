@@ -1,5 +1,65 @@
 [
   {
+    "title": "It: A Novel (eBook) by Stephen King $3",
+    "price": "$3",
+    "source_url": "https://slickdeals.net/f/19884264-08-16-2-99-it-a-novel-ebook-by-stephen-king?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/8/2/3/9/6/6/7/300x300/21313968.thumb",
+    "id": "3e39375492b061a3f49b686eb4b173b4",
+    "amazon_url": "https://www.amazon.com/dp/B018ER7K5I?tag=dealsinusa0ab-20",
+    "asin": "B018ER7K5I",
+    "store": "Amazon",
+    "posted_at": "2026-08-18T06:12:48.510262"
+  },
+  {
+    "title": "Aokown Adjustable Water-Resistant Dogs Winter Coat $9.99",
+    "price": "$9.99",
+    "source_url": "https://www.amazon.com/gp/product/B0FS7DZ6Y1/ref=ox_sc_saved_image_1?smid=A3RLOE7B2APL2R&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270554.1787047716.fit_lim.size_125x125.jpg",
+    "id": "54bbfda867ec44f509826e1fab6b0042",
+    "amazon_url": "https://www.amazon.com/dp/B0FS7DZ6Y1?tag=dealsinusa0ab-20",
+    "asin": "B0FS7DZ6Y1",
+    "store": "Amazon",
+    "posted_at": "2026-08-18T06:12:52.497128"
+  },
+  {
+    "title": "M Maelreg Mens Lightweight Jacquard Short Sleeve Polo Golf Shirt $19.97",
+    "price": "$19.97",
+    "source_url": "https://www.amazon.com/gp/product/B0GF23FR2C/ref=ox_sc_act_image_1?smid=A3HWQXD5BNDT4M&th=1&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/267400.1787044773.fit_lim.size_125x125.jpg",
+    "id": "1c4c0a1946a1187f51338cf1c43951ed",
+    "amazon_url": "https://www.amazon.com/dp/B0GF23FR2C?tag=dealsinusa0ab-20",
+    "asin": "B0GF23FR2C",
+    "store": "Amazon",
+    "posted_at": "2026-08-18T06:12:53.497310"
+  },
+  {
+    "title": "Odoland Mens Body Shaper Vest Compression Shirt (5-Pack) $12.49",
+    "price": "$12.49",
+    "source_url": "https://www.amazon.com/gp/product/B08HJZ86BV/ref=ox_sc_saved_image_1?smid=AS00LCPQEC9Q6&th=1&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/269788.1787044305.fit_lim.size_125x125.jpg",
+    "id": "f9a8e2ce8310d29c89875a24af29860a",
+    "amazon_url": "https://www.amazon.com/dp/B08HJZ86BV?tag=dealsinusa0ab-20",
+    "asin": "B08HJZ86BV",
+    "store": "Amazon",
+    "posted_at": "2026-08-18T06:12:54.497451"
+  },
+  {
+    "title": "Halloween Mini Bubble Wands 24-Pack Only $5.89 Shipped for Prime Members",
+    "price": "$5.89",
+    "source_url": "https://hip2save.com/deals/amazon-bubble-wands/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0CMTXW9YV.01.LZZZZZZZ.jpg",
+    "id": "7be15fc0046f53201f76e4032b93acd7",
+    "amazon_url": "https://www.amazon.com/dp/B0CMTXW9YV?tag=dealsinusa0ab-20",
+    "asin": "B0CMTXW9YV",
+    "store": "Amazon",
+    "posted_at": "2026-08-18T06:13:03.777951"
+  },
+  {
     "title": "Enya: The Very Best of Enya: Original Recording (Audio CD) $8",
     "price": "$8",
     "source_url": "https://slickdeals.net/f/19883430-new-8-02-enya-the-very-best-of-enya-audio-cd-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -274,18 +334,6 @@
     "asin": "B0CRRWZHK1",
     "store": "Amazon",
     "posted_at": "2026-08-17T18:05:56.459828"
-  },
-  {
-    "title": "Amazon Leggings from $3.49 (Choose from 12 Colors!)",
-    "price": "$3.49",
-    "source_url": "https://hip2save.com/deals/amazon-leggings/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0CBS423LL.01.LZZZZZZZ.jpg",
-    "id": "c4e64b8ee39084893283b033746c88b6",
-    "amazon_url": "https://www.amazon.com/dp/B0CBS423LL?tag=dealsinusa0ab-20",
-    "asin": "B0CBS423LL",
-    "store": "Amazon",
-    "posted_at": "2026-08-17T18:05:57.757064"
   },
   {
     "title": "Home & Me Dry-Erase Magnetic Calendar for Fridge with 6 Markers $7.49",
@@ -682,42 +730,6 @@
     "asin": "B0H11F6VPZ",
     "store": "Amazon",
     "posted_at": "2026-08-17T17:04:49.736538"
-  },
-  {
-    "title": "Wegear 45W GaN USB-C Nano Phone Charger (2-Pack) $12.99",
-    "price": "$12.99",
-    "source_url": "https://www.amazon.com/gp/product/B0H3YRXCBN/ref=ox_sc_act_title_1?smid=A3GCS82NQ4ID6T&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/270483.1786997262.fit_lim.size_125x125.jpg",
-    "id": "32f35b5136d43320ae5da97e8958459c",
-    "amazon_url": "https://www.amazon.com/dp/B0H3YRXCBN?tag=dealsinusa0ab-20",
-    "asin": "B0H3YRXCBN",
-    "store": "Amazon",
-    "posted_at": "2026-08-17T17:04:50.736649"
-  },
-  {
-    "title": "Thermacell MR300 0.41oz Portable Mosquito Repeller $11",
-    "price": "$11",
-    "source_url": "https://www.amazon.com/Thermacell-Cartridge-Repellent-Protection-Mosquito-Free/dp/B07JCQ8GQJ?m=ATVPDKIKX0DER",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/207103.1786997667.fit_lim.size_125x125.jpg",
-    "id": "f0be430efbd03755673aa54c3e1fe533",
-    "amazon_url": "https://www.amazon.com/dp/B07JCQ8GQJ?tag=dealsinusa0ab-20",
-    "asin": "B07JCQ8GQJ",
-    "store": "Amazon",
-    "posted_at": "2026-08-17T17:04:51.736770"
-  },
-  {
-    "title": "Klein Tools RT250 3-Wire 120V GFCI Electrical Receptacle Tester with LCD Display $16",
-    "price": "$16",
-    "source_url": "https://www.amazon.com/gp/product/B08QW7K1JJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/206461.1786997643.fit_lim.size_125x125.jpg",
-    "id": "ce5e5040450792dfd011314a52e2a040",
-    "amazon_url": "https://www.amazon.com/dp/B08QW7K1JJ?tag=dealsinusa0ab-20",
-    "asin": "B08QW7K1JJ",
-    "store": "Amazon",
-    "posted_at": "2026-08-17T17:04:52.736896"
   },
   {
     "title": "Anker flat plug 8-outlet Power Strip with USB now down at $24",
