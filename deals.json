@@ -1,5 +1,89 @@
 [
   {
+    "title": "Visiogear 7-Level 3\" 4K Screen Night Vision Binoculars with 32GB Card $29.99",
+    "price": "$29.99",
+    "source_url": "https://www.amazon.com/gp/product/B0DD3Z4TQ8/ref=ox_sc_act_image_1?smid=A14CF75QC5ZDNU&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270784.1787485703.fit_lim.size_125x125.jpg",
+    "id": "7677e743734ccec87e75dd88081db96c",
+    "amazon_url": "https://www.amazon.com/dp/B0DD3Z4TQ8?tag=dealsinusa0ab-20",
+    "asin": "B0DD3Z4TQ8",
+    "store": "Amazon",
+    "posted_at": "2026-08-23T07:58:27.385326"
+  },
+  {
+    "title": "Vivi Youth D3 K2 5000-IU 100mcg Vitamin with MK-7 $7.99",
+    "price": "$7.99",
+    "source_url": "https://www.amazon.com/dp/B0GVNTBRYW",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270783.1787484911.fit_lim.size_125x125.jpg",
+    "id": "1093725d186193dd644ed3fc1a2673f4",
+    "amazon_url": "https://www.amazon.com/dp/B0GVNTBRYW?tag=dealsinusa0ab-20",
+    "asin": "B0GVNTBRYW",
+    "store": "Amazon",
+    "posted_at": "2026-08-23T07:58:28.385541"
+  },
+  {
+    "title": "Shabebe 34oz Mulch & Rock Glue with Sprayer $9.99",
+    "price": "$9.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GV4DF45K/ref=ox_sc_act_image_1?smid=A354OEQ5V2CL5&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270782.1787483461.fit_lim.size_125x125.jpg",
+    "id": "28fdb07ddf7f87517cbfd95f965b509a",
+    "amazon_url": "https://www.amazon.com/dp/B0GV4DF45K?tag=dealsinusa0ab-20",
+    "asin": "B0GV4DF45K",
+    "store": "Amazon",
+    "posted_at": "2026-08-23T07:58:29.385729"
+  },
+  {
+    "title": "Philips 60W Corded Electric Bluetooth Stereo System $124.99",
+    "price": "$124.99",
+    "source_url": "https://www.amazon.com/gp/product/B084G8G5G9/ref=ox_sc_act_image_1?smid=A1GAD27JKMQM26&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270781.1787482844.fit_lim.size_125x125.jpg",
+    "id": "7f943a5243940870c859d385c79125d2",
+    "amazon_url": "https://www.amazon.com/dp/B084G8G5G9?tag=dealsinusa0ab-20",
+    "asin": "B084G8G5G9",
+    "store": "Amazon",
+    "posted_at": "2026-08-23T07:58:30.385903"
+  },
+  {
+    "title": "Makeup Sponge 5-Pack Only $2.69 Shipped on Amazon (Over 75,000 5-Star Ratings!)",
+    "price": "$2.69",
+    "source_url": "https://hip2save.com/deals/beakey-makeup-sponges/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B01F36JEXE.01.LZZZZZZZ.jpg",
+    "id": "be96cf35cc55d3688053a8578310d49e",
+    "amazon_url": "https://www.amazon.com/dp/B01F36JEXE?tag=dealsinusa0ab-20",
+    "asin": "B01F36JEXE",
+    "store": "Amazon",
+    "posted_at": "2026-08-23T07:58:39.477698"
+  },
+  {
+    "title": "Wireless Picture Light 2-Pack w/ Remote Just $14.74 Shipped on Amazon (Reg. $59)",
+    "price": "$14.74",
+    "source_url": "https://hip2save.com/deals/wireless-picture-light/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FW4RX95M.01.LZZZZZZZ.jpg",
+    "id": "71138c63f2051947a2c0898db9a0d4e5",
+    "amazon_url": "https://www.amazon.com/dp/B0FW4RX95M?tag=dealsinusa0ab-20",
+    "asin": "B0FW4RX95M",
+    "store": "Amazon",
+    "posted_at": "2026-08-23T07:58:41.153697"
+  },
+  {
+    "title": "Rechargeable Book Light Only $4.85 on Amazon (Reg. $15)",
+    "price": "$4.85",
+    "source_url": "https://hip2save.com/deals/amazon-glocusent-book-light/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FW4G86L7.01.LZZZZZZZ.jpg",
+    "id": "e38288b4f53d789d71d5e8a5803a0a7c",
+    "amazon_url": "https://www.amazon.com/dp/B0FW4G86L7?tag=dealsinusa0ab-20",
+    "asin": "B0FW4G86L7",
+    "store": "Amazon",
+    "posted_at": "2026-08-23T07:58:42.803837"
+  },
+  {
     "title": "Acer USB-C to HDMI 4K 60Hz Adapter/Converter (Grey) $9",
     "price": "$9",
     "source_url": "https://slickdeals.net/f/19911345-8-99-acer-usb-c-to-hdmi-4k-60hz-adapter-converter-grey-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -118,30 +202,6 @@
     "asin": "B0F8LNWKYF",
     "store": "Amazon",
     "posted_at": "2026-08-23T03:55:12.672375"
-  },
-  {
-    "title": "Kitchenaid 8\"x2.8 Gourmet Stainless Steel Cookie Dough Scoop $6.39",
-    "price": "$6.39",
-    "source_url": "https://www.amazon.com/gp/product/B07Q2W5H1T/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/270779.1787421938.fit_lim.size_125x125.jpg",
-    "id": "3e0aa3117115b452b4956bf66699888f",
-    "amazon_url": "https://www.amazon.com/dp/B07Q2W5H1T?tag=dealsinusa0ab-20",
-    "asin": "B07Q2W5H1T",
-    "store": "Amazon",
-    "posted_at": "2026-08-23T03:55:22.644998"
-  },
-  {
-    "title": "Select Accts: 22-Pk 3-oz Maruchan Ramen Fire Noodle Soup (Spicy Beef) $9.45 w/ S&S",
-    "price": "$9.45",
-    "source_url": "https://slickdeals.net/f/19911327-sns-ac-9-44-22-pack-3-oz-maruchan-ramen-noodle-soup-fire-spicy-beef-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21360159.thumb",
-    "id": "50b6437966e07ef0da858c161c146b32",
-    "amazon_url": "https://www.amazon.com/dp/B0F4DZKVGH?tag=dealsinusa0ab-20",
-    "asin": "B0F4DZKVGH",
-    "store": "Amazon",
-    "posted_at": "2026-08-23T02:54:32.724998"
   },
   {
     "title": "Nerds Gummy Clusters 60-Count Treat Packs Just $11.85 Shipped on Amazon (Reg. $21)",
@@ -672,18 +732,6 @@
     "posted_at": "2026-08-22T14:46:32.507489"
   },
   {
-    "title": "Cvlife 5.2\" D2 Full Tang Steel Fixed Blade Bushcraft Knife with Sheath $20.99",
-    "price": "$20.99",
-    "source_url": "https://www.amazon.com/gp/product/B0DZBKXZLG/ref=ox_sc_act_title_1?smid=AZD1D528NB19Q&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/269089.1787416034.fit_lim.size_125x125.jpg",
-    "id": "e96eef97f2c1ec389c5e7a2acab0437e",
-    "amazon_url": "https://www.amazon.com/dp/B0DZBKXZLG?tag=dealsinusa0ab-20",
-    "asin": "B0DZBKXZLG",
-    "store": "Amazon",
-    "posted_at": "2026-08-22T14:46:33.507647"
-  },
-  {
     "title": "Pure Protein Bars 18-Count Variety Pack Only $15 Shipped on Amazon",
     "price": "$15",
     "source_url": "https://hip2save.com/deals/pure-protein-bars/",
@@ -816,42 +864,6 @@
     "posted_at": "2026-08-22T13:45:50.537948"
   },
   {
-    "title": "Gatorade Lower Sugar Sports Drink 20oz Bottles 6-Pack Just $3.77 Shipped on Amazon",
-    "price": "$3.77",
-    "source_url": "https://hip2save.com/deals/amazon-gatorade-lower-sugar/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0GJG5DX8J.01.LZZZZZZZ.jpg",
-    "id": "ed33ba3dfebb7cf37d7efce66587b4b6",
-    "amazon_url": "https://www.amazon.com/dp/B0GJG5DX8J?tag=dealsinusa0ab-20",
-    "asin": "B0GJG5DX8J",
-    "store": "Amazon",
-    "posted_at": "2026-08-22T12:44:47.831364"
-  },
-  {
-    "title": "Velvet Quilt 3-Piece Sets from $25.99 Shipped on Amazon",
-    "price": "$25.99",
-    "source_url": "https://hip2save.com/deals/bedelite-comforter/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FSYXW876.01.LZZZZZZZ.jpg",
-    "id": "a58ad3e5cc9025442dd19509961b4529",
-    "amazon_url": "https://www.amazon.com/dp/B0FSYXW876?tag=dealsinusa0ab-20",
-    "asin": "B0FSYXW876",
-    "store": "Amazon",
-    "posted_at": "2026-08-22T12:44:49.837511"
-  },
-  {
-    "title": "Women\u2019s Silk 2-Piece Lounge Sets from $7.99 on Amazon",
-    "price": "$7.99",
-    "source_url": "https://hip2save.com/deals/ekouaer-womens-lounge-set/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0GXVPKJV4.01.LZZZZZZZ.jpg",
-    "id": "5ee1389e635db1a22022238660eb6b61",
-    "amazon_url": "https://www.amazon.com/dp/B0GXVPKJV4?tag=dealsinusa0ab-20",
-    "asin": "B0GXVPKJV4",
-    "store": "Amazon",
-    "posted_at": "2026-08-22T12:44:52.136518"
-  },
-  {
     "title": "Buttery-Soft High-Waisted Leggings from $3.74 on Amazon | 30 Color Choices!",
     "price": "$3.74",
     "source_url": "https://hip2save.com/deals/amazon-sinophant-leggings/",
@@ -898,18 +910,6 @@
     "asin": "B0DMPTN8DG",
     "store": "Amazon",
     "posted_at": "2026-08-21T13:25:59.719533"
-  },
-  {
-    "title": "Bluetooth Smart Scale JUST $39.99 (reg $80)!",
-    "price": "$39.99",
-    "source_url": "https://www.passionforsavings.com/online/bluetooth-digital-smart-bathroom-scale-on-sale/",
-    "source": "PassionForSavings",
-    "image": "https://www.passionforsavings.com/content/uploads/2026/08/821-deals-10.png",
-    "id": "850921cdd613d40718d95e228eb51bdb",
-    "amazon_url": "https://www.amazon.com/dp/B00DBYBNEE?tag=dealsinusa0ab-20",
-    "asin": "B00DBYBNEE",
-    "store": "Amazon",
-    "posted_at": "2026-08-21T13:26:19.422531"
   },
   {
     "title": "Acer\u2019s metal MagSafe golf cart mount plunges to $20 Prime shipped",
@@ -1042,18 +1042,6 @@
     "asin": "B0C2BMNHW2",
     "store": "Amazon",
     "posted_at": "2026-08-21T08:20:30.093276"
-  },
-  {
-    "title": "Woot\u2019s massive PC sale is now live with up to 75% off gaming desktops, monitors, coolers, and more, deals from just $5",
-    "price": "$5",
-    "source_url": "https://9to5toys.com/2026/08/21/woot-massive-pc-sale-is-now-live-with-up-to-75-off/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/08/Woot-PC-deals-sale.jpg",
-    "id": "99b8e5dd43b104151c40eef27e0ba280",
-    "amazon_url": "https://www.amazon.com/dp/B098JK6G5N?tag=dealsinusa0ab-20",
-    "asin": "B098JK6G5N",
-    "store": "Amazon",
-    "posted_at": "2026-08-21T07:19:29.636156"
   },
   {
     "title": "Finish Quantum Dishwasher Detergent Pods, 14 Count \u2013 Just $2.25!",
