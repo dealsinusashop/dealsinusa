@@ -1,5 +1,101 @@
 [
   {
+    "title": "850W MSI PRO A850PL 80+ Platinum PCIe 5.1 Fully Modular Power Supply $100 + Free S&H",
+    "price": "$100",
+    "source_url": "https://slickdeals.net/f/19967640-99-99-msi-pro-850w-a850pl-pcie5-80-platinum-fully-modular-gaming-power-supply-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21490644.thumb",
+    "id": "e6328ce1445170d4175ae3ac4cbee91b",
+    "amazon_url": "https://www.amazon.com/dp/B0GY221K1Y?tag=dealsinusa0ab-20",
+    "asin": "B0GY221K1Y",
+    "store": "Amazon",
+    "posted_at": "2026-09-05T12:22:42.540827"
+  },
+  {
+    "title": "Apple MacBook Pro M5 18-Core CPU 20-Core GPU 16.2\" 3456x2234 Mini LED Laptop (24GB/1TB) $2759.99",
+    "price": "$2759.99",
+    "source_url": "https://www.amazon.com/dp/B0GR1JKMBV?m=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/202334.1788620376.fit_lim.size_125x125.jpg",
+    "id": "88e351cde16f65137decc44f977a269a",
+    "amazon_url": "https://www.amazon.com/dp/B0GR1JKMBV?tag=dealsinusa0ab-20",
+    "asin": "B0GR1JKMBV",
+    "store": "Amazon",
+    "posted_at": "2026-09-05T12:22:56.143727"
+  },
+  {
+    "title": "Apple MacBook Neo 13\" A18 Pro 2408x1506 Laptop (8GB/256GB) $689.99 | Refurb $599 | 512GB with Touch ID $785",
+    "price": "$689.99",
+    "source_url": "https://www.amazon.com/Apple-2026-MacBook-13-inch-Laptop/dp/B0GR6BVYS5?th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/264728.1788620216.fit_lim.size_125x125.jpg",
+    "id": "c39911b56d1fa30ba2c29e2354d2085b",
+    "amazon_url": "https://www.amazon.com/dp/B0GR6BVYS5?tag=dealsinusa0ab-20",
+    "asin": "B0GR6BVYS5",
+    "store": "Amazon",
+    "posted_at": "2026-09-05T12:22:57.143901"
+  },
+  {
+    "title": "Emotional Support Plush & Cards 10-Pack Just $3 on Amazon",
+    "price": "$3",
+    "source_url": "https://hip2save.com/deals/amazon-emotional-support-cards/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FYJBJWJS.01.LZZZZZZZ.jpg",
+    "id": "548bf22ebbd6a4e96c216249a57b9888",
+    "amazon_url": "https://www.amazon.com/dp/B0FYJBJWJS?tag=dealsinusa0ab-20",
+    "asin": "B0FYJBJWJS",
+    "store": "Amazon",
+    "posted_at": "2026-09-05T12:23:07.125373"
+  },
+  {
+    "title": "Microfiber Hair Towels 3-Pack Just $5.99 on Amazon ($2 Each!)",
+    "price": "$5.99",
+    "source_url": "https://hip2save.com/deals/microfiber-hair-towels/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B09CKSCYF8.01.LZZZZZZZ.jpg",
+    "id": "b479521c18af7a22ba404134091c4938",
+    "amazon_url": "https://www.amazon.com/dp/B09CKSCYF8?tag=dealsinusa0ab-20",
+    "asin": "B09CKSCYF8",
+    "store": "Amazon",
+    "posted_at": "2026-09-05T12:23:08.529692"
+  },
+  {
+    "title": "Gua Sha & Jade Roller Set Only $3.99 on Amazon | Over 3K 5-Star Reviews",
+    "price": "$3.99",
+    "source_url": "https://hip2save.com/deals/amazon-baimei-gua-sha/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B08RD6S5HF.01.LZZZZZZZ.jpg",
+    "id": "eb3ad21dd9a9e3e2232b41f9fc69c14e",
+    "amazon_url": "https://www.amazon.com/dp/B08RD6S5HF?tag=dealsinusa0ab-20",
+    "asin": "B08RD6S5HF",
+    "store": "Amazon",
+    "posted_at": "2026-09-05T12:23:09.881695"
+  },
+  {
+    "title": "Princess Dress-Up Sets Just $9.99 on Amazon (Reg. $20)",
+    "price": "$9.99",
+    "source_url": "https://hip2save.com/deals/princess-dress-up-set/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0D498LJT4.01.LZZZZZZZ.jpg",
+    "id": "6c49d4392c8ba272412d031c8ed5d02f",
+    "amazon_url": "https://www.amazon.com/dp/B0D498LJT4?tag=dealsinusa0ab-20",
+    "asin": "B0D498LJT4",
+    "store": "Amazon",
+    "posted_at": "2026-09-05T12:23:11.337606"
+  },
+  {
+    "title": "Vinyl Halloween Stickers 100-Count Just $2.39 on Amazon | Fun for Trick-or-Treating!",
+    "price": "$2.39",
+    "source_url": "https://hip2save.com/deals/halloween-stickers/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0D7D7R1BH.01.LZZZZZZZ.jpg",
+    "id": "c901a4f494be31221a259fdea2648f76",
+    "amazon_url": "https://www.amazon.com/dp/B0D7D7R1BH?tag=dealsinusa0ab-20",
+    "asin": "B0D7D7R1BH",
+    "store": "Amazon",
+    "posted_at": "2026-09-05T12:23:12.763310"
+  },
+  {
     "title": "6-Pk. 24-Count Luzianne Decaffeinated Iced Tea Bags $12.75 w/ S&S",
     "price": "$12.75",
     "source_url": "https://slickdeals.net/f/19972680-sns-12-74-6-pack-24-count-luzianne-decaffeinated-iced-tea-bags-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -528,54 +624,6 @@
     "posted_at": "2026-09-04T21:12:44.425870"
   },
   {
-    "title": "Halloween Mini Figures 60-Count Only $12.99 on Amazon",
-    "price": "$12.99",
-    "source_url": "https://hip2save.com/deals/amazon-halloween-mini-figures/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0H3292GCY.01.LZZZZZZZ.jpg",
-    "id": "2eff1421b09fd73f18a751d42ddfb58b",
-    "amazon_url": "https://www.amazon.com/dp/B0H3292GCY?tag=dealsinusa0ab-20",
-    "asin": "B0H3292GCY",
-    "store": "Amazon",
-    "posted_at": "2026-09-04T20:12:04.874305"
-  },
-  {
-    "title": "Women\u2019s Capri Jogger Pants w/ Pockets Just $5.49 on Amazon (Tons of Colors Available!)",
-    "price": "$5.49",
-    "source_url": "https://hip2save.com/deals/walifrey-joggers/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0GD66VFHM.01.LZZZZZZZ.jpg",
-    "id": "08ce7012170af1f5e16a2d1000783eda",
-    "amazon_url": "https://www.amazon.com/dp/B0GD66VFHM?tag=dealsinusa0ab-20",
-    "asin": "B0GD66VFHM",
-    "store": "Amazon",
-    "posted_at": "2026-09-04T19:11:24.840083"
-  },
-  {
-    "title": "Halloween Bracelet Making Kit Just $5.99 on Amazon",
-    "price": "$5.99",
-    "source_url": "https://hip2save.com/deals/amazon-halloween-bracelet-kit/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FH1YKFGQ.01.LZZZZZZZ.jpg",
-    "id": "2fe72c1c26dd26c17df42b741dca8647",
-    "amazon_url": "https://www.amazon.com/dp/B0FH1YKFGQ?tag=dealsinusa0ab-20",
-    "asin": "B0FH1YKFGQ",
-    "store": "Amazon",
-    "posted_at": "2026-09-04T19:11:26.456595"
-  },
-  {
-    "title": "Degree Men\u2019s Antiperspirant 2-Pack Just $3.99 Shipped on Amazon",
-    "price": "$3.99",
-    "source_url": "https://hip2save.com/deals/degree-mens-deodorant/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B075JRT85B.01.LZZZZZZZ.jpg",
-    "id": "f34ac650304b1fe7b1255b6f1c4cb0c5",
-    "amazon_url": "https://www.amazon.com/dp/B075JRT85B?tag=dealsinusa0ab-20",
-    "asin": "B075JRT85B",
-    "store": "Amazon",
-    "posted_at": "2026-09-04T18:10:38.892501"
-  },
-  {
     "title": "Aurzen E1R 1280x720 Native Smart Roku TV Portable Mini Projector $59.99",
     "price": "$59.99",
     "source_url": "https://www.amazon.com/gp/product/B0H4TKY7WG/ref=ox_sc_act_image_1?smid=A2ZQ0R8K5B82JM&th=1",
@@ -780,18 +828,6 @@
     "posted_at": "2026-09-04T17:09:41.404771"
   },
   {
-    "title": "Vtoman V10 Max Portable Jump Starter with 100W Bi-Directional Charger $39.99",
-    "price": "$39.99",
-    "source_url": "https://www.amazon.com/gp/product/B0CZNNMBCV/ref=ox_sc_act_title_1?smid=A3V9LEYGUT6BKL&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/271215.1788554493.fit_lim.size_125x125.jpg",
-    "id": "aaec6776ad2edbaf533df92b51720b93",
-    "amazon_url": "https://www.amazon.com/dp/B0CZNNMBCV?tag=dealsinusa0ab-20",
-    "asin": "B0CZNNMBCV",
-    "store": "Amazon",
-    "posted_at": "2026-09-04T17:09:43.627462"
-  },
-  {
     "title": "Beatbot\u2019s Labor Day Sale drops 2026 Sora 70 5-in-1 robotic pool cleaner to $1,099 ($400 off), more from $339",
     "price": "$1,099",
     "source_url": "https://9to5toys.com/2026/09/04/beatbot-labor-day-sale-2026-sora-70-5-in-1-robotic-pool-cleaner-1099-more/",
@@ -814,18 +850,6 @@
     "asin": "B07ZVKBJJX",
     "store": "Amazon",
     "posted_at": "2026-09-04T15:08:03.253281"
-  },
-  {
-    "title": "Cvlife 3.42\" VG10 Damascus Anti-Slip Ergonomic Foldable Pocket Knife $19.99",
-    "price": "$19.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GCMF59YX/ref=ox_sc_act_title_1?smid=AZD1D528NB19Q&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/265862.1788541462.fit_lim.size_125x125.jpg",
-    "id": "6acafdaac31ca40d3399f7bf4000b523",
-    "amazon_url": "https://www.amazon.com/dp/B0GCMF59YX?tag=dealsinusa0ab-20",
-    "asin": "B0GCMF59YX",
-    "store": "Amazon",
-    "posted_at": "2026-09-04T14:06:37.793998"
   },
   {
     "title": "Twelve South Apple Watch Band Organizer back to best price of year at $20.50 Prime shipped",
