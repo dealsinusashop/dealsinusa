@@ -1,5 +1,53 @@
 [
   {
+    "title": "Danzig (Vinyl LP) $19.60",
+    "price": "$19.60",
+    "source_url": "https://slickdeals.net/f/19970091-new-19-58-danzig-vinyl-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21495825.thumb",
+    "id": "845c1f24fa4704fd63ab2f8246e73f06",
+    "amazon_url": "https://www.amazon.com/dp/B0G7NJPNBG?tag=dealsinusa0ab-20",
+    "asin": "B0G7NJPNBG",
+    "store": "Amazon",
+    "posted_at": "2026-09-06T22:47:04.592359"
+  },
+  {
+    "title": "30-Oz Irish Spring Men's Body Wash (Original Scent) $4.65 w/ S&S",
+    "price": "$4.65",
+    "source_url": "https://slickdeals.net/f/19978893-sns-ac-4-64-30-oz-irish-spring-men-s-body-wash-original-scent-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21514320.thumb",
+    "id": "4a1bb75186d0f976105d02666cda963c",
+    "amazon_url": "https://www.amazon.com/dp/B09GN1YRVP?tag=dealsinusa0ab-20",
+    "asin": "B09GN1YRVP",
+    "store": "Amazon",
+    "posted_at": "2026-09-06T22:47:07.102264"
+  },
+  {
+    "title": "Prime Members: Smadeer 5.5\" Halloween Skull Statue w/ LED Light $11 + Free S&H",
+    "price": "$11",
+    "source_url": "https://slickdeals.net/f/19975383-amazon-smadeer-halloween-skull-statue-w-led-light-timer-10-99-w-code?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/2/4/9/0/7/0/8/300x300/21507774.thumb",
+    "id": "018622bfc576ddd53bf52eec570bbe2b",
+    "amazon_url": "https://www.amazon.com/dp/B0B7NVQL73?tag=dealsinusa0ab-20",
+    "asin": "B0B7NVQL73",
+    "store": "Amazon",
+    "posted_at": "2026-09-06T22:47:09.390521"
+  },
+  {
+    "title": "*RARE* Savings on Team & Reader medicube Faves on Amazon",
+    "price": "$21.80",
+    "source_url": "https://hip2save.com/deals/medicube/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0GCC2JV65.01.LZZZZZZZ.jpg",
+    "id": "a355bce8b9b584c75051fda6504ed0f2",
+    "amazon_url": "https://www.amazon.com/dp/B0GCC2JV65?tag=dealsinusa0ab-20",
+    "asin": "B0GCC2JV65",
+    "store": "Amazon",
+    "posted_at": "2026-09-06T22:47:23.436594"
+  },
+  {
     "title": "20\" Husqvarna 450 Rancher 50.2-cc 2-Cycle X-Torq Gas Chainsaw $355 + Free S&H",
     "price": "$355",
     "source_url": "https://slickdeals.net/f/19974741-354-99-20-husqvarna-450-rancher-50-2-cc-2-cycle-x-torq-gas-chainsaw-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -154,30 +202,6 @@
     "asin": "B00091S3K4",
     "store": "Amazon",
     "posted_at": "2026-09-06T19:45:41.874761"
-  },
-  {
-    "title": "2-Pk 42-Ct Cottonelle Summer Fresh Scented Flushable Wipes $2.70 w/ S&S",
-    "price": "$2.70",
-    "source_url": "https://slickdeals.net/f/19977792-sns-2-67-2-pack-42-count-cottonelle-summer-fresh-scented-flushable-wipes-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21512403.thumb",
-    "id": "1c79e23eb1f0b7c2f29b10ca6e45a3f7",
-    "amazon_url": "https://www.amazon.com/dp/B0G1V8FTWS?tag=dealsinusa0ab-20",
-    "asin": "B0G1V8FTWS",
-    "store": "Amazon",
-    "posted_at": "2026-09-06T18:44:32.248782"
-  },
-  {
-    "title": "Back to the Future: The Complete Animated Series (DVD) $10",
-    "price": "$10",
-    "source_url": "https://slickdeals.net/f/19977150-9-98-back-to-the-future-the-complete-animated-series-dvd-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21511038.thumb",
-    "id": "c502cb442574155b265dea28e89a90e0",
-    "amazon_url": "https://www.amazon.com/dp/B011Q0F17O?tag=dealsinusa0ab-20",
-    "asin": "B011Q0F17O",
-    "store": "Amazon",
-    "posted_at": "2026-09-06T18:44:34.552351"
   },
   {
     "title": "Welch\u2019s Fruit Snacks 40-Count Just $3.49 Shipped on Amazon",
@@ -886,18 +910,6 @@
     "asin": "B06XGNL1RX",
     "store": "Amazon",
     "posted_at": "2026-09-06T12:39:55.294944"
-  },
-  {
-    "title": "Women\u2019s Lightweight Bathrobe Only $13.99 on Amazon (Reg. $30)",
-    "price": "$13.99",
-    "source_url": "https://hip2save.com/deals/amazon-womens-bathrobe/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0H2GYWRLQ.01.LZZZZZZZ.jpg",
-    "id": "84a6d9e14564223cb17412339e9516a6",
-    "amazon_url": "https://www.amazon.com/dp/B0H2GYWRLQ?tag=dealsinusa0ab-20",
-    "asin": "B0H2GYWRLQ",
-    "store": "Amazon",
-    "posted_at": "2026-09-06T12:39:56.716552"
   },
   {
     "title": "Windex Vinegar Multi-Surface Spray \u2013 Fresh, Clear 23 Fl Oz \u2013 Just $2.78!",
