@@ -1,5 +1,77 @@
 [
   {
+    "title": "15.6\" AOC 16T20 FHD 60Hz IPS Portable Monitor $50 + Free S&H",
+    "price": "$50",
+    "source_url": "https://slickdeals.net/f/19995303-49-99-15-6-aoc-16t20-fhd-60hz-ips-portable-monitor-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/3/5/9/4/0/2/8/300x300/21564858.thumb",
+    "id": "59b8ed35ca2852be3e4f89d70243cbc2",
+    "amazon_url": "https://www.amazon.com/dp/B0F3MMK1J4?tag=dealsinusa0ab-20",
+    "asin": "B0F3MMK1J4",
+    "store": "Amazon",
+    "posted_at": "2026-09-11T05:12:51.695317"
+  },
+  {
+    "title": "Used - Like New: O-Cedar EasyWring Microfiber Spin Mop & Bucket + 2 Refills $22.50",
+    "price": "$22.50",
+    "source_url": "https://slickdeals.net/f/19998885-resale-22-48-o-cedar-easywring-microfiber-spin-mop-bucket-floor-cleaning-system-2-refills-used-like-new-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21560772.thumb",
+    "id": "b2e6938a15927a7691d5eaac907be674",
+    "amazon_url": "https://www.amazon.com/dp/B07VWL357N?tag=dealsinusa0ab-20",
+    "asin": "B07VWL357N",
+    "store": "Amazon",
+    "posted_at": "2026-09-11T05:12:53.883212"
+  },
+  {
+    "title": "Vevor 2\"-6\" Chainsaw Mill with Vertical Lumber Cutting Guide $17.99",
+    "price": "$17.99",
+    "source_url": "https://www.amazon.com/gp/product/B0FQMNKW2K/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/271420.1789117127.fit_lim.size_125x125.jpg",
+    "id": "8c4a409d127f703e6060a3975e398ffe",
+    "amazon_url": "https://www.amazon.com/dp/B0FQMNKW2K?tag=dealsinusa0ab-20",
+    "asin": "B0FQMNKW2K",
+    "store": "Amazon",
+    "posted_at": "2026-09-11T05:13:07.021584"
+  },
+  {
+    "title": "Cuktech 85W 3-Port Car Charger with Built-in Retractable 2.3 Cable $17.99",
+    "price": "$17.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GCJ2QTL2/ref=ox_sc_act_title_1?smid=A245H3N7YEY91J&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/271419.1789116314.fit_lim.size_125x125.jpg",
+    "id": "59e190eeae4460e1a15adabd7e12d1d4",
+    "amazon_url": "https://www.amazon.com/dp/B0GCJ2QTL2?tag=dealsinusa0ab-20",
+    "asin": "B0GCJ2QTL2",
+    "store": "Amazon",
+    "posted_at": "2026-09-11T05:13:08.021726"
+  },
+  {
+    "title": "Pit Boss Heavy Duty BBQ Grilling Gloves $22.49",
+    "price": "$22.49",
+    "source_url": "https://www.amazon.com/gp/product/B094P4PNRJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/271418.1789115608.fit_lim.size_125x125.jpg",
+    "id": "509d387ee56d30cacdde665dbc115f7f",
+    "amazon_url": "https://www.amazon.com/dp/B094P4PNRJ?tag=dealsinusa0ab-20",
+    "asin": "B094P4PNRJ",
+    "store": "Amazon",
+    "posted_at": "2026-09-11T05:13:09.021858"
+  },
+  {
+    "title": "Tiloqua 5.3 Bluetooth Wireless Noise Cancelling Earbuds $7.19",
+    "price": "$7.19",
+    "source_url": "https://www.amazon.com/gp/product/B0F98W66B7/ref=ox_sc_act_title_1?smid=A5CTCEV63YBTD&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/271417.1789115041.fit_lim.size_125x125.jpg",
+    "id": "d041d4ea6570269c3c13f6453519b261",
+    "amazon_url": "https://www.amazon.com/dp/B0F98W66B7?tag=dealsinusa0ab-20",
+    "asin": "B0F98W66B7",
+    "store": "Amazon",
+    "posted_at": "2026-09-11T05:13:10.022057"
+  },
+  {
     "title": "Razer Orochi V2 18K DPI Wireless Gaming Mouse with Mechanical Switches $29.99",
     "price": "$29.99",
     "source_url": "https://www.amazon.com/gp/product/B0916MW7CG/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
@@ -58,18 +130,6 @@
     "asin": "B0C1ZYNB5J",
     "store": "Amazon",
     "posted_at": "2026-09-11T00:09:20.098424"
-  },
-  {
-    "title": "Select Accts: 2-Pk 9-Oz Jack Link's Beef Jerky (Peppered) $14.90 w/ S&S",
-    "price": "$14.90",
-    "source_url": "https://slickdeals.net/f/19995861-sns-ac-14-83-2-pk-9-oz-jack-link-s-beef-jerky-peppered-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/21553377.thumb",
-    "id": "0487c28fe69b54fc4d98d39f463367ea",
-    "amazon_url": "https://www.amazon.com/dp/B07JMN2YFY?tag=dealsinusa0ab-20",
-    "asin": "B07JMN2YFY",
-    "store": "Amazon",
-    "posted_at": "2026-09-10T23:08:44.344597"
   },
   {
     "title": "Solar Motion Sensor Lights 2-Pack Only $5.99 Shipped for Amazon Prime Members (Reg. $17)",
@@ -610,42 +670,6 @@
     "asin": "B0186R3OUG",
     "store": "Amazon",
     "posted_at": "2026-09-10T17:04:34.993564"
-  },
-  {
-    "title": "Qesvibol 10000mAh Portable Charger with Built in Cable $17.59",
-    "price": "$17.59",
-    "source_url": "https://www.amazon.com/gp/product/B0H4YC259S/ref=ox_sc_act_title_1?smid=A3ID3DMFXKMXR0&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/271412.1789071600.fit_lim.size_125x125.png",
-    "id": "2528cc51e3091c6df9b13f70f8d79565",
-    "amazon_url": "https://www.amazon.com/dp/B0H4YC259S?tag=dealsinusa0ab-20",
-    "asin": "B0H4YC259S",
-    "store": "Amazon",
-    "posted_at": "2026-09-10T17:04:35.993710"
-  },
-  {
-    "title": "Amartisan 10-Piece Cushion grip Magnetic Screwdrivers Set $8.46",
-    "price": "$8.46",
-    "source_url": "https://www.amazon.com/gp/product/B0CQHCSVM4/ref=ox_sc_act_image_1?smid=A3NOU99KVDLPAQ&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/264345.1789071061.fit_lim.size_125x125.jpg",
-    "id": "c00d6c8c790a23ca4ef69e09fb77eef3",
-    "amazon_url": "https://www.amazon.com/dp/B0CQHCSVM4?tag=dealsinusa0ab-20",
-    "asin": "B0CQHCSVM4",
-    "store": "Amazon",
-    "posted_at": "2026-09-10T17:04:36.993840"
-  },
-  {
-    "title": "Supvan E11 Keyboard & Bluetooth Rechargeable Label Maker Machine with 4 Tapes $17.99",
-    "price": "$17.99",
-    "source_url": "https://www.amazon.com/gp/product/B0DKS89T75/ref=ox_sc_act_title_1?smid=AOH5QY008QRJG&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/270555.1789071011.fit_lim.size_125x125.jpg",
-    "id": "66af8d29c0e12bf9b2903b300418aee1",
-    "amazon_url": "https://www.amazon.com/dp/B0DKS89T75?tag=dealsinusa0ab-20",
-    "asin": "B0DKS89T75",
-    "store": "Amazon",
-    "posted_at": "2026-09-10T17:04:37.993969"
   },
   {
     "title": "Samsung\u2019s new Freestyle+ portable AI-powered smart projector gets first discount to $948 ($252 off)",
