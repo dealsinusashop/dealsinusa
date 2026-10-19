@@ -1,5 +1,77 @@
 [
   {
+    "title": "Kirby Air Riders (Switch 2) $49 + Free S&H",
+    "price": "$49",
+    "source_url": "https://slickdeals.net/f/20175588-48-99-kirby-air-riders-switch-2-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22009248.thumb",
+    "id": "4f474ffb3d26f2d8e92d93b33872f227",
+    "amazon_url": "https://www.amazon.com/dp/B0FN7R5XNL?tag=dealsinusa0ab-20",
+    "asin": "B0FN7R5XNL",
+    "store": "Amazon",
+    "posted_at": "2026-10-19T04:36:28.279806"
+  },
+  {
+    "title": "Autoday 52\" 6-speed 4500-CFM 5-Blades Reversible Ceiling Fans w/ Dimmable Lights & Remote $43.50",
+    "price": "$43.50",
+    "source_url": "https://www.amazon.com/gp/product/B0D2W5SPVD/ref=ox_sc_act_title_1?smid=A3HMT9W8DJPCL1&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/272822.1792397847.fit_lim.size_125x125.jpg",
+    "id": "8bc5d4ddedefc23f3105501b4f64b907",
+    "amazon_url": "https://www.amazon.com/dp/B0D2W5SPVD?tag=dealsinusa0ab-20",
+    "asin": "B0D2W5SPVD",
+    "store": "Amazon",
+    "posted_at": "2026-10-19T04:36:35.011494"
+  },
+  {
+    "title": "Zity Mens Fleece Joggers Winter Warm Workout Sweatpants with Zipper Pockets $9.99",
+    "price": "$9.99",
+    "source_url": "https://www.amazon.com/gp/product/B0FMRLQMX1/ref=ox_sc_act_title_1?smid=A26KN7P3I0WWYV&th=1&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/272821.1792396673.fit_lim.size_125x125.jpg",
+    "id": "a34e1f445a41dfff387613456f737002",
+    "amazon_url": "https://www.amazon.com/dp/B0FMRLQMX1?tag=dealsinusa0ab-20",
+    "asin": "B0FMRLQMX1",
+    "store": "Amazon",
+    "posted_at": "2026-10-19T04:36:36.011637"
+  },
+  {
+    "title": "Aveeno 8oz Sensitive Skin Healthy Start Nourishing Moisture Newborn Wash $3.85",
+    "price": "$3.85",
+    "source_url": "https://www.amazon.com/gp/product/B0CZY44GD2/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/17780.1792395948.fit_lim.size_125x125.jpg",
+    "id": "9183a373c7bbad76b8c8a6bea80a01fd",
+    "amazon_url": "https://www.amazon.com/dp/B0CZY44GD2?tag=dealsinusa0ab-20",
+    "asin": "B0CZY44GD2",
+    "store": "Amazon",
+    "posted_at": "2026-10-19T04:36:37.011807"
+  },
+  {
+    "title": "Cleer Dual-Microphone Adaptive Noise Cancelling ANC Wireless Bluetooth Headphones $99.99",
+    "price": "$99.99",
+    "source_url": "https://www.amazon.com/gp/product/B0C25TPK2K/ref=ox_sc_act_title_1?smid=A330UPMCFITDOZ&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/272820.1792395167.fit_lim.size_125x125.jpg",
+    "id": "83bab4cc965396501fb8f20ab7875005",
+    "amazon_url": "https://www.amazon.com/dp/B0C25TPK2K?tag=dealsinusa0ab-20",
+    "asin": "B0C25TPK2K",
+    "store": "Amazon",
+    "posted_at": "2026-10-19T04:36:38.011957"
+  },
+  {
+    "title": "Apple 2026 Mac Studio M5 Max 18-Core CPU / 32-Core GPU Desktop w/ 36GB RAM, 512GB SSD $2299",
+    "price": "$2299",
+    "source_url": "https://www.amazon.com/gp/product/B0HGKSQMX6/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/220797.1792396233.fit_lim.size_125x125.jpg",
+    "id": "1cbdbdbb069fb641574711c7228a4f0a",
+    "amazon_url": "https://www.amazon.com/dp/B0HGKSQMX6?tag=dealsinusa0ab-20",
+    "asin": "B0HGKSQMX6",
+    "store": "Amazon",
+    "posted_at": "2026-10-19T04:36:39.012145"
+  },
+  {
     "title": "48 Hrs / Another 48 Hrs 2-Movie Collection (4K UHD Blu-ray) $13",
     "price": "$13",
     "source_url": "https://slickdeals.net/f/20175459-12-99-48-hrs-another-48-hrs-uhd-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -94,18 +166,6 @@
     "asin": "1426222335",
     "store": "Amazon",
     "posted_at": "2026-10-19T02:35:20.758332"
-  },
-  {
-    "title": "Dongerdi Compatible ASUS ROG Zephyrus / Strix / TUF Up to 180W Laptop Charger $15.49",
-    "price": "$15.49",
-    "source_url": "https://www.amazon.com/gp/product/B09VFPXHJZ/ref=ox_sc_act_title_1?smid=A1L0QWSZH63O59&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/15919.1792391097.fit_lim.size_125x125.jpg",
-    "id": "78d3a8134bb757f8d38200d8bc437a91",
-    "amazon_url": "https://www.amazon.com/dp/B09VFPXHJZ?tag=dealsinusa0ab-20",
-    "asin": "B09VFPXHJZ",
-    "store": "Amazon",
-    "posted_at": "2026-10-19T02:35:27.574146"
   },
   {
     "title": "Final Fantasy VII Remake Intergrade (PS5) $20",
@@ -730,18 +790,6 @@
     "asin": "B0HMX69N2K",
     "store": "Amazon",
     "posted_at": "2026-10-18T16:27:41.620138"
-  },
-  {
-    "title": "Pre-order Apple TV 4th Generation Siri Remote (Precision Finding, Touch Enabled Clickpad) $59",
-    "price": "$59",
-    "source_url": "https://www.amazon.com/gp/product/B0HMX7SYSN/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/272741.1792331844.fit_lim.size_125x125.jpg",
-    "id": "b8699072fa08d91502f283348c8244ee",
-    "amazon_url": "https://www.amazon.com/dp/B0HMX7SYSN?tag=dealsinusa0ab-20",
-    "asin": "B0HMX7SYSN",
-    "store": "Amazon",
-    "posted_at": "2026-10-18T16:27:42.620303"
   },
   {
     "title": "Official Apple iPhone 18 Pro/Max cases up to 32% off at Amazon, deals from $33",
