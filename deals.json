@@ -1,5 +1,233 @@
 [
   {
+    "title": "32-Oz Hills Bros. Whole Bean Dark Roast Coffee (Dark Satin) $10.90 w/ S&S",
+    "price": "$10.90",
+    "source_url": "https://slickdeals.net/f/20196684-sns-10-91-32-oz-hills-bros-whole-bean-dark-roast-coffee-dark-satin-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22062678.thumb",
+    "id": "595c00ead0c558a04227af6640d55627",
+    "amazon_url": "https://www.amazon.com/dp/B007DK90B0?tag=dealsinusa0ab-20",
+    "asin": "B007DK90B0",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:05:56.462085"
+  },
+  {
+    "title": "Leulix 4K 16X Zoom Autofocus Point Dual-Screen Digital Camera with 32GB Card & 2x Batteries $25",
+    "price": "$25",
+    "source_url": "https://www.amazon.com/gp/product/B0HG9VVVSW/ref=ox_sc_act_title_1?smid=AOGKKDK8SLHNK&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273113.1792778488.fit_lim.size_125x125.png",
+    "id": "b9928037a71de04144e96e98fc583188",
+    "amazon_url": "https://www.amazon.com/dp/B0HG9VVVSW?tag=dealsinusa0ab-20",
+    "asin": "B0HG9VVVSW",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:18.096772"
+  },
+  {
+    "title": "Nikon Nikkor Z 14-24mm f/2.8 S Aperture Wide-Angle Zoom Lens $1896.95",
+    "price": "$1896.95",
+    "source_url": "https://www.amazon.com/gp/product/B08J7FHHWX/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273112.1792777774.fit_lim.size_125x125.jpg",
+    "id": "edd6828e644c26c26ee0c39a34c402a7",
+    "amazon_url": "https://www.amazon.com/dp/B08J7FHHWX?tag=dealsinusa0ab-20",
+    "asin": "B08J7FHHWX",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:19.096947"
+  },
+  {
+    "title": "Costway 12000BTU 4-Way Swing Mini Split Air Conditioner & Heater (Covers 750sq ft) $485.99",
+    "price": "$485.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GQ3Y3C45/ref=ox_sc_act_title_1?smid=A383G1P012K88F&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/271515.1792777835.fit_lim.size_125x125.png",
+    "id": "a7d509ee2606d274d43ad97ad2929351",
+    "amazon_url": "https://www.amazon.com/dp/B0GQ3Y3C45?tag=dealsinusa0ab-20",
+    "asin": "B0GQ3Y3C45",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:20.097095"
+  },
+  {
+    "title": "Ancober 20W Waterproof LED Lights Bluetooth Wireless Speaker $19.40",
+    "price": "$19.40",
+    "source_url": "https://www.amazon.com/gp/product/B0HM66YP9M/ref=ox_sc_act_title_1?smid=A3RPGB5H7SSV83&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/261042.1792776780.fit_lim.size_125x125.jpg",
+    "id": "84ec382a7a838f8e9ef05dd137c51870",
+    "amazon_url": "https://www.amazon.com/dp/B0HM66YP9M?tag=dealsinusa0ab-20",
+    "asin": "B0HM66YP9M",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:21.097250"
+  },
+  {
+    "title": "Fit King 3-Modes Leg Compression Massager with Heat for Circulation & Pain Relief $69.99",
+    "price": "$69.99",
+    "source_url": "https://www.amazon.com/gp/product/B09PRJP43V/ref=ox_sc_act_title_1?smid=AIPAGW5BQIR21&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/229729.1792776799.fit_lim.size_125x125.png",
+    "id": "c223d96ca393c1ffbc34024f8938de8b",
+    "amazon_url": "https://www.amazon.com/dp/B09PRJP43V?tag=dealsinusa0ab-20",
+    "asin": "B09PRJP43V",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:22.097408"
+  },
+  {
+    "title": "Charmin Essentials 2-Ply Soft Toilet Paper (6 Mega Rolls) $5.22",
+    "price": "$5.22",
+    "source_url": "https://www.amazon.com/gp/product/B0BDSMK682/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/204713.1792777218.fit_lim.size_125x125.png",
+    "id": "c3235a1b52f741e347ac73526066fcf5",
+    "amazon_url": "https://www.amazon.com/dp/B0BDSMK682?tag=dealsinusa0ab-20",
+    "asin": "B0BDSMK682",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:23.097568"
+  },
+  {
+    "title": "DEWALT 20V Handheld Cordless Vacuum with HEPA Filter $99.00",
+    "price": "$99.00",
+    "source_url": "https://www.amazon.com/gp/product/B09YXZ4L8T/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273111.1792776168.fit_lim.size_125x125.jpg",
+    "id": "1b8068416b55a9ff6baa5dfc337bbd54",
+    "amazon_url": "https://www.amazon.com/dp/B09YXZ4L8T?tag=dealsinusa0ab-20",
+    "asin": "B09YXZ4L8T",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:24.097735"
+  },
+  {
+    "title": "Lofov 5G WiFi APP Control 360-Degree 4 Channel Dash Cam with 64GB TF Card $49.99",
+    "price": "$49.99",
+    "source_url": "https://www.amazon.com/gp/product/B0FXFVP1SG/ref=ox_sc_act_title_1?smid=A1411XISV8HF0T&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/269438.1792776028.fit_lim.size_125x125.jpg",
+    "id": "b9120b6bcc0fbfd28841623c747401f7",
+    "amazon_url": "https://www.amazon.com/dp/B0FXFVP1SG?tag=dealsinusa0ab-20",
+    "asin": "B0FXFVP1SG",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:25.097896"
+  },
+  {
+    "title": "JBL 5\" Hi-Fi Audio 2-Way Powered Speaker for Near-Field Music Production $99.00",
+    "price": "$99.00",
+    "source_url": "https://www.amazon.com/gp/product/B077N2GQXC/ref=ox_sc_act_title_1?smid=A2OH8CUXAUQ6XZ&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273110.1792775877.fit_lim.size_125x125.jpg",
+    "id": "31fe75c64597fe0d13eae4964181f752",
+    "amazon_url": "https://www.amazon.com/dp/B077N2GQXC?tag=dealsinusa0ab-20",
+    "asin": "B077N2GQXC",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:26.098054"
+  },
+  {
+    "title": "Drazivon Casual Relaxed Corduroy Long Sleeve Cotton Flannel Shirt $12.99",
+    "price": "$12.99",
+    "source_url": "https://www.amazon.com/gp/product/B0H6SL5PDD/ref=ox_sc_act_title_1?smid=A4L2P98ONP3GB&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/271668.1792775714.fit_lim.size_125x125.jpg",
+    "id": "014dcfd448a1976b41de377ea78265e9",
+    "amazon_url": "https://www.amazon.com/dp/B0H6SL5PDD?tag=dealsinusa0ab-20",
+    "asin": "B0H6SL5PDD",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:27.098211"
+  },
+  {
+    "title": "Gatorade 12oz Lemonade Lower-Sugar Electrolyte Sports Drink (12-Pack) $4.52",
+    "price": "$4.52",
+    "source_url": "https://www.amazon.com/gp/product/B0GJFPKW8R/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270416.1792775534.fit_lim.size_125x125.jpg",
+    "id": "27e036e49795766533c59159a902bc93",
+    "amazon_url": "https://www.amazon.com/dp/B0GJFPKW8R?tag=dealsinusa0ab-20",
+    "asin": "B0GJFPKW8R",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:28.098370"
+  },
+  {
+    "title": "Astercook (3-Pack) Kitchen Scissors w/ Stainless-Steel Blades & Cover $9.99",
+    "price": "$9.99",
+    "source_url": "https://www.amazon.com/gp/product/B0HFC2SC84/ref=ox_sc_act_title_1?smid=A2YBZCCPM9R4ML&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273109.1792774933.fit_lim.size_125x125.jpg",
+    "id": "266ad3f0b6c258eeedcc1b56527e605e",
+    "amazon_url": "https://www.amazon.com/dp/B0HFC2SC84?tag=dealsinusa0ab-20",
+    "asin": "B0HFC2SC84",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:29.098529"
+  },
+  {
+    "title": "Torqelin 25 125V Waterproof Outdoor Power Stake with 6 Outlets $29.99",
+    "price": "$29.99",
+    "source_url": "https://www.amazon.com/gp/product/B0H3TRTYLG/ref=ox_sc_act_title_1?smid=A13I3JPRABEV3J&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270439.1792774648.fit_lim.size_125x125.jpg",
+    "id": "f6028358c52d3f6d51c245c628e22211",
+    "amazon_url": "https://www.amazon.com/dp/B0H3TRTYLG?tag=dealsinusa0ab-20",
+    "asin": "B0H3TRTYLG",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:30.098691"
+  },
+  {
+    "title": "Charmin Ultra Strong Toilet Paper (12x Family Mega Rolls) $15.99",
+    "price": "$15.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GLHRK4LS/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/203287.1792776941.fit_lim.size_125x125.png",
+    "id": "ecd61788449a26b2e3da3944adde6f81",
+    "amazon_url": "https://www.amazon.com/dp/B0GLHRK4LS?tag=dealsinusa0ab-20",
+    "asin": "B0GLHRK4LS",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:31.098852"
+  },
+  {
+    "title": "Rare deal has LEGO\u2019s Peugeot 9X8 24H Le Mans Hybrid Hypercar down at $172",
+    "price": "$172",
+    "source_url": "https://9to5toys.com/2026/10/23/lego-technic-peugeot-9x8-24h-le-mans-hybrid-hypercar/",
+    "source": "9to5Toys",
+    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/LEGO-Technic-Peugeot-9X8-Le-Mans-Hybrid-Hypercar-set.jpg",
+    "id": "17f6d3721a2728f1460322d8c9fba78d",
+    "amazon_url": "https://www.amazon.com/dp/B0BNW95ZT1?tag=dealsinusa0ab-20",
+    "asin": "B0BNW95ZT1",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:41.458637"
+  },
+  {
+    "title": "Cast Iron Dutch Oven Only $28 Shipped for Amazon Prime Members",
+    "price": "$28",
+    "source_url": "https://hip2save.com/deals/cast-iron-dutch-oven/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FS73WX4Y.01.LZZZZZZZ.jpg",
+    "id": "c5b5e88983240dcead31bf03c395fd65",
+    "amazon_url": "https://www.amazon.com/dp/B0FS73WX4Y?tag=dealsinusa0ab-20",
+    "asin": "B0FS73WX4Y",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:44.340619"
+  },
+  {
+    "title": "6 Pack Heavy Duty Moving Bags \u2013 Just $21.99!",
+    "price": "$21.99",
+    "source_url": "https://freebies2deals.com/2026/10/6-pack-heavy-duty-moving-bags-just-21-99-2.html",
+    "source": "Freebies2Deals",
+    "image": "https://freebies2deals.com/wp-content/uploads/2026/06/ambagsmov.png",
+    "id": "e95f158073b30d513457d04b39ae961a",
+    "amazon_url": "https://www.amazon.com/dp/B0BM84G5NJ?tag=dealsinusa0ab-20",
+    "asin": "B0BM84G5NJ",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:48.786357"
+  },
+  {
+    "title": "Time to Refill the Gift Closet? Take up to 70% off toys at Amazon! Hot Toy Deals!",
+    "price": "$35",
+    "source_url": "https://freebies2deals.com/2026/10/time-to-refill-the-gift-closet-take-up-to-70-off-toys-at-amazon-hot-toy-deals-154.html",
+    "source": "Freebies2Deals",
+    "image": "https://freebies2deals.com/wp-content/uploads/2025/05/amtoyclear.png",
+    "id": "da03fa85b33f1ec763f2211f7c467dc6",
+    "amazon_url": "https://www.amazon.com/dp/B00DBYBNEE?tag=dealsinusa0ab-20",
+    "asin": "B00DBYBNEE",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T14:06:50.096651"
+  },
+  {
     "title": "The Fellowship of the Ring: Collector's Edition Book (Hardcover) $12.95",
     "price": "$12.95",
     "source_url": "https://slickdeals.net/f/20186352-12-95-the-fellowship-of-the-ring-collector-s-edition-hardcover-book-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -276,18 +504,6 @@
     "posted_at": "2026-10-23T13:05:39.798750"
   },
   {
-    "title": "Timber Ridge Double Camping Chair $50 + Free S&H",
-    "price": "$50",
-    "source_url": "https://slickdeals.net/f/20192301-49-99-timber-ridge-double-camping-chair-heavy-duty-outdoor-folding-camp-couch-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22051278.thumb",
-    "id": "c383f51dd4093feee3713189ae96be96",
-    "amazon_url": "https://www.amazon.com/dp/B0DP422YWW?tag=dealsinusa0ab-20",
-    "asin": "B0DP422YWW",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T12:03:28.355686"
-  },
-  {
     "title": "Slivamo S10 40kPa Cordless 8-in-1 Stick Vacuum Kit $59.35",
     "price": "$59.35",
     "source_url": "https://www.amazon.com/gp/product/B0GQLWT74D/ref=ox_sc_act_title_1?smid=A308UCB1IUHTNT&psc=1",
@@ -504,54 +720,6 @@
     "posted_at": "2026-10-23T12:03:52.777468"
   },
   {
-    "title": "Apple AirPods Pro 3 Active Noise Cancellation Wireless Earbuds $199",
-    "price": "$199",
-    "source_url": "https://www.amazon.com/gp/product/B0FQFB8FMG/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/259556.1792764478.fit_lim.size_125x125.jpg",
-    "id": "4a1685302205c80054278aea485951a5",
-    "amazon_url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=dealsinusa0ab-20",
-    "asin": "B0FQFB8FMG",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T12:03:53.777634"
-  },
-  {
-    "title": "Helthrelife 3D Shoulder Ice Pack Wrap $19.69",
-    "price": "$19.69",
-    "source_url": "https://www.amazon.com/gp/product/B0HG1B9WVL/ref=ox_sc_act_title_1?smid=A7NU9QZEJLL4C&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/273089.1792767891.fit_lim.size_125x125.jpg",
-    "id": "2782383a9d429162597ee004a23cc5d2",
-    "amazon_url": "https://www.amazon.com/dp/B0HG1B9WVL?tag=dealsinusa0ab-20",
-    "asin": "B0HG1B9WVL",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T12:03:54.777804"
-  },
-  {
-    "title": "Fanttik Y10 Pro Cordless Electric Pruning Shears with Brushless Motor $69.99",
-    "price": "$69.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GD51MWK2/ref=ox_sc_act_title_1?smid=A30MIYRTO6RN4I&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266565.1792762597.fit_lim.size_125x125.jpg",
-    "id": "f32a3204daadfde0ebe271174f4237d2",
-    "amazon_url": "https://www.amazon.com/dp/B0GD51MWK2?tag=dealsinusa0ab-20",
-    "asin": "B0GD51MWK2",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T12:03:55.777972"
-  },
-  {
-    "title": "Bosgame P6 AMD Ryzen 7 6800H Mini Desktop w/ 24GB RAM, 1TB PCIe 4.0 SSD $482.99",
-    "price": "$482.99",
-    "source_url": "https://www.amazon.com/gp/product/B0F437BB9P/ref=ox_sc_act_title_1?smid=A2L7T2CMWFSF25&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/263276.1792767682.fit_lim.size_125x125.png",
-    "id": "e62edff1ff9429fcc765f7c2d72d123c",
-    "amazon_url": "https://www.amazon.com/dp/B0F437BB9P?tag=dealsinusa0ab-20",
-    "asin": "B0F437BB9P",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T12:03:56.778138"
-  },
-  {
     "title": "Active Mold Stain Remover Only $9.98 Shipped on Amazon (Reg. $22)",
     "price": "$9.98",
     "source_url": "https://hip2save.com/deals/active-mold-stain-remover/",
@@ -598,66 +766,6 @@
     "asin": "B0FHHBC9RW",
     "store": "Amazon",
     "posted_at": "2026-10-23T12:04:17.194824"
-  },
-  {
-    "title": "Sealegend Dryer Vent Cleaner Kit & Flexible Dryer Lint Brush $7.59",
-    "price": "$7.59",
-    "source_url": "https://www.amazon.com/gp/product/B0B7KTPSJQ/ref=ox_sc_act_title_1?smid=AOOV2R3RD55Z7&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/256217.1792767475.fit_lim.size_125x125.jpg",
-    "id": "fc9828d99628930b18156447be5cde65",
-    "amazon_url": "https://www.amazon.com/dp/B0B7KTPSJQ?tag=dealsinusa0ab-20",
-    "asin": "B0B7KTPSJQ",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T11:02:20.475502"
-  },
-  {
-    "title": "Getpals 3-in-1 15W Foldable Wireless Charging Station $8.40",
-    "price": "$8.40",
-    "source_url": "https://www.amazon.com/gp/product/B0C2BMNHW2/ref=ox_sc_act_title_1?smid=AYSKUOF5ELPW0&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/259863.1792766829.fit_lim.size_125x125.jpg",
-    "id": "86d2a6b1536f640ba94049dc7614d036",
-    "amazon_url": "https://www.amazon.com/dp/B0C2BMNHW2?tag=dealsinusa0ab-20",
-    "asin": "B0C2BMNHW2",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T11:02:21.475673"
-  },
-  {
-    "title": "Apple AirPods Max 2 Active Noise Cancelling Wireless Headphones $449.99",
-    "price": "$449.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GSS72GZJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/266133.1792764464.fit_lim.size_125x125.jpg",
-    "id": "bb5d3cbcdc0efd55595ddebf40fd3b40",
-    "amazon_url": "https://www.amazon.com/dp/B0GSS72GZJ?tag=dealsinusa0ab-20",
-    "asin": "B0GSS72GZJ",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T11:02:22.475855"
-  },
-  {
-    "title": "Fincmy 50W GU10 Halogen Bulb Candle Warmer Lamp (Linen) with Timer $17.59",
-    "price": "$17.59",
-    "source_url": "https://www.amazon.com/gp/product/B0DPXJVQ6H/ref=ox_sc_act_title_1?smid=A3O4JZD62ULWR6&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/273088.1792767032.fit_lim.size_125x125.png",
-    "id": "acb13cb7693081864d3231318dd7ca8d",
-    "amazon_url": "https://www.amazon.com/dp/B0DPXJVQ6H?tag=dealsinusa0ab-20",
-    "asin": "B0DPXJVQ6H",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T11:02:23.476045"
-  },
-  {
-    "title": "Sennheiser 470ohm ANC Momentum-4 Wireless Headphones w/ 60hr Battery $202.56",
-    "price": "$202.56",
-    "source_url": "https://www.amazon.com/gp/product/B0B6G9TPNQ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/238864.1792766647.fit_lim.size_125x125.jpg",
-    "id": "5ebb17c4d07e0527cc294dc3610d9100",
-    "amazon_url": "https://www.amazon.com/dp/B0B6G9TPNQ?tag=dealsinusa0ab-20",
-    "asin": "B0B6G9TPNQ",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T11:02:24.476215"
   },
   {
     "title": "Anker\u2019s SOLIX Halloween deals include 4,096Wh expanded C2000 Gen 2 power station down at exclusive $1,519, more",
@@ -816,18 +924,6 @@
     "posted_at": "2026-10-23T09:00:39.166549"
   },
   {
-    "title": "Book Lovers Will LOVE This Unique Lamp for Just $11.69 on Amazon (Reg. $26)",
-    "price": "$11.69",
-    "source_url": "https://hip2save.com/deals/amazon-book-lamp/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0F998THHW.01.LZZZZZZZ.jpg",
-    "id": "80f426ed70b22c376056587f9f172f83",
-    "amazon_url": "https://www.amazon.com/dp/B0F998THHW?tag=dealsinusa0ab-20",
-    "asin": "B0F998THHW",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T09:00:40.551730"
-  },
-  {
     "title": "Snowflake 18-in-1 Multitool 2-Pack Just $5.57 on Amazon (Practical Stocking Stuffer)",
     "price": "$5.57",
     "source_url": "https://hip2save.com/deals/snowflake-multitool/",
@@ -864,54 +960,6 @@
     "posted_at": "2026-10-23T06:58:17.919352"
   },
   {
-    "title": "Book Lovers Will LOVE This Unique Lamp for Just $11.49 on Amazon (Reg. $26)",
-    "price": "$11.49",
-    "source_url": "https://hip2save.com/deals/amazon-book-lamp/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0F998THHW.01.LZZZZZZZ.jpg",
-    "id": "5568fa4caecd36c7574ee4c7b5813fab",
-    "amazon_url": "https://www.amazon.com/dp/B0F998THHW?tag=dealsinusa0ab-20",
-    "asin": "B0F998THHW",
-    "store": "Amazon",
-    "posted_at": "2026-10-22T23:53:44.361272"
-  },
-  {
-    "title": "Leg Massager Only $39 Shipped on Amazon (Reg. $100)",
-    "price": "$39",
-    "source_url": "https://hip2save.com/deals/leg-massager/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FQP2DPQY.01.LZZZZZZZ.jpg",
-    "id": "2ebe7fa0fe703f89f9a0b91188ab2cc5",
-    "amazon_url": "https://www.amazon.com/dp/B0FQP2DPQY?tag=dealsinusa0ab-20",
-    "asin": "B0FQP2DPQY",
-    "store": "Amazon",
-    "posted_at": "2026-10-22T23:53:47.194975"
-  },
-  {
-    "title": "Rechargeable Book Light Only $5.99 on Amazon (Great Stocking Stuffer!)",
-    "price": "$5.99",
-    "source_url": "https://hip2save.com/deals/amazon-glocusent-book-light/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0GRVFV1ZH.01.LZZZZZZZ.jpg",
-    "id": "47cdaa04818cec27928ee723f5997b38",
-    "amazon_url": "https://www.amazon.com/dp/B0GRVFV1ZH?tag=dealsinusa0ab-20",
-    "asin": "B0GRVFV1ZH",
-    "store": "Amazon",
-    "posted_at": "2026-10-22T23:53:48.572323"
-  },
-  {
-    "title": "LesserEvil Popcorn 24-Pack Only $8.38 on Amazon (35\u00a2 per Bag!)",
-    "price": "$8.38",
-    "source_url": "https://hip2save.com/deals/lesserevil-popcorn/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0918W1TVB.01.LZZZZZZZ.jpg",
-    "id": "db87724a758aa11d83a5e134f09b16a5",
-    "amazon_url": "https://www.amazon.com/dp/B0918W1TVB?tag=dealsinusa0ab-20",
-    "asin": "B0918W1TVB",
-    "store": "Amazon",
-    "posted_at": "2026-10-22T22:52:52.768122"
-  },
-  {
     "title": "Snowflake 18-in-1 Multitool 2-Pack Just $10 on Amazon (Practical Stocking Stuffer)",
     "price": "$10",
     "source_url": "https://hip2save.com/deals/snowflake-multitool/",
@@ -934,18 +982,6 @@
     "asin": "B0FR55P3DC",
     "store": "Amazon",
     "posted_at": "2026-10-22T18:50:22.421458"
-  },
-  {
-    "title": "Here are 40+ new iPhone Duo cases on sale at Amazon starting down at $14",
-    "price": "$14",
-    "source_url": "https://9to5toys.com/2026/10/22/iphone-duo-magnetic-cases/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/iPhone-Duo-Protective-Essentials-Roundup-October-22-2026-9762e6.png",
-    "id": "ecceccf226a20c4b8cbbaa565595e124",
-    "amazon_url": "https://www.amazon.com/dp/B0FYQ4Y2ZZ?tag=dealsinusa0ab-20",
-    "asin": "B0FYQ4Y2ZZ",
-    "store": "Amazon",
-    "posted_at": "2026-10-22T14:46:26.046433"
   },
   {
     "title": "Insulated Double Deck Lunch Bag \u2013 Just $7.49!",
@@ -1366,29 +1402,5 @@
     "asin": "B0DJFZY6JZ",
     "store": "Amazon",
     "posted_at": "2026-10-18T16:28:53.240395"
-  },
-  {
-    "title": "Cheetos Puffs Cheese Flavored Snacks, 0.875 Ounce, Pack of 40 \u2013 Just $11.73!",
-    "price": "$11.73",
-    "source_url": "https://freebies2deals.com/2026/10/cheetos-puffs-cheese-flavored-snacks-0-875-ounce-pack-of-40-just-11-73.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2021/10/ampuffs.png",
-    "id": "5b2d13a8724c2329ec4eebcceb60cbc2",
-    "amazon_url": "https://www.amazon.com/dp/B0792T5NZX?tag=dealsinusa0ab-20",
-    "asin": "B0792T5NZX",
-    "store": "Amazon",
-    "posted_at": "2026-10-18T16:28:55.170155"
-  },
-  {
-    "title": "Hot Toy Deals! Take up to 70% off toys at Amazon! Time to Refill the Gift Closet?",
-    "price": "$35",
-    "source_url": "https://freebies2deals.com/2026/10/hot-toy-deals-take-up-to-70-off-toys-at-amazon-time-to-refill-the-gift-closet-49.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2025/05/amtoyclear.png",
-    "id": "c907ee6909db96d218787ac3b2f1808a",
-    "amazon_url": "https://www.amazon.com/dp/B00DBYBNEE?tag=dealsinusa0ab-20",
-    "asin": "B00DBYBNEE",
-    "store": "Amazon",
-    "posted_at": "2026-10-18T16:28:57.280125"
   }
 ]
