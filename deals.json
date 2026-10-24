@@ -1,5 +1,53 @@
 [
   {
+    "title": "adidas Excelerator Lunch Bag (Gradient Flash Aqua/White) $10.65",
+    "price": "$10.65",
+    "source_url": "https://slickdeals.net/f/20195847-adidas-excelerator-insulated-lunch-bag-10-58-fs-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/2/6/3/4/4/5/8/9/300x300/22060923.thumb",
+    "id": "0bc2fc402bdcd3eb989a23b29b730568",
+    "amazon_url": "https://www.amazon.com/dp/B0DGZLGMX1?tag=dealsinusa0ab-20",
+    "asin": "B0DGZLGMX1",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T21:13:11.212723"
+  },
+  {
+    "title": "13.6\" Apple MacBook Air (2026): M5 Chip, 16GB RAM, 1TB SSD $1399 + Free S&H",
+    "price": "$1399",
+    "source_url": "https://slickdeals.net/f/20198316-1399-13-inch-apple-macbook-air-laptop-with-m5-chip-16gb-ram-1tb-ssd-starlight-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22067697.thumb",
+    "id": "59d3713976e4dacf2b4e282a0d62d085",
+    "amazon_url": "https://www.amazon.com/dp/B0GR16Y1WM?tag=dealsinusa0ab-20",
+    "asin": "B0GR16Y1WM",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T21:13:13.351948"
+  },
+  {
+    "title": "Active Mold Stain Remover Only $9.98 Shipped on Amazon (Reg. $22)",
+    "price": "$9.98",
+    "source_url": "https://hip2save.com/deals/active-mold-stain-remover/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0CTS8VQ85.01.LZZZZZZZ.jpg",
+    "id": "128a84a966387c6c0da3c1a7581b5f58",
+    "amazon_url": "https://www.amazon.com/dp/B0CTS8VQ85?tag=dealsinusa0ab-20",
+    "asin": "B0CTS8VQ85",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T21:13:30.609564"
+  },
+  {
+    "title": "Owala Water Bottles from $19.97 on Amazon (Easy Gift Idea!)",
+    "price": "$19.97",
+    "source_url": "https://hip2save.com/deals/owala-water-bottle/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FK1KF657.01.LZZZZZZZ.jpg",
+    "id": "6d64b7c730889a28c3a3fcb00f0b03c0",
+    "amazon_url": "https://www.amazon.com/dp/B0FK1KF657?tag=dealsinusa0ab-20",
+    "asin": "B0FK1KF657",
+    "store": "Amazon",
+    "posted_at": "2026-10-23T21:13:32.820506"
+  },
+  {
     "title": "1KG Polymaker Panchroma Silk PLA 1.75mm 3D Printer Filament (2 Colors) $15.20 or less w/ S&S",
     "price": "$15.20",
     "source_url": "https://slickdeals.net/f/20196486-polymaker-panchroma-silk-pla-filament-1-75mm-1kg-as-low-as-13-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -84,30 +132,6 @@
     "posted_at": "2026-10-23T19:11:41.047359"
   },
   {
-    "title": "Beautyrest Cool Touch Heated Mattress Pad: Cal King $21.60, Twin XL $14.40 + Free S&H on $50+",
-    "price": "$21.60",
-    "source_url": "https://slickdeals.net/f/20198121-beautyrest-cool-touch-heated-mattress-pad-cal-king-21-60-twin-xl-14-40-free-s-h-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22067214.thumb",
-    "id": "33ea896418a142371f9da72c29b234b9",
-    "amazon_url": "https://www.amazon.com/dp/B0CP3N6RDQ?tag=dealsinusa0ab-20",
-    "asin": "B0CP3N6RDQ",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T19:11:48.343746"
-  },
-  {
-    "title": "10,000mAh LISEN 2-Port up to 45W Compact Power Bank $23",
-    "price": "$23",
-    "source_url": "https://slickdeals.net/f/20143530-10-000mah-lisen-2-port-up-to-45w-compact-power-bank-23?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/3/6/9/5/2/8/300x300/22069527.thumb",
-    "id": "ed6f2066441d112eb5b7dddc85394700",
-    "amazon_url": "https://www.amazon.com/dp/B0H6M5YQFZ?tag=dealsinusa0ab-20",
-    "asin": "B0H6M5YQFZ",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T19:11:57.515628"
-  },
-  {
     "title": "Jet-Puffed Mini Marshmallows Only 85\u00a2 Shipped on Amazon",
     "price": "$1",
     "source_url": "https://hip2save.com/deals/jet-puffed-marshmallows/",
@@ -118,30 +142,6 @@
     "asin": "B000VDWXT2",
     "store": "Amazon",
     "posted_at": "2026-10-23T19:12:11.781874"
-  },
-  {
-    "title": "Craftsman Versastack Rolling Tool Box Tower (17\" x 31\" x 20\") $99 + Free S&H",
-    "price": "$99",
-    "source_url": "https://slickdeals.net/f/20198139-new-99-craftsman-versastack-17-126-in-metal-wheels-lockable-tool-box-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22067277.thumb",
-    "id": "2a4f597653ad048b65fbe8e2f1d6a561",
-    "amazon_url": "https://www.amazon.com/dp/B0914JX266?tag=dealsinusa0ab-20",
-    "asin": "B0914JX266",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T18:10:43.465505"
-  },
-  {
-    "title": "37.7mm Casio Vintage Stainless Steel Watch w/ LED Illumination & Stopwatch $24.80",
-    "price": "$24.80",
-    "source_url": "https://slickdeals.net/f/20198706-ac-24-81-casio-vintage-39mm-stainless-steel-watch-w-led-illumination-stopwatch-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/4/8/2/3/7/7/300x300/22069917.thumb",
-    "id": "82efd6b5a242a76b27a6e2c9a9f701a7",
-    "amazon_url": "https://www.amazon.com/dp/B096D9N9DK?tag=dealsinusa0ab-20",
-    "asin": "B096D9N9DK",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T18:10:46.965063"
   },
   {
     "title": "This stylish Smart Electric Gooseneck Kettle is a smarter way to handle hot beverages and it\u2019s down at $65",
