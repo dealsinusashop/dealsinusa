@@ -1,5 +1,161 @@
 [
   {
+    "title": "Final Fantasy VII: Rebirth (Nintendo Switch 2, Game-Key Card) $35",
+    "price": "$35",
+    "source_url": "https://slickdeals.net/f/20206506-34-99-final-fantasy-vii-rebirth-nintendo-switch-2-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22084320.thumb",
+    "id": "3f852f251aed0decdb618363ebed633e",
+    "amazon_url": "https://www.amazon.com/dp/B0GQ6K2Z48?tag=dealsinusa0ab-20",
+    "asin": "B0GQ6K2Z48",
+    "store": "Amazon",
+    "posted_at": "2026-10-26T11:59:52.339722"
+  },
+  {
+    "title": "Select Accts: 20-oz Traditional Chex Mix (Original Recipe) 6 for $28.50 w/ S&S",
+    "price": "$28.50",
+    "source_url": "https://slickdeals.net/f/20208825-sns-ac-28-50-6-20-oz-chex-mix-traditional-4-75-each-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22089345.thumb",
+    "id": "f0296d4da38873ce6905fd5db5d587ee",
+    "amazon_url": "https://www.amazon.com/dp/B0FDC2L449?tag=dealsinusa0ab-20",
+    "asin": "B0FDC2L449",
+    "store": "Amazon",
+    "posted_at": "2026-10-26T12:00:02.769075"
+  },
+  {
+    "title": "Mpatiby 3-in-1 4 Nylon Braided USB-C Multi Charging Cable (2-Pack) $4.99",
+    "price": "$4.99",
+    "source_url": "https://www.amazon.com/gp/product/B0DQWNYY7N/ref=ox_sc_act_title_1?smid=A2ANWZ8T911EFH&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268002.1793029260.fit_lim.size_125x125.jpg",
+    "id": "85b68fd59c199591ebe052299c54498e",
+    "amazon_url": "https://www.amazon.com/dp/B0DQWNYY7N?tag=dealsinusa0ab-20",
+    "asin": "B0DQWNYY7N",
+    "store": "Amazon",
+    "posted_at": "2026-10-26T12:00:14.457360"
+  },
+  {
+    "title": "HiQuick 8-Bay AA & AAA Smart Battery Charger with 8x Batteries $19.29",
+    "price": "$19.29",
+    "source_url": "https://www.amazon.com/gp/product/B0HFMKMP85/ref=ox_sc_act_title_1?smid=A20TL6304W6TZ7&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/253487.1793029147.fit_lim.size_125x125.png",
+    "id": "293a738a23ed1c0948eac34b3efeac4e",
+    "amazon_url": "https://www.amazon.com/dp/B0HFMKMP85?tag=dealsinusa0ab-20",
+    "asin": "B0HFMKMP85",
+    "store": "Amazon",
+    "posted_at": "2026-10-26T12:00:15.457507"
+  },
+  {
+    "title": "Hoover Spotless Mini Portable Carpet & Upholstery Spot Cleaner $69.99",
+    "price": "$69.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GX7MK7JB/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273202.1793026344.fit_lim.size_125x125.jpg",
+    "id": "8ff2b818c7620ee0c714136e59d9b56f",
+    "amazon_url": "https://www.amazon.com/dp/B0GX7MK7JB?tag=dealsinusa0ab-20",
+    "asin": "B0GX7MK7JB",
+    "store": "Amazon",
+    "posted_at": "2026-10-26T12:00:16.457665"
+  },
+  {
+    "title": "Eureka J15 Pro 16200Pa Self Emptying Base Ultra Robot Vacuum and Mop $471.78",
+    "price": "$471.78",
+    "source_url": "https://www.amazon.com/gp/product/B0DKJDV2K7/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273206.1793028576.fit_lim.size_125x125.png",
+    "id": "4f76ded430cdef4d928a96b0f40577bd",
+    "amazon_url": "https://www.amazon.com/dp/B0DKJDV2K7?tag=dealsinusa0ab-20",
+    "asin": "B0DKJDV2K7",
+    "store": "Amazon",
+    "posted_at": "2026-10-26T12:00:17.457814"
+  },
+  {
+    "title": "Wegear 100W 3-Port USB-C Foldable Wall Charger $19.99",
+    "price": "$19.99",
+    "source_url": "https://www.amazon.com/gp/product/B0H8N51GD2/ref=ox_sc_act_title_1?smid=A3GCS82NQ4ID6T&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/270986.1793022696.fit_lim.size_125x125.png",
+    "id": "87dd8e5972b370d114cf070887e5e31d",
+    "amazon_url": "https://www.amazon.com/dp/B0H8N51GD2?tag=dealsinusa0ab-20",
+    "asin": "B0H8N51GD2",
+    "store": "Amazon",
+    "posted_at": "2026-10-26T12:00:18.457961"
+  },
+  {
+    "title": "Gaiatop 3-Heat Levels Magnetic Avocado Rechargeable Hand Warmers (2-Pack) $8.99",
+    "price": "$8.99",
+    "source_url": "https://www.amazon.com/gp/product/B0GWR5MRH3/ref=ox_sc_act_title_1?smid=AI49YKL3BDO9V&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273204.1793027748.fit_lim.size_125x125.png",
+    "id": "a3e2bf1706c0e7d403395a7314150cb6",
+    "amazon_url": "https://www.amazon.com/dp/B0GWR5MRH3?tag=dealsinusa0ab-20",
+    "asin": "B0GWR5MRH3",
+    "store": "Amazon",
+    "posted_at": "2026-10-26T12:00:19.458126"
+  },
+  {
+    "title": "DJI Power 2000 3000W 2048Wh LFP Portable Power Station $749.99",
+    "price": "$749.99",
+    "source_url": "https://www.amazon.com/gp/product/B0FBRD1B8C/ref=ox_sc_act_title_1?smid=A1MKQBRW09Q1X2&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/269462.1793024753.fit_lim.size_125x125.jpg",
+    "id": "48b6adf2ab897f3836d93b2f212bd9ac",
+    "amazon_url": "https://www.amazon.com/dp/B0FBRD1B8C?tag=dealsinusa0ab-20",
+    "asin": "B0FBRD1B8C",
+    "store": "Amazon",
+    "posted_at": "2026-10-26T12:00:20.458294"
+  },
+  {
+    "title": "Apple AirPods Pro 3 Active Noise Cancellation Wireless Earbuds $199",
+    "price": "$199",
+    "source_url": "https://www.amazon.com/gp/product/B0FQFB8FMG/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/259556.1793024250.fit_lim.size_125x125.jpg",
+    "id": "4a1685302205c80054278aea485951a5",
+    "amazon_url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=dealsinusa0ab-20",
+    "asin": "B0FQFB8FMG",
+    "store": "Amazon",
+    "posted_at": "2026-10-26T12:00:21.458467"
+  },
+  {
+    "title": "GE 400lbs 13-Body Composition Digital Bluetooth Smart Scale $19.99",
+    "price": "$19.99",
+    "source_url": "https://www.amazon.com/gp/product/B0FG7HH42G/ref=ox_sc_act_title_1?smid=AD79630EVPKHD&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273203.1793026903.fit_lim.size_125x125.png",
+    "id": "e626fc9e00ab183fd6d8eac5daf060ba",
+    "amazon_url": "https://www.amazon.com/dp/B0FG7HH42G?tag=dealsinusa0ab-20",
+    "asin": "B0FG7HH42G",
+    "store": "Amazon",
+    "posted_at": "2026-10-26T12:00:22.458635"
+  },
+  {
+    "title": "Jomgand K15 2500A 12V Portable Car Jump Starter $23.47",
+    "price": "$23.47",
+    "source_url": "https://www.amazon.com/gp/product/B0FY613V9C/ref=ox_sc_act_title_1?smid=A1Q08TPU5OBMBY&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/266267.1793028126.fit_lim.size_125x125.jpg",
+    "id": "a99994f00d9fb269558fbc638d3d5f88",
+    "amazon_url": "https://www.amazon.com/dp/B0FY613V9C?tag=dealsinusa0ab-20",
+    "asin": "B0FY613V9C",
+    "store": "Amazon",
+    "posted_at": "2026-10-26T12:00:23.458815"
+  },
+  {
+    "title": "Safuciiv Q8 3-Speed 7-Angle USB-C Rechargeable Electric Grill Brush (Max Torque 24kg) $15.34",
+    "price": "$15.34",
+    "source_url": "https://www.amazon.com/gp/product/B0H7LR9FT9/ref=ox_sc_act_title_1?smid=A12AH80JIBE1S8&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268261.1793027192.fit_lim.size_125x125.jpg",
+    "id": "8fa66e6a859b3d341ca149af1eb45a15",
+    "amazon_url": "https://www.amazon.com/dp/B0H7LR9FT9?tag=dealsinusa0ab-20",
+    "asin": "B0H7LR9FT9",
+    "store": "Amazon",
+    "posted_at": "2026-10-26T12:00:24.459107"
+  },
+  {
     "title": "Bowers & Wilkins Px8 Over-Ear Wireless Active Noise Cancelling Headphones $357.15 + Free S&H",
     "price": "$357.15",
     "source_url": "https://slickdeals.net/f/20207649-357-15-bowers-wilkins-px8-over-ear-wireless-active-noise-cancelling-headphones-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -228,66 +384,6 @@
     "posted_at": "2026-10-26T10:59:34.989107"
   },
   {
-    "title": "6\" Blackstone Stainless Steel Griddle Scraper w/ Plastic Handle $5.20",
-    "price": "$5.20",
-    "source_url": "https://slickdeals.net/f/20202549-5-19-6-blackstone-stainless-steel-griddle-scraper-w-plastic-handle-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22076559.thumb",
-    "id": "c79ca6f10e47bc735864ad40717fc904",
-    "amazon_url": "https://www.amazon.com/dp/B085CLLX4M?tag=dealsinusa0ab-20",
-    "asin": "B085CLLX4M",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T09:57:41.872117"
-  },
-  {
-    "title": "Turtle Beach Afterglow Wave Wireless RGB Game Controller Nintendo Switch 2 (Black) $27.05",
-    "price": "$27.05",
-    "source_url": "https://slickdeals.net/f/20208774-27-04-turtle-beach-afterglow-wave-wireless-rgb-game-controller-nintendo-switch-2-black-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22089252.thumb",
-    "id": "5c7f604c7d278d28061eb2612d544134",
-    "amazon_url": "https://www.amazon.com/dp/B0FS1YLGTP?tag=dealsinusa0ab-20",
-    "asin": "B0FS1YLGTP",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T09:57:44.082758"
-  },
-  {
-    "title": "Orange Micro Terror 20W Hybrid Guitar Amplifier Head $115 + Free S&H",
-    "price": "$115",
-    "source_url": "https://slickdeals.net/f/20208807-new-114-97-orange-micro-terror-20w-hybrid-guitar-amplifier-head-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22089333.thumb",
-    "id": "c43d37bfaae4f92fb0a81749fde61f44",
-    "amazon_url": "https://www.amazon.com/dp/B00DV9H47E?tag=dealsinusa0ab-20",
-    "asin": "B00DV9H47E",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T09:57:46.291590"
-  },
-  {
-    "title": "3-Port UGREEN 65W Nexode USB-C GaN Wall Block $24",
-    "price": "$24",
-    "source_url": "https://slickdeals.net/f/20207898-23-98-3-port-ugreen-65w-nexode-usb-c-gan-wall-block-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22087290.thumb",
-    "id": "80a05fe25bf94fd1efebf47fa7e3ba1f",
-    "amazon_url": "https://www.amazon.com/dp/B091BGMKYS?tag=dealsinusa0ab-20",
-    "asin": "B091BGMKYS",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T09:57:48.805107"
-  },
-  {
-    "title": "Dragon Quest III HD-2D Remake (PS5) $20",
-    "price": "$20",
-    "source_url": "https://slickdeals.net/f/20207748-19-99-dragon-quest-iii-hd-2d-remake-ps5-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22086783.thumb",
-    "id": "567f2c6eeec24d2140e7af3811e64b28",
-    "amazon_url": "https://www.amazon.com/dp/B0D71JQXR4?tag=dealsinusa0ab-20",
-    "asin": "B0D71JQXR4",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T09:57:50.924031"
-  },
-  {
     "title": "GrlGrl 10oz Charred Wooden Whiskey Glass with Steel Ice Balls Set $6.99",
     "price": "$6.99",
     "source_url": "https://www.amazon.com/gp/product/B0GK5XLW6B/ref=ox_sc_act_title_1?smid=A37O6J7V5IH3KR&psc=1",
@@ -408,30 +504,6 @@
     "posted_at": "2026-10-26T09:58:04.463390"
   },
   {
-    "title": "Qutool Crescent Shaped Shredded Memory Foam Cooling Queen Size Pillow (2-Pack) $29.99",
-    "price": "$29.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GQDXZDNM/ref=ox_sc_act_title_1?smid=A157L12ENNRHY9&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/271843.1793022534.fit_lim.size_125x125.jpg",
-    "id": "02b77f86fd8d611da454962117b32602",
-    "amazon_url": "https://www.amazon.com/dp/B0GQDXZDNM?tag=dealsinusa0ab-20",
-    "asin": "B0GQDXZDNM",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T09:58:05.463610"
-  },
-  {
-    "title": "Getpals 3-in-1 Total 15W Foldable Wireless Charging Station $8.40",
-    "price": "$8.40",
-    "source_url": "https://www.amazon.com/gp/product/B0C2BMNHW2/ref=ox_sc_act_title_1?smid=AYSKUOF5ELPW0&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/259863.1793022008.fit_lim.size_125x125.jpg",
-    "id": "108dfed409b27d248eb5c3b622f1ce95",
-    "amazon_url": "https://www.amazon.com/dp/B0C2BMNHW2?tag=dealsinusa0ab-20",
-    "asin": "B0C2BMNHW2",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T09:58:06.463779"
-  },
-  {
     "title": "Amazon and Best Buy Halloween PS5 game sale now live: Death Stranding 2, Last of Us, Resident Evil, Silent Hill 2, more",
     "price": "$40",
     "source_url": "https://9to5toys.com/2026/10/26/amazon-best-buy-ps5-game-sale-now-live-halloween/",
@@ -514,90 +586,6 @@
     "asin": "B0HC6QQ2T6",
     "store": "Amazon",
     "posted_at": "2026-10-26T08:56:47.490848"
-  },
-  {
-    "title": "Dove Men + Care 2-in-1 28oz Thick & Strong Shampoo and Conditioner $6.64",
-    "price": "$6.64",
-    "source_url": "https://www.amazon.com/gp/product/B0FRNF72VP/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/272878.1793015459.fit_lim.size_125x125.jpg",
-    "id": "bd7154ae80e7f8965649a3d1183c6055",
-    "amazon_url": "https://www.amazon.com/dp/B0FRNF72VP?tag=dealsinusa0ab-20",
-    "asin": "B0FRNF72VP",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T08:56:48.490987"
-  },
-  {
-    "title": "Rocoren 50-Piece Cable Management Kit (10 Magnetic Clips, 40 Reusable Hook & Loop Cord Straps) $6.49",
-    "price": "$6.49",
-    "source_url": "https://www.amazon.com/gp/product/B0GYMVBK36/ref=ox_sc_act_title_1?smid=A11WFHPT0BDBVK&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/267829.1793015426.fit_lim.size_125x125.png",
-    "id": "da4d70c009153de55068b5456171bcc5",
-    "amazon_url": "https://www.amazon.com/dp/B0GYMVBK36?tag=dealsinusa0ab-20",
-    "asin": "B0GYMVBK36",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T08:56:49.491114"
-  },
-  {
-    "title": "Armor All Ultra Shine 64oz Car Wash & Wax (Pack of 3) $14.16",
-    "price": "$14.16",
-    "source_url": "https://www.amazon.com/gp/product/B0GK26GH3W/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/253828.1793015375.fit_lim.size_125x125.jpg",
-    "id": "a29388a7cdd4e06b6a284a7ddae53615",
-    "amazon_url": "https://www.amazon.com/dp/B0GK26GH3W?tag=dealsinusa0ab-20",
-    "asin": "B0GK26GH3W",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T08:56:50.491236"
-  },
-  {
-    "title": "Green Mountain Coffee Roasters Caramel Vanilla Cream Single-Serve K-Cup Pods (96-Count) $30.04",
-    "price": "$30.04",
-    "source_url": "https://www.amazon.com/gp/product/B00VEIPK7A/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/69409.1793015268.fit_lim.size_125x125.jpg",
-    "id": "a4b94a727b2f37d21c6017b6bca35de8",
-    "amazon_url": "https://www.amazon.com/dp/B00VEIPK7A?tag=dealsinusa0ab-20",
-    "asin": "B00VEIPK7A",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T08:56:51.491388"
-  },
-  {
-    "title": "Bigasuo Roku TV 1280 x 720 Smart Projector with WiFi and Bluetooth $59.38",
-    "price": "$59.38",
-    "source_url": "https://www.amazon.com/gp/product/B0HBQLMX88/ref=ox_sc_act_title_1?smid=A1RHZ8XUZMDDOH&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/272966.1793014785.fit_lim.size_125x125.jpg",
-    "id": "951185d7fa2184671b974620a0e7a9cc",
-    "amazon_url": "https://www.amazon.com/dp/B0HBQLMX88?tag=dealsinusa0ab-20",
-    "asin": "B0HBQLMX88",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T08:56:52.491535"
-  },
-  {
-    "title": "AstroAI P10 5000A 12V Portable Car Battery Jump Starter (10L Gas & 8L Diesel) $29.99",
-    "price": "$29.99",
-    "source_url": "https://www.amazon.com/gp/product/B0F6N88NHD/ref=ox_sc_act_title_1?smid=A2NOFZGOKNP3PJ&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/261105.1793014742.fit_lim.size_125x125.jpg",
-    "id": "3824b20af0cad10b63d78babc83e1fa5",
-    "amazon_url": "https://www.amazon.com/dp/B0F6N88NHD?tag=dealsinusa0ab-20",
-    "asin": "B0F6N88NHD",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T08:56:53.491684"
-  },
-  {
-    "title": "Southern Style Nuts Gourmet Hunter Snack Mix (30oz) $7.96",
-    "price": "$7.96",
-    "source_url": "https://www.amazon.com/gp/product/B0H8FN72G9/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/207024.1793014635.fit_lim.size_125x125.jpg",
-    "id": "629c05c0b70d2512f6d5cf9fc1a3578d",
-    "amazon_url": "https://www.amazon.com/dp/B0H8FN72G9?tag=dealsinusa0ab-20",
-    "asin": "B0H8FN72G9",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T08:56:54.491829"
   },
   {
     "title": "This adorable Kirby Nintendo Switch 2 case just hit the $20 Amazon all-time low",
@@ -802,30 +790,6 @@
     "asin": "B07LCZC2C2",
     "store": "Amazon",
     "posted_at": "2026-10-25T20:48:28.542632"
-  },
-  {
-    "title": "Owala Water Bottles from $19.97 on Amazon (Easy Gift Idea!)",
-    "price": "$19.97",
-    "source_url": "https://hip2save.com/deals/owala-water-bottle/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FK1KF657.01.LZZZZZZZ.jpg",
-    "id": "6d64b7c730889a28c3a3fcb00f0b03c0",
-    "amazon_url": "https://www.amazon.com/dp/B0FK1KF657?tag=dealsinusa0ab-20",
-    "asin": "B0FK1KF657",
-    "store": "Amazon",
-    "posted_at": "2026-10-25T20:48:29.953284"
-  },
-  {
-    "title": "Light-Up Sherpa Ghost Just $14.99 Shipped for Prime Members (Reg. $35)",
-    "price": "$14.99",
-    "source_url": "https://hip2save.com/deals/sherpa-ghost/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0H6HKDTKW.01.LZZZZZZZ.jpg",
-    "id": "cf5b216f489eabd78f66c5840201123c",
-    "amazon_url": "https://www.amazon.com/dp/B0H6HKDTKW?tag=dealsinusa0ab-20",
-    "asin": "B0H6HKDTKW",
-    "store": "Amazon",
-    "posted_at": "2026-10-25T19:47:53.632355"
   },
   {
     "title": "Lisen 10000mAh 45W Small Power Bank with Detachable Cables $22.99",
@@ -1128,18 +1092,6 @@
     "posted_at": "2026-10-23T15:08:00.048295"
   },
   {
-    "title": "Rare deal has LEGO\u2019s Peugeot 9X8 24H Le Mans Hybrid Hypercar down at $172",
-    "price": "$172",
-    "source_url": "https://9to5toys.com/2026/10/23/lego-technic-peugeot-9x8-24h-le-mans-hybrid-hypercar/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/LEGO-Technic-Peugeot-9X8-Le-Mans-Hybrid-Hypercar-set.jpg",
-    "id": "17f6d3721a2728f1460322d8c9fba78d",
-    "amazon_url": "https://www.amazon.com/dp/B0BNW95ZT1?tag=dealsinusa0ab-20",
-    "asin": "B0BNW95ZT1",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T14:06:41.458637"
-  },
-  {
     "title": "6 Pack Heavy Duty Moving Bags \u2013 Just $21.99!",
     "price": "$21.99",
     "source_url": "https://freebies2deals.com/2026/10/6-pack-heavy-duty-moving-bags-just-21-99-2.html",
@@ -1200,18 +1152,6 @@
     "posted_at": "2026-10-23T11:02:52.038706"
   },
   {
-    "title": "GIANT 120\u2033x 120\u2033 Family-Sized Throw Blanket JUST $14.99 (reg $37)!",
-    "price": "$14.99",
-    "source_url": "https://www.passionforsavings.com/online/amazon-throw-blankets-on-sale/",
-    "source": "PassionForSavings",
-    "image": "https://www.passionforsavings.com/content/uploads/2026/10/1020-deals-24.png",
-    "id": "5fc987139b958c80f2efd6892a524445",
-    "amazon_url": "https://www.amazon.com/dp/B00DBYBNEE?tag=dealsinusa0ab-20",
-    "asin": "B00DBYBNEE",
-    "store": "Amazon",
-    "posted_at": "2026-10-23T11:03:03.792611"
-  },
-  {
     "title": "Gift Idea! Shower Steamers Aromatherapy 8 Pack just $2.XX on Amazon | 65% off!",
     "price": "$2",
     "source_url": "https://www.livingrichwithcoupons.com/2026/10/gift-idea-shower-steamers-aromatherapy-8-pack-just-2-xx-on-amazon-65-off.html",
@@ -1270,18 +1210,6 @@
     "asin": "B099KWKY36",
     "store": "Amazon",
     "posted_at": "2026-10-22T12:44:10.725160"
-  },
-  {
-    "title": "Cozy Bedsure Bubble Cloud Throw Blanket JUST $9.34 (reg $33)!!",
-    "price": "$9.34",
-    "source_url": "https://www.passionforsavings.com/online/amazon-throw-blankets-on-sale/",
-    "source": "PassionForSavings",
-    "image": "https://www.passionforsavings.com/content/uploads/2026/10/1020-deals-15.png",
-    "id": "e997c75bd6ef0fa5a7e7e547c8ac5442",
-    "amazon_url": "https://www.amazon.com/dp/B00DBYBNEE?tag=dealsinusa0ab-20",
-    "asin": "B00DBYBNEE",
-    "store": "Amazon",
-    "posted_at": "2026-10-22T11:42:44.788290"
   },
   {
     "title": "Green Toys Car Carrier \u2013 Just $13.22!",
