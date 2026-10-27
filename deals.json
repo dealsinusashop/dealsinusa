@@ -1,5 +1,89 @@
 [
   {
+    "title": "DEWALT ToughSystem 2.0 Deep Compact Organizer $20",
+    "price": "$20",
+    "source_url": "https://slickdeals.net/f/20211138-new-19-98-dewalt-dwst08020-toughsystem-2-0-deep-compact-organizer-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22095609.thumb",
+    "id": "5ccc4a81d78064e74a491a12e76cd172",
+    "amazon_url": "https://www.amazon.com/dp/B08D34HH6B?tag=dealsinusa0ab-20",
+    "asin": "B08D34HH6B",
+    "store": "Amazon",
+    "posted_at": "2026-10-27T07:16:23.932303"
+  },
+  {
+    "title": "12-Pk 12-Oz Dr Pepper Soda 3 for $14.20 w/ S&S",
+    "price": "$14.20",
+    "source_url": "https://slickdeals.net/f/20212374-sns-ac-14-19-3-12-pk-12-oz-dr-pepper-soda-4-73-each-at-amazon-39-4-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22098708.thumb",
+    "id": "5aecdec1ae7e1a5baa14cc5eb536d84f",
+    "amazon_url": "https://www.amazon.com/dp/B000R9COOY?tag=dealsinusa0ab-20",
+    "asin": "B000R9COOY",
+    "store": "Amazon",
+    "posted_at": "2026-10-27T07:16:26.579106"
+  },
+  {
+    "title": "Oster 3qt Dutch Oven with Steamer $16.99",
+    "price": "$16.99",
+    "source_url": "https://www.amazon.com/gp/product/B01BOVFHB0/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273234.1793098817.fit_lim.size_125x125.jpg",
+    "id": "fc804baa601cc4cd67e803c73a3ea8f4",
+    "amazon_url": "https://www.amazon.com/dp/B01BOVFHB0?tag=dealsinusa0ab-20",
+    "asin": "B01BOVFHB0",
+    "store": "Amazon",
+    "posted_at": "2026-10-27T07:16:37.785523"
+  },
+  {
+    "title": "Pepsi Zero Sugar 12-Oz Wild Cherry Cola Soda (12-Pack, 3-Count) $15.09",
+    "price": "$15.09",
+    "source_url": "https://www.amazon.com/gp/product/B078HQBGPS/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268545.1793097790.fit_lim.size_125x125.jpg",
+    "id": "f17263d8d4a097f902639aa3009dc7b8",
+    "amazon_url": "https://www.amazon.com/dp/B078HQBGPS?tag=dealsinusa0ab-20",
+    "asin": "B078HQBGPS",
+    "store": "Amazon",
+    "posted_at": "2026-10-27T07:16:38.785677"
+  },
+  {
+    "title": "Ninja 18oz Blast Vessel Portable Cordless USB C Rechargeable Blender $39.99",
+    "price": "$39.99",
+    "source_url": "https://www.amazon.com/gp/product/B0C2FRWBD6/ref=ox_sc_act_title_1?ie=UTF8&smid=ATVPDKIKX0DER&redirect=true&s=psc&ASIN=B0C2FRWBD6&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273233.1793097121.fit_lim.size_125x125.jpg",
+    "id": "1eec2cdb4a67d8102093b57a049af14d",
+    "amazon_url": "https://www.amazon.com/dp/B0C2FRWBD6?tag=dealsinusa0ab-20",
+    "asin": "B0C2FRWBD6",
+    "store": "Amazon",
+    "posted_at": "2026-10-27T07:16:39.785830"
+  },
+  {
+    "title": "Klein Tools MODbox Quickly Attach & Release 6-Pocket Tool Pouch $14.98",
+    "price": "$14.98",
+    "source_url": "https://www.amazon.com/gp/product/B0CLYN2NWP/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/271367.1793095585.fit_lim.size_125x125.png",
+    "id": "35d3da12225761b022c29717f266c3f5",
+    "amazon_url": "https://www.amazon.com/dp/B0CLYN2NWP?tag=dealsinusa0ab-20",
+    "asin": "B0CLYN2NWP",
+    "store": "Amazon",
+    "posted_at": "2026-10-27T07:16:40.785984"
+  },
+  {
+    "title": "Old Spice Sweat & Odor Protection Antiperspirant Deodorant (3.4oz) $3.50",
+    "price": "$3.50",
+    "source_url": "https://www.amazon.com/gp/product/B00V0XR07M/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/121698.1793096234.fit_lim.size_125x125.jpg",
+    "id": "ae101a065f1507f00c0c1f19bce97fa3",
+    "amazon_url": "https://www.amazon.com/dp/B00V0XR07M?tag=dealsinusa0ab-20",
+    "asin": "B00V0XR07M",
+    "store": "Amazon",
+    "posted_at": "2026-10-27T07:16:41.786134"
+  },
+  {
     "title": "Wegear 3-in-1 67W GaN Dual USB-C & 22.5W USB-A Wall Charger $11.29",
     "price": "$11.29",
     "source_url": "https://www.amazon.com/gp/product/B0FB8LXRD2/ref=ox_sc_act_title_1?smid=A3GCS82NQ4ID6T&psc=1",
@@ -192,30 +276,6 @@
     "posted_at": "2026-10-27T04:14:18.577408"
   },
   {
-    "title": "24-Ct 0.5-Oz PIRATE'S BOOTY Aged White Cheddar Cheese Puffs Bags $7.10 w/ S&S",
-    "price": "$7.10",
-    "source_url": "https://slickdeals.net/f/20191128-sns-ac-7-10-24-ct-0-5-oz-pirate-s-booty-aged-white-cheddar-cheese-puffs-bags-at-amazon-29-6-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22049076.thumb",
-    "id": "bf310c2216eba12dcd70d602d58f0d88",
-    "amazon_url": "https://www.amazon.com/dp/B07D45W364?tag=dealsinusa0ab-20",
-    "asin": "B07D45W364",
-    "store": "Amazon",
-    "posted_at": "2026-10-27T03:13:33.398690"
-  },
-  {
-    "title": "Women\u2019s Joggers Just $5.99 on Amazon (Reg. $10)",
-    "price": "$5.99",
-    "source_url": "https://hip2save.com/deals/walifrey-joggers/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0DQNRHK1K.01.LZZZZZZZ.jpg",
-    "id": "09cb7d6fd50d3178bffa169b1e190ed4",
-    "amazon_url": "https://www.amazon.com/dp/B0DQNRHK1K?tag=dealsinusa0ab-20",
-    "asin": "B0DQNRHK1K",
-    "store": "Amazon",
-    "posted_at": "2026-10-27T00:11:53.604476"
-  },
-  {
     "title": "Score THREE Pepsi 12-Packs for Just $11.50 Shipped on Amazon (Only $3.83 Each!)",
     "price": "$11.50",
     "source_url": "https://hip2save.com/deals/amazon-soda/",
@@ -226,18 +286,6 @@
     "asin": "B08XXGB5NK",
     "store": "Amazon",
     "posted_at": "2026-10-27T00:11:55.839350"
-  },
-  {
-    "title": "Fairlife Protein Shakes 12-Pack Just $23.99 Shipped on Amazon (Reg. $42)",
-    "price": "$23.99",
-    "source_url": "https://hip2save.com/deals/fairlife-core-power/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B07LCZC2C2.01.LZZZZZZZ.jpg",
-    "id": "11488f0c010e6c4ba7f39da93fade460",
-    "amazon_url": "https://www.amazon.com/dp/B07LCZC2C2?tag=dealsinusa0ab-20",
-    "asin": "B07LCZC2C2",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T23:11:02.275950"
   },
   {
     "title": "How to Score a Pok\u00e9mon Elite Trainer Box for Just $59.99 Shipped on Amazon (Reg. $90)",
@@ -706,54 +754,6 @@
     "asin": "B0HD76TKGD",
     "store": "Amazon",
     "posted_at": "2026-10-26T17:05:56.349911"
-  },
-  {
-    "title": "Cottonelle Ultra Clean Toilet Paper (32 Family Mega Rolls) $22.61",
-    "price": "$22.61",
-    "source_url": "https://www.amazon.com/gp/product/B0CM4NY91V/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/267502.1793045430.fit_lim.size_125x125.png",
-    "id": "ddf729927012b68315fbbc987af40e41",
-    "amazon_url": "https://www.amazon.com/dp/B0CM4NY91V?tag=dealsinusa0ab-20",
-    "asin": "B0CM4NY91V",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T17:05:57.350073"
-  },
-  {
-    "title": "AstroAI P10 5000A 12V Portable Car Battery Jump Starter (10L Gas & 8L Diesel) $29.99",
-    "price": "$29.99",
-    "source_url": "https://www.amazon.com/gp/product/B0F6N88NHD/ref=ox_sc_act_title_1?smid=A2NOFZGOKNP3PJ&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/261105.1793045378.fit_lim.size_125x125.jpg",
-    "id": "3824b20af0cad10b63d78babc83e1fa5",
-    "amazon_url": "https://www.amazon.com/dp/B0F6N88NHD?tag=dealsinusa0ab-20",
-    "asin": "B0F6N88NHD",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T17:05:58.350237"
-  },
-  {
-    "title": "FITORY Mens Comfort Thongs Sandals for Beach $9.99",
-    "price": "$9.99",
-    "source_url": "https://www.amazon.com/gp/product/B07G2BBGRL/ref=ox_sc_act_title_1?smid=A3360EDQGQ5O75&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/273103.1793045296.fit_lim.size_125x125.jpg",
-    "id": "c3576dbfeefe909ac3c8a4e9912f8bd4",
-    "amazon_url": "https://www.amazon.com/dp/B07G2BBGRL?tag=dealsinusa0ab-20",
-    "asin": "B07G2BBGRL",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T17:05:59.350409"
-  },
-  {
-    "title": "Dremel 729-01 Carving & Engraving Rotary Tool Accessories Kit (11-Piece) $9.98",
-    "price": "$9.98",
-    "source_url": "https://www.amazon.com/gp/product/B09FP387V2/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/251635.1793045251.fit_lim.size_125x125.png",
-    "id": "89f40b7eb09bb5f4e7c5399fb7a7b383",
-    "amazon_url": "https://www.amazon.com/dp/B09FP387V2?tag=dealsinusa0ab-20",
-    "asin": "B09FP387V2",
-    "store": "Amazon",
-    "posted_at": "2026-10-26T17:06:00.350579"
   },
   {
     "title": "Women\u2019s Slippers from $7.64 on Amazon (Reg. $25)",
