@@ -1,5 +1,41 @@
 [
   {
+    "title": "TP-Link Kasa Smart Wi-Fi Apple HomeKit Outdoor Plug $20",
+    "price": "$20",
+    "source_url": "https://slickdeals.net/f/20208912-19-98-tp-link-kasa-smart-wi-fi-apple-homekit-outdoor-plug-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    "source": "Slickdeals",
+    "image": "https://static.slickdealscdn.com/attachment/1/1/7/1/5/2/7/300x300/22089528.thumb",
+    "id": "28320cba3f3d6def207c4fef73337b66",
+    "amazon_url": "https://www.amazon.com/dp/B0BMWLH7X1?tag=dealsinusa0ab-20",
+    "asin": "B0BMWLH7X1",
+    "store": "Amazon",
+    "posted_at": "2026-10-27T20:30:11.476842"
+  },
+  {
+    "title": "How to Score The Viral NeeDoh Teenie 10-Pack for Just $23 on Amazon",
+    "price": "$23",
+    "source_url": "https://hip2save.com/deals/needoh-toys/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0DXRKN7KY.01.LZZZZZZZ.jpg",
+    "id": "d2270d8089848427bbd0323a149781ed",
+    "amazon_url": "https://www.amazon.com/dp/B0DXRKN7KY?tag=dealsinusa0ab-20",
+    "asin": "B0DXRKN7KY",
+    "store": "Amazon",
+    "posted_at": "2026-10-27T20:30:28.094723"
+  },
+  {
+    "title": "Puffer Makeup Bag 3-Piece Sets UNDER $8 Shipped for Amazon Prime Members!",
+    "price": "$8",
+    "source_url": "https://hip2save.com/deals/amazon-puffer-makeup-bag/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0HBJFJVSF.01.LZZZZZZZ.jpg",
+    "id": "2ca04f1a95255ad0663ea26d92f1fd79",
+    "amazon_url": "https://www.amazon.com/dp/B0HBJFJVSF?tag=dealsinusa0ab-20",
+    "asin": "B0HBJFJVSF",
+    "store": "Amazon",
+    "posted_at": "2026-10-27T20:30:29.708237"
+  },
+  {
     "title": "Book Lovers Will LOVE This Unique Lamp for Just $11.69 on Amazon (Reg. $26)",
     "price": "$11.69",
     "source_url": "https://hip2save.com/deals/amazon-book-lamp/",
@@ -34,42 +70,6 @@
     "asin": "B0H2GW6VDW",
     "store": "Amazon",
     "posted_at": "2026-10-27T19:29:53.416134"
-  },
-  {
-    "title": "4-Pk 24-Oz Lysol Power Clinging Gel Toilet Bowl Cleaner $6.20 w/ S&S",
-    "price": "$6.20",
-    "source_url": "https://slickdeals.net/f/20218470-ac-6-19-4-pk-24-oz-lysol-power-clinging-gel-toilet-bowl-cleaner-at-amazon-1-55-each?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/3/2/6/0/8/8/1/4/300x300/22113795.thumb",
-    "id": "5027146ed8a699b84dd5c881589c5006",
-    "amazon_url": "https://www.amazon.com/dp/B0CRWRHLCF?tag=dealsinusa0ab-20",
-    "asin": "B0CRWRHLCF",
-    "store": "Amazon",
-    "posted_at": "2026-10-27T18:29:00.279567"
-  },
-  {
-    "title": "ACEMAGIC Mini PC: Ryzen 7 7735HS, 24GB RAM, 512GB SSD, AMD Radeon 680M $426.30 + Free S&H",
-    "price": "$426.30",
-    "source_url": "https://slickdeals.net/f/20212953-acemagic-mini-pc-windows-11-pro-amd-ryzen-7-7735hs-24gb-ram-512gb-ssd-426-29-ac-at-acemagic-us-via-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/6/7/9/8/5/300x300/22099854.thumb",
-    "id": "8b36ca03193da8b084d742474ba57359",
-    "amazon_url": "https://www.amazon.com/dp/B0H7CKF6SK?tag=dealsinusa0ab-20",
-    "asin": "B0H7CKF6SK",
-    "store": "Amazon",
-    "posted_at": "2026-10-27T18:29:02.811713"
-  },
-  {
-    "title": "COOLJOB Men's Heavy Duty Anti-Slip Cap Gel & Foam Cushion Knee Pads $11",
-    "price": "$11",
-    "source_url": "https://slickdeals.net/f/20215941-10-99-cooljob-men-s-heavy-duty-anti-slip-cap-gel-foam-cushion-knee-pads-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/3/2/6/0/8/8/1/4/300x300/22113378.thumb",
-    "id": "43e6556dc61888d79f755bae0c074d82",
-    "amazon_url": "https://www.amazon.com/dp/B0CZRH9H9D?tag=dealsinusa0ab-20",
-    "asin": "B0CZRH9H9D",
-    "store": "Amazon",
-    "posted_at": "2026-10-27T18:29:06.362990"
   },
   {
     "title": "Squirrel Brand Sweet Brown Butter Cashews Only $2.49 Shipped on Amazon",
@@ -622,18 +622,6 @@
     "asin": "067144901X",
     "store": "Amazon",
     "posted_at": "2026-10-27T14:25:33.680107"
-  },
-  {
-    "title": "Halloween Kids Books from $5.90 on Amazon (Reg. $13)",
-    "price": "$5.90",
-    "source_url": "https://hip2save.com/deals/halloween-kids-books/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/1492648949.01.LZZZZZZZ.jpg",
-    "id": "1c82d4222d940f7fcd682c0d74705ea0",
-    "amazon_url": "https://www.amazon.com/dp/1492648949?tag=dealsinusa0ab-20",
-    "asin": "1492648949",
-    "store": "Amazon",
-    "posted_at": "2026-10-27T14:25:35.057153"
   },
   {
     "title": "Zebra Pen Z-Grip Writing Set, Retractable Medium Point Ballpoint Pen and Mechanical Pencil \u2013 Just $8.44!",
