@@ -1,5 +1,89 @@
 [
   {
+    "title": "Weslyn ChatGPT-Powered 64GB Storage AI Voice Recorder $34.99",
+    "price": "$34.99",
+    "source_url": "https://www.amazon.com/gp/product/B0HG9V2MRF/ref=ox_sc_act_title_1?smid=A3AHFC724QH0VP&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273456.1793309976.fit_lim.size_125x125.jpg",
+    "id": "8e24266255446b57ee0cc1db0cd0f20c",
+    "amazon_url": "https://www.amazon.com/dp/B0HG9V2MRF?tag=dealsinusa0ab-20",
+    "asin": "B0HG9V2MRF",
+    "store": "Amazon",
+    "posted_at": "2026-10-29T18:10:41.182578"
+  },
+  {
+    "title": "Soleilwear Advanced Graphene Heating Womens Puffer Coat Jacket $69.99",
+    "price": "$69.99",
+    "source_url": "https://www.amazon.com/gp/product/B0H9Q6G426/ref=ox_sc_act_title_1?smid=A1CMS81MGERD3V&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273458.1793311766.fit_lim.size_125x125.jpg",
+    "id": "a97f3cc3d675b02f5fa22640b73e20ba",
+    "amazon_url": "https://www.amazon.com/dp/B0H9Q6G426?tag=dealsinusa0ab-20",
+    "asin": "B0H9Q6G426",
+    "store": "Amazon",
+    "posted_at": "2026-10-29T18:10:42.182740"
+  },
+  {
+    "title": "Sharanix 15.6\" 1080p IPS USB-C Portable Monitor Laptop Screen Extender with Stand $59.99",
+    "price": "$59.99",
+    "source_url": "https://www.amazon.com/gp/product/B0H82PYSNR/ref=ox_sc_act_title_1?smid=A1P3V57HUT26F7&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/273457.1793310572.fit_lim.size_125x125.jpg",
+    "id": "acf8f5e8fba7bfaf2996af4fe5272dca",
+    "amazon_url": "https://www.amazon.com/dp/B0H82PYSNR?tag=dealsinusa0ab-20",
+    "asin": "B0H82PYSNR",
+    "store": "Amazon",
+    "posted_at": "2026-10-29T18:10:43.182921"
+  },
+  {
+    "title": "80% Off David\u2019s Bridal Clearance Dresses on Amazon | Prices from $9.99",
+    "price": "$9.99",
+    "source_url": "https://hip2save.com/deals/davids-bridal-clearance/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0F72JCYXX.01.LZZZZZZZ.jpg",
+    "id": "2da494773059cf87cab27f536a3ca07b",
+    "amazon_url": "https://www.amazon.com/dp/B0F72JCYXX?tag=dealsinusa0ab-20",
+    "asin": "B0F72JCYXX",
+    "store": "Amazon",
+    "posted_at": "2026-10-29T18:10:52.507211"
+  },
+  {
+    "title": "Purell Travel-Size Hand Sanitizer 6-Pack Just $5.70 Shipped on Amazon (Reg. $12)",
+    "price": "$5.70",
+    "source_url": "https://hip2save.com/deals/purell-hand-sanitizer/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B09XN9WVVS.01.LZZZZZZZ.jpg",
+    "id": "76c45a7de3fd4fbdbc5fce46e7d36aa4",
+    "amazon_url": "https://www.amazon.com/dp/B09XN9WVVS?tag=dealsinusa0ab-20",
+    "asin": "B09XN9WVVS",
+    "store": "Amazon",
+    "posted_at": "2026-10-29T18:10:53.977207"
+  },
+  {
+    "title": "Arm & Hammer Power Paks 42-Count Just $5 Shipped on Amazon (Reg. $10)",
+    "price": "$5",
+    "source_url": "https://hip2save.com/deals/arm-hammer-power-paks/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B07VH667FV.01.LZZZZZZZ.jpg",
+    "id": "1b958db9542bd880bda7d8f9e4182761",
+    "amazon_url": "https://www.amazon.com/dp/B07VH667FV?tag=dealsinusa0ab-20",
+    "asin": "B07VH667FV",
+    "store": "Amazon",
+    "posted_at": "2026-10-29T18:10:55.380663"
+  },
+  {
+    "title": "Nature Valley Oatmeal Squares 6-Pack Just $2.39 Shipped on Amazon",
+    "price": "$2.39",
+    "source_url": "https://hip2save.com/deals/nature-valley-oatmeal-squares/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B00DHFJ9ZW.01.LZZZZZZZ.jpg",
+    "id": "2ff7b9ad9f36a83ac0f6a8a83459ecb2",
+    "amazon_url": "https://www.amazon.com/dp/B00DHFJ9ZW?tag=dealsinusa0ab-20",
+    "asin": "B00DHFJ9ZW",
+    "store": "Amazon",
+    "posted_at": "2026-10-29T18:10:56.900102"
+  },
+  {
     "title": "Delxo 50ft 5/8\" 640PSI Kink-Resistant Garden Hose With 8-Pattern Spray Nozzle $18.40",
     "price": "$18.40",
     "source_url": "https://www.amazon.com/gp/product/B0GC5G8662/ref=ox_sc_act_title_1?smid=AWC3S74JY4SSW&th=1",
@@ -468,54 +552,6 @@
     "posted_at": "2026-10-29T17:10:10.978921"
   },
   {
-    "title": "Hyseyy 16.5\"x44.3\"x 63\" Portable Double Rod Clothing Rack $22.19",
-    "price": "$22.19",
-    "source_url": "https://www.amazon.com/gp/product/B0DKFMB2T2/ref=ox_sc_act_title_1?smid=A2SWQUCOU5IR80&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/267450.1793303462.fit_lim.size_125x125.jpg",
-    "id": "dc6a57fc7d4786159a42e0d55ec580b5",
-    "amazon_url": "https://www.amazon.com/dp/B0DKFMB2T2?tag=dealsinusa0ab-20",
-    "asin": "B0DKFMB2T2",
-    "store": "Amazon",
-    "posted_at": "2026-10-29T16:08:38.347848"
-  },
-  {
-    "title": "Fitbit Inspire 3 Heart Rate Health & Fitness Tracker $69.95",
-    "price": "$69.95",
-    "source_url": "https://www.amazon.com/gp/product/B0B5F9SZW7/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/242232.1793302867.fit_lim.size_125x125.jpg",
-    "id": "ced61718e396d9d7738ba0611c57d440",
-    "amazon_url": "https://www.amazon.com/dp/B0B5F9SZW7?tag=dealsinusa0ab-20",
-    "asin": "B0B5F9SZW7",
-    "store": "Amazon",
-    "posted_at": "2026-10-29T16:08:39.348106"
-  },
-  {
-    "title": "Noah & Paw 18\" x 11\" x 11\" Small Pets Carrier with Removable Mat $35.99",
-    "price": "$35.99",
-    "source_url": "https://www.amazon.com/gp/product/B0H23YS7G5/ref=ox_sc_act_title_1?smid=AQ6W0KKBVWL7P&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/273454.1793302604.fit_lim.size_125x125.jpg",
-    "id": "5cf94f0e8fdd3e63fab08d3f13a971d8",
-    "amazon_url": "https://www.amazon.com/dp/B0H23YS7G5?tag=dealsinusa0ab-20",
-    "asin": "B0H23YS7G5",
-    "store": "Amazon",
-    "posted_at": "2026-10-29T16:08:40.348257"
-  },
-  {
-    "title": "Duracell CR2032 3V Lithium Metal Battery (6-Count) $5.69",
-    "price": "$5.69",
-    "source_url": "https://www.amazon.com/gp/product/B0855FD9P2/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/206694.1793302180.fit_lim.size_125x125.jpg",
-    "id": "9d8725ca2f69a5a09f0830fcad289bd6",
-    "amazon_url": "https://www.amazon.com/dp/B0855FD9P2?tag=dealsinusa0ab-20",
-    "asin": "B0855FD9P2",
-    "store": "Amazon",
-    "posted_at": "2026-10-29T16:08:41.348391"
-  },
-  {
     "title": "Apple MacBook Air 13.6\" M5 Chip 10-Core CPU 8-Core GPU 2560x1664 Laptop (16GB/512GB) $1099",
     "price": "$1099",
     "source_url": "https://www.amazon.com/gp/product/B0GR19X8DC/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
@@ -646,18 +682,6 @@
     "asin": "B0DL2B8RJR",
     "store": "Amazon",
     "posted_at": "2026-10-29T14:07:14.412175"
-  },
-  {
-    "title": "Microfiber Hair Towels 3-Pack Only $5.99 on Amazon (Just $2 Each)",
-    "price": "$5.99",
-    "source_url": "https://hip2save.com/deals/microfiber-hair-towels/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0BKSZSLRV.01.LZZZZZZZ.jpg",
-    "id": "d6851a8ba621dc8ae9c29f8f6ccd8c03",
-    "amazon_url": "https://www.amazon.com/dp/B0BKSZSLRV?tag=dealsinusa0ab-20",
-    "asin": "B0BKSZSLRV",
-    "store": "Amazon",
-    "posted_at": "2026-10-29T14:07:16.169106"
   },
   {
     "title": "Windex Vinegar Multi-Surface Spray \u2013 Fresh, Clear 23 Fl Oz \u2013 Just $2.78!",
@@ -828,18 +852,6 @@
     "posted_at": "2026-10-29T12:05:06.948196"
   },
   {
-    "title": "Microfiber Hair Towels 3-Pack Just $5.99 on Amazon (Just $2 Per Towel)",
-    "price": "$5.99",
-    "source_url": "https://hip2save.com/deals/microfiber-hair-towels/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0BKSZSLRV.01.LZZZZZZZ.jpg",
-    "id": "ce18cee6d5ba9caa3c2b06f28875a131",
-    "amazon_url": "https://www.amazon.com/dp/B0BKSZSLRV?tag=dealsinusa0ab-20",
-    "asin": "B0BKSZSLRV",
-    "store": "Amazon",
-    "posted_at": "2026-10-29T12:05:08.700326"
-  },
-  {
     "title": "USB Rechargeable Sonic Electric Toothbrush  \u2013 Just $9.49!",
     "price": "$9.49",
     "source_url": "https://freebies2deals.com/2026/10/usb-rechargeable-sonic-electric-toothbrush-just-9-49-8.html",
@@ -862,18 +874,6 @@
     "asin": "B0FQVBFLHL",
     "store": "Amazon",
     "posted_at": "2026-10-29T11:03:50.410704"
-  },
-  {
-    "title": "Magna-Tiles Dinos Set Just $25.57 on Amazon (Reg. $50)",
-    "price": "$25.57",
-    "source_url": "https://hip2save.com/deals/amazon-magna-tiles-dinos-set/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0BK6ZZL2M.01.LZZZZZZZ.jpg",
-    "id": "a648b5c38453c5c3c285cdde5cf2c5c5",
-    "amazon_url": "https://www.amazon.com/dp/B0BK6ZZL2M?tag=dealsinusa0ab-20",
-    "asin": "B0BK6ZZL2M",
-    "store": "Amazon",
-    "posted_at": "2026-10-29T11:03:55.417816"
   },
   {
     "title": "This Segway superscooter zooms at up to 31 MPH and it\u2019s currently down at $1,499 (Reg. $1,700)",
