@@ -1,5 +1,65 @@
 [
   {
+    "title": "Survival Kit Advent Calendar Only $19.99 on Amazon (Reg. $36)",
+    "price": "$19.99",
+    "source_url": "https://hip2save.com/deals/survival-kit-advent-calendar/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0HBWRFP6D.01.LZZZZZZZ.jpg",
+    "id": "e653feaa9958b0a1ed7320abf0437d11",
+    "amazon_url": "https://www.amazon.com/dp/B0HBWRFP6D?tag=dealsinusa0ab-20",
+    "asin": "B0HBWRFP6D",
+    "store": "Amazon",
+    "posted_at": "2026-10-29T22:13:35.949654"
+  },
+  {
+    "title": "Amazon Grocery Cookies Just $1.25 Shipped",
+    "price": "$1.25",
+    "source_url": "https://hip2save.com/deals/amazon-grocery-cookies/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B094QP93GM.01.LZZZZZZZ.jpg",
+    "id": "0a747d9c5628bb8b8e230a7129c35ed5",
+    "amazon_url": "https://www.amazon.com/dp/B094QP93GM?tag=dealsinusa0ab-20",
+    "asin": "B094QP93GM",
+    "store": "Amazon",
+    "posted_at": "2026-10-29T22:13:37.844969"
+  },
+  {
+    "title": "Lysol Disinfecting Wipes 4-Pack Just $8.76 Shipped on Amazon (Reg. $15)",
+    "price": "$8.76",
+    "source_url": "https://hip2save.com/deals/lysol-wipes/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0BNNVT2VH.01.LZZZZZZZ.jpg",
+    "id": "19b3fedb0fda2b639f73c076de8a795b",
+    "amazon_url": "https://www.amazon.com/dp/B0BNNVT2VH?tag=dealsinusa0ab-20",
+    "asin": "B0BNNVT2VH",
+    "store": "Amazon",
+    "posted_at": "2026-10-29T22:13:39.659579"
+  },
+  {
+    "title": "Bleach Tablets 32-Count Only $4.34 Shipped on Amazon (Reg. $9)",
+    "price": "$4.34",
+    "source_url": "https://hip2save.com/deals/amaze-bleach-tablets/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B07TRX9XLL.01.LZZZZZZZ.jpg",
+    "id": "635bfbdb919d56390dca401511b5a41d",
+    "amazon_url": "https://www.amazon.com/dp/B07TRX9XLL?tag=dealsinusa0ab-20",
+    "asin": "B07TRX9XLL",
+    "store": "Amazon",
+    "posted_at": "2026-10-29T22:13:41.530826"
+  },
+  {
+    "title": "Giant Coloring Posters Only $4.99 on Amazon (Thanksgiving & Christmas Designs)",
+    "price": "$4.99",
+    "source_url": "https://hip2save.com/deals/amazon-giant-coloring-poster/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0H1LQ1LBF.01.LZZZZZZZ.jpg",
+    "id": "6ece19b0f54825265a6d80678dfd325d",
+    "amazon_url": "https://www.amazon.com/dp/B0H1LQ1LBF?tag=dealsinusa0ab-20",
+    "asin": "B0H1LQ1LBF",
+    "store": "Amazon",
+    "posted_at": "2026-10-29T22:13:42.957995"
+  },
+  {
     "title": "Ruffles Chips 40-Pack Only $9.58 Shipped on Amazon (Just 24\u00a2 Per Bag!)",
     "price": "$9.58",
     "source_url": "https://hip2save.com/deals/ruffles-chips/",
@@ -742,30 +802,6 @@
     "asin": "B000RFPDXC",
     "store": "Amazon",
     "posted_at": "2026-10-29T14:06:54.785259"
-  },
-  {
-    "title": "Laffy Taffy Banana Mini Bars Bag Only 95\u00a2 Shipped on Amazon",
-    "price": "$1",
-    "source_url": "https://hip2save.com/deals/laffy-taffy/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B07QQVKJVM.01.LZZZZZZZ.jpg",
-    "id": "3becb5ab357b3f8d1cbd0d8488c8bedc",
-    "amazon_url": "https://www.amazon.com/dp/B07QQVKJVM?tag=dealsinusa0ab-20",
-    "asin": "B07QQVKJVM",
-    "store": "Amazon",
-    "posted_at": "2026-10-29T14:07:11.048029"
-  },
-  {
-    "title": "Women\u2019s Fleece-Lined Pants Just $19.99 on Amazon (Reg. $40)",
-    "price": "$19.99",
-    "source_url": "https://hip2save.com/deals/womens-g-gradual-pants/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FHQ7XMYH.01.LZZZZZZZ.jpg",
-    "id": "9f44926e884172d78dd1066d7c7c0c8e",
-    "amazon_url": "https://www.amazon.com/dp/B0FHQ7XMYH?tag=dealsinusa0ab-20",
-    "asin": "B0FHQ7XMYH",
-    "store": "Amazon",
-    "posted_at": "2026-10-29T14:07:12.859827"
   },
   {
     "title": "Windex Vinegar Multi-Surface Spray \u2013 Fresh, Clear 23 Fl Oz \u2013 Just $2.78!",
