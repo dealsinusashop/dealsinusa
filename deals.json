@@ -1,5 +1,53 @@
 [
   {
+    "title": "Amazon Cranberry Sauce Only $1 Shipped",
+    "price": "$1",
+    "source_url": "https://hip2save.com/deals/amazon-grocery-cranberry-sauce/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B09TKSQF1M.01.LZZZZZZZ.jpg",
+    "id": "69b1a22289dfaabc331bab4928bcddf5",
+    "amazon_url": "https://www.amazon.com/dp/B09TKSQF1M?tag=dealsinusa0ab-20",
+    "asin": "B09TKSQF1M",
+    "store": "Amazon",
+    "posted_at": "2026-10-30T22:33:50.499826"
+  },
+  {
+    "title": "Hummingbird Solar Lantern Just $6.74 on Amazon (Reg. $25)",
+    "price": "$6.74",
+    "source_url": "https://hip2save.com/deals/solar-outdoor-lantern/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FR3SDGJF.01.LZZZZZZZ.jpg",
+    "id": "3597bcb0e5cab1efa4cec21df790c818",
+    "amazon_url": "https://www.amazon.com/dp/B0FR3SDGJF?tag=dealsinusa0ab-20",
+    "asin": "B0FR3SDGJF",
+    "store": "Amazon",
+    "posted_at": "2026-10-30T22:33:51.880515"
+  },
+  {
+    "title": "Red Light Heated Knee Massager Only $29.69 Shipped on Amazon (Reg. $70)",
+    "price": "$29.69",
+    "source_url": "https://hip2save.com/deals/amazon-red-light-massager/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0HC3FMHS5.01.LZZZZZZZ.jpg",
+    "id": "e017f8d7e92650697e216a018f925227",
+    "amazon_url": "https://www.amazon.com/dp/B0HC3FMHS5?tag=dealsinusa0ab-20",
+    "asin": "B0HC3FMHS5",
+    "store": "Amazon",
+    "posted_at": "2026-10-30T22:33:53.280112"
+  },
+  {
+    "title": "Pink Wooden Train Set Only $14.99 on Amazon (Reg. $30)",
+    "price": "$14.99",
+    "source_url": "https://hip2save.com/deals/wooden-train-set/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FPR5WT6K.01.LZZZZZZZ.jpg",
+    "id": "aa7451a963132c8899d25132971c19b1",
+    "amazon_url": "https://www.amazon.com/dp/B0FPR5WT6K?tag=dealsinusa0ab-20",
+    "asin": "B0FPR5WT6K",
+    "store": "Amazon",
+    "posted_at": "2026-10-30T22:33:54.646853"
+  },
+  {
     "title": "Glad Cherry Blossom Scented Pink Trash Bags 90-Count Just $11 Shipped on Amazon",
     "price": "$11",
     "source_url": "https://hip2save.com/deals/glad-scented-trash-bags/",
@@ -670,30 +718,6 @@
     "asin": "B0FD3B9YZY",
     "store": "Amazon",
     "posted_at": "2026-10-30T14:27:45.103621"
-  },
-  {
-    "title": "Satin Pillowcase 2-Pack Only $3.47 Shipped for Prime Members",
-    "price": "$3.47",
-    "source_url": "https://hip2save.com/deals/bedelite-satin-pillowcase/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B087JJ3M15.01.LZZZZZZZ.jpg",
-    "id": "9c37a29f0a791949120c4d81779092d5",
-    "amazon_url": "https://www.amazon.com/dp/B087JJ3M15?tag=dealsinusa0ab-20",
-    "asin": "B087JJ3M15",
-    "store": "Amazon",
-    "posted_at": "2026-10-30T14:27:47.189175"
-  },
-  {
-    "title": "Hanes Men\u2019s Sweatshirts Only $7 Each on Amazon",
-    "price": "$7",
-    "source_url": "https://hip2save.com/deals/hanes-clothing/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B00JUM2G4C.01.LZZZZZZZ.jpg",
-    "id": "abcc7689cd2d10633e8e7bbf327f2029",
-    "amazon_url": "https://www.amazon.com/dp/B00JUM2G4C?tag=dealsinusa0ab-20",
-    "asin": "B00JUM2G4C",
-    "store": "Amazon",
-    "posted_at": "2026-10-30T14:27:49.101020"
   },
   {
     "title": "Play-Doh Barbie Florals and Fringe Set \u2013 Just $7.96!",
