@@ -1,5 +1,65 @@
 [
   {
+    "title": "$5 Off Amazon Grocery Promo Code = Stackable Savings on Soup!",
+    "price": "$5",
+    "source_url": "https://hip2save.com/deals/amazon-grocery-promo/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B09B4F62W6.01.LZZZZZZZ.jpg",
+    "id": "4b1f18ee1e8b20aa4151513709c7be05",
+    "amazon_url": "https://www.amazon.com/dp/B09B4F62W6?tag=dealsinusa0ab-20",
+    "asin": "B09B4F62W6",
+    "store": "Amazon",
+    "posted_at": "2026-11-03T18:55:33.020295"
+  },
+  {
+    "title": "Ocean Spray Craisins 48oz Bag Just $5 Shipped on Amazon",
+    "price": "$5",
+    "source_url": "https://hip2save.com/deals/ocean-spray-craisins/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B000M69QRU.01.LZZZZZZZ.jpg",
+    "id": "28e07801eb64b5738a825193b342b282",
+    "amazon_url": "https://www.amazon.com/dp/B000M69QRU?tag=dealsinusa0ab-20",
+    "asin": "B000M69QRU",
+    "store": "Amazon",
+    "posted_at": "2026-11-03T18:55:34.826576"
+  },
+  {
+    "title": "DIY Squishy Making Kit Only $16.99 on Amazon (Reg. $20)",
+    "price": "$16.99",
+    "source_url": "https://hip2save.com/deals/squishy-making-kit/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0DSPCRN7Y.01.LZZZZZZZ.jpg",
+    "id": "abb8c2cbb9dc5ebb8b85496e6f1ca142",
+    "amazon_url": "https://www.amazon.com/dp/B0DSPCRN7Y?tag=dealsinusa0ab-20",
+    "asin": "B0DSPCRN7Y",
+    "store": "Amazon",
+    "posted_at": "2026-11-03T18:55:36.702983"
+  },
+  {
+    "title": "Emergen-C Immunity Support 30-Count Only $7.79 Shipped on Amazon",
+    "price": "$7.79",
+    "source_url": "https://hip2save.com/deals/emergen-c/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B00PKHG7NM.01.LZZZZZZZ.jpg",
+    "id": "54d7a3b489866a52a9938bb25c620af9",
+    "amazon_url": "https://www.amazon.com/dp/B00PKHG7NM?tag=dealsinusa0ab-20",
+    "asin": "B00PKHG7NM",
+    "store": "Amazon",
+    "posted_at": "2026-11-03T18:55:38.247681"
+  },
+  {
+    "title": "Crayola Marker Airbrush Spray Art Kit Only $11.24 on Amazon (Reg. $22)",
+    "price": "$11.24",
+    "source_url": "https://hip2save.com/deals/crayola-air-marker-sprayer/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0DTB2N2D9.01.LZZZZZZZ.jpg",
+    "id": "e06d635f5c25982fec9a6252fbedba42",
+    "amazon_url": "https://www.amazon.com/dp/B0DTB2N2D9?tag=dealsinusa0ab-20",
+    "asin": "B0DTB2N2D9",
+    "store": "Amazon",
+    "posted_at": "2026-11-03T18:55:39.660853"
+  },
+  {
     "title": "Poofzy 200ft RGB+IC Smart Permanent Outdoor LED Lights $74.99",
     "price": "$74.99",
     "source_url": "https://www.amazon.com/gp/product/B0DY1GT2M5/ref=ox_sc_act_title_1?smid=ADVD91XTOF0QD&psc=1",
@@ -480,42 +540,6 @@
     "posted_at": "2026-11-03T16:53:41.452823"
   },
   {
-    "title": "Warrky Bluetooth Wireless Audio Reciever Adapter (For Old Speakers) $13.49",
-    "price": "$13.49",
-    "source_url": "https://www.amazon.com/gp/product/B0FHHJQ93K/ref=ox_sc_act_title_1?smid=A3DHBNA4ALNIP9&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/273490.1793738995.fit_lim.size_125x125.png",
-    "id": "2d211ae2029d3735674943fcebff2ea9",
-    "amazon_url": "https://www.amazon.com/dp/B0FHHJQ93K?tag=dealsinusa0ab-20",
-    "asin": "B0FHHJQ93K",
-    "store": "Amazon",
-    "posted_at": "2026-11-03T16:53:42.452964"
-  },
-  {
-    "title": "Bosgame P3 AMD Ryzen 9 7940HS Mini Desktop w/ 16GB RAM, 1TB PCIe SSD & Radeon 780M $539.25",
-    "price": "$539.25",
-    "source_url": "https://www.amazon.com/gp/product/B0F9T8JHRV/ref=ox_sc_act_title_1?smid=A2UHG4854V06B3&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/259260.1793738865.fit_lim.size_125x125.jpg",
-    "id": "70408ffe2f4d0ffad67bc2154db8eee2",
-    "amazon_url": "https://www.amazon.com/dp/B0F9T8JHRV?tag=dealsinusa0ab-20",
-    "asin": "B0F9T8JHRV",
-    "store": "Amazon",
-    "posted_at": "2026-11-03T16:53:43.453098"
-  },
-  {
-    "title": "AstroAI L10 Mini 5-Mode 150PSI Battery Powered Portable Air Compressor $15.99",
-    "price": "$15.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FL26TWWQ/ref=ox_sc_act_title_1?smid=A2NOFZGOKNP3PJ&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/262961.1793739580.fit_lim.size_125x125.jpg",
-    "id": "ba1677faa0c827aedb6af14b7f9aa627",
-    "amazon_url": "https://www.amazon.com/dp/B0FL26TWWQ?tag=dealsinusa0ab-20",
-    "asin": "B0FL26TWWQ",
-    "store": "Amazon",
-    "posted_at": "2026-11-03T16:53:44.453238"
-  },
-  {
     "title": "My Little Golden Book About the \u201980s Just $5.46 on Amazon",
     "price": "$5.46",
     "source_url": "https://hip2save.com/deals/my-little-golden-book-about-the-80s/",
@@ -720,18 +744,6 @@
     "posted_at": "2026-11-03T13:49:25.034574"
   },
   {
-    "title": "Cat-Shaped Hand Towels Only $9.99 on Amazon (Hilarious Gift Idea!)",
-    "price": "$9.99",
-    "source_url": "https://hip2save.com/deals/cat-hand-towel/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B09NMDK4KG.01.LZZZZZZZ.jpg",
-    "id": "4459176f62ed0c07e164f55766b953c7",
-    "amazon_url": "https://www.amazon.com/dp/B09NMDK4KG?tag=dealsinusa0ab-20",
-    "asin": "B09NMDK4KG",
-    "store": "Amazon",
-    "posted_at": "2026-11-03T13:49:26.837256"
-  },
-  {
     "title": "LEGO Botanicals Oversized Floral Puzzle 300pcs \u2013 Just $6.12!",
     "price": "$6.12",
     "source_url": "https://freebies2deals.com/2026/11/lego-botanicals-oversized-floral-puzzle-300pcs-just-6-12.html",
@@ -802,30 +814,6 @@
     "asin": "B09H3DNJM1",
     "store": "Amazon",
     "posted_at": "2026-11-03T12:48:19.591796"
-  },
-  {
-    "title": "CRAFTSMAN Zippered Tool Bag Combo Only $14.99 on Amazon (Reg. $30)",
-    "price": "$14.99",
-    "source_url": "https://hip2save.com/deals/craftsman-tool-bag/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B09K4SDT95.01.LZZZZZZZ.jpg",
-    "id": "c978c5223345fb2a6c7260a6405ce486",
-    "amazon_url": "https://www.amazon.com/dp/B09K4SDT95?tag=dealsinusa0ab-20",
-    "asin": "B09K4SDT95",
-    "store": "Amazon",
-    "posted_at": "2026-11-03T12:48:22.056552"
-  },
-  {
-    "title": "Chef Boyardee 4-Pack Only $4.46 Shipped on Amazon",
-    "price": "$4.46",
-    "source_url": "https://hip2save.com/deals/amazon-chef-boyardee/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B00I9VBMLI.01.LZZZZZZZ.jpg",
-    "id": "eeed7a3bb0cad9db2651c27234a6cd0b",
-    "amazon_url": "https://www.amazon.com/dp/B00I9VBMLI?tag=dealsinusa0ab-20",
-    "asin": "B00I9VBMLI",
-    "store": "Amazon",
-    "posted_at": "2026-11-03T12:48:23.526835"
   },
   {
     "title": "Green Toys Ferry Boat with Mini Cars \u2013 Just $14.92!",
