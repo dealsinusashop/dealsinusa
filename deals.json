@@ -1,5 +1,41 @@
 [
   {
+    "title": "Stock Up on Soda Packs from $4.97 on Amazon",
+    "price": "$4.97",
+    "source_url": "https://hip2save.com/deals/amazon-soda/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B086RBS99Z.01.LZZZZZZZ.jpg",
+    "id": "dfb1b5fefe3334db4e3d398b510874f6",
+    "amazon_url": "https://www.amazon.com/dp/B086RBS99Z?tag=dealsinusa0ab-20",
+    "asin": "B086RBS99Z",
+    "store": "Amazon",
+    "posted_at": "2026-11-04T23:21:58.253784"
+  },
+  {
+    "title": "Amazon Grocery Canned Pumpkin Only $1.05 Shipped",
+    "price": "$1.05",
+    "source_url": "https://hip2save.com/deals/amazon-grocery-pumpkin/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0D1LG7TQ7.01.LZZZZZZZ.jpg",
+    "id": "2dfafda41b4e0d1144db8acb219cb27c",
+    "amazon_url": "https://www.amazon.com/dp/B0D1LG7TQ7?tag=dealsinusa0ab-20",
+    "asin": "B0D1LG7TQ7",
+    "store": "Amazon",
+    "posted_at": "2026-11-04T23:22:00.703417"
+  },
+  {
+    "title": "Annie\u2019s Organic Granola Bars 12-Count Box Just $4.75 Shipped on Amazon (Reg. $9)",
+    "price": "$4.75",
+    "source_url": "https://hip2save.com/deals/annies-granola-bars/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B086GQCYWD.01.LZZZZZZZ.jpg",
+    "id": "f525d87bcf0de4a66527b8e3af243429",
+    "amazon_url": "https://www.amazon.com/dp/B086GQCYWD?tag=dealsinusa0ab-20",
+    "asin": "B086GQCYWD",
+    "store": "Amazon",
+    "posted_at": "2026-11-04T23:22:02.890515"
+  },
+  {
     "title": "Wooden Light-Up Christmas Tree 2-Pack Just $14.99 on Amazon (Reg. $30)",
     "price": "$14.99",
     "source_url": "https://hip2save.com/deals/wooden-light-up-christmas-tree/",
@@ -598,66 +634,6 @@
     "asin": "B0HH8WLHFF",
     "store": "Amazon",
     "posted_at": "2026-11-04T16:15:41.658700"
-  },
-  {
-    "title": "Women\u2019s Oversized Sweatshirt Just $12.49 on Amazon (Reg. $36)",
-    "price": "$12.49",
-    "source_url": "https://hip2save.com/deals/prettygarden-womens-sweatshirt/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0D8T248QG.01.LZZZZZZZ.jpg",
-    "id": "aebf5852b3457771cea015de64410af1",
-    "amazon_url": "https://www.amazon.com/dp/B0D8T248QG?tag=dealsinusa0ab-20",
-    "asin": "B0D8T248QG",
-    "store": "Amazon",
-    "posted_at": "2026-11-04T16:15:58.802152"
-  },
-  {
-    "title": "Christmas Tree Silicone Trivet Set Just $14.99 on Amazon (Reg. $30)",
-    "price": "$14.99",
-    "source_url": "https://hip2save.com/deals/christmas-tree-trivet/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0HF3RR8HW.01.LZZZZZZZ.jpg",
-    "id": "b85ce786b7c3a43f88809cc1554fe495",
-    "amazon_url": "https://www.amazon.com/dp/B0HF3RR8HW?tag=dealsinusa0ab-20",
-    "asin": "B0HF3RR8HW",
-    "store": "Amazon",
-    "posted_at": "2026-11-04T16:16:00.233054"
-  },
-  {
-    "title": "Cold Weather Is Coming! Outdoor Faucet Cover 2-Pack Just $5 on Amazon",
-    "price": "$5",
-    "source_url": "https://hip2save.com/deals/outdoor-faucet-cover/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0B7RJXZX1.01.LZZZZZZZ.jpg",
-    "id": "078d6153f8d322cd83302f4838f3487d",
-    "amazon_url": "https://www.amazon.com/dp/B0B7RJXZX1?tag=dealsinusa0ab-20",
-    "asin": "B0B7RJXZX1",
-    "store": "Amazon",
-    "posted_at": "2026-11-04T16:16:01.575397"
-  },
-  {
-    "title": "Leg Massager w/ Heat & Compression Just $64.99 Shipped on Amazon (Reg. $170)",
-    "price": "$64.99",
-    "source_url": "https://hip2save.com/deals/leg-massager/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0D47122J9.01.LZZZZZZZ.jpg",
-    "id": "8b88aa1ee38504d51f7c7a76aaaf9d49",
-    "amazon_url": "https://www.amazon.com/dp/B0D47122J9?tag=dealsinusa0ab-20",
-    "asin": "B0D47122J9",
-    "store": "Amazon",
-    "posted_at": "2026-11-04T15:14:54.035482"
-  },
-  {
-    "title": "Car Carrier Truck Toy Just $14.49 on Amazon (Reg. $29)",
-    "price": "$14.49",
-    "source_url": "https://hip2save.com/deals/car-carrier-truck-toy/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B09BQJQRGF.01.LZZZZZZZ.jpg",
-    "id": "93c01a85cab1ae38c493c7214ddc252b",
-    "amazon_url": "https://www.amazon.com/dp/B09BQJQRGF?tag=dealsinusa0ab-20",
-    "asin": "B09BQJQRGF",
-    "store": "Amazon",
-    "posted_at": "2026-11-04T15:14:55.473238"
   },
   {
     "title": "Amazon Basics 100 Pack AA High-Performance Alkaline Batteries \u2013 Just $24.69!",
