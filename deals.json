@@ -1,5 +1,29 @@
 [
   {
+    "title": "Amazon Grocery Gravy Only $1 Shipped",
+    "price": "$1",
+    "source_url": "https://hip2save.com/deals/amazon-grocery-gravy/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0CS5B9BD9.01.LZZZZZZZ.jpg",
+    "id": "ce5d7430d6d90f731097bddfd099d39e",
+    "amazon_url": "https://www.amazon.com/dp/B0CS5B9BD9?tag=dealsinusa0ab-20",
+    "asin": "B0CS5B9BD9",
+    "store": "Amazon",
+    "posted_at": "2026-11-07T16:09:16.095432"
+  },
+  {
+    "title": "LED Magnetic Pickup Tool Just $8.99 on Amazon (Great Stocking Stuffer!)",
+    "price": "$8.99",
+    "source_url": "https://hip2save.com/deals/biib-magnetic-pickup-tool/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B09CTK5PZT.01.LZZZZZZZ.jpg",
+    "id": "52d5fb24ee1600db88c2fe7a6674c904",
+    "amazon_url": "https://www.amazon.com/dp/B09CTK5PZT?tag=dealsinusa0ab-20",
+    "asin": "B09CTK5PZT",
+    "store": "Amazon",
+    "posted_at": "2026-11-07T16:09:17.480891"
+  },
+  {
     "title": "Campbells 10.05oz Condensed Cream of Mushroom Soup $0.47",
     "price": "$0.47",
     "source_url": "https://www.amazon.com/gp/product/B000WLEL70/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
@@ -468,54 +492,6 @@
     "posted_at": "2026-11-07T15:08:40.767253"
   },
   {
-    "title": "Apple 2026 Mac Studio M5 Max 18-Core CPU / 32-Core GPU Desktop w/ 36GB RAM, 512GB SSD $2299.00",
-    "price": "$2299.00",
-    "source_url": "https://www.amazon.com/gp/product/B0HGKSQMX6/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/220797.1794062219.fit_lim.size_125x125.jpg",
-    "id": "5b2bccad41991d1658eba880f6786aca",
-    "amazon_url": "https://www.amazon.com/dp/B0HGKSQMX6?tag=dealsinusa0ab-20",
-    "asin": "B0HGKSQMX6",
-    "store": "Amazon",
-    "posted_at": "2026-11-07T14:07:19.124077"
-  },
-  {
-    "title": "Breo N5mini Shiatsu Kneading Neck & Shoulder Massager with Heat $34.99",
-    "price": "$34.99",
-    "source_url": "https://www.amazon.com/gp/product/B0C4XQ65CS/ref=ox_sc_act_title_1?smid=A2DCADQEGDJ6UI&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/239012.1794077240.fit_lim.size_125x125.jpg",
-    "id": "6728b7aaeb92043d2c2134acef54b27d",
-    "amazon_url": "https://www.amazon.com/dp/B0C4XQ65CS?tag=dealsinusa0ab-20",
-    "asin": "B0C4XQ65CS",
-    "store": "Amazon",
-    "posted_at": "2026-11-07T14:07:20.124236"
-  },
-  {
-    "title": "Lanwans Pocket Rechargeable Magnetic Hand Warmer (2-Pack) $7.49",
-    "price": "$7.49",
-    "source_url": "https://www.amazon.com/gp/product/B0HDMTJ3T8/ref=ox_sc_act_title_1?smid=A3RU4T37YIVLXY&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/272795.1794076796.fit_lim.size_125x125.jpg",
-    "id": "ebd7385127044cd345b3dd73016b757b",
-    "amazon_url": "https://www.amazon.com/dp/B0HDMTJ3T8?tag=dealsinusa0ab-20",
-    "asin": "B0HDMTJ3T8",
-    "store": "Amazon",
-    "posted_at": "2026-11-07T14:07:21.124369"
-  },
-  {
-    "title": "Duraone Non-Slip & Anti-curling Rug Corner Gripper Tape (18-Pack) $4.99",
-    "price": "$4.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FLNMHCC4/ref=ox_sc_act_title_1?smid=A26BMD8S7MYANC&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/272808.1794076662.fit_lim.size_125x125.jpg",
-    "id": "271b61090a12369c2ede31274ab900af",
-    "amazon_url": "https://www.amazon.com/dp/B0FLNMHCC4?tag=dealsinusa0ab-20",
-    "asin": "B0FLNMHCC4",
-    "store": "Amazon",
-    "posted_at": "2026-11-07T14:07:22.124504"
-  },
-  {
     "title": "Potty Training Toilet w/ Built-In Step Stool Only $21.99 Shipped on Amazon (Reg. $46)",
     "price": "$21.99",
     "source_url": "https://hip2save.com/deals/amazon-potty-training-toilet-step-stool/",
@@ -658,18 +634,6 @@
     "asin": "B0DPLMLY6K",
     "store": "Amazon",
     "posted_at": "2026-11-07T09:03:59.754940"
-  },
-  {
-    "title": "Flashlight Gloves Only $5.99 on Amazon (Reg. $17) | Practical Gift Idea!",
-    "price": "$5.99",
-    "source_url": "https://hip2save.com/deals/flashlight-gloves/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B08CC36KCM.01.LZZZZZZZ.jpg",
-    "id": "8e07dfe838dbb041da67b4ff42667c34",
-    "amazon_url": "https://www.amazon.com/dp/B08CC36KCM?tag=dealsinusa0ab-20",
-    "asin": "B08CC36KCM",
-    "store": "Amazon",
-    "posted_at": "2026-11-07T09:04:01.639737"
   },
   {
     "title": "Best early Black Friday Apple deals: HomeView, MacBook Air $250 off, Apple Watch Ultra $250 off, AirPods, more",
