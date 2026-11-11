@@ -1,5 +1,89 @@
 [
   {
+    "title": "AstroAI H2 Pro 12V DC Cordless Portable Tire Inflator Air Compressor $22.04",
+    "price": "$22.04",
+    "source_url": "https://www.amazon.com/gp/product/B0GGGTLJ9F/ref=ox_sc_act_title_1?smid=A2NOFZGOKNP3PJ&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/263344.1794438683.fit_lim.size_125x125.jpg",
+    "id": "ce4b1edb228d2b24cbeb987fac72e52a",
+    "amazon_url": "https://www.amazon.com/dp/B0GGGTLJ9F?tag=dealsinusa0ab-20",
+    "asin": "B0GGGTLJ9F",
+    "store": "Amazon",
+    "posted_at": "2026-11-11T18:31:11.648235"
+  },
+  {
+    "title": "Gift the gamer in your life this Govee x PAC-MAN pixel light with real-time reports, music syncing, more at $90 ($50 off)",
+    "price": "$90",
+    "source_url": "https://9to5toys.com/2026/11/11/govee-x-pac-man-gaming-pixel-light/",
+    "source": "9to5Toys",
+    "image": "https://www.amazon.com/images/P/B0DZ6QJ5ZC.01.LZZZZZZZ.jpg",
+    "id": "72a6a938140f81ed4889345a8efcf565",
+    "amazon_url": "https://www.amazon.com/dp/B0DZ6QJ5ZC?tag=dealsinusa0ab-20",
+    "asin": "B0DZ6QJ5ZC",
+    "store": "Amazon",
+    "posted_at": "2026-11-11T18:31:19.021924"
+  },
+  {
+    "title": "Carote Cookware 21-Piece Set Only $59.99 Shipped for Amazon Prime Members (Reg. $100)",
+    "price": "$59.99",
+    "source_url": "https://hip2save.com/deals/amazon-carote-cookware/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FJM537XW.01.LZZZZZZZ.jpg",
+    "id": "e6e6d419dda1f1f4abf55f891efbf263",
+    "amazon_url": "https://www.amazon.com/dp/B0FJM537XW?tag=dealsinusa0ab-20",
+    "asin": "B0FJM537XW",
+    "store": "Amazon",
+    "posted_at": "2026-11-11T18:31:21.511746"
+  },
+  {
+    "title": "Compressed Towels 50-Pack Just $5.49 Shipped on Amazon (Perfect for Travel)",
+    "price": "$5.49",
+    "source_url": "https://hip2save.com/deals/compressed-towels/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0F4QB5TY8.01.LZZZZZZZ.jpg",
+    "id": "0867b1a6f12490b67a615e3b54982d28",
+    "amazon_url": "https://www.amazon.com/dp/B0F4QB5TY8?tag=dealsinusa0ab-20",
+    "asin": "B0F4QB5TY8",
+    "store": "Amazon",
+    "posted_at": "2026-11-11T18:31:22.873993"
+  },
+  {
+    "title": "Amazon Cranberry Sauce Only $1.24 Shipped",
+    "price": "$1.24",
+    "source_url": "https://hip2save.com/deals/amazon-grocery-cranberry-sauce/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B09TKSQF1M.01.LZZZZZZZ.jpg",
+    "id": "82fe5f0c0b38e0dd9fda57d766dce5d3",
+    "amazon_url": "https://www.amazon.com/dp/B09TKSQF1M?tag=dealsinusa0ab-20",
+    "asin": "B09TKSQF1M",
+    "store": "Amazon",
+    "posted_at": "2026-11-11T18:31:24.658729"
+  },
+  {
+    "title": "Tweezer Set w/ Travel Case Only $4.99 on Amazon (Reg. $10)",
+    "price": "$4.99",
+    "source_url": "https://hip2save.com/deals/tweezer-set/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B07QSY7XK6.01.LZZZZZZZ.jpg",
+    "id": "2e994e4fb1c07ee7c7d892c8ed69f3a5",
+    "amazon_url": "https://www.amazon.com/dp/B07QSY7XK6?tag=dealsinusa0ab-20",
+    "asin": "B07QSY7XK6",
+    "store": "Amazon",
+    "posted_at": "2026-11-11T18:31:26.047429"
+  },
+  {
+    "title": "Women\u2019s Fur-Lined Clogs from $18.99 on Amazon (Reg. $50)",
+    "price": "$18.99",
+    "source_url": "https://hip2save.com/deals/amazon-suede-clogs/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0CLJDYYVH.01.LZZZZZZZ.jpg",
+    "id": "cd719876108c976b082c0d855a9e8698",
+    "amazon_url": "https://www.amazon.com/dp/B0CLJDYYVH?tag=dealsinusa0ab-20",
+    "asin": "B0CLJDYYVH",
+    "store": "Amazon",
+    "posted_at": "2026-11-11T18:31:28.326610"
+  },
+  {
     "title": "Bruno Marc Men's Formal Oxford Dress Sneakers (2 Colors) $24",
     "price": "$24",
     "source_url": "https://slickdeals.net/f/20281131-bruno-marc-men-s-formal-oxford-dress-sneakers-2-colors-23-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -516,66 +600,6 @@
     "posted_at": "2026-11-11T16:28:48.444875"
   },
   {
-    "title": "Coleman 250lbs Adjustable Broadband Mesh Quad Camping Chair w/ Carry Bag $13.47",
-    "price": "$13.47",
-    "source_url": "https://www.amazon.com/gp/product/B00BPWDMOS/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/274214.1794430423.fit_lim.size_125x125.png",
-    "id": "ac12ec3b612d9caabf0bfbe332af1e7a",
-    "amazon_url": "https://www.amazon.com/dp/B00BPWDMOS?tag=dealsinusa0ab-20",
-    "asin": "B00BPWDMOS",
-    "store": "Amazon",
-    "posted_at": "2026-11-11T16:28:49.779052"
-  },
-  {
-    "title": "Meifigno Metal-Alloy Arm Magnetic Magsafe Car Mount $9.99",
-    "price": "$9.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GT8V9N24/ref=ox_sc_act_title_1?smid=A46CRUZOSKDEH&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/263679.1794429455.fit_lim.size_125x125.jpg",
-    "id": "a78be735aa6bffde7311b50e5c417056",
-    "amazon_url": "https://www.amazon.com/dp/B0GT8V9N24?tag=dealsinusa0ab-20",
-    "asin": "B0GT8V9N24",
-    "store": "Amazon",
-    "posted_at": "2026-11-11T16:28:50.779294"
-  },
-  {
-    "title": "Ninja TB401 1800PW BlendSense Tech Kitchen System (72oz) $179.95",
-    "price": "$179.95",
-    "source_url": "https://www.amazon.com/gp/product/B0CDDFH2MZ/ref=ox_sc_act_title_1?ie=UTF8&smid=ATVPDKIKX0DER&redirect=true&s=psc&ASIN=B0CDDFH2MZ&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/274213.1794428676.fit_lim.size_125x125.png",
-    "id": "ade5291703edd3680ddfa094f20abe47",
-    "amazon_url": "https://www.amazon.com/dp/B0CDDFH2MZ?tag=dealsinusa0ab-20",
-    "asin": "B0CDDFH2MZ",
-    "store": "Amazon",
-    "posted_at": "2026-11-11T16:28:51.779429"
-  },
-  {
-    "title": "Bluetti Apex 300 7.8kWh Portable Power Station & B500K Expansion Battery 7884.8Wh $3298.99",
-    "price": "$3298.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FYNX9S89/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/274211.1794431115.fit_lim.size_125x125.png",
-    "id": "0ef06fbf903ab88eab7341a595b25393",
-    "amazon_url": "https://www.amazon.com/dp/B0FYNX9S89?tag=dealsinusa0ab-20",
-    "asin": "B0FYNX9S89",
-    "store": "Amazon",
-    "posted_at": "2026-11-11T16:28:52.779600"
-  },
-  {
-    "title": "Craftsman 20V MAX Cordless Electric Pruner Battery & Charger $86.50",
-    "price": "$86.50",
-    "source_url": "https://www.amazon.com/gp/product/B09VD26DVJ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/274203.1794431111.fit_lim.size_125x125.png",
-    "id": "5f6f0273c911edc7ff6196883e3988f3",
-    "amazon_url": "https://www.amazon.com/dp/B09VD26DVJ?tag=dealsinusa0ab-20",
-    "asin": "B09VD26DVJ",
-    "store": "Amazon",
-    "posted_at": "2026-11-11T16:28:53.779839"
-  },
-  {
     "title": "Boxing Reflex Ball Just $11.99 on Amazon (Reg. $33)",
     "price": "$11.99",
     "source_url": "https://hip2save.com/deals/boxing-reflex-ball/",
@@ -886,18 +910,6 @@
     "asin": "B0G64FJBW7",
     "store": "Amazon",
     "posted_at": "2026-11-11T13:26:22.937793"
-  },
-  {
-    "title": "Front & Back Bike Lights Set Just $6.98 on Amazon (Reg. $13)",
-    "price": "$6.98",
-    "source_url": "https://hip2save.com/deals/amazon-bike-lights/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0GRTTKVT8.01.LZZZZZZZ.jpg",
-    "id": "7006e50bd510d15c797549c5431427e7",
-    "amazon_url": "https://www.amazon.com/dp/B0GRTTKVT8?tag=dealsinusa0ab-20",
-    "asin": "B0GRTTKVT8",
-    "store": "Amazon",
-    "posted_at": "2026-11-11T13:26:26.040599"
   },
   {
     "title": "GUND Tush 15-Inch Teddy Bear \u2013 Just $8.99!",
