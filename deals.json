@@ -1,5 +1,89 @@
 [
   {
+    "title": "SATA 2000A 24,000mAh Rugged Car Battery Jump Starter $45.46",
+    "price": "$45.46",
+    "source_url": "https://www.amazon.com/gp/product/B0GWV6FTPR/ref=ox_sc_act_title_1?smid=AXUAGC4VJ3WAD&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/274135.1794360699.fit_lim.size_125x125.jpg",
+    "id": "54ff4dd853c97fc2e60af9d055f11326",
+    "amazon_url": "https://www.amazon.com/dp/B0GWV6FTPR?tag=dealsinusa0ab-20",
+    "asin": "B0GWV6FTPR",
+    "store": "Amazon",
+    "posted_at": "2026-11-10T21:05:57.512809"
+  },
+  {
+    "title": "Qutcool King Size Cooling Shredded Memory Foam Firm Pillows (2-Pack) $49.39",
+    "price": "$49.39",
+    "source_url": "https://www.amazon.com/gp/product/B0DFM2DWWN/ref=ox_sc_act_title_1?smid=A157L12ENNRHY9&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/240243.1794359712.fit_lim.size_125x125.jpg",
+    "id": "f155d4ff685cc55d2636b38a2a5fa349",
+    "amazon_url": "https://www.amazon.com/dp/B0DFM2DWWN?tag=dealsinusa0ab-20",
+    "asin": "B0DFM2DWWN",
+    "store": "Amazon",
+    "posted_at": "2026-11-10T21:05:58.513111"
+  },
+  {
+    "title": "Orico 4-in-1 40Gbps USB-C Card Reader (Cfexpress A/B, SD & microSD) $76.79",
+    "price": "$76.79",
+    "source_url": "https://www.amazon.com/gp/product/B0FS621QXM/ref=ox_sc_act_title_1?smid=A34PF29WPO2NUY&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/274134.1794360248.fit_lim.size_125x125.jpg",
+    "id": "4ea6bab91607ce8cd9991fbec05f531b",
+    "amazon_url": "https://www.amazon.com/dp/B0FS621QXM?tag=dealsinusa0ab-20",
+    "asin": "B0FS621QXM",
+    "store": "Amazon",
+    "posted_at": "2026-11-10T21:05:59.513265"
+  },
+  {
+    "title": "Portable Clothes Rack Just $27.52 Shipped w/ Amazon Prime (Reg. $46)",
+    "price": "$27.52",
+    "source_url": "https://hip2save.com/deals/amazon-portable-clothes-rack/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0GHQ86FWD.01.LZZZZZZZ.jpg",
+    "id": "552292f1dad71a15f9ef3c0d89750f3d",
+    "amazon_url": "https://www.amazon.com/dp/B0GHQ86FWD?tag=dealsinusa0ab-20",
+    "asin": "B0GHQ86FWD",
+    "store": "Amazon",
+    "posted_at": "2026-11-10T21:06:09.246173"
+  },
+  {
+    "title": "Up to 40% Off Target LEGO Sale | Fortnite, Botanicals, Advent Calendars, & More",
+    "price": "$23.99",
+    "source_url": "https://hip2save.com/deals/target-lego-sale/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0DF85X82B.01.LZZZZZZZ.jpg",
+    "id": "3745b28fd255138cd17306b01ff1ed53",
+    "amazon_url": "https://www.amazon.com/dp/B0DF85X82B?tag=dealsinusa0ab-20",
+    "asin": "B0DF85X82B",
+    "store": "Amazon",
+    "posted_at": "2026-11-10T21:06:11.153990"
+  },
+  {
+    "title": "Christmas Tree Silicone Trivet Set Just $14.99 on Amazon (Reg. $30)",
+    "price": "$14.99",
+    "source_url": "https://hip2save.com/deals/christmas-tree-trivet/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0HF3RR8HW.01.LZZZZZZZ.jpg",
+    "id": "b85ce786b7c3a43f88809cc1554fe495",
+    "amazon_url": "https://www.amazon.com/dp/B0HF3RR8HW?tag=dealsinusa0ab-20",
+    "asin": "B0HF3RR8HW",
+    "store": "Amazon",
+    "posted_at": "2026-11-10T21:06:13.678398"
+  },
+  {
+    "title": "Women\u2019s Sweaters from $9.99 on Amazon (Tons of Cute Styles!)",
+    "price": "$9.99",
+    "source_url": "https://hip2save.com/deals/amazon-womens-sweaters/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0G57ZNM9Z.01.LZZZZZZZ.jpg",
+    "id": "74919c4fd96d0e2014f69601739d3770",
+    "amazon_url": "https://www.amazon.com/dp/B0G57ZNM9Z?tag=dealsinusa0ab-20",
+    "asin": "B0G57ZNM9Z",
+    "store": "Amazon",
+    "posted_at": "2026-11-10T21:06:15.840491"
+  },
+  {
     "title": "Firstrend Solar-Powered 5GHz Wireless 2K Outdoor Camera (4-Pack) Bundle $149.99",
     "price": "$149.99",
     "source_url": "https://www.amazon.com/gp/product/B0HH8TPY1N/ref=ox_sc_act_title_1?smid=A3I2D4SEAUKD7Z&psc=1",
@@ -754,18 +838,6 @@
     "asin": "B0GDXTS4HZ",
     "store": "Amazon",
     "posted_at": "2026-11-10T13:59:51.589410"
-  },
-  {
-    "title": "Fairlife Protein Shakes 12-Pack Just $23.99 Shipped on Amazon (Reg. $42)",
-    "price": "$23.99",
-    "source_url": "https://hip2save.com/deals/fairlife-core-power/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B07LCZC2C2.01.LZZZZZZZ.jpg",
-    "id": "11488f0c010e6c4ba7f39da93fade460",
-    "amazon_url": "https://www.amazon.com/dp/B07LCZC2C2?tag=dealsinusa0ab-20",
-    "asin": "B07LCZC2C2",
-    "store": "Amazon",
-    "posted_at": "2026-11-10T13:59:53.083351"
   },
   {
     "title": "Popular Wearable Blanket Hoodie just $17.XX on Amazon | Gift Idea",
