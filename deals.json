@@ -1,5 +1,41 @@
 [
   {
+    "title": "My Little Golden Book About the \u201980s Just $5.99 on Amazon",
+    "price": "$5.99",
+    "source_url": "https://hip2save.com/deals/my-little-golden-book-about-the-80s/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0FRD3156X.01.LZZZZZZZ.jpg",
+    "id": "11ceb3d19d770d7dd8ea8c9260d63e17",
+    "amazon_url": "https://www.amazon.com/dp/B0FRD3156X?tag=dealsinusa0ab-20",
+    "asin": "B0FRD3156X",
+    "store": "Amazon",
+    "posted_at": "2026-11-13T21:09:33.823774"
+  },
+  {
+    "title": "This Sunrise Alarm Clock Is Over 50% Off on Amazon",
+    "price": "$26.99",
+    "source_url": "https://hip2save.com/deals/dreamegg-sunrise-alarm-clock/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0D5MG7K8R.01.LZZZZZZZ.jpg",
+    "id": "497625a0ac30737c45c1313de2ea9cbc",
+    "amazon_url": "https://www.amazon.com/dp/B0D5MG7K8R?tag=dealsinusa0ab-20",
+    "asin": "B0D5MG7K8R",
+    "store": "Amazon",
+    "posted_at": "2026-11-13T21:09:35.372115"
+  },
+  {
+    "title": "OLLY Body Wash Just $5 Shipped on Amazon (Reg. $10)",
+    "price": "$5",
+    "source_url": "https://hip2save.com/deals/olly-body-wash/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0F79PMNBR.01.LZZZZZZZ.jpg",
+    "id": "dfb17b215b8c8979644fcd51f52561f0",
+    "amazon_url": "https://www.amazon.com/dp/B0F79PMNBR?tag=dealsinusa0ab-20",
+    "asin": "B0F79PMNBR",
+    "store": "Amazon",
+    "posted_at": "2026-11-13T21:09:38.368783"
+  },
+  {
     "title": "Dntorx Hat Organizer For Baseball Caps (2-Pack) $7.49",
     "price": "$7.49",
     "source_url": "https://www.amazon.com/gp/product/B0GYCXCSY6/ref=ox_sc_act_title_1?smid=A3VVONJ7S5IGHB&th=1",
@@ -82,18 +118,6 @@
     "asin": "B00099XPD6",
     "store": "Amazon",
     "posted_at": "2026-11-13T19:08:09.185761"
-  },
-  {
-    "title": "20-Oz Iberia Garlic Plantain Chips $7.80",
-    "price": "$7.80",
-    "source_url": "https://slickdeals.net/f/20301258-20-oz-iberia-garlic-plantain-chips-7-77-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/6/7/9/8/1/2/300x300/22346328.thumb",
-    "id": "7c53dbff65542f54b12b2d62ccba55aa",
-    "amazon_url": "https://www.amazon.com/dp/B081LW6MWQ?tag=dealsinusa0ab-20",
-    "asin": "B081LW6MWQ",
-    "store": "Amazon",
-    "posted_at": "2026-11-13T18:07:03.623028"
   },
   {
     "title": "Bumble Bee 3oz Snackers Thai Chili $0.84",
@@ -682,30 +706,6 @@
     "asin": "B0GXZW41L1",
     "store": "Amazon",
     "posted_at": "2026-11-13T14:03:46.001604"
-  },
-  {
-    "title": "Educational Kids Smartwatch Only $9.99 on Amazon",
-    "price": "$9.99",
-    "source_url": "https://hip2save.com/deals/nbkls-kids-smartwatch/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0HHQYRB14.01.LZZZZZZZ.jpg",
-    "id": "b03cfff79d00c1d829814eea8f2e1429",
-    "amazon_url": "https://www.amazon.com/dp/B0HHQYRB14?tag=dealsinusa0ab-20",
-    "asin": "B0HHQYRB14",
-    "store": "Amazon",
-    "posted_at": "2026-11-13T14:03:47.385164"
-  },
-  {
-    "title": "Cordless Red Light Therapy Mask Just $29.99 Shipped on Amazon (Reg. $94)",
-    "price": "$29.99",
-    "source_url": "https://hip2save.com/deals/red-light-therapy-mask/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0H6HDBT7T.01.LZZZZZZZ.jpg",
-    "id": "fcc95eac0c0e8cde87a7948a572d72c5",
-    "amazon_url": "https://www.amazon.com/dp/B0H6HDBT7T?tag=dealsinusa0ab-20",
-    "asin": "B0H6HDBT7T",
-    "store": "Amazon",
-    "posted_at": "2026-11-13T14:03:48.772385"
   },
   {
     "title": "KeySmart Find My luggage lock strikes $20 Prime shipped (Reg. $30)",
