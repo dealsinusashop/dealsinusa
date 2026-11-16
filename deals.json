@@ -1,5 +1,77 @@
 [
   {
+    "title": "Swiss Miss 1.38oz Milk Chocolate Hot Cocoa Mix (50-Count) $6.35",
+    "price": "$6.35",
+    "source_url": "https://www.amazon.com/gp/product/B07HFKB7D6/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/219971.1794813086.fit_lim.size_125x125.jpg",
+    "id": "f961dfac1171d0a52e4129ee019ac8da",
+    "amazon_url": "https://www.amazon.com/dp/B07HFKB7D6?tag=dealsinusa0ab-20",
+    "asin": "B07HFKB7D6",
+    "store": "Amazon",
+    "posted_at": "2026-11-16T03:50:25.818467"
+  },
+  {
+    "title": "Lavazza 10.5oz Super Crema Medium Espresso Roast Whole Bean Coffee (3-Pack) $14.49",
+    "price": "$14.49",
+    "source_url": "https://www.amazon.com/gp/product/B0GY5JHR3L/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/242981.1794815966.fit_lim.size_125x125.png",
+    "id": "ac00df3e8aef902d780053379a700e0b",
+    "amazon_url": "https://www.amazon.com/dp/B0GY5JHR3L?tag=dealsinusa0ab-20",
+    "asin": "B0GY5JHR3L",
+    "store": "Amazon",
+    "posted_at": "2026-11-16T03:50:26.818622"
+  },
+  {
+    "title": "Amazon Saver 14.4oz Graham Crackers $1.66",
+    "price": "$1.66",
+    "source_url": "https://www.amazon.com/gp/product/B0CHN6RB7D/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/274449.1794812750.fit_lim.size_125x125.png",
+    "id": "792169dbce786b5c0dc847f9dc44cd88",
+    "amazon_url": "https://www.amazon.com/dp/B0CHN6RB7D?tag=dealsinusa0ab-20",
+    "asin": "B0CHN6RB7D",
+    "store": "Amazon",
+    "posted_at": "2026-11-16T03:50:27.818772"
+  },
+  {
+    "title": "Dr Pepper 12oz Regular Soda Cans (12-Pack) $5.70",
+    "price": "$5.70",
+    "source_url": "https://www.amazon.com/gp/product/B000R9COOY/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/240039.1794814803.fit_lim.size_125x125.png",
+    "id": "8ff5818e058dc56d0706cf453b3d4f5f",
+    "amazon_url": "https://www.amazon.com/dp/B000R9COOY?tag=dealsinusa0ab-20",
+    "asin": "B000R9COOY",
+    "store": "Amazon",
+    "posted_at": "2026-11-16T03:50:28.818913"
+  },
+  {
+    "title": "Mucinex 6oz Fast-Max Cold & Flu Medicine (2-Pack) $9.22",
+    "price": "$9.22",
+    "source_url": "https://www.amazon.com/gp/product/B08836KTVQ/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/274419.1794811823.fit_lim.size_125x125.jpg",
+    "id": "950e1cafa02fda36c1e8dd07e1b0d975",
+    "amazon_url": "https://www.amazon.com/dp/B08836KTVQ?tag=dealsinusa0ab-20",
+    "asin": "B08836KTVQ",
+    "store": "Amazon",
+    "posted_at": "2026-11-16T03:50:29.819064"
+  },
+  {
+    "title": "Skil 15A 10\" Jobsite Table Saw with Folding Stand $279",
+    "price": "$279",
+    "source_url": "https://www.amazon.com/gp/product/B08F9RFJ2K/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/248113.1794813509.fit_lim.size_125x125.jpg",
+    "id": "2f520499ef879ba963f5a00637a177d3",
+    "amazon_url": "https://www.amazon.com/dp/B08F9RFJ2K?tag=dealsinusa0ab-20",
+    "asin": "B08F9RFJ2K",
+    "store": "Amazon",
+    "posted_at": "2026-11-16T03:50:30.819196"
+  },
+  {
     "title": "Request Invite to Buy NeeDoh Dream Drop for Just $9.99 on Amazon!",
     "price": "$9.99",
     "source_url": "https://hip2save.com/deals/needoh-dream-drop/",
@@ -574,42 +646,6 @@
     "asin": "B091FXQQMQ",
     "store": "Amazon",
     "posted_at": "2026-11-15T14:39:56.610599"
-  },
-  {
-    "title": "AMD Ryzen 7 8-Core Unlocked Desktop Processor (16-Thread) $129",
-    "price": "$129",
-    "source_url": "https://www.amazon.com/gp/product/B09VCHQHZ6/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/274252.1794765199.fit_lim.size_125x125.png",
-    "id": "4f1866d4e945ab4f50499c20133f52ef",
-    "amazon_url": "https://www.amazon.com/dp/B09VCHQHZ6?tag=dealsinusa0ab-20",
-    "asin": "B09VCHQHZ6",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T14:39:57.610786"
-  },
-  {
-    "title": "LEGO Star Wars Gingerbread AT-AT Walker (697-Pieces) $52.99",
-    "price": "$52.99",
-    "source_url": "https://www.amazon.com/gp/product/B0G2STSGW3/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/274284.1794765145.fit_lim.size_125x125.jpg",
-    "id": "de375c3e1586e37c9a2ef0477c6a5fba",
-    "amazon_url": "https://www.amazon.com/dp/B0G2STSGW3?tag=dealsinusa0ab-20",
-    "asin": "B0G2STSGW3",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T14:39:58.610960"
-  },
-  {
-    "title": "TCL QM8L Series 65\" 144Hz SQD-Mini LED QLED 4K Smart Google TV $997.99",
-    "price": "$997.99",
-    "source_url": "https://www.amazon.com/gp/product/B0GPSYT2KN/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/269507.1794765084.fit_lim.size_125x125.jpg",
-    "id": "ca50e77c1734742dd9e983b6ee0f52a0",
-    "amazon_url": "https://www.amazon.com/dp/B0GPSYT2KN?tag=dealsinusa0ab-20",
-    "asin": "B0GPSYT2KN",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T14:39:59.611140"
   },
   {
     "title": "Best deal in months hits M5 iPad Pro at nearly $300 off",
