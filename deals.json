@@ -1,5 +1,89 @@
 [
   {
+    "title": "Amazon Grocery 2lb Light Brown Sugar $1.50",
+    "price": "$1.50",
+    "source_url": "https://www.amazon.com/gp/product/B0D1LC2WRY/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/274468.1794825405.fit_lim.size_125x125.png",
+    "id": "a71509f559362663524b90cfbe0f9444",
+    "amazon_url": "https://www.amazon.com/dp/B0D1LC2WRY?tag=dealsinusa0ab-20",
+    "asin": "B0D1LC2WRY",
+    "store": "Amazon",
+    "posted_at": "2026-11-16T07:53:24.445547"
+  },
+  {
+    "title": "Mountain Dew Original 12oz Diet Soda Pop (3x 12) $14.04",
+    "price": "$14.04",
+    "source_url": "https://www.amazon.com/gp/product/B000R9AL08/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/274467.1794825098.fit_lim.size_125x125.png",
+    "id": "d26ca355f681621a21e09bc20efe515f",
+    "amazon_url": "https://www.amazon.com/dp/B000R9AL08?tag=dealsinusa0ab-20",
+    "asin": "B000R9AL08",
+    "store": "Amazon",
+    "posted_at": "2026-11-16T07:53:25.445703"
+  },
+  {
+    "title": "Irwin 10\" Vise-Grip Forged Wire Crimper with ProTouch Grips $11.78",
+    "price": "$11.78",
+    "source_url": "https://www.amazon.com/gp/product/B001LOVEGS/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/274466.1794824760.fit_lim.size_125x125.png",
+    "id": "c8d0a33618245ccebc89162c58fed346",
+    "amazon_url": "https://www.amazon.com/dp/B001LOVEGS?tag=dealsinusa0ab-20",
+    "asin": "B001LOVEGS",
+    "store": "Amazon",
+    "posted_at": "2026-11-16T07:53:26.445864"
+  },
+  {
+    "title": "Pepsi 12oz Wild Cherry Zero Sugar Cola Soda (3x 12) $14.19",
+    "price": "$14.19",
+    "source_url": "https://www.amazon.com/gp/product/B078HQBGPS/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
+    "source": "TechBargains",
+    "image": "https://www.techbargains.com/imagery/deals/268545.1794824379.fit_lim.size_125x125.png",
+    "id": "568934c364267bd9515aee7f6e6dafd4",
+    "amazon_url": "https://www.amazon.com/dp/B078HQBGPS?tag=dealsinusa0ab-20",
+    "asin": "B078HQBGPS",
+    "store": "Amazon",
+    "posted_at": "2026-11-16T07:53:27.446016"
+  },
+  {
+    "title": "Score a current-gen Apple Watch at just $199 in the early Amazon Black Friday sale",
+    "price": "$199",
+    "source_url": "https://9to5toys.com/2026/11/16/apple-watch-amazon-black-friday-deal/",
+    "source": "9to5Toys",
+    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/10/Apple-Watch-SE-3-deals-1.jpg",
+    "id": "a8564e5533fdd993d504894ad99faba1",
+    "amazon_url": "https://www.amazon.com/dp/B0HJB63G4M?tag=dealsinusa0ab-20",
+    "asin": "B0HJB63G4M",
+    "store": "Amazon",
+    "posted_at": "2026-11-16T07:53:34.013966"
+  },
+  {
+    "title": "Samsung Galaxy Z Fold 8 now $350 off in Amazon\u2019s early Black Friday sale",
+    "price": "$350",
+    "source_url": "https://9to5toys.com/2026/11/16/samsung-galaxy-z-fold-8-black-friday-deals/",
+    "source": "9to5Toys",
+    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/09/Galaxy-Z-Fold-8-deals.jpeg",
+    "id": "2ee72cae05200c2b8c66d0f3c3572d79",
+    "amazon_url": "https://www.amazon.com/dp/B0G4SZ6SJY?tag=dealsinusa0ab-20",
+    "asin": "B0G4SZ6SJY",
+    "store": "Amazon",
+    "posted_at": "2026-11-16T07:53:35.182858"
+  },
+  {
+    "title": "Bible Journaling Kit Only $10 on Amazon | Great Gift Idea",
+    "price": "$10",
+    "source_url": "https://hip2save.com/deals/vienrose-bible-journaling-kit/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0DHCTT42C.01.LZZZZZZZ.jpg",
+    "id": "73c8f573d425a3d9c7d382cf4b0d01ba",
+    "amazon_url": "https://www.amazon.com/dp/B0DHCTT42C?tag=dealsinusa0ab-20",
+    "asin": "B0DHCTT42C",
+    "store": "Amazon",
+    "posted_at": "2026-11-16T07:53:37.009147"
+  },
+  {
     "title": "McCormick 1oz Butter Extract with Other Natural Flavors $2.02",
     "price": "$2.02",
     "source_url": "https://www.amazon.com/gp/product/B00OCMYVNE/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1",
@@ -118,18 +202,6 @@
     "asin": "B0FYKP3VF2",
     "store": "Amazon",
     "posted_at": "2026-11-16T06:52:47.557331"
-  },
-  {
-    "title": "Matt Dinniman: Operation Bounce House (Kindle Edition) $3",
-    "price": "$3",
-    "source_url": "https://slickdeals.net/f/20314077-matt-dinniman-operation-bounce-house-kindle-edition-2-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/8/2/3/9/6/6/7/300x300/22372485.thumb",
-    "id": "a3e723baa05d91d7056c2573be90ad24",
-    "amazon_url": "https://www.amazon.com/dp/B0F88XYTZF?tag=dealsinusa0ab-20",
-    "asin": "B0F88XYTZF",
-    "store": "Amazon",
-    "posted_at": "2026-11-16T05:51:45.598613"
   },
   {
     "title": "Campbells Chunky 18.8oz Sirloin Burger With Country Vegetables Beef Soup $1.75",
@@ -552,18 +624,6 @@
     "posted_at": "2026-11-15T19:44:15.378940"
   },
   {
-    "title": "AlkiVision 2K 360-Degree Color Night Vision Solar Wireless Security Camera (SD/Cloud) $21.93",
-    "price": "$21.93",
-    "source_url": "https://www.amazon.com/gp/product/B0GXZS3GW6/ref=ox_sc_act_title_1?smid=A18D9XD9N1BRJZ&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/268706.1794768283.fit_lim.size_125x125.jpg",
-    "id": "ba89158621198318f663928691a6b901",
-    "amazon_url": "https://www.amazon.com/dp/B0GXZS3GW6?tag=dealsinusa0ab-20",
-    "asin": "B0GXZS3GW6",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T19:44:18.266584"
-  },
-  {
     "title": "EIGHT Shower Steamers Only $2.99 Shipped on Amazon",
     "price": "$2.99",
     "source_url": "https://hip2save.com/deals/shower-steamers/",
@@ -670,78 +730,6 @@
     "asin": "B0F65R23ZP",
     "store": "Amazon",
     "posted_at": "2026-11-15T17:42:35.074256"
-  },
-  {
-    "title": "Carnation Evaporated Milk Only 82\u00a2 Shipped on Amazon (Great for Holiday Baking)",
-    "price": "$1.78",
-    "source_url": "https://hip2save.com/deals/carnation-evaporated-milk/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B00099XPD6.01.LZZZZZZZ.jpg",
-    "id": "36de1be0dc6e7764462d6455af2ae6d4",
-    "amazon_url": "https://www.amazon.com/dp/B00099XPD6?tag=dealsinusa0ab-20",
-    "asin": "B00099XPD6",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T17:42:37.112910"
-  },
-  {
-    "title": "Flexible LED Neck Reading Light Only $10.99 Shipped for Prime Members (Reg. $23)",
-    "price": "$10.99",
-    "source_url": "https://hip2save.com/deals/glocusent-led-neck-reading-light/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0GT8TW5H2.01.LZZZZZZZ.jpg",
-    "id": "1c8a21feba85a5ff03a2097febd13fe3",
-    "amazon_url": "https://www.amazon.com/dp/B0GT8TW5H2?tag=dealsinusa0ab-20",
-    "asin": "B0GT8TW5H2",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T17:42:38.485934"
-  },
-  {
-    "title": "Pilates Reformer Board Set Only $35.99 Shipped on Amazon (Reg. $60)",
-    "price": "$35.99",
-    "source_url": "https://hip2save.com/deals/pilates-board-set/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0HJHMMYVR.01.LZZZZZZZ.jpg",
-    "id": "9d7934498ce37afcd970e5c573a3f45b",
-    "amazon_url": "https://www.amazon.com/dp/B0HJHMMYVR?tag=dealsinusa0ab-20",
-    "asin": "B0HJHMMYVR",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T17:42:40.428420"
-  },
-  {
-    "title": "Matching Family Christmas Pajamas from $14.99 on Amazon (Reg. $50)",
-    "price": "$14.99",
-    "source_url": "https://hip2save.com/deals/ekouaer-womens-pajama-set/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0HHRS4VSC.01.LZZZZZZZ.jpg",
-    "id": "f57ba982507c2c24ce2a15c51cddb2df",
-    "amazon_url": "https://www.amazon.com/dp/B0HHRS4VSC?tag=dealsinusa0ab-20",
-    "asin": "B0HHRS4VSC",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T16:41:46.141644"
-  },
-  {
-    "title": "Apple AirPods Pro 3 Active Noise Cancellation Wireless Earbuds $179.99",
-    "price": "$179.99",
-    "source_url": "https://www.amazon.com/gp/product/B0FQFB8FMG/ref=sw_img_1?smid=ATVPDKIKX0DER&psc=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/259556.1794768408.fit_lim.size_125x125.jpg",
-    "id": "abbf1b53b9df3b4420b85b76909c51e7",
-    "amazon_url": "https://www.amazon.com/dp/B0FQFB8FMG?tag=dealsinusa0ab-20",
-    "asin": "B0FQFB8FMG",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T15:40:42.071455"
-  },
-  {
-    "title": "Bumble Bee 3oz Snackers Thai Chili $0.84",
-    "price": "$0.84",
-    "source_url": "https://www.amazon.com/gp/product/B0F85VHKSW/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&th=1",
-    "source": "TechBargains",
-    "image": "https://www.techbargains.com/imagery/deals/273986.1794768303.fit_lim.size_125x125.png",
-    "id": "d80f76ab29896a450b2578bdfecf9f24",
-    "amazon_url": "https://www.amazon.com/dp/B0F85VHKSW?tag=dealsinusa0ab-20",
-    "asin": "B0F85VHKSW",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T15:40:43.071589"
   },
   {
     "title": "Best deal in months hits M5 iPad Pro at nearly $300 off",
