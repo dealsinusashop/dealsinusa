@@ -1,5 +1,29 @@
 [
   {
+    "title": "Amazon Fresh Apple Cider Vinegar Only $1 Shipped",
+    "price": "$1",
+    "source_url": "https://hip2save.com/deals/amazon-apple-cider-vinegar/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B09M6T7MN8.01.LZZZZZZZ.jpg",
+    "id": "d3c386043e5c3834f9090f543d296ef3",
+    "amazon_url": "https://www.amazon.com/dp/B09M6T7MN8?tag=dealsinusa0ab-20",
+    "asin": "B09M6T7MN8",
+    "store": "Amazon",
+    "posted_at": "2026-11-15T20:45:18.345868"
+  },
+  {
+    "title": "Amazon Grocery Brown Sugar 2lb Bag Only $1.84 Shipped",
+    "price": "$1.84",
+    "source_url": "https://hip2save.com/deals/amazon-brown-sugar/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0D1LCG5VS.01.LZZZZZZZ.jpg",
+    "id": "1e8856e2f3323a820f90d489b4c13e91",
+    "amazon_url": "https://www.amazon.com/dp/B0D1LCG5VS?tag=dealsinusa0ab-20",
+    "asin": "B0D1LCG5VS",
+    "store": "Amazon",
+    "posted_at": "2026-11-15T20:45:20.784497"
+  },
+  {
     "title": "16-pc Unokit Stainless Steel Nesting Mixing Bowl Set w/ Lids, Graters & Utensils $25 + Free S&H",
     "price": "$25",
     "source_url": "https://slickdeals.net/f/20278167-unokit-stainless-steel-mixing-bowl-set-w-lids-lid-inset-graters-and-utensils-set-24-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -70,18 +94,6 @@
     "asin": "B0GYVDHSSZ",
     "store": "Amazon",
     "posted_at": "2026-11-15T19:44:29.165491"
-  },
-  {
-    "title": "Philips Sonicare 4100 Rechargeable Electric Toothbrush from $28 + Free S&H",
-    "price": "$28",
-    "source_url": "https://slickdeals.net/f/20313756-philips-sonicare-4100-rechargeable-electric-toothbrush-from-28-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    "source": "Slickdeals",
-    "image": "https://static.slickdealscdn.com/attachment/1/8/6/3/2/3/2/300x300/22368954.thumb",
-    "id": "89799e6e2a1f066eb42be233c789f82f",
-    "amazon_url": "https://www.amazon.com/dp/B0H46YSXY4?tag=dealsinusa0ab-20",
-    "asin": "B0H46YSXY4",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T18:43:12.879260"
   },
   {
     "title": "Solar LED Christmas Tree Pathway Lights 10-Pack Just $19.99 Shipped on Amazon",
@@ -634,42 +646,6 @@
     "asin": "B0FS73WX4Y",
     "store": "Amazon",
     "posted_at": "2026-11-15T14:40:10.497136"
-  },
-  {
-    "title": "EIGHT Boxes of Puffs Tissues Only $11.88 Shipped on Amazon (Reg. $22)",
-    "price": "$11.88",
-    "source_url": "https://hip2save.com/deals/puffs-tissues/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0DHHGL8P9.01.LZZZZZZZ.jpg",
-    "id": "5a5903b0969ea6d3e4610c2cc6a1a38b",
-    "amazon_url": "https://www.amazon.com/dp/B0DHHGL8P9?tag=dealsinusa0ab-20",
-    "asin": "B0DHHGL8P9",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T13:39:06.222519"
-  },
-  {
-    "title": "Kids Digital Microscope Just $13.99 on Amazon (Reg. $25)",
-    "price": "$13.99",
-    "source_url": "https://hip2save.com/deals/kids-microscope-set/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FVMN1TF3.01.LZZZZZZZ.jpg",
-    "id": "9e200d3395163e03f4c2d236a699113f",
-    "amazon_url": "https://www.amazon.com/dp/B0FVMN1TF3?tag=dealsinusa0ab-20",
-    "asin": "B0FVMN1TF3",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T13:39:08.235506"
-  },
-  {
-    "title": "Baking Sheet 3-Piece Set Just $19.99 Shipped on Amazon (Reg. $37)",
-    "price": "$19.99",
-    "source_url": "https://hip2save.com/deals/rimmed-baking-sheet/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0H1V8X464.01.LZZZZZZZ.jpg",
-    "id": "beec6058da4b649a24b288494261526d",
-    "amazon_url": "https://www.amazon.com/dp/B0H1V8X464?tag=dealsinusa0ab-20",
-    "asin": "B0H1V8X464",
-    "store": "Amazon",
-    "posted_at": "2026-11-15T13:39:09.714388"
   },
   {
     "title": "Best deal in months hits M5 iPad Pro at nearly $300 off",
