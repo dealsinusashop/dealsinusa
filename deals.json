@@ -1,5 +1,29 @@
 [
   {
+    "title": "Amazon Saltine Crackers Just $1.51 Shipped",
+    "price": "$1.51",
+    "source_url": "https://hip2save.com/deals/saltine-crackers/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B07WSTZ95G.01.LZZZZZZZ.jpg",
+    "id": "c3d3c961f1c75a82b90998f94e4261c0",
+    "amazon_url": "https://www.amazon.com/dp/B07WSTZ95G?tag=dealsinusa0ab-20",
+    "asin": "B07WSTZ95G",
+    "store": "Amazon",
+    "posted_at": "2026-11-25T00:56:33.289313"
+  },
+  {
+    "title": "medicube Hyaluronic Moisturizing Cream Only $12 Shipped on Amazon (Reg. $22)",
+    "price": "$12",
+    "source_url": "https://hip2save.com/deals/medicube-hyaluronic-moisturizing-cream/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0DKNP4TL6.01.LZZZZZZZ.jpg",
+    "id": "5de52ca560980de43a16c2a0b02e0e05",
+    "amazon_url": "https://www.amazon.com/dp/B0DKNP4TL6?tag=dealsinusa0ab-20",
+    "asin": "B0DKNP4TL6",
+    "store": "Amazon",
+    "posted_at": "2026-11-25T00:57:38.794023"
+  },
+  {
     "title": "These Christmas Table Runners Are Too Cute & Only $4.99 on Amazon | Several Style to Choose From!",
     "price": "$4.99",
     "source_url": "https://hip2save.com/deals/amazon-christmas-table-runners/",
@@ -190,66 +214,6 @@
     "asin": "B0BXDFGG4M",
     "store": "Amazon",
     "posted_at": "2026-11-24T20:26:06.558853"
-  },
-  {
-    "title": "Women\u2019s Zip-Up Sweater Jacket Only $13.99 on Amazon (Reg. $28)!",
-    "price": "$13.99",
-    "source_url": "https://hip2save.com/deals/amazon-womens-sweater-jacket/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0H7RVQB68.01.LZZZZZZZ.jpg",
-    "id": "106996fa49e4265d139633d238f7c1e8",
-    "amazon_url": "https://www.amazon.com/dp/B0H7RVQB68?tag=dealsinusa0ab-20",
-    "asin": "B0H7RVQB68",
-    "store": "Amazon",
-    "posted_at": "2026-11-24T20:27:12.035031"
-  },
-  {
-    "title": "Women\u2019s Joggers w/ Pockets Just $7.99 on Amazon",
-    "price": "$7.99",
-    "source_url": "https://hip2save.com/deals/walifrey-joggers/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0DQNMB982.01.LZZZZZZZ.jpg",
-    "id": "7ac67e1c8dd6ba7241343d9b2601034f",
-    "amazon_url": "https://www.amazon.com/dp/B0DQNMB982?tag=dealsinusa0ab-20",
-    "asin": "B0DQNMB982",
-    "store": "Amazon",
-    "posted_at": "2026-11-24T18:51:27.464626"
-  },
-  {
-    "title": "Women\u2019s Slipper Boots Only $14.99 on Amazon (Reg. $32)",
-    "price": "$14.99",
-    "source_url": "https://hip2save.com/deals/amazon-slipper-boots/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B08C725R8D.01.LZZZZZZZ.jpg",
-    "id": "977838f4308e55ad43604b657a99fe00",
-    "amazon_url": "https://www.amazon.com/dp/B08C725R8D?tag=dealsinusa0ab-20",
-    "asin": "B08C725R8D",
-    "store": "Amazon",
-    "posted_at": "2026-11-24T18:52:32.900614"
-  },
-  {
-    "title": "Plush Bathtub Pillow Just $16.97 on Amazon (Reg. $28)",
-    "price": "$16.97",
-    "source_url": "https://hip2save.com/deals/bath-tub-pillow/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FWWBX4MD.01.LZZZZZZZ.jpg",
-    "id": "7d177b5fe1324d9560de7bca017d86ed",
-    "amazon_url": "https://www.amazon.com/dp/B0FWWBX4MD?tag=dealsinusa0ab-20",
-    "asin": "B0FWWBX4MD",
-    "store": "Amazon",
-    "posted_at": "2026-11-24T18:53:38.382213"
-  },
-  {
-    "title": "Window Bird Feeder Only $7.99 on Amazon (Reg. $28)",
-    "price": "$7.99",
-    "source_url": "https://hip2save.com/deals/window-bird-feeder/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FXX11Q9W.01.LZZZZZZZ.jpg",
-    "id": "d248eca08402fa5b3bd1d3164ceba7ee",
-    "amazon_url": "https://www.amazon.com/dp/B0FXX11Q9W?tag=dealsinusa0ab-20",
-    "asin": "B0FXX11Q9W",
-    "store": "Amazon",
-    "posted_at": "2026-11-24T18:54:43.823193"
   },
   {
     "title": "FurHaven ThermaNAP 22\"x17\"x0.25\" Self Warming Cat Mat $5.35",
@@ -1006,17 +970,5 @@
     "asin": "B0FHJ7TKZM",
     "store": "Amazon",
     "posted_at": "2026-11-22T22:52:57.482433"
-  },
-  {
-    "title": "Amazon Kindle Paperwhite 16GB (2024 model) \u2013 Just $129.99! Amazon Black Friday 2026!",
-    "price": "$129.99",
-    "source_url": "https://freebies2deals.com/2026/11/amazon-kindle-paperwhite-16gb-2024-model-just-129-99-amazon-black-friday-2026.html",
-    "source": "Freebies2Deals",
-    "image": "https://freebies2deals.com/wp-content/uploads/2026/11/amkindle.png",
-    "id": "38f894af5a1bb6f8fe8bd5cea4717fe1",
-    "amazon_url": "https://www.amazon.com/dp/B0CFPTK5JG?tag=dealsinusa0ab-20",
-    "asin": "B0CFPTK5JG",
-    "store": "Amazon",
-    "posted_at": "2026-11-22T22:53:29.735301"
   }
 ]
