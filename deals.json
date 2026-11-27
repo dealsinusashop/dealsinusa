@@ -1,5 +1,41 @@
 [
   {
+    "title": "Amazon Echo Show smart display Black Friday deals live at up to $120 off",
+    "price": "$120",
+    "source_url": "https://9to5toys.com/2026/11/26/amazon-echo-show-smart-display-black-friday-deals-live/",
+    "source": "9to5Toys",
+    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2026/11/Echo-Show-Black-Friday-deals.jpg",
+    "id": "52a94efb07c45f7b8118294f6b274ca0",
+    "amazon_url": "https://www.amazon.com/dp/B0DC91H3JK?tag=dealsinusa0ab-20",
+    "asin": "B0DC91H3JK",
+    "store": "Amazon",
+    "posted_at": "2026-11-26T23:15:55.453323"
+  },
+  {
+    "title": "Women\u2019s Cowboy Boots from $25.99 on Amazon (Reg. $50)",
+    "price": "$25.99",
+    "source_url": "https://hip2save.com/deals/amazon-dream-pairs-cowboy-boots/",
+    "source": "Hip2Save",
+    "image": "https://www.amazon.com/images/P/B0DTPDMDF9.01.LZZZZZZZ.jpg",
+    "id": "1bbfa37dca432d94dc9451ae43c8a349",
+    "amazon_url": "https://www.amazon.com/dp/B0DTPDMDF9?tag=dealsinusa0ab-20",
+    "asin": "B0DTPDMDF9",
+    "store": "Amazon",
+    "posted_at": "2026-11-26T23:15:57.562845"
+  },
+  {
+    "title": "Spirograph Jr. Jumbo Sized Gears Classic Retro Toy \u2013 Just $13.05!",
+    "price": "$13.05",
+    "source_url": "https://freebies2deals.com/2026/11/spirograph-jr-jumbo-sized-gears-classic-retro-toy-just-13-05.html",
+    "source": "Freebies2Deals",
+    "image": "https://freebies2deals.com/wp-content/uploads/2026/11/amspiro.png",
+    "id": "950adf5a542cf4a287920ea31fff341a",
+    "amazon_url": "https://www.amazon.com/dp/B01BHMJKAA?tag=dealsinusa0ab-20",
+    "asin": "B01BHMJKAA",
+    "store": "Amazon",
+    "posted_at": "2026-11-26T23:16:01.719746"
+  },
+  {
     "title": "Burt\u2019s Bees Lip Balm Advent Calendar Just $20.98 on Amazon (Reg. $30)",
     "price": "$20.98",
     "source_url": "https://hip2save.com/deals/burts-bees-lip-balm/",
@@ -648,54 +684,6 @@
     "posted_at": "2026-11-26T17:10:24.273582"
   },
   {
-    "title": "HEPA Air Purifier Only $35.99 Shipped on Amazon | Perfect for Bedrooms & Home Offices!",
-    "price": "$35.99",
-    "source_url": "https://hip2save.com/deals/mooka-air-purifier/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B08PJQ3MWB.01.LZZZZZZZ.jpg",
-    "id": "8012ef17ed4622bd1d45fb81cfb77014",
-    "amazon_url": "https://www.amazon.com/dp/B08PJQ3MWB?tag=dealsinusa0ab-20",
-    "asin": "B08PJQ3MWB",
-    "store": "Amazon",
-    "posted_at": "2026-11-26T17:10:27.364792"
-  },
-  {
-    "title": "Makeup Brush & Blending Sponge 12-Piece Set Only $4.55 on Amazon",
-    "price": "$4.55",
-    "source_url": "https://hip2save.com/deals/beakey-makeup-brush-set/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B01F36JBDM.01.LZZZZZZZ.jpg",
-    "id": "1b5e86e020c6d4953d5453ed6296f5a8",
-    "amazon_url": "https://www.amazon.com/dp/B01F36JBDM?tag=dealsinusa0ab-20",
-    "asin": "B01F36JBDM",
-    "store": "Amazon",
-    "posted_at": "2026-11-26T16:08:59.893864"
-  },
-  {
-    "title": "Inflatable Paddle Boards w/ Accessories from $70.99 Shipped on Amazon (Reg. $250)",
-    "price": "$70.99",
-    "source_url": "https://hip2save.com/deals/inflatable-paddle-board/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0GHMC62CC.01.LZZZZZZZ.jpg",
-    "id": "873b76aed5670de19e70225fdd99a7a8",
-    "amazon_url": "https://www.amazon.com/dp/B0GHMC62CC?tag=dealsinusa0ab-20",
-    "asin": "B0GHMC62CC",
-    "store": "Amazon",
-    "posted_at": "2026-11-26T16:09:01.672337"
-  },
-  {
-    "title": "Little Tikes Cozy Coupe Only $38.49 Shipped on Amazon (Reg. $65)",
-    "price": "$38.49",
-    "source_url": "https://hip2save.com/deals/little-tikes-cozy-coupe/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B001NQHN7S.01.LZZZZZZZ.jpg",
-    "id": "db04b7fc8fb93b44bce4548667dd84ab",
-    "amazon_url": "https://www.amazon.com/dp/B001NQHN7S?tag=dealsinusa0ab-20",
-    "asin": "B001NQHN7S",
-    "store": "Amazon",
-    "posted_at": "2026-11-26T16:09:03.133465"
-  },
-  {
     "title": "Apple Watch Ultra 4 49mm GPS + Cellular Smartwatch $649.99",
     "price": "$649.99",
     "source_url": "https://www.amazon.com/gp/product/B0HJB42BMK/ref=ox_sc_act_image_1?smid=ATVPDKIKX0DER&th=1",
@@ -730,30 +718,6 @@
     "asin": "B0G2384N97",
     "store": "Amazon",
     "posted_at": "2026-11-26T15:08:01.063878"
-  },
-  {
-    "title": "Color Stack Challenge Game ONLY $10 on Amazon (40K Recently Sold!)",
-    "price": "$10",
-    "source_url": "https://hip2save.com/deals/color-stack-challenge-game/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0FYJ7PWBY.01.LZZZZZZZ.jpg",
-    "id": "3fc2da2d9a20ac01a03dc8fdf1fc2ef0",
-    "amazon_url": "https://www.amazon.com/dp/B0FYJ7PWBY?tag=dealsinusa0ab-20",
-    "asin": "B0FYJ7PWBY",
-    "store": "Amazon",
-    "posted_at": "2026-11-26T15:08:03.122642"
-  },
-  {
-    "title": "Sol de Janeiro Perfume Mist Only $11.73 Shipped on Amazon (Regularly $26)",
-    "price": "$11.73",
-    "source_url": "https://hip2save.com/deals/sol-de-janeiro-perfume/",
-    "source": "Hip2Save",
-    "image": "https://www.amazon.com/images/P/B0D6ZVJ3K2.01.LZZZZZZZ.jpg",
-    "id": "9880068a36607b37e55529e6b9ccc484",
-    "amazon_url": "https://www.amazon.com/dp/B0D6ZVJ3K2?tag=dealsinusa0ab-20",
-    "asin": "B0D6ZVJ3K2",
-    "store": "Amazon",
-    "posted_at": "2026-11-26T15:08:04.801393"
   },
   {
     "title": "Apple AirPods Pro 3 Active Noise Cancellation Wireless Earbuds $149.00",
@@ -934,18 +898,6 @@
     "asin": "B0H7X25DRT",
     "store": "Amazon",
     "posted_at": "2026-11-26T07:58:54.329608"
-  },
-  {
-    "title": "Enjoy low and slow smoky goodness from East Oak\u2019s 30-inch electric smoker down at a $255 2026 low",
-    "price": "$255",
-    "source_url": "https://9to5toys.com/2026/11/26/east-oak-30-inch-electric-smoker/",
-    "source": "9to5Toys",
-    "image": "https://9to5toys.com/wp-content/uploads/sites/5/2025/06/East-Oak-30-inch-electric-smoker-2-e1748987025256.jpg",
-    "id": "04796a414f3a1f83f6713e14b1dea7c0",
-    "amazon_url": "https://www.amazon.com/dp/B0BCFK9R8V?tag=dealsinusa0ab-20",
-    "asin": "B0BCFK9R8V",
-    "store": "Amazon",
-    "posted_at": "2026-11-26T03:55:54.681407"
   },
   {
     "title": "Amazon\u2019s giant 2026 Thanksgiving Day sale now live! New Black Friday deals, more",
